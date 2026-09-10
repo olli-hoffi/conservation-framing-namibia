@@ -1,0 +1,7 @@
+round,condition,OR,ci_lower,ci_upper,p_one
+1,Empathy,1.031,0.679,1.566,0.4447
+1,Social Norm,1.047,0.69,1.59,0.4166
+1,Narrative,1.175,0.787,1.761,0.2271
+2,Empathy,1.083,0.824,1.426,0.2918
+2,Social Norm,1.066,0.806,1.41,0.3333
+2,Narrative,1.124,0.852,1.483,0.2162

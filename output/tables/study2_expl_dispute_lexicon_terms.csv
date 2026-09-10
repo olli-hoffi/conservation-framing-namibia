@@ -1,0 +1,31 @@
+arm,lang,family,pattern,why
+primary,en,lie,\b(?:lie|lies|lied|liar|liars|lying)\b,Canonical assertion that a statement is untrue and knowingly so.
+primary,en,false,\b(?:false|falsely|falsehood|falsehoods)\b,Direct predicate of truth value.
+primary,en,untrue,\b(?:untrue|untruth|untruths)\b,"Direct predicate of truth value, negative pole."
+primary,en,not_true,\b(?:not|isn'?t|ain'?t|aren'?t|wasn'?t|weren'?t|hardly)\s+(?:even |entirely |really |quite |completely |exactly |fully )?true\b,Explicit negation of the truth predicate; the most common way to say it.
+primary,en,not_the_truth,\b(?:not\s+(?:the\s+)?truth|far\s+from\s+the\s+truth)\b,Nominal variant of the same explicit negation.
+primary,en,fake,\b(?:fake|fakes|faked|faking|fakery)\b,Asserts the object is fabricated rather than genuine. Covers 'fake news'.
+primary,en,hoax,\b(?:hoax|hoaxes)\b,Asserts the claim is a deliberate fabrication.
+primary,en,propaganda,\bpropaganda\b,Asserts the message is deceptive persuasion rather than information.
+primary,en,misinformation,\b(?:misinformation|disinformation|misinformed)\b,Names the content as false information.
+primary,en,misleading,\b(?:mislead|misleads|misleading|misled)\b,Asserts the message induces a false belief.
+primary,en,deceive,\b(?:deceive|deceives|deceived|deceiving|deceit|deceitful|deception|deceptive)\b,Asserts intent to induce a false belief.
+primary,en,fraud_scam,\b(?:fraud|frauds|fraudulent|scam|scams|scammer|scammers|scamming)\b,Asserts the sender is not what it represents itself to be.
+primary,en,nonsense,\bnonsense\b,Explicit rejection of the truth-content of what was said.
+primary,en,rubbish,\brubbish\b,Explicit rejection of the truth-content. Polysemous with 'litter' (see header).
+primary,en,bullshit,\b(?:bullshit|bullshits|bullsh\*?t|bs)\b,"Core sense is insincere falsehood, so it asserts untruth, unlike 'crap'."
+primary,en,wrong,\b(?:wrong|incorrect|inaccurate|inaccurately)\b,"Asserts error in the claim. High false-positive risk, accepted (see header)."
+primary,en,disagree,\b(?:disagree|disagrees|disagreed|disagreeing)\b,Overt performative of contradiction.
+primary,af,af_leuen,\b(?:leuen|leuens|leuenaar|leuenaars|leuenagtig)\b,lie / lies / liar. Direct equivalent of the English 'lie' family.
+primary,af,af_lieg,\b(?:lieg|liege|liegs|gelieg|liegery|jok|jokke|gejok|jokkery)\b,to lie / to fib. Verb forms of the same falsity assertion.
+primary,af,af_vals,\b(?:vals|valse|valsheid)\b,false / falseness.
+primary,af,af_onwaar,\b(?:onwaar|onwaarheid|onwaarhede)\b,untrue / untruth.
+primary,af,af_verkeerd,\b(?:verkeerd|verkeerde)\b,wrong / mistaken.
+primary,af,af_nie_waar,\bnie\s+waar(?:\s+nie)?\b,"'not true', the standard Afrikaans negated-truth construction."
+primary,af,af_twak,\b(?:twak|twakpraatjies)\b,nonsense / rubbish. Idiomatic South African and Namibian rejection of a claim.
+primary,af,af_bedrog,\b(?:bedrog|bedrieg|bedrieglik|misleidend|misleidende)\b,fraud / deceive / misleading.
+primary,osh,osh_fundja,fundja,"Distinctive lie-root: ofundja, iifundja, oifundja, omafundja, okufundja ('to lie'). Matched as a substring because the root is specific enough and the prefix morphology is variable."
+primary,osh,osh_not_truth,\b(?:ka\s?shi\s+shi\s+oshili|kashi\s+oshili|ka\s+shi\s+oshili|hasho\s+oshili|ito\s+popi\s+oshili|inashi\s+kala\s+oshili)\b,Negated forms of oshili ('truth'). Bare oshili is excluded: it means truth.
+sensitivity,de_nl,de_nl_luege,\b(?:l[uü]ge|l[uü]gen|l[uü]gner|luege|luegen|gelogen|falsch|unwahr|quatsch|bl[oö]dsinn|leugen|leugens|leugenaar)\b,"German/Dutch falsity roots: Luege, falsch, unwahr, Quatsch, leugen."
+sensitivity,pt_es,pt_es_mentira,\b(?:mentira|mentiras|mentiroso|mentirosa|mentindo|mentir|miente|mienten|mentes|falso|falsa|falsos|falsas|enga[nñ]o|enga[nñ]ar|enganar)\b,"Portuguese/Spanish falsity roots: mentira, falso, engano."
+sensitivity,fr_it,fr_it_mensonge,\b(?:mensonge|mensonges|menteur|menteuse|mensonger|faux|fausse|bugia|bugie|bugiardo|bugiarda)\b,"French/Italian falsity roots: mensonge, faux, bugia."

@@ -1,0 +1,3 @@
+estimator,diff_pp,ci_lo,ci_hi,clusters_ad,clusters_org,draws
+"Newcombe, comments independent",20.71,12.82,31.56,NA,NA,NA
+Cluster bootstrap,20.64,15.4,25.84,12,438,10000

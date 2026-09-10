@@ -1,0 +1,918 @@
+Post_ID,Actor_Name,Handle,date,year,month,iso_week,dow,dow_name,is_weekend,day_of_year,nearest_event,event_date,days_to_event,on_event,event_window3
+DWbxil5DMTW,WWF Namibia,wwfnamibia,2026-03-28,2026,3,13,5,Sat,1,87,Earth Hour,2026-03-28,0,1,1
+DXbu79iDCnX,WWF Namibia,wwfnamibia,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DWjdIZtjHgI,WWF Namibia,wwfnamibia,2026-03-31,2026,3,14,1,Tue,0,90,Earth Hour,2026-03-28,3,0,1
+DWbAAoijFTa,WWF Namibia,wwfnamibia,2026-03-28,2026,3,13,5,Sat,1,87,Earth Hour,2026-03-28,0,1,1
+DWW4P-5CLtE,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-26,2026,3,13,3,Thu,0,85,Earth Hour,2026-03-28,-2,0,1
+DWUhj7VjtYE,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-25,2026,3,13,2,Wed,0,84,World Meteorological Day,2026-03-23,2,0,1
+DRUGF9ajCli,Youth4CAN,youth4can_namibia,2025-11-21,2025,11,47,4,Fri,0,325,World Fisheries Day,2025-11-21,0,1,1
+DXceVTokb5e,Giraffe Conservation Foundation,giraffe_conservation,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DUxWaDAiHXN,NACSO,nacso_namibia1,2026-02-15,2026,2,7,6,Sun,1,46,World Pangolin Day,2026-02-21,-6,0,0
+DXbU3-0DCwx,Youth4CAN,youth4can_namibia,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DXuf7d6EZeD,Giraffe Conservation Foundation,giraffe_conservation,2026-04-29,2026,4,18,2,Wed,0,119,World Penguin Day,2026-04-25,4,0,0
+DVAe29YCKEl,NACSO,nacso_namibia1,2026-02-21,2026,2,8,5,Sat,1,52,World Pangolin Day,2026-02-21,0,1,1
+DXhn93Tjbxw,Giraffe Conservation Foundation,giraffe_conservation,2026-04-24,2026,4,17,4,Fri,0,114,World Penguin Day,2026-04-25,-1,1,1
+DXgfcC4CBh-,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-24,2026,4,17,4,Fri,0,114,World Penguin Day,2026-04-25,-1,1,1
+DUx-o2qCL2l,NACSO,nacso_namibia1,2026-02-15,2026,2,7,6,Sun,1,46,World Pangolin Day,2026-02-21,-6,0,0
+DXmxhmVDVZm,Giraffe Conservation Foundation,giraffe_conservation,2026-04-26,2026,4,17,6,Sun,1,116,World Penguin Day,2026-04-25,1,1,1
+DVGf_p2iJ72,NACSO,nacso_namibia1,2026-02-23,2026,2,9,0,Mon,0,54,World Pangolin Day,2026-02-21,2,0,1
+DXqj3iSiA-v,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-28,2026,4,18,1,Tue,0,118,World Penguin Day,2026-04-25,3,0,1
+DXivehMRBFx,Ongava Game Reserve,ongavagamereserve,2026-04-25,2026,4,17,5,Sat,1,115,World Penguin Day,2026-04-25,0,1,1
+DVvS2FYjO4c,WWF Namibia,wwfnamibia,2026-03-11,2026,3,11,2,Wed,0,70,World Wildlife Day,2026-03-03,8,0,0
+DXhEfFxiKkR,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-24,2026,4,17,4,Fri,0,114,World Penguin Day,2026-04-25,-1,1,1
+DU2f6MXjhAG,Save the Rhino Trust Namibia,savetherhinonamibia,2026-02-17,2026,2,8,1,Tue,0,48,World Pangolin Day,2026-02-21,-4,0,0
+DUh5k2lAUk4,Save the Rhino Trust Namibia,savetherhinonamibia,2026-02-09,2026,2,7,0,Mon,0,40,World Wetlands Day,2026-02-02,7,0,0
+DVIyH5WjD2M,WWF Namibia,wwfnamibia,2026-02-24,2026,2,9,1,Tue,0,55,World Pangolin Day,2026-02-21,3,0,1
+DXtx6MkCJiI,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-29,2026,4,18,2,Wed,0,119,World Penguin Day,2026-04-25,4,0,0
+DVYvpYOjOdh,WWF Namibia,wwfnamibia,2026-03-02,2026,3,10,0,Mon,0,61,World Wildlife Day,2026-03-03,-1,1,1
+DV8qrmUDGoW,Save the Rhino Trust Namibia,savetherhinonamibia,2026-03-16,2026,3,12,0,Mon,0,75,World Rewilding Day,2026-03-20,-4,0,0
+DVa3opXjgA4,Save the Rhino Trust Namibia,savetherhinonamibia,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DVF8oQhjpcp,Save the Rhino Trust Namibia,savetherhinonamibia,2026-02-23,2026,2,9,0,Mon,0,54,World Pangolin Day,2026-02-21,2,0,1
+DUP4CreEVt1,Save the Rhino Trust Namibia,savetherhinonamibia,2026-02-02,2026,2,6,0,Mon,0,33,World Wetlands Day,2026-02-02,0,1,1
+DWny2u3DoHP,Save the Rhino Trust Namibia,savetherhinonamibia,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DWBK6wwjrgc,Save the Rhino Trust Namibia,savetherhinonamibia,2026-03-18,2026,3,12,2,Wed,0,77,World Rewilding Day,2026-03-20,-2,0,1
+DVskknKErzC,Save the Rhino Trust Namibia,savetherhinonamibia,2026-03-10,2026,3,11,1,Tue,0,69,World Wildlife Day,2026-03-03,7,0,0
+DXJwT-bjkEW,Gobabeb Research & Training Centre,gobabeb,2026-04-15,2026,4,16,2,Wed,0,105,Earth Day,2026-04-22,-7,0,0
+DWQnsyXjpjb,Save the Rhino Trust Namibia,savetherhinonamibia,2026-03-24,2026,3,13,1,Tue,0,83,World Meteorological Day,2026-03-23,1,1,1
+DWws0QXjeph,Giraffe Conservation Foundation,giraffe_conservation,2026-04-05,2026,4,14,6,Sun,1,95,Earth Hour,2026-03-28,8,0,0
+DVX-MaIDs-A,Save the Rhino Trust Namibia,savetherhinonamibia,2026-03-02,2026,3,10,0,Mon,0,61,World Wildlife Day,2026-03-03,-1,1,1
+DU8LQZCDHZD,WWF Namibia,wwfnamibia,2026-02-19,2026,2,8,3,Thu,0,50,World Pangolin Day,2026-02-21,-2,0,1
+DWgEfuPDuiu,Save the Rhino Trust Namibia,savetherhinonamibia,2026-03-30,2026,3,14,0,Mon,0,89,Earth Hour,2026-03-28,2,0,1
+DW4bUExGWiB,Giraffe Conservation Foundation,giraffe_conservation,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DXMoBOzDnXM,Gobabeb Research & Training Centre,gobabeb,2026-04-16,2026,4,16,3,Thu,0,106,Earth Day,2026-04-22,-6,0,0
+DXWs260ldFZ,Gobabeb Research & Training Centre,gobabeb,2026-04-20,2026,4,17,0,Mon,0,110,Earth Day,2026-04-22,-2,0,1
+DWrjZFUDvNu,Giraffe Conservation Foundation,giraffe_conservation,2026-04-03,2026,4,14,4,Fri,0,93,Earth Hour,2026-03-28,6,0,0
+DWmZr1-Ewni,Giraffe Conservation Foundation,giraffe_conservation,2026-04-01,2026,4,14,2,Wed,0,91,Earth Hour,2026-03-28,4,0,0
+DTfkmjZiIqB,NACSO,nacso_namibia1,2026-01-14,2026,1,3,2,Wed,0,14,World Wetlands Day,2026-02-02,-19,0,0
+DTxc-x1iMoN,NACSO,nacso_namibia1,2026-01-21,2026,1,4,2,Wed,0,21,World Wetlands Day,2026-02-02,-12,0,0
+DW4hFLgDm7x,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DRe7J7VjG1W,NACSO,nacso_namibia1,2025-11-25,2025,11,48,1,Tue,0,329,World Fisheries Day,2025-11-21,4,0,0
+DRb4AbSDIld,NACSO,nacso_namibia1,2025-11-24,2025,11,48,0,Mon,0,328,World Fisheries Day,2025-11-21,3,0,1
+DXHaZrliNMl,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-14,2026,4,16,1,Tue,0,104,Earth Day,2026-04-22,-8,0,0
+DXCNPQDCMkN,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-12,2026,4,15,6,Sun,1,102,Earth Day,2026-04-22,-10,0,0
+DXMfT__iL4g,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-16,2026,4,16,3,Thu,0,106,Earth Day,2026-04-22,-6,0,0
+DXHih5GiFjt,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-14,2026,4,16,1,Tue,0,104,Earth Day,2026-04-22,-8,0,0
+DXCM5WvCK1G,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-12,2026,4,15,6,Sun,1,102,Earth Day,2026-04-22,-10,0,0
+DSJ-pEaCZpG,Save the Rhino Trust Namibia,savetherhinonamibia,2025-12-12,2025,12,50,4,Fri,0,346,World Soil Day,2025-12-05,7,0,0
+DXOusaviOJN,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-17,2026,4,16,4,Fri,0,107,Earth Day,2026-04-22,-5,0,0
+DSRtCbRj9Wv,Save the Rhino Trust Namibia,savetherhinonamibia,2025-12-15,2025,12,51,0,Mon,0,349,World Soil Day,2025-12-05,10,0,0
+DSJ-qKtlVzK,Save the Rhino Trust Namibia,savetherhinonamibia,2025-12-12,2025,12,50,4,Fri,0,346,World Soil Day,2025-12-05,7,0,0
+DXcTP6pCFgr,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DSetnWpEdUz,Save the Rhino Trust Namibia,savetherhinonamibia,2025-12-20,2025,12,51,5,Sat,1,354,World Soil Day,2025-12-05,15,0,0
+DXLzm_7CPil,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-16,2026,4,16,3,Thu,0,106,Earth Day,2026-04-22,-6,0,0
+DXb9mmtiBmy,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DXPSz7wCFzY,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-17,2026,4,16,4,Fri,0,107,Earth Day,2026-04-22,-5,0,0
+DRPdL0MjNdg,Desert Lion Conservation Trust,desertlionconservation,2025-11-19,2025,11,47,2,Wed,0,323,World Fisheries Day,2025-11-21,-2,0,1
+DXfEn4XjoXB,Desert Lion Conservation Trust,desertlionconservation,2026-04-23,2026,4,17,3,Thu,0,113,Earth Day,2026-04-22,1,1,1
+DWI5Bgrijl6,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-21,2026,3,12,5,Sat,1,80,Namibia Independence Day,2026-03-21,0,1,1
+DQrx5BLD64o,Save the Rhino Trust Namibia,savetherhinonamibia,2025-11-05,2025,11,45,2,Wed,0,309,World Fisheries Day,2025-11-21,-16,0,0
+DWoX4BUCpCZ,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DWlbimAChbY,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-01,2026,4,14,2,Wed,0,91,Earth Hour,2026-03-28,4,0,0
+DWLzna6im7B,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-22,2026,3,12,6,Sun,1,81,World Water Day,2026-03-22,0,1,1
+DRJmoBPDER3,NACSO,nacso_namibia1,2025-11-17,2025,11,47,0,Mon,0,321,World Fisheries Day,2025-11-21,-4,0,0
+DWYsdYrCvaE,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-27,2026,3,13,4,Fri,0,86,Earth Hour,2026-03-28,-1,1,1
+DWOYeqICgEF,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-23,2026,3,13,0,Mon,0,82,World Meteorological Day,2026-03-23,0,1,1
+DWV5l8TCp7a,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-26,2026,3,13,3,Thu,0,85,Earth Hour,2026-03-28,-2,0,1
+DQmoSzej7Cs,Save the Rhino Trust Namibia,savetherhinonamibia,2025-11-03,2025,11,45,0,Mon,0,307,World Fisheries Day,2025-11-21,-18,0,0
+DRKRMspjOJr,NACSO,nacso_namibia1,2025-11-17,2025,11,47,0,Mon,0,321,World Fisheries Day,2025-11-21,-4,0,0
+DQmVJK-ji6U,Save the Rhino Trust Namibia,savetherhinonamibia,2025-11-03,2025,11,45,0,Mon,0,307,World Fisheries Day,2025-11-21,-18,0,0
+DRPZSnICLAt,NACSO,nacso_namibia1,2025-11-19,2025,11,47,2,Wed,0,323,World Fisheries Day,2025-11-21,-2,0,1
+DXJOpNMFqRt,N/a'an ku se Foundation,naankuse_foundation,2026-04-15,2026,4,16,2,Wed,0,105,Earth Day,2026-04-22,-7,0,0
+DXwfTUBjkcO,Cheetah Conservation Fund,ccfcheetah,2026-04-30,2026,4,18,3,Thu,0,120,World Penguin Day,2026-04-25,5,0,0
+DQ8u1Tdjfxy,Save the Rhino Trust Namibia,savetherhinonamibia,2025-11-12,2025,11,46,2,Wed,0,316,World Fisheries Day,2025-11-21,-9,0,0
+DW1KVyzCmTL,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-07,2026,4,15,1,Tue,0,97,Earth Hour,2026-03-28,10,0,0
+DQvufAaFCLQ,Save the Rhino Trust Namibia,savetherhinonamibia,2025-11-07,2025,11,45,4,Fri,0,311,World Fisheries Day,2025-11-21,-14,0,0
+DROvNLoDNmc,Namibia Nature Foundation,namibia_nature_foundation,2025-11-19,2025,11,47,2,Wed,0,323,World Fisheries Day,2025-11-21,-2,0,1
+DQoIHPqDDxC,WWF Namibia,wwfnamibia,2025-11-04,2025,11,45,1,Tue,0,308,World Fisheries Day,2025-11-21,-17,0,0
+DW9k8REk6pa,N/a'an ku se Foundation,naankuse_foundation,2026-04-10,2026,4,15,4,Fri,0,100,Earth Day,2026-04-22,-12,0,0
+DW-3Ni3gdfG,N/a'an ku se Foundation,naankuse_foundation,2026-04-11,2026,4,15,5,Sat,1,101,Earth Day,2026-04-22,-11,0,0
+DRC9C5yCNUK,Save the Rhino Trust Namibia,savetherhinonamibia,2025-11-14,2025,11,46,4,Fri,0,318,World Fisheries Day,2025-11-21,-7,0,0
+DRNXF-BgS9b,Save the Rhino Trust Namibia,savetherhinonamibia,2025-11-18,2025,11,47,1,Tue,0,322,World Fisheries Day,2025-11-21,-3,0,1
+DXxKLyiGcYl,Cheetah Conservation Fund,ccfcheetah,2026-04-30,2026,4,18,3,Thu,0,120,World Penguin Day,2026-04-25,5,0,0
+DXGjtBPFtcW,N/a'an ku se Foundation,naankuse_foundation,2026-04-14,2026,4,16,1,Tue,0,104,Earth Day,2026-04-22,-8,0,0
+DXEY-ltlqzA,N/a'an ku se Foundation,naankuse_foundation,2026-04-13,2026,4,16,0,Mon,0,103,Earth Day,2026-04-22,-9,0,0
+DWn1ukqCqP6,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DXO2wrHFpDS,N/a'an ku se Foundation,naankuse_foundation,2026-04-17,2026,4,16,4,Fri,0,107,Earth Day,2026-04-22,-5,0,0
+DXbYa58lhWu,N/a'an ku se Foundation,naankuse_foundation,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DXWIgNFloaI,N/a'an ku se Foundation,naankuse_foundation,2026-04-20,2026,4,17,0,Mon,0,110,Earth Day,2026-04-22,-2,0,1
+DXMHXGjlv3g,N/a'an ku se Foundation,naankuse_foundation,2026-04-16,2026,4,16,3,Thu,0,106,Earth Day,2026-04-22,-6,0,0
+DVwU7pzDM_m,Giraffe Conservation Foundation,giraffe_conservation,2026-03-11,2026,3,11,2,Wed,0,70,World Wildlife Day,2026-03-03,8,0,0
+DV6oG8iDJKi,Giraffe Conservation Foundation,giraffe_conservation,2026-03-15,2026,3,11,6,Sun,1,74,World Rewilding Day,2026-03-20,-5,0,0
+DVomlnGjA8A,Giraffe Conservation Foundation,giraffe_conservation,2026-03-08,2026,3,10,6,Sun,1,67,World Wildlife Day,2026-03-03,5,0,0
+DWHgHlgj4h3,Giraffe Conservation Foundation,giraffe_conservation,2026-03-20,2026,3,12,4,Fri,0,79,World Rewilding Day,2026-03-20,0,1,1
+DWCWeXDDvpY,Giraffe Conservation Foundation,giraffe_conservation,2026-03-18,2026,3,12,2,Wed,0,77,World Rewilding Day,2026-03-20,-2,0,1
+DWUYKewCPZI,Giraffe Conservation Foundation,giraffe_conservation,2026-03-25,2026,3,13,2,Wed,0,84,World Meteorological Day,2026-03-23,2,0,1
+DV1ejcrjD4w,Giraffe Conservation Foundation,giraffe_conservation,2026-03-13,2026,3,11,4,Fri,0,72,World Rewilding Day,2026-03-20,-7,0,0
+DWZhpaAj9mI,Giraffe Conservation Foundation,giraffe_conservation,2026-03-27,2026,3,13,4,Fri,0,86,Earth Hour,2026-03-28,-1,1,1
+DWMpye-jTwn,Giraffe Conservation Foundation,giraffe_conservation,2026-03-22,2026,3,12,6,Sun,1,81,World Water Day,2026-03-22,0,1,1
+DR2Pq0aDO16,AfriCat Foundation,africat_foundation,2025-12-04,2025,12,49,3,Thu,0,338,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,0,1,1
+DSpvIk3DMXZ,AfriCat Foundation,africat_foundation,2025-12-24,2025,12,52,2,Wed,0,358,World Soil Day,2025-12-05,19,0,0
+DXe7m2rEo4m,Cheetah Conservation Fund,ccfcheetah,2026-04-23,2026,4,17,3,Thu,0,113,Earth Day,2026-04-22,1,1,1
+DXr5rGXmV5m,Cheetah Conservation Fund,ccfcheetah,2026-04-28,2026,4,18,1,Tue,0,118,World Penguin Day,2026-04-25,3,0,1
+DWqKBa7j5v4,N/a'an ku se Foundation,naankuse_foundation,2026-04-03,2026,4,14,4,Fri,0,93,Earth Hour,2026-03-28,6,0,0
+DW3oE3qFjbF,N/a'an ku se Foundation,naankuse_foundation,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DWjZfpulh0r,N/a'an ku se Foundation,naankuse_foundation,2026-03-31,2026,3,14,1,Tue,0,90,Earth Hour,2026-03-28,3,0,1
+DSVJ6XUDP5G,AfriCat Foundation,africat_foundation,2025-12-16,2025,12,51,1,Tue,0,350,World Soil Day,2025-12-05,11,0,0
+DWZose4CUA7,N/a'an ku se Foundation,naankuse_foundation,2026-03-27,2026,3,13,4,Fri,0,86,Earth Hour,2026-03-28,-1,1,1
+DWs8j4KATCm,N/a'an ku se Foundation,naankuse_foundation,2026-04-04,2026,4,14,5,Sat,1,94,Earth Hour,2026-03-28,7,0,0
+DS2oMpeDIjB,AfriCat Foundation,africat_foundation,2025-12-29,2025,12,1,0,Mon,0,363,World Soil Day,2025-12-05,24,0,0
+DVeTWHdlzyU,Giraffe Conservation Foundation,giraffe_conservation,2026-03-04,2026,3,10,2,Wed,0,63,World Wildlife Day,2026-03-03,1,1,1
+DTGPqHUjOPo,AfriCat Foundation,africat_foundation,2026-01-04,2026,1,1,6,Sun,1,4,World Wetlands Day,2026-02-02,-29,0,0
+DW6aWEHllsp,N/a'an ku se Foundation,naankuse_foundation,2026-04-09,2026,4,15,3,Thu,0,99,Earth Hour,2026-03-28,12,0,0
+DU-bZq3inWr,Namibia Youth Chamber of Environment,namyouthchamber,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DUtYO6nDaS4,Giraffe Conservation Foundation,giraffe_conservation,2026-02-13,2026,2,7,4,Fri,0,44,World Pangolin Day,2026-02-21,-8,0,0
+DWn5r-flixF,N/a'an ku se Foundation,naankuse_foundation,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DWa0GEIgUev,N/a'an ku se Foundation,naankuse_foundation,2026-03-28,2026,3,13,5,Sat,1,87,Earth Hour,2026-03-28,0,1,1
+DXpWrXrDEJt,Cheetah Conservation Fund,ccfcheetah,2026-04-27,2026,4,18,0,Mon,0,117,World Penguin Day,2026-04-25,2,0,1
+DW5xIWgllJY,N/a'an ku se Foundation,naankuse_foundation,2026-04-09,2026,4,15,3,Thu,0,99,Earth Hour,2026-03-28,12,0,0
+DU_ZzNqDJmc,Giraffe Conservation Foundation,giraffe_conservation,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DVMRx8yCMbB,Giraffe Conservation Foundation,giraffe_conservation,2026-02-25,2026,2,9,2,Wed,0,56,World Pangolin Day,2026-02-21,4,0,0
+DWrjZUMCXX9,N/a'an ku se Foundation,naankuse_foundation,2026-04-03,2026,4,14,4,Fri,0,93,Earth Hour,2026-03-28,6,0,0
+DVRbYULjY8q,Giraffe Conservation Foundation,giraffe_conservation,2026-02-27,2026,2,9,4,Fri,0,58,World Wildlife Day,2026-03-03,-4,0,0
+DVjc9hvjaPy,Giraffe Conservation Foundation,giraffe_conservation,2026-03-06,2026,3,10,4,Fri,0,65,World Wildlife Day,2026-03-03,3,0,1
+DXZhne-jWEN,Cheetah Conservation Fund,ccfcheetah,2026-04-21,2026,4,17,1,Tue,0,111,Earth Day,2026-04-22,-1,1,1
+DVa5zYsCm_O,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DSAiXtljEJ3,AfriCat Foundation,africat_foundation,2025-12-08,2025,12,50,0,Mon,0,342,World Soil Day,2025-12-05,3,0,1
+DVWk_9XDbv8,Giraffe Conservation Foundation,giraffe_conservation,2026-03-01,2026,3,9,6,Sun,1,60,World Wildlife Day,2026-03-03,-2,0,1
+DTQXoYHDNgM,AfriCat Foundation,africat_foundation,2026-01-08,2026,1,2,3,Thu,0,8,World Wetlands Day,2026-02-02,-25,0,0
+DVEjcvgj1xY,Giraffe Conservation Foundation,giraffe_conservation,2026-02-22,2026,2,8,6,Sun,1,53,World Pangolin Day,2026-02-21,1,1,1
+DU6QOvFk9xX,Giraffe Conservation Foundation,giraffe_conservation,2026-02-18,2026,2,8,2,Wed,0,49,World Pangolin Day,2026-02-21,-3,0,1
+DXuRr8pGfJ_,Cheetah Conservation Fund,ccfcheetah,2026-04-29,2026,4,18,2,Wed,0,119,World Penguin Day,2026-04-25,4,0,0
+DViTTw0CueE,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-06,2026,3,10,4,Fri,0,65,World Wildlife Day,2026-03-03,3,0,1
+DXca0cil6Mk,Cheetah Conservation Fund,ccfcheetah,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DXVdVqvGBrZ,Cheetah Conservation Fund,ccfcheetah,2026-04-20,2026,4,17,0,Mon,0,110,Earth Day,2026-04-22,-2,0,1
+DSFsknpDGEy,AfriCat Foundation,africat_foundation,2025-12-10,2025,12,50,2,Wed,0,344,World Soil Day,2025-12-05,5,0,0
+DVtL7Z1Cgjg,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-10,2026,3,11,1,Tue,0,69,World Wildlife Day,2026-03-03,7,0,0
+DVtRIKfigl2,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-10,2026,3,11,1,Tue,0,69,World Wildlife Day,2026-03-03,7,0,0
+DWnyV1Wls37,N/a'an ku se Foundation,naankuse_foundation,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DWcGfdLjB95,N/a'an ku se Foundation,naankuse_foundation,2026-03-28,2026,3,13,5,Sat,1,87,Earth Hour,2026-03-28,0,1,1
+DVgLvVmipRs,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-05,2026,3,10,3,Thu,0,64,World Wildlife Day,2026-03-03,2,0,1
+DV1elZ8D0VV,N/a'an ku se Foundation,naankuse_foundation,2026-03-13,2026,3,11,4,Fri,0,72,World Rewilding Day,2026-03-20,-7,0,0
+DT-JQYiimAB,Namibia Youth Chamber of Environment,namyouthchamber,2026-01-26,2026,1,5,0,Mon,0,26,World Wetlands Day,2026-02-02,-7,0,0
+DUX_wPFCgIs,Namibia Youth Chamber of Environment,namyouthchamber,2026-02-05,2026,2,6,3,Thu,0,36,World Wetlands Day,2026-02-02,3,0,1
+DT98qQrCBCZ,Namibia Nature Foundation,namibia_nature_foundation,2026-01-26,2026,1,5,0,Mon,0,26,World Wetlands Day,2026-02-02,-7,0,0
+DWMpxKqjnAZ,N/a'an ku se Foundation,naankuse_foundation,2026-03-22,2026,3,12,6,Sun,1,81,World Water Day,2026-03-22,0,1,1
+DUQylVEiPWw,Namibia Nature Foundation,namibia_nature_foundation,2026-02-02,2026,2,6,0,Mon,0,33,World Wetlands Day,2026-02-02,0,1,1
+DV9M4tnAc73,N/a'an ku se Foundation,naankuse_foundation,2026-03-16,2026,3,12,0,Mon,0,75,World Rewilding Day,2026-03-20,-4,0,0
+DV4Db60iEI4,N/a'an ku se Foundation,naankuse_foundation,2026-03-14,2026,3,11,5,Sat,1,73,World Rewilding Day,2026-03-20,-6,0,0
+DUELhjJjd7D,Giraffe Conservation Foundation,giraffe_conservation,2026-01-28,2026,1,5,2,Wed,0,28,World Wetlands Day,2026-02-02,-5,0,0
+DTugAKuirZm,Namibia Youth Chamber of Environment,namyouthchamber,2026-01-20,2026,1,4,1,Tue,0,20,World Wetlands Day,2026-02-02,-13,0,0
+DV6hPrUj1sO,N/a'an ku se Foundation,naankuse_foundation,2026-03-15,2026,3,11,6,Sun,1,74,World Rewilding Day,2026-03-20,-5,0,0
+DUOesl5jXwq,Giraffe Conservation Foundation,giraffe_conservation,2026-02-01,2026,2,5,6,Sun,1,32,World Wetlands Day,2026-02-02,-1,1,1
+DT8dIW2iCC3,Giraffe Conservation Foundation,giraffe_conservation,2026-01-25,2026,1,4,6,Sun,1,25,World Wetlands Day,2026-02-02,-8,0,0
+DUbWq9sk2fR,Giraffe Conservation Foundation,giraffe_conservation,2026-02-06,2026,2,6,4,Fri,0,37,World Wetlands Day,2026-02-02,4,0,0
+DUWNHNmDsUE,Giraffe Conservation Foundation,giraffe_conservation,2026-02-04,2026,2,6,2,Wed,0,35,World Wetlands Day,2026-02-02,2,0,1
+DTqbkOCjdCj,Giraffe Conservation Foundation,giraffe_conservation,2026-01-18,2026,1,3,6,Sun,1,18,World Wetlands Day,2026-02-02,-15,0,0
+DT3TiZ9DdmI,Giraffe Conservation Foundation,giraffe_conservation,2026-01-23,2026,1,4,4,Fri,0,23,World Wetlands Day,2026-02-02,-10,0,0
+DTyJ9OpgXzm,Giraffe Conservation Foundation,giraffe_conservation,2026-01-21,2026,1,4,2,Wed,0,21,World Wetlands Day,2026-02-02,-12,0,0
+DWE0qc5Evit,N/a'an ku se Foundation,naankuse_foundation,2026-03-19,2026,3,12,3,Thu,0,78,World Rewilding Day,2026-03-20,-1,1,1
+DU5v6CKCn_O,Namibia Youth Chamber of Environment,namyouthchamber,2026-02-18,2026,2,8,2,Wed,0,49,World Pangolin Day,2026-02-21,-3,0,1
+DWHgK_VkmUt,N/a'an ku se Foundation,naankuse_foundation,2026-03-20,2026,3,12,4,Fri,0,79,World Rewilding Day,2026-03-20,0,1,1
+DWI5bFigUef,N/a'an ku se Foundation,naankuse_foundation,2026-03-21,2026,3,12,5,Sat,1,80,Namibia Independence Day,2026-03-21,0,1,1
+DUoOpqdjEUM,Giraffe Conservation Foundation,giraffe_conservation,2026-02-11,2026,2,7,2,Wed,0,42,World Wetlands Day,2026-02-02,9,0,0
+DWCWecbj-kV,N/a'an ku se Foundation,naankuse_foundation,2026-03-18,2026,3,12,2,Wed,0,77,World Rewilding Day,2026-03-20,-2,0,1
+DUggSmvjmH0,Giraffe Conservation Foundation,giraffe_conservation,2026-02-08,2026,2,6,6,Sun,1,39,World Wetlands Day,2026-02-02,6,0,0
+DV_xrwzjCSH,N/a'an ku se Foundation,naankuse_foundation,2026-03-17,2026,3,12,1,Tue,0,76,World Rewilding Day,2026-03-20,-3,0,1
+DV1RBwxDDEe,N/a'an ku se Foundation,naankuse_foundation,2026-03-13,2026,3,11,4,Fri,0,72,World Rewilding Day,2026-03-20,-7,0,0
+DW4VErZEjmD,Cheetah Conservation Fund,ccfcheetah,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DXFDkC8EZUF,Cheetah Conservation Fund,ccfcheetah,2026-04-13,2026,4,16,0,Mon,0,103,Earth Day,2026-04-22,-9,0,0
+DXB-DjOjmZ2,Cheetah Conservation Fund,ccfcheetah,2026-04-12,2026,4,15,6,Sun,1,102,Earth Day,2026-04-22,-10,0,0
+DXMiL7jjXgk,Cheetah Conservation Fund,ccfcheetah,2026-04-16,2026,4,16,3,Thu,0,106,Earth Day,2026-04-22,-6,0,0
+DRFUHr8DPls,AfriCat Foundation,africat_foundation,2025-11-15,2025,11,46,5,Sat,1,319,World Fisheries Day,2025-11-21,-6,0,0
+DQuKrLZDCfh,AfriCat Foundation,africat_foundation,2025-11-06,2025,11,45,3,Thu,0,310,World Fisheries Day,2025-11-21,-15,0,0
+DRkL8DrjBZz,AfriCat Foundation,africat_foundation,2025-11-27,2025,11,48,3,Thu,0,331,World Fisheries Day,2025-11-21,6,0,0
+DW69EwJESBc,Cheetah Conservation Fund,ccfcheetah,2026-04-09,2026,4,15,3,Thu,0,99,Earth Hour,2026-03-28,12,0,0
+DW2bF8jjNJE,Cheetah Conservation Fund,ccfcheetah,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DVvyBh7Csmj,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-11,2026,3,11,2,Wed,0,70,World Wildlife Day,2026-03-03,8,0,0
+DWBU3t0ilGW,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-18,2026,3,12,2,Wed,0,77,World Rewilding Day,2026-03-20,-2,0,1
+DWD7q9hijMg,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-19,2026,3,12,3,Thu,0,78,World Rewilding Day,2026-03-20,-1,1,1
+DVyHG_Jijrz,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-12,2026,3,11,3,Thu,0,71,World Rewilding Day,2026-03-20,-8,0,0
+DTibOjAjHCe,AfriCat Foundation,africat_foundation,2026-01-15,2026,1,3,3,Thu,0,15,World Wetlands Day,2026-02-02,-18,0,0
+DV0so-eCkJk,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-13,2026,3,11,4,Fri,0,72,World Rewilding Day,2026-03-20,-7,0,0
+DRhp-g_DJMg,AfriCat Foundation,africat_foundation,2025-11-26,2025,11,48,2,Wed,0,330,World Fisheries Day,2025-11-21,5,0,0
+DUJVGkOjxSn,Giraffe Conservation Foundation,giraffe_conservation,2026-01-30,2026,1,5,4,Fri,0,30,World Wetlands Day,2026-02-02,-3,0,1
+DVimfKujWUT,Tosco Trust,tosconamibia,2026-03-06,2026,3,10,4,Fri,0,65,World Wildlife Day,2026-03-03,3,0,1
+DQ4iGjBjLUz,Namibia Youth Chamber of Environment,namyouthchamber,2025-11-10,2025,11,46,0,Mon,0,314,World Fisheries Day,2025-11-21,-11,0,0
+DRP35sUjLR6,Namibia Youth Chamber of Environment,namyouthchamber,2025-11-19,2025,11,47,2,Wed,0,323,World Fisheries Day,2025-11-21,-2,0,1
+DQ87jsuDEw5,Namibia Youth Chamber of Environment,namyouthchamber,2025-11-12,2025,11,46,2,Wed,0,316,World Fisheries Day,2025-11-21,-9,0,0
+DWURr-cDbzB,Tosco Trust,tosconamibia,2026-03-25,2026,3,13,2,Wed,0,84,World Meteorological Day,2026-03-23,2,0,1
+DTamIGPCnjn,Namibia Youth Chamber of Environment,namyouthchamber,2026-01-12,2026,1,3,0,Mon,0,12,World Wetlands Day,2026-02-02,-21,0,0
+DVen7U1DDSX,N/a'an ku se Foundation,naankuse_foundation,2026-03-04,2026,3,10,2,Wed,0,63,World Wildlife Day,2026-03-03,1,1,1
+DVl64BGCPgg,N/a'an ku se Foundation,naankuse_foundation,2026-03-07,2026,3,10,5,Sat,1,66,World Wildlife Day,2026-03-03,4,0,0
+DWW44aTDSt2,Tosco Trust,tosconamibia,2026-03-26,2026,3,13,3,Thu,0,85,Earth Hour,2026-03-28,-2,0,1
+DWouAPSEVB9,Cheetah Conservation Fund,ccfcheetah,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DWl7H61DbCB,Cheetah Conservation Fund,ccfcheetah,2026-04-01,2026,4,14,2,Wed,0,91,Earth Hour,2026-03-28,4,0,0
+DRj_EEGDNma,Namibia Youth Chamber of Environment,namyouthchamber,2025-11-27,2025,11,48,3,Thu,0,331,World Fisheries Day,2025-11-21,6,0,0
+DWhFSe_Epwk,Cheetah Conservation Fund,ccfcheetah,2026-03-30,2026,3,14,0,Mon,0,89,Earth Hour,2026-03-28,2,0,1
+DV1dpcLjf4m,Tosco Trust,tosconamibia,2026-03-13,2026,3,11,4,Fri,0,72,World Rewilding Day,2026-03-20,-7,0,0
+DWaZbb-D-L5,Cheetah Conservation Fund,ccfcheetah,2026-03-28,2026,3,13,5,Sat,1,87,Earth Hour,2026-03-28,0,1,1
+DVqo_9BgVKV,N/a'an ku se Foundation,naankuse_foundation,2026-03-09,2026,3,11,0,Mon,0,68,World Wildlife Day,2026-03-03,6,0,0
+DWsMJvfjOo5,Cheetah Conservation Fund,ccfcheetah,2026-04-04,2026,4,14,5,Sat,1,94,Earth Hour,2026-03-28,7,0,0
+DVtwG76oLp5,N/a'an ku se Foundation,naankuse_foundation,2026-03-10,2026,3,11,1,Tue,0,69,World Wildlife Day,2026-03-03,7,0,0
+DVqcuKHmK2G,N/a'an ku se Foundation,naankuse_foundation,2026-03-09,2026,3,11,0,Mon,0,68,World Wildlife Day,2026-03-03,6,0,0
+DRKInR5DE1a,Namibia Youth Chamber of Environment,namyouthchamber,2025-11-17,2025,11,47,0,Mon,0,321,World Fisheries Day,2025-11-21,-4,0,0
+DUDf5d4DUm_,Tosco Trust,tosconamibia,2026-01-28,2026,1,5,2,Wed,0,28,World Wetlands Day,2026-02-02,-5,0,0
+DVjdARTD6tT,N/a'an ku se Foundation,naankuse_foundation,2026-03-06,2026,3,10,4,Fri,0,65,World Wildlife Day,2026-03-03,3,0,1
+DVyJnZlDMPe,N/a'an ku se Foundation,naankuse_foundation,2026-03-12,2026,3,11,3,Thu,0,71,World Rewilding Day,2026-03-20,-8,0,0
+DVmCpq8jAER,N/a'an ku se Foundation,naankuse_foundation,2026-03-07,2026,3,10,5,Sat,1,66,World Wildlife Day,2026-03-03,4,0,0
+DWWv0b4kmFB,Cheetah Conservation Fund,ccfcheetah,2026-03-26,2026,3,13,3,Thu,0,85,Earth Hour,2026-03-28,-2,0,1
+DReQDwTDOOM,Namibia Youth Chamber of Environment,namyouthchamber,2025-11-25,2025,11,48,1,Tue,0,329,World Fisheries Day,2025-11-21,4,0,0
+DSvNTG6DxNi,Giraffe Conservation Foundation,giraffe_conservation,2025-12-26,2025,12,52,4,Fri,0,360,World Soil Day,2025-12-05,21,0,0
+DVrBQE7jEWE,N/a'an ku se Foundation,naankuse_foundation,2026-03-09,2026,3,11,0,Mon,0,68,World Wildlife Day,2026-03-03,6,0,0
+DVwVD1GjiEL,N/a'an ku se Foundation,naankuse_foundation,2026-03-11,2026,3,11,2,Wed,0,70,World Wildlife Day,2026-03-03,8,0,0
+DVy5ucnCAYI,N/a'an ku se Foundation,naankuse_foundation,2026-03-12,2026,3,11,3,Thu,0,71,World Rewilding Day,2026-03-20,-8,0,0
+DS0W5kkD2zk,Giraffe Conservation Foundation,giraffe_conservation,2025-12-28,2025,12,52,6,Sun,1,362,World Soil Day,2025-12-05,23,0,0
+DVthvBkjAAF,N/a'an ku se Foundation,naankuse_foundation,2026-03-10,2026,3,11,1,Tue,0,69,World Wildlife Day,2026-03-03,7,0,0
+DU-ncR0jTOc,Tosco Trust,tosconamibia,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DS8FQVIjdpH,Giraffe Conservation Foundation,giraffe_conservation,2025-12-31,2025,12,1,2,Wed,0,365,World Soil Day,2025-12-05,26,0,0
+DTGYcjdjeVp,Giraffe Conservation Foundation,giraffe_conservation,2026-01-04,2026,1,1,6,Sun,1,4,World Wetlands Day,2026-02-02,-29,0,0
+DS-qEVPADma,Giraffe Conservation Foundation,giraffe_conservation,2026-01-01,2026,1,1,3,Thu,0,1,World Soil Day,2025-12-05,27,0,0
+DTBO21Djf01,Giraffe Conservation Foundation,giraffe_conservation,2026-01-02,2026,1,1,4,Fri,0,2,World Soil Day,2025-12-05,28,0,0
+DTgIY48D2Bx,Giraffe Conservation Foundation,giraffe_conservation,2026-01-14,2026,1,3,2,Wed,0,14,World Wetlands Day,2026-02-02,-19,0,0
+DTYZ__3jMEy,Giraffe Conservation Foundation,giraffe_conservation,2026-01-11,2026,1,2,6,Sun,1,11,World Wetlands Day,2026-02-02,-22,0,0
+DTOG1rZj1Wf,Giraffe Conservation Foundation,giraffe_conservation,2026-01-07,2026,1,2,2,Wed,0,7,World Wetlands Day,2026-02-02,-26,0,0
+DT8Hxp4DMQV,AfriCat Foundation,africat_foundation,2026-01-25,2026,1,4,6,Sun,1,25,World Wetlands Day,2026-02-02,-8,0,0
+DTTQcXSDwcQ,Giraffe Conservation Foundation,giraffe_conservation,2026-01-09,2026,1,2,4,Fri,0,9,World Wetlands Day,2026-02-02,-24,0,0
+DTlR_2oEp9y,Giraffe Conservation Foundation,giraffe_conservation,2026-01-16,2026,1,3,4,Fri,0,16,World Wetlands Day,2026-02-02,-17,0,0
+DU59lkXjDeX,AfriCat Foundation,africat_foundation,2026-02-18,2026,2,8,2,Wed,0,49,World Pangolin Day,2026-02-21,-3,0,1
+DUlV2iNCOB0,AfriCat Foundation,africat_foundation,2026-02-10,2026,2,7,1,Tue,0,41,World Wetlands Day,2026-02-02,8,0,0
+DUGbxzVDE1m,AfriCat Foundation,africat_foundation,2026-01-29,2026,1,5,3,Thu,0,29,World Wetlands Day,2026-02-02,-4,0,0
+DSGA6a6gTQ3,Giraffe Conservation Foundation,giraffe_conservation,2025-12-10,2025,12,50,2,Wed,0,344,World Soil Day,2025-12-05,5,0,0
+DVJlhV9DD_m,N/a'an ku se Foundation,naankuse_foundation,2026-02-24,2026,2,9,1,Tue,0,55,World Pangolin Day,2026-02-21,3,0,1
+DWOuG89jwy0,Cheetah Conservation Fund,ccfcheetah,2026-03-23,2026,3,13,0,Mon,0,82,World Meteorological Day,2026-03-23,0,1,1
+DVWk_muDRUJ,N/a'an ku se Foundation,naankuse_foundation,2026-03-01,2026,3,9,6,Sun,1,60,World Wildlife Day,2026-03-03,-2,0,1
+DVCCqirFE2-,N/a'an ku se Foundation,naankuse_foundation,2026-02-21,2026,2,8,5,Sat,1,52,World Pangolin Day,2026-02-21,0,1,1
+DVBDGWRjKFU,N/a'an ku se Foundation,naankuse_foundation,2026-02-21,2026,2,8,5,Sat,1,52,World Pangolin Day,2026-02-21,0,1,1
+DVeTYKBDDi-,N/a'an ku se Foundation,naankuse_foundation,2026-03-04,2026,3,10,2,Wed,0,63,World Wildlife Day,2026-03-03,1,1,1
+DRwcckvjYNV,Giraffe Conservation Foundation,giraffe_conservation,2025-12-02,2025,12,49,1,Tue,0,336,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-2,0,1
+DR5IqOsiJb_,Giraffe Conservation Foundation,giraffe_conservation,2025-12-05,2025,12,49,4,Fri,0,339,World Soil Day,2025-12-05,0,1,1
+DVZeWt7AodX,N/a'an ku se Foundation,naankuse_foundation,2026-03-02,2026,3,10,0,Mon,0,61,World Wildlife Day,2026-03-03,-1,1,1
+DV99gHxDCdy,Cheetah Conservation Fund,ccfcheetah,2026-03-17,2026,3,12,1,Tue,0,76,World Rewilding Day,2026-03-20,-3,0,1
+DVZJxG8gdBv,N/a'an ku se Foundation,naankuse_foundation,2026-03-02,2026,3,10,0,Mon,0,61,World Wildlife Day,2026-03-03,-1,1,1
+DVHILyij3Ej,N/a'an ku se Foundation,naankuse_foundation,2026-02-23,2026,2,9,0,Mon,0,54,World Pangolin Day,2026-02-21,2,0,1
+DRz_BrsjG0U,Giraffe Conservation Foundation,giraffe_conservation,2025-12-03,2025,12,49,2,Wed,0,337,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-1,1,1
+DSiVUl0gTF5,Giraffe Conservation Foundation,giraffe_conservation,2025-12-21,2025,12,51,6,Sun,1,355,World Soil Day,2025-12-05,16,0,0
+DSQTzsPDRJ6,Giraffe Conservation Foundation,giraffe_conservation,2025-12-14,2025,12,50,6,Sun,1,348,World Soil Day,2025-12-05,9,0,0
+DSdLvtCiO9N,Giraffe Conservation Foundation,giraffe_conservation,2025-12-19,2025,12,51,4,Fri,0,353,World Soil Day,2025-12-05,14,0,0
+DVT5VGnDVSk,N/a'an ku se Foundation,naankuse_foundation,2026-02-28,2026,2,9,5,Sat,1,59,World Wildlife Day,2026-03-03,-3,0,1
+DSqDr_mAgXH,Giraffe Conservation Foundation,giraffe_conservation,2025-12-24,2025,12,52,2,Wed,0,358,World Soil Day,2025-12-05,19,0,0
+DSLMZorAZyc,Giraffe Conservation Foundation,giraffe_conservation,2025-12-12,2025,12,50,4,Fri,0,346,World Soil Day,2025-12-05,7,0,0
+DVv5Vyeje89,Cheetah Conservation Fund,ccfcheetah,2026-03-11,2026,3,11,2,Wed,0,70,World Wildlife Day,2026-03-03,8,0,0
+DR-SMDzDZx2,Giraffe Conservation Foundation,giraffe_conservation,2025-12-07,2025,12,49,6,Sun,1,341,World Soil Day,2025-12-05,2,0,1
+DSYCJfoj4ik,Giraffe Conservation Foundation,giraffe_conservation,2025-12-17,2025,12,51,2,Wed,0,351,World Soil Day,2025-12-05,12,0,0
+DVavhOlDFHe,N/a'an ku se Foundation,naankuse_foundation,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DRsQo-BARQL,Giraffe Conservation Foundation,giraffe_conservation,2025-11-30,2025,11,48,6,Sun,1,334,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-4,0,0
+DXtaDoijIT_,Elephant Human Relations Aid,ehranamibia,2026-04-29,2026,4,18,2,Wed,0,119,World Penguin Day,2026-04-25,4,0,0
+DVO3p9GDGew,N/a'an ku se Foundation,naankuse_foundation,2026-02-26,2026,2,9,3,Thu,0,57,World Pangolin Day,2026-02-21,5,0,0
+DWAqKGpkuSD,Cheetah Conservation Fund,ccfcheetah,2026-03-18,2026,3,12,2,Wed,0,77,World Rewilding Day,2026-03-20,-2,0,1
+DWFHDlUj2ZX,Cheetah Conservation Fund,ccfcheetah,2026-03-19,2026,3,12,3,Thu,0,78,World Rewilding Day,2026-03-20,-1,1,1
+DV7XJOljNi_,Cheetah Conservation Fund,ccfcheetah,2026-03-16,2026,3,12,0,Mon,0,75,World Rewilding Day,2026-03-20,-4,0,0
+DWCI-u-Ee46,Cheetah Conservation Fund,ccfcheetah,2026-03-18,2026,3,12,2,Wed,0,77,World Rewilding Day,2026-03-20,-2,0,1
+DXJ6PfWFpCF,Ongava Game Reserve,ongavagamereserve,2026-04-15,2026,4,16,2,Wed,0,105,Earth Day,2026-04-22,-7,0,0
+DXUHBZnltwo,Ongava Game Reserve,ongavagamereserve,2026-04-19,2026,4,16,6,Sun,1,109,Earth Day,2026-04-22,-3,0,1
+DWHfqggD7KW,Cheetah Conservation Fund,ccfcheetah,2026-03-20,2026,3,12,4,Fri,0,79,World Rewilding Day,2026-03-20,0,1,1
+DXMYTYjlr_q,Ongava Game Reserve,ongavagamereserve,2026-04-16,2026,4,16,3,Thu,0,106,Earth Day,2026-04-22,-6,0,0
+DXQx2jFFrjg,Ongava Game Reserve,ongavagamereserve,2026-04-18,2026,4,16,5,Sat,1,108,Earth Day,2026-04-22,-4,0,0
+DXG8IUMDeZj,Ongava Game Reserve,ongavagamereserve,2026-04-14,2026,4,16,1,Tue,0,104,Earth Day,2026-04-22,-8,0,0
+DXEcMZZDgY7,Ongava Game Reserve,ongavagamereserve,2026-04-13,2026,4,16,0,Mon,0,103,Earth Day,2026-04-22,-9,0,0
+DXO2QOUln2I,Ongava Game Reserve,ongavagamereserve,2026-04-17,2026,4,16,4,Fri,0,107,Earth Day,2026-04-22,-5,0,0
+DW9CcE-D6SX,Ongava Game Reserve,ongavagamereserve,2026-04-10,2026,4,15,4,Fri,0,100,Earth Day,2026-04-22,-12,0,0
+DXWQDv-iRp8,Ongava Game Reserve,ongavagamereserve,2026-04-20,2026,4,17,0,Mon,0,110,Earth Day,2026-04-22,-2,0,1
+DXJnfgRDJCq,Elephant Human Relations Aid,ehranamibia,2026-04-15,2026,4,16,2,Wed,0,105,Earth Day,2026-04-22,-7,0,0
+DWgtt_SgXiB,Ongava Game Reserve,ongavagamereserve,2026-03-30,2026,3,14,0,Mon,0,89,Earth Hour,2026-03-28,2,0,1
+DWWoOTkjmc6,Ongava Game Reserve,ongavagamereserve,2026-03-26,2026,3,13,3,Thu,0,85,Earth Hour,2026-03-28,-2,0,1
+DW0itq8DiiZ,Ongava Game Reserve,ongavagamereserve,2026-04-07,2026,4,15,1,Tue,0,97,Earth Hour,2026-03-28,10,0,0
+DWnsHF-DQxD,Ongava Game Reserve,ongavagamereserve,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DUtRbGeCDvW,N/a'an ku se Foundation,naankuse_foundation,2026-02-13,2026,2,7,4,Fri,0,44,World Pangolin Day,2026-02-21,-8,0,0
+DXWUuVLiluH,Namibia Nature Foundation,namibia_nature_foundation,2026-04-20,2026,4,17,0,Mon,0,110,Earth Day,2026-04-22,-2,0,1
+DXLyjUAjZ73,Namibia Nature Foundation,namibia_nature_foundation,2026-04-16,2026,4,16,3,Thu,0,106,Earth Day,2026-04-22,-6,0,0
+DWELR2UDkdM,Ongava Game Reserve,ongavagamereserve,2026-03-19,2026,3,12,3,Thu,0,78,World Rewilding Day,2026-03-20,-1,1,1
+DXPE5MbDHp0,Elephant Human Relations Aid,ehranamibia,2026-04-17,2026,4,16,4,Fri,0,107,Earth Day,2026-04-22,-5,0,0
+DWatI5sjiv8,Ongava Game Reserve,ongavagamereserve,2026-03-28,2026,3,13,5,Sat,1,87,Earth Hour,2026-03-28,0,1,1
+DXbe6nYCnwx,Namibia Nature Foundation,namibia_nature_foundation,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DWlb0sNDFI2,Elephant Human Relations Aid,ehranamibia,2026-04-01,2026,4,14,2,Wed,0,91,Earth Hour,2026-03-28,4,0,0
+DW3daffjCif,Elephant Human Relations Aid,ehranamibia,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DXoz26sjP1a,Elephant Human Relations Aid,ehranamibia,2026-04-27,2026,4,18,0,Mon,0,117,World Penguin Day,2026-04-25,2,0,1
+DWtKKg3jMKm,Elephant Human Relations Aid,ehranamibia,2026-04-04,2026,4,14,5,Sat,1,94,Earth Hour,2026-03-28,7,0,0
+DXWhPTbE16s,Namibia Nature Foundation,namibia_nature_foundation,2026-04-20,2026,4,17,0,Mon,0,110,Earth Day,2026-04-22,-2,0,1
+DUi-O5xmKYK,N/a'an ku se Foundation,naankuse_foundation,2026-02-09,2026,2,7,0,Mon,0,40,World Wetlands Day,2026-02-02,7,0,0
+DWODCFVDkCp,Ongava Game Reserve,ongavagamereserve,2026-03-23,2026,3,13,0,Mon,0,82,World Meteorological Day,2026-03-23,0,1,1
+DXTqzuxjCXj,Elephant Human Relations Aid,ehranamibia,2026-04-19,2026,4,16,6,Sun,1,109,Earth Day,2026-04-22,-3,0,1
+DXgjOMjoc5M,Elephant Human Relations Aid,ehranamibia,2026-04-24,2026,4,17,4,Fri,0,114,World Penguin Day,2026-04-25,-1,1,1
+DUqspAglZWX,N/a'an ku se Foundation,naankuse_foundation,2026-02-12,2026,2,7,3,Thu,0,43,World Pangolin Day,2026-02-21,-9,0,0
+DV_Pa2ujuyN,Ongava Game Reserve,ongavagamereserve,2026-03-17,2026,3,12,1,Tue,0,76,World Rewilding Day,2026-03-20,-3,0,1
+DW3IxVCjip9,Ongava Game Reserve,ongavagamereserve,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DU0pr3KjK2K,N/a'an ku se Foundation,naankuse_foundation,2026-02-16,2026,2,8,0,Mon,0,47,World Pangolin Day,2026-02-21,-5,0,0
+DUv9CdXiIPB,N/a'an ku se Foundation,naankuse_foundation,2026-02-14,2026,2,7,5,Sat,1,45,World Pangolin Day,2026-02-21,-7,0,0
+DUk1QjjDDWR,N/a'an ku se Foundation,naankuse_foundation,2026-02-10,2026,2,7,1,Tue,0,41,World Wetlands Day,2026-02-02,8,0,0
+DUoHy9SjDWf,N/a'an ku se Foundation,naankuse_foundation,2026-02-11,2026,2,7,2,Wed,0,42,World Wetlands Day,2026-02-02,9,0,0
+DXbqi4PDIfu,Elephant Human Relations Aid,ehranamibia,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DWp8LUSDnGz,Ongava Game Reserve,ongavagamereserve,2026-04-03,2026,4,14,4,Fri,0,93,Earth Hour,2026-03-28,6,0,0
+DWyTxceDHN1,Elephant Human Relations Aid,ehranamibia,2026-04-06,2026,4,15,0,Mon,0,96,Earth Hour,2026-03-28,9,0,0
+DU81AbnCf5j,N/a'an ku se Foundation,naankuse_foundation,2026-02-19,2026,2,8,3,Thu,0,50,World Pangolin Day,2026-02-21,-2,0,1
+DU_MJCCghr8,N/a'an ku se Foundation,naankuse_foundation,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DU0kTVJiYGd,N/a'an ku se Foundation,naankuse_foundation,2026-02-16,2026,2,8,0,Mon,0,47,World Pangolin Day,2026-02-21,-5,0,0
+DU8KNrLDLWc,N/a'an ku se Foundation,naankuse_foundation,2026-02-19,2026,2,8,3,Thu,0,50,World Pangolin Day,2026-02-21,-2,0,1
+DRDKx7WjEV0,Giraffe Conservation Foundation,giraffe_conservation,2025-11-14,2025,11,46,4,Fri,0,318,World Fisheries Day,2025-11-21,-7,0,0
+DVZ3LZRElaC,Cheetah Conservation Fund,ccfcheetah,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DVXZSXLDLb0,Cheetah Conservation Fund,ccfcheetah,2026-03-02,2026,3,10,0,Mon,0,61,World Wildlife Day,2026-03-03,-1,1,1
+DVoFl_YDezG,Cheetah Conservation Fund,ccfcheetah,2026-03-08,2026,3,10,6,Sun,1,67,World Wildlife Day,2026-03-03,5,0,0
+DVghGJuDbWD,Cheetah Conservation Fund,ccfcheetah,2026-03-05,2026,3,10,3,Thu,0,64,World Wildlife Day,2026-03-03,2,0,1
+DVeHLEsEZn4,Cheetah Conservation Fund,ccfcheetah,2026-03-04,2026,3,10,2,Wed,0,63,World Wildlife Day,2026-03-03,1,1,1
+DVteIrHkpr9,Cheetah Conservation Fund,ccfcheetah,2026-03-10,2026,3,11,1,Tue,0,69,World Wildlife Day,2026-03-03,7,0,0
+DQ2L-kBgaVr,Giraffe Conservation Foundation,giraffe_conservation,2025-11-09,2025,11,45,6,Sun,1,313,World Fisheries Day,2025-11-21,-12,0,0
+DQ96W0vD9A5,Giraffe Conservation Foundation,giraffe_conservation,2025-11-12,2025,11,46,2,Wed,0,316,World Fisheries Day,2025-11-21,-9,0,0
+DVqtQN1Deaf,Cheetah Conservation Fund,ccfcheetah,2026-03-09,2026,3,11,0,Mon,0,68,World Wildlife Day,2026-03-03,6,0,0
+DVe15yLj6YW,Cheetah Conservation Fund,ccfcheetah,2026-03-05,2026,3,10,3,Thu,0,64,World Wildlife Day,2026-03-03,2,0,1
+DRVFd6ziFlp,Giraffe Conservation Foundation,giraffe_conservation,2025-11-21,2025,11,47,4,Fri,0,325,World Fisheries Day,2025-11-21,0,1,1
+DRaPEBQjOK7,Giraffe Conservation Foundation,giraffe_conservation,2025-11-23,2025,11,47,6,Sun,1,327,World Fisheries Day,2025-11-21,2,0,1
+DRIGtULDGKm,Giraffe Conservation Foundation,giraffe_conservation,2025-11-16,2025,11,46,6,Sun,1,320,World Fisheries Day,2025-11-21,-5,0,0
+DXWaGU2DI8-,Elephant Human Relations Aid,ehranamibia,2026-04-20,2026,4,17,0,Mon,0,110,Earth Day,2026-04-22,-2,0,1
+DVRbbXIiHaN,N/a'an ku se Foundation,naankuse_foundation,2026-02-27,2026,2,9,4,Fri,0,58,World Wildlife Day,2026-03-03,-4,0,0
+DV8V_PjFMlT,Ongava Game Reserve,ongavagamereserve,2026-03-16,2026,3,12,0,Mon,0,75,World Rewilding Day,2026-03-20,-4,0,0
+DVgPtlCDbl3,Ongava Game Reserve,ongavagamereserve,2026-03-05,2026,3,10,3,Thu,0,64,World Wildlife Day,2026-03-03,2,0,1
+DVSdPEfDGlm,Cheetah Conservation Fund,ccfcheetah,2026-02-28,2026,2,9,5,Sat,1,59,World Wildlife Day,2026-03-03,-3,0,1
+DVTW8GMjZim,Ongava Game Reserve,ongavagamereserve,2026-02-28,2026,2,9,5,Sat,1,59,World Wildlife Day,2026-03-03,-3,0,1
+DQpT_FHjeeA,Giraffe Conservation Foundation,giraffe_conservation,2025-11-04,2025,11,45,1,Tue,0,308,World Fisheries Day,2025-11-21,-17,0,0
+DVmWaukkpqC,Ongava Game Reserve,ongavagamereserve,2026-03-07,2026,3,10,5,Sat,1,66,World Wildlife Day,2026-03-03,4,0,0
+DVo7FqKjnUw,Ongava Game Reserve,ongavagamereserve,2026-03-08,2026,3,10,6,Sun,1,67,World Wildlife Day,2026-03-03,5,0,0
+DQr4xc2jBxf,Giraffe Conservation Foundation,giraffe_conservation,2025-11-05,2025,11,45,2,Wed,0,309,World Fisheries Day,2025-11-21,-16,0,0
+DVbLx5hjV9r,Ongava Game Reserve,ongavagamereserve,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DV8bdWGGfP1,Elephant Human Relations Aid,ehranamibia,2026-03-16,2026,3,12,0,Mon,0,75,World Rewilding Day,2026-03-20,-4,0,0
+DVdps8pDG1E,Elephant Human Relations Aid,ehranamibia,2026-03-04,2026,3,10,2,Wed,0,63,World Wildlife Day,2026-03-03,1,1,1
+DV3ir46kge2,Elephant Human Relations Aid,ehranamibia,2026-03-14,2026,3,11,5,Sat,1,73,World Rewilding Day,2026-03-20,-6,0,0
+DVHpOKMj7dH,Cheetah Conservation Fund,ccfcheetah,2026-02-23,2026,2,9,0,Mon,0,54,World Pangolin Day,2026-02-21,2,0,1
+DWRTGNGlQCt,Ongava Game Reserve,ongavagamereserve,2026-03-24,2026,3,13,1,Tue,0,83,World Meteorological Day,2026-03-23,1,1,1
+DVLlSpkFEpk,Ongava Game Reserve,ongavagamereserve,2026-02-25,2026,2,9,2,Wed,0,56,World Pangolin Day,2026-02-21,4,0,0
+DWGywKJiuW1,Namibia Nature Foundation,namibia_nature_foundation,2026-03-20,2026,3,12,4,Fri,0,79,World Rewilding Day,2026-03-20,0,1,1
+DWgSNwADO1W,Elephant Human Relations Aid,ehranamibia,2026-03-30,2026,3,14,0,Mon,0,89,Earth Hour,2026-03-28,2,0,1
+DUtUiVNjyqn,Cheetah Conservation Fund,ccfcheetah,2026-02-13,2026,2,7,4,Fri,0,44,World Pangolin Day,2026-02-21,-8,0,0
+DVnOjbSjT6J,Ongava Game Reserve,ongavagamereserve,2026-03-08,2026,3,10,6,Sun,1,67,World Wildlife Day,2026-03-03,5,0,0
+DVyb81qEv7Z,Elephant Human Relations Aid,ehranamibia,2026-03-12,2026,3,11,3,Thu,0,71,World Rewilding Day,2026-03-20,-8,0,0
+DWQ_vNvDHIN,Elephant Human Relations Aid,ehranamibia,2026-03-24,2026,3,13,1,Tue,0,83,World Meteorological Day,2026-03-23,1,1,1
+DVGseIDDyuy,Cheetah Conservation Fund,ccfcheetah,2026-02-23,2026,2,9,0,Mon,0,54,World Pangolin Day,2026-02-21,2,0,1
+DWMOLvjI0E1,Elephant Human Relations Aid,ehranamibia,2026-03-22,2026,3,12,6,Sun,1,81,World Water Day,2026-03-22,0,1,1
+DViwwfADNh2,Elephant Human Relations Aid,ehranamibia,2026-03-06,2026,3,10,4,Fri,0,65,World Wildlife Day,2026-03-03,3,0,1
+DVPx65yjFAk,Cheetah Conservation Fund,ccfcheetah,2026-02-27,2026,2,9,4,Fri,0,58,World Wildlife Day,2026-03-03,-4,0,0
+DWHAQoDDCFJ,Elephant Human Relations Aid,ehranamibia,2026-03-20,2026,3,12,4,Fri,0,79,World Rewilding Day,2026-03-20,0,1,1
+DU--e3nDTLy,Cheetah Conservation Fund,ccfcheetah,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DWYj25RjKBe,Elephant Human Relations Aid,ehranamibia,2026-03-27,2026,3,13,4,Fri,0,86,Earth Hour,2026-03-28,-1,1,1
+DUwbUUNj_NO,Cheetah Conservation Fund,ccfcheetah,2026-02-14,2026,2,7,5,Sat,1,45,World Pangolin Day,2026-02-21,-7,0,0
+DWOp8pRgrY-,Namibia Nature Foundation,namibia_nature_foundation,2026-03-23,2026,3,13,0,Mon,0,82,World Meteorological Day,2026-03-23,0,1,1
+DVKnOCFkeoh,Cheetah Conservation Fund,ccfcheetah,2026-02-25,2026,2,9,2,Wed,0,56,World Pangolin Day,2026-02-21,4,0,0
+DWI1jSjCECU,Namibia Nature Foundation,namibia_nature_foundation,2026-03-21,2026,3,12,5,Sat,1,80,Namibia Independence Day,2026-03-21,0,1,1
+DVRh1txjwyW,Cheetah Conservation Fund,ccfcheetah,2026-02-27,2026,2,9,4,Fri,0,58,World Wildlife Day,2026-03-03,-4,0,0
+DWlx5zxDR9z,Namibia Nature Foundation,namibia_nature_foundation,2026-04-01,2026,4,14,2,Wed,0,91,Earth Hour,2026-03-28,4,0,0
+DWW2_T3iBZt,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-26,2026,3,13,3,Thu,0,85,Earth Hour,2026-03-28,-2,0,1
+DXJDgC_j8QH,Namibia Nature Foundation,namibia_nature_foundation,2026-04-15,2026,4,16,2,Wed,0,105,Earth Day,2026-04-22,-7,0,0
+DXG_Rg6gKjW,Namibia Nature Foundation,namibia_nature_foundation,2026-04-14,2026,4,16,1,Tue,0,104,Earth Day,2026-04-22,-8,0,0
+DXGuQgdClUM,Namibia Nature Foundation,namibia_nature_foundation,2026-04-14,2026,4,16,1,Tue,0,104,Earth Day,2026-04-22,-8,0,0
+DRh9fYtF7oD,Giraffe Conservation Foundation,giraffe_conservation,2025-11-26,2025,11,48,2,Wed,0,330,World Fisheries Day,2025-11-21,5,0,0
+DWIr7PTE4-T,Namibia Nature Foundation,namibia_nature_foundation,2026-03-21,2026,3,12,5,Sat,1,80,Namibia Independence Day,2026-03-21,0,1,1
+DQkKY5FCLco,Giraffe Conservation Foundation,giraffe_conservation,2025-11-02,2025,11,44,6,Sun,1,306,World Fisheries Day,2025-11-21,-19,0,0
+DRnHDGCDVEp,Giraffe Conservation Foundation,giraffe_conservation,2025-11-28,2025,11,48,4,Fri,0,332,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-6,0,0
+DXhaLKmlu0M,Ongava Game Reserve,ongavagamereserve,2026-04-24,2026,4,17,4,Fri,0,114,World Penguin Day,2026-04-25,-1,1,1
+DVDHgPFCJDL,Ongava Game Reserve,ongavagamereserve,2026-02-22,2026,2,8,6,Sun,1,53,World Pangolin Day,2026-02-21,1,1,1
+DV3ClNUjpXi,Ongava Game Reserve,ongavagamereserve,2026-03-14,2026,3,11,5,Sat,1,73,World Rewilding Day,2026-03-20,-6,0,0
+DWOMpv0ipjl,Gobabeb Research & Training Centre,gobabeb,2026-03-23,2026,3,13,0,Mon,0,82,World Meteorological Day,2026-03-23,0,1,1
+DRjkb12glvq,Giraffe Conservation Foundation,giraffe_conservation,2025-11-27,2025,11,48,3,Thu,0,331,World Fisheries Day,2025-11-21,6,0,0
+DU5pU_UjQsQ,Cheetah Conservation Fund,ccfcheetah,2026-02-18,2026,2,8,2,Wed,0,49,World Pangolin Day,2026-02-21,-3,0,1
+DWYWQYjjZtc,Gobabeb Research & Training Centre,gobabeb,2026-03-27,2026,3,13,4,Fri,0,86,Earth Hour,2026-03-28,-1,1,1
+DWa67ppjZEz,Gobabeb Research & Training Centre,gobabeb,2026-03-28,2026,3,13,5,Sat,1,87,Earth Hour,2026-03-28,0,1,1
+DWipTbxDK8S,Gobabeb Research & Training Centre,gobabeb,2026-03-31,2026,3,14,1,Tue,0,90,Earth Hour,2026-03-28,3,0,1
+DWgIriWDQxg,Gobabeb Research & Training Centre,gobabeb,2026-03-30,2026,3,14,0,Mon,0,89,Earth Hour,2026-03-28,2,0,1
+DWlOT-GDX6g,Gobabeb Research & Training Centre,gobabeb,2026-04-01,2026,4,14,2,Wed,0,91,Earth Hour,2026-03-28,4,0,0
+DVgC6V2ioa5,Gobabeb Research & Training Centre,gobabeb,2026-03-05,2026,3,10,3,Thu,0,64,World Wildlife Day,2026-03-03,2,0,1
+DVTDeXjjmMZ,Gobabeb Research & Training Centre,gobabeb,2026-02-28,2026,2,9,5,Sat,1,59,World Wildlife Day,2026-03-03,-3,0,1
+DU50x96jR1d,Gobabeb Research & Training Centre,gobabeb,2026-02-18,2026,2,8,2,Wed,0,49,World Pangolin Day,2026-02-21,-3,0,1
+DVyESaDDdiT,Gobabeb Research & Training Centre,gobabeb,2026-03-12,2026,3,11,3,Thu,0,71,World Rewilding Day,2026-03-20,-8,0,0
+DVI864ZjNsa,Gobabeb Research & Training Centre,gobabeb,2026-02-24,2026,2,9,1,Tue,0,55,World Pangolin Day,2026-02-21,3,0,1
+DVLjRgJDs5J,Gobabeb Research & Training Centre,gobabeb,2026-02-25,2026,2,9,2,Wed,0,56,World Pangolin Day,2026-02-21,4,0,0
+DR1lAl1DNyj,WWF Namibia,wwfnamibia,2025-12-04,2025,12,49,3,Thu,0,338,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,0,1,1
+DVtYmYXDoF9,Gobabeb Research & Training Centre,gobabeb,2026-03-10,2026,3,11,1,Tue,0,69,World Wildlife Day,2026-03-03,7,0,0
+DRoh4CgjIdg,WWF Namibia,wwfnamibia,2025-11-29,2025,11,48,5,Sat,1,333,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-5,0,0
+DV1DmH0CkLB,Gobabeb Research & Training Centre,gobabeb,2026-03-13,2026,3,11,4,Fri,0,72,World Rewilding Day,2026-03-20,-7,0,0
+DSSZ_zZjCkl,WWF Namibia,wwfnamibia,2025-12-15,2025,12,51,0,Mon,0,349,World Soil Day,2025-12-05,10,0,0
+DSVAuMcDEaR,WWF Namibia,wwfnamibia,2025-12-16,2025,12,51,1,Tue,0,350,World Soil Day,2025-12-05,11,0,0
+DVOUUsFiHNk,Namibia Nature Foundation,namibia_nature_foundation,2026-02-26,2026,2,9,3,Thu,0,57,World Pangolin Day,2026-02-21,5,0,0
+DVYvl7RiVL5,Gobabeb Research & Training Centre,gobabeb,2026-03-02,2026,3,10,0,Mon,0,61,World Wildlife Day,2026-03-03,-1,1,1
+DRZpsCYDKQo,WWF Namibia,wwfnamibia,2025-11-23,2025,11,47,6,Sun,1,327,World Fisheries Day,2025-11-21,2,0,1
+DU0iQhODA9h,Elephant Human Relations Aid,ehranamibia,2026-02-16,2026,2,8,0,Mon,0,47,World Pangolin Day,2026-02-21,-5,0,0
+DRjpDiHjHFV,WWF Namibia,wwfnamibia,2025-11-27,2025,11,48,3,Thu,0,331,World Fisheries Day,2025-11-21,6,0,0
+DVlOuZXjkcq,Gobabeb Research & Training Centre,gobabeb,2026-03-07,2026,3,10,5,Sat,1,66,World Wildlife Day,2026-03-03,4,0,0
+DVOGgyQDCdJ,Gobabeb Research & Training Centre,gobabeb,2026-02-26,2026,2,9,3,Thu,0,57,World Pangolin Day,2026-02-21,5,0,0
+DUi1DKFEswt,Cheetah Conservation Fund,ccfcheetah,2026-02-09,2026,2,7,0,Mon,0,40,World Wetlands Day,2026-02-02,7,0,0
+DVTacFEDDjq,Elephant Human Relations Aid,ehranamibia,2026-02-28,2026,2,9,5,Sat,1,59,World Wildlife Day,2026-03-03,-3,0,1
+DRbhlL9jFj-,WWF Namibia,wwfnamibia,2025-11-24,2025,11,48,0,Mon,0,328,World Fisheries Day,2025-11-21,3,0,1
+DUamruyjIvp,Elephant Human Relations Aid,ehranamibia,2026-02-06,2026,2,6,4,Fri,0,37,World Wetlands Day,2026-02-02,4,0,0
+DU8Q-V6Eh8X,Elephant Human Relations Aid,ehranamibia,2026-02-19,2026,2,8,3,Thu,0,50,World Pangolin Day,2026-02-21,-2,0,1
+DVakVfSCFgS,Namibia Nature Foundation,namibia_nature_foundation,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DUq4ZLtj73l,Cheetah Conservation Fund,ccfcheetah,2026-02-12,2026,2,7,3,Thu,0,43,World Pangolin Day,2026-02-21,-9,0,0
+DVOQ3h4DCqP,Elephant Human Relations Aid,ehranamibia,2026-02-26,2026,2,9,3,Thu,0,57,World Pangolin Day,2026-02-21,5,0,0
+DVIvSh2jPbB,Elephant Human Relations Aid,ehranamibia,2026-02-24,2026,2,9,1,Tue,0,55,World Pangolin Day,2026-02-21,3,0,1
+DU-1O9BCJ5U,Namibia Nature Foundation,namibia_nature_foundation,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DU_BedZDHK_,Elephant Human Relations Aid,ehranamibia,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DUlJ-T9DMsS,Elephant Human Relations Aid,ehranamibia,2026-02-10,2026,2,7,1,Tue,0,41,World Wetlands Day,2026-02-02,8,0,0
+DVan0V-iFrF,Namibia Nature Foundation,namibia_nature_foundation,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DU-z_9ziHyK,Namibia Nature Foundation,namibia_nature_foundation,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DUVa739DPUG,Elephant Human Relations Aid,ehranamibia,2026-02-04,2026,2,6,2,Wed,0,35,World Wetlands Day,2026-02-02,2,0,1
+DTe7EkljNLD,WWF Namibia,wwfnamibia,2026-01-14,2026,1,3,2,Wed,0,14,World Wetlands Day,2026-02-02,-19,0,0
+DWB8QHqjWrn,Namibia Nature Foundation,namibia_nature_foundation,2026-03-18,2026,3,12,2,Wed,0,77,World Rewilding Day,2026-03-20,-2,0,1
+DVdH45gAVk4,Namibia Nature Foundation,namibia_nature_foundation,2026-03-04,2026,3,10,2,Wed,0,63,World Wildlife Day,2026-03-03,1,1,1
+DUQkt2iDA7P,Elephant Human Relations Aid,ehranamibia,2026-02-02,2026,2,6,0,Mon,0,33,World Wetlands Day,2026-02-02,0,1,1
+DUGHK9qjPW3,Elephant Human Relations Aid,ehranamibia,2026-01-28,2026,1,5,2,Wed,0,28,World Wetlands Day,2026-02-02,-5,0,0
+DVslJUkiCXw,Namibia Nature Foundation,namibia_nature_foundation,2026-03-10,2026,3,11,1,Tue,0,69,World Wildlife Day,2026-03-03,7,0,0
+DUDUlzWDmzd,Ongava Game Reserve,ongavagamereserve,2026-01-28,2026,1,5,2,Wed,0,28,World Wetlands Day,2026-02-02,-5,0,0
+DWGMzA5iEYq,Namibia Nature Foundation,namibia_nature_foundation,2026-03-20,2026,3,12,4,Fri,0,79,World Rewilding Day,2026-03-20,0,1,1
+DULC8MvjkTx,Ongava Game Reserve,ongavagamereserve,2026-01-31,2026,1,5,5,Sat,1,31,World Wetlands Day,2026-02-02,-2,0,1
+DUQMkcKCKzR,Ongava Game Reserve,ongavagamereserve,2026-02-02,2026,2,6,0,Mon,0,33,World Wetlands Day,2026-02-02,0,1,1
+DVqFzwkiKC1,Namibia Nature Foundation,namibia_nature_foundation,2026-03-09,2026,3,11,0,Mon,0,68,World Wildlife Day,2026-03-03,6,0,0
+DQ33W_MDIWT,WWF Namibia,wwfnamibia,2025-11-10,2025,11,46,0,Mon,0,314,World Fisheries Day,2025-11-21,-11,0,0
+DQwc21VjCay,WWF Namibia,wwfnamibia,2025-11-07,2025,11,45,4,Fri,0,311,World Fisheries Day,2025-11-21,-14,0,0
+DTrtFpEjvQr,Ongava Game Reserve,ongavagamereserve,2026-01-19,2026,1,4,0,Mon,0,19,World Wetlands Day,2026-02-02,-14,0,0
+DSrIVS5jgIs,Ongava Game Reserve,ongavagamereserve,2025-12-25,2025,12,52,3,Thu,0,359,World Soil Day,2025-12-05,20,0,0
+DT2qXbkDhAW,Ongava Game Reserve,ongavagamereserve,2026-01-23,2026,1,4,4,Fri,0,23,World Wetlands Day,2026-02-02,-10,0,0
+DTHj9wWDrOW,Ongava Game Reserve,ongavagamereserve,2026-01-05,2026,1,2,0,Mon,0,5,World Wetlands Day,2026-02-02,-28,0,0
+DTz6o0ADgsG,Ongava Game Reserve,ongavagamereserve,2026-01-22,2026,1,4,3,Thu,0,22,World Wetlands Day,2026-02-02,-11,0,0
+DROlo6ODMZ2,WWF Namibia,wwfnamibia,2025-11-19,2025,11,47,2,Wed,0,323,World Fisheries Day,2025-11-21,-2,0,1
+DTMth9CDqsA,Ongava Game Reserve,ongavagamereserve,2026-01-07,2026,1,2,2,Wed,0,7,World Wetlands Day,2026-02-02,-26,0,0
+DS1iZTWjqdX,Ongava Game Reserve,ongavagamereserve,2025-12-29,2025,12,1,0,Mon,0,363,World Soil Day,2025-12-05,24,0,0
+DTCaWV3DqXt,Ongava Game Reserve,ongavagamereserve,2026-01-03,2026,1,1,5,Sat,1,3,World Soil Day,2025-12-05,29,0,0
+DSRfVglE9R7,Namibia Nature Foundation,namibia_nature_foundation,2025-12-15,2025,12,51,0,Mon,0,349,World Soil Day,2025-12-05,10,0,0
+DSUdHpljhNG,Namibia Nature Foundation,namibia_nature_foundation,2025-12-16,2025,12,51,1,Tue,0,350,World Soil Day,2025-12-05,11,0,0
+DTu6OvXDGvb,Elephant Human Relations Aid,ehranamibia,2026-01-20,2026,1,4,1,Tue,0,20,World Wetlands Day,2026-02-02,-13,0,0
+DUak3CWihKh,Namibia Nature Foundation,namibia_nature_foundation,2026-02-06,2026,2,6,4,Fri,0,37,World Wetlands Day,2026-02-02,4,0,0
+DTc2Yz7FK4g,Ongava Game Reserve,ongavagamereserve,2026-01-13,2026,1,3,1,Tue,0,13,World Wetlands Day,2026-02-02,-20,0,0
+DTpriFKDEoy,Elephant Human Relations Aid,ehranamibia,2026-01-18,2026,1,3,6,Sun,1,18,World Wetlands Day,2026-02-02,-15,0,0
+DUAvy1HCrdK,Ongava Game Reserve,ongavagamereserve,2026-01-27,2026,1,5,1,Tue,0,27,World Wetlands Day,2026-02-02,-6,0,0
+DTpkqRcjKoI,Elephant Human Relations Aid,ehranamibia,2026-01-16,2026,1,3,4,Fri,0,16,World Wetlands Day,2026-02-02,-17,0,0
+DUDwkx3CoSw,Gobabeb Research & Training Centre,gobabeb,2026-01-28,2026,1,5,2,Wed,0,28,World Wetlands Day,2026-02-02,-5,0,0
+DTdBVo0DE80,Elephant Human Relations Aid,ehranamibia,2026-01-14,2026,1,3,2,Wed,0,14,World Wetlands Day,2026-02-02,-19,0,0
+DU-z0VTCIDD,Namibia Nature Foundation,namibia_nature_foundation,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DTQJTa4DCHb,Elephant Human Relations Aid,ehranamibia,2026-01-08,2026,1,2,3,Thu,0,8,World Wetlands Day,2026-02-02,-25,0,0
+DT-LDRWDLjo,Elephant Human Relations Aid,ehranamibia,2026-01-26,2026,1,5,0,Mon,0,26,World Wetlands Day,2026-02-02,-7,0,0
+DUYS-aeDTbR,Gobabeb Research & Training Centre,gobabeb,2026-02-05,2026,2,6,3,Thu,0,36,World Wetlands Day,2026-02-02,3,0,1
+DUIs9smjU9U,Gobabeb Research & Training Centre,gobabeb,2026-01-30,2026,1,5,4,Fri,0,30,World Wetlands Day,2026-02-02,-3,0,1
+DUFkxsrAbe6,Gobabeb Research & Training Centre,gobabeb,2026-01-29,2026,1,5,3,Thu,0,29,World Wetlands Day,2026-02-02,-4,0,0
+DTZwVuyDPzv,Elephant Human Relations Aid,ehranamibia,2026-01-12,2026,1,3,0,Mon,0,12,World Wetlands Day,2026-02-02,-21,0,0
+DS8gr-cjs7N,Ongava Game Reserve,ongavagamereserve,2025-12-31,2025,12,1,2,Wed,0,365,World Soil Day,2025-12-05,26,0,0
+DQ_R3ppjGei,WWF Namibia,wwfnamibia,2025-11-13,2025,11,46,3,Thu,0,317,World Fisheries Day,2025-11-21,-8,0,0
+DUlFFvqlza-,Gobabeb Research & Training Centre,gobabeb,2026-02-10,2026,2,7,1,Tue,0,41,World Wetlands Day,2026-02-02,8,0,0
+DUu_PDljEOn,Gobabeb Research & Training Centre,gobabeb,2026-02-14,2026,2,7,5,Sat,1,45,World Pangolin Day,2026-02-21,-7,0,0
+DUsTl7-CLzI,Gobabeb Research & Training Centre,gobabeb,2026-02-13,2026,2,7,4,Fri,0,44,World Pangolin Day,2026-02-21,-8,0,0
+DUirI8jCpq9,Gobabeb Research & Training Centre,gobabeb,2026-02-09,2026,2,7,0,Mon,0,40,World Wetlands Day,2026-02-02,7,0,0
+DUm4LN7ij2P,Gobabeb Research & Training Centre,gobabeb,2026-02-11,2026,2,7,2,Wed,0,42,World Wetlands Day,2026-02-02,9,0,0
+DUxWVHkkQKe,Gobabeb Research & Training Centre,gobabeb,2026-02-15,2026,2,7,6,Sun,1,46,World Pangolin Day,2026-02-21,-6,0,0
+DTz7HPojK0l,Elephant Human Relations Aid,ehranamibia,2026-01-22,2026,1,4,3,Thu,0,22,World Wetlands Day,2026-02-02,-11,0,0
+DUSPBlNAdD2,Gobabeb Research & Training Centre,gobabeb,2026-02-03,2026,2,6,1,Tue,0,34,World Wetlands Day,2026-02-02,1,1,1
+DUz7IcljPlu,Gobabeb Research & Training Centre,gobabeb,2026-02-16,2026,2,8,0,Mon,0,47,World Pangolin Day,2026-02-21,-5,0,0
+DR_9tu4DEa9,WWF Namibia,wwfnamibia,2025-12-08,2025,12,50,0,Mon,0,342,World Soil Day,2025-12-05,3,0,1
+DTSSRVGDovn,Gobabeb Research & Training Centre,gobabeb,2026-01-09,2026,1,2,4,Fri,0,9,World Wetlands Day,2026-02-02,-24,0,0
+DSAAY7CCL0h,Namibia Nature Foundation,namibia_nature_foundation,2025-12-08,2025,12,50,0,Mon,0,342,World Soil Day,2025-12-05,3,0,1
+DRUoRnVip6U,Namibia Nature Foundation,namibia_nature_foundation,2025-11-21,2025,11,47,4,Fri,0,325,World Fisheries Day,2025-11-21,0,1,1
+DTkwKMyDiTL,Gobabeb Research & Training Centre,gobabeb,2026-01-16,2026,1,3,4,Fri,0,16,World Wetlands Day,2026-02-02,-17,0,0
+DRwLY29iqCu,Namibia Nature Foundation,namibia_nature_foundation,2025-12-02,2025,12,49,1,Tue,0,336,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-2,0,1
+DRysmMAjjkE,Ongava Game Reserve,ongavagamereserve,2025-12-03,2025,12,49,2,Wed,0,337,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-1,1,1
+DTZ8t_rjf0K,Gobabeb Research & Training Centre,gobabeb,2026-01-12,2026,1,3,0,Mon,0,12,World Wetlands Day,2026-02-02,-21,0,0
+DRkD-f8ChaE,Namibia Nature Foundation,namibia_nature_foundation,2025-11-27,2025,11,48,3,Thu,0,331,World Fisheries Day,2025-11-21,6,0,0
+DTP7j3RDHLk,Gobabeb Research & Training Centre,gobabeb,2026-01-08,2026,1,2,3,Thu,0,8,World Wetlands Day,2026-02-02,-25,0,0
+DRyly-3Elxh,Namibia Nature Foundation,namibia_nature_foundation,2025-12-03,2025,12,49,2,Wed,0,337,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-1,1,1
+DSRmHo9jktf,Ongava Game Reserve,ongavagamereserve,2025-12-15,2025,12,51,0,Mon,0,349,World Soil Day,2025-12-05,10,0,0
+DT0Ic-vDqZS,Gobabeb Research & Training Centre,gobabeb,2026-01-22,2026,1,4,3,Thu,0,22,World Wetlands Day,2026-02-02,-11,0,0
+DRoZZFWDisZ,Ongava Game Reserve,ongavagamereserve,2025-11-29,2025,11,48,5,Sat,1,333,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-5,0,0
+DUafvG0Dt8S,Ongava Game Reserve,ongavagamereserve,2026-02-06,2026,2,6,4,Fri,0,37,World Wetlands Day,2026-02-02,4,0,0
+DTczhoqCMi3,Gobabeb Research & Training Centre,gobabeb,2026-01-13,2026,1,3,1,Tue,0,13,World Wetlands Day,2026-02-02,-20,0,0
+DTxbld2jk4g,Gobabeb Research & Training Centre,gobabeb,2026-01-21,2026,1,4,2,Wed,0,21,World Wetlands Day,2026-02-02,-12,0,0
+DSjumFdDrHH,Ongava Game Reserve,ongavagamereserve,2025-12-22,2025,12,52,0,Mon,0,356,World Soil Day,2025-12-05,17,0,0
+DTsjxydDrqm,Gobabeb Research & Training Centre,gobabeb,2026-01-19,2026,1,4,0,Mon,0,19,World Wetlands Day,2026-02-02,-14,0,0
+DSWvw0ojpo2,Ongava Game Reserve,ongavagamereserve,2025-12-17,2025,12,51,2,Wed,0,351,World Soil Day,2025-12-05,12,0,0
+DRUeLV4kVdA,Namibia Nature Foundation,namibia_nature_foundation,2025-11-21,2025,11,47,4,Fri,0,325,World Fisheries Day,2025-11-21,0,1,1
+DRti-4hkrSH,Ongava Game Reserve,ongavagamereserve,2025-12-01,2025,12,49,0,Mon,0,335,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-3,0,1
+DSANRZ7Csag,Namibia Nature Foundation,namibia_nature_foundation,2025-12-08,2025,12,50,0,Mon,0,342,World Soil Day,2025-12-05,3,0,1
+DRylxXvCGVv,Namibia Nature Foundation,namibia_nature_foundation,2025-12-03,2025,12,49,2,Wed,0,337,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-1,1,1
+DUVWG6IDlEW,Ongava Game Reserve,ongavagamereserve,2026-02-04,2026,2,6,2,Wed,0,35,World Wetlands Day,2026-02-02,2,0,1
+DSHS8tCjoMU,Ongava Game Reserve,ongavagamereserve,2025-12-11,2025,12,50,3,Thu,0,345,World Soil Day,2025-12-05,6,0,0
+DSo4McVCYZ-,Ongava Game Reserve,ongavagamereserve,2025-12-24,2025,12,52,2,Wed,0,358,World Soil Day,2025-12-05,19,0,0
+DTxnqemDkJW,Gobabeb Research & Training Centre,gobabeb,2026-01-21,2026,1,4,2,Wed,0,21,World Wetlands Day,2026-02-02,-12,0,0
+DScAMoqDGfB,Ongava Game Reserve,ongavagamereserve,2025-12-19,2025,12,51,4,Fri,0,353,World Soil Day,2025-12-05,14,0,0
+DR32LTpDqq9,Ongava Game Reserve,ongavagamereserve,2025-12-05,2025,12,49,4,Fri,0,339,World Soil Day,2025-12-05,0,1,1
+DSMjgNigije,Ongava Game Reserve,ongavagamereserve,2025-12-13,2025,12,50,5,Sat,1,347,World Soil Day,2025-12-05,8,0,0
+DUl-h-iDtVF,Ongava Game Reserve,ongavagamereserve,2026-02-10,2026,2,7,1,Tue,0,41,World Wetlands Day,2026-02-02,8,0,0
+DWn0BodDtvi,Gobabeb Research & Training Centre,gobabeb,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DU2k5TgCEm4,Ongava Game Reserve,ongavagamereserve,2026-02-17,2026,2,8,1,Tue,0,48,World Pangolin Day,2026-02-21,-4,0,0
+DRkDGmqil3i,Namibia Nature Foundation,namibia_nature_foundation,2025-11-27,2025,11,48,3,Thu,0,331,World Fisheries Day,2025-11-21,6,0,0
+DUvBEwdiOJq,Ongava Game Reserve,ongavagamereserve,2026-02-14,2026,2,7,5,Sat,1,45,World Pangolin Day,2026-02-21,-7,0,0
+DU-uqVPiIUw,Ongava Game Reserve,ongavagamereserve,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DU0deWyDr98,Ongava Game Reserve,ongavagamereserve,2026-02-16,2026,2,8,0,Mon,0,47,World Pangolin Day,2026-02-21,-5,0,0
+DSCJVfvDiLC,Ongava Game Reserve,ongavagamereserve,2025-12-09,2025,12,50,1,Tue,0,343,World Soil Day,2025-12-05,4,0,0
+DW3h9rpioLY,Gobabeb Research & Training Centre,gobabeb,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DUGAYhbjqCg,Save the Rhino Trust Namibia,savetherhinonamibia,2026-01-29,2026,1,5,3,Thu,0,29,World Wetlands Day,2026-02-02,-4,0,0
+DUF8p2CDAtQ,WWF Namibia,wwfnamibia,2026-01-29,2026,1,5,3,Thu,0,29,World Wetlands Day,2026-02-02,-4,0,0
+DU3V6-wjMVm,WWF Namibia,wwfnamibia,2026-02-17,2026,2,8,1,Tue,0,48,World Pangolin Day,2026-02-21,-4,0,0
+DW6B_l-iuQh,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-09,2026,4,15,3,Thu,0,99,Earth Hour,2026-03-28,12,0,0
+DXLuD9Wijhj,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-16,2026,4,16,3,Thu,0,106,Earth Day,2026-04-22,-6,0,0
+DUiOGOniVHI,Ongava Game Reserve,ongavagamereserve,2026-02-09,2026,2,7,0,Mon,0,40,World Wetlands Day,2026-02-02,7,0,0
+DSrLZqAACD4,Save the Rhino Trust Namibia,savetherhinonamibia,2025-12-25,2025,12,52,3,Thu,0,359,World Soil Day,2025-12-05,20,0,0
+DSmTYczjsqm,Save the Rhino Trust Namibia,savetherhinonamibia,2025-12-23,2025,12,52,1,Tue,0,357,World Soil Day,2025-12-05,18,0,0
+DTw-cFFjt7_,Save the Rhino Trust Namibia,savetherhinonamibia,2026-01-21,2026,1,4,2,Wed,0,21,World Wetlands Day,2026-02-02,-12,0,0
+DW6RMLZinP8,Gobabeb Research & Training Centre,gobabeb,2026-04-09,2026,4,15,3,Thu,0,99,Earth Hour,2026-03-28,12,0,0
+DXZHhSxCp6z,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-21,2026,4,17,1,Tue,0,111,Earth Day,2026-04-22,-1,1,1
+DTSTWrNDnOT,Gobabeb Research & Training Centre,gobabeb,2026-01-09,2026,1,2,4,Fri,0,9,World Wetlands Day,2026-02-02,-24,0,0
+DXbqlj7CmfU,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DUDNt00DuTz,Save the Rhino Trust Namibia,savetherhinonamibia,2026-01-28,2026,1,5,2,Wed,0,28,World Wetlands Day,2026-02-02,-5,0,0
+DXOW8EeCnoE,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-17,2026,4,16,4,Fri,0,107,Earth Day,2026-04-22,-5,0,0
+DXEgAVWCtkH,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-13,2026,4,16,0,Mon,0,103,Earth Day,2026-04-22,-9,0,0
+DTxCXWpDE4V,WWF Namibia,wwfnamibia,2026-01-21,2026,1,4,2,Wed,0,21,World Wetlands Day,2026-02-02,-12,0,0
+DS1wKIEjqZf,Save the Rhino Trust Namibia,savetherhinonamibia,2025-12-29,2025,12,1,0,Mon,0,363,World Soil Day,2025-12-05,24,0,0
+DXeGKudihBK,Namibia Nature Foundation,namibia_nature_foundation,2026-04-23,2026,4,17,3,Thu,0,113,Earth Day,2026-04-22,1,1,1
+DTHxtDGDjph,Save the Rhino Trust Namibia,savetherhinonamibia,2026-01-05,2026,1,2,0,Mon,0,5,World Wetlands Day,2026-02-02,-28,0,0
+DW8ck9sijNW,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-10,2026,4,15,4,Fri,0,100,Earth Day,2026-04-22,-12,0,0
+DXbo4bICltt,Namibia Nature Foundation,namibia_nature_foundation,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DQyN13UDdWR,Ongava Game Reserve,ongavagamereserve,2025-11-08,2025,11,45,5,Sat,1,312,World Fisheries Day,2025-11-21,-13,0,0
+DXodK1uCjQS,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-27,2026,4,18,0,Mon,0,117,World Penguin Day,2026-04-25,2,0,1
+DQ_hY2pDcxc,Namibia Nature Foundation,namibia_nature_foundation,2025-11-13,2025,11,46,3,Thu,0,317,World Fisheries Day,2025-11-21,-8,0,0
+DQ9QJa0iknB,Namibia Nature Foundation,namibia_nature_foundation,2025-11-12,2025,11,46,2,Wed,0,316,World Fisheries Day,2025-11-21,-9,0,0
+DSCwOfFDlpl,Gobabeb Research & Training Centre,gobabeb,2025-12-09,2025,12,50,1,Tue,0,343,World Soil Day,2025-12-05,4,0,0
+DRgkG3FDuJS,Ongava Game Reserve,ongavagamereserve,2025-11-26,2025,11,48,2,Wed,0,330,World Fisheries Day,2025-11-21,5,0,0
+DRzYNeKCo0L,Gobabeb Research & Training Centre,gobabeb,2025-12-03,2025,12,49,2,Wed,0,337,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-1,1,1
+DRL9xcejsyu,Ongava Game Reserve,ongavagamereserve,2025-11-18,2025,11,47,1,Tue,0,322,World Fisheries Day,2025-11-21,-3,0,1
+DRKJ-EZigFp,Namibia Nature Foundation,namibia_nature_foundation,2025-11-17,2025,11,47,0,Mon,0,321,World Fisheries Day,2025-11-21,-4,0,0
+DSMVuCOCTl_,Gobabeb Research & Training Centre,gobabeb,2025-12-13,2025,12,50,5,Sat,1,347,World Soil Day,2025-12-05,8,0,0
+DRKTe9SitKH,Namibia Nature Foundation,namibia_nature_foundation,2025-11-17,2025,11,47,0,Mon,0,321,World Fisheries Day,2025-11-21,-4,0,0
+DSXZ7bpjjzq,Gobabeb Research & Training Centre,gobabeb,2025-12-17,2025,12,51,2,Wed,0,351,World Soil Day,2025-12-05,12,0,0
+DRKPnfYCp6K,Namibia Nature Foundation,namibia_nature_foundation,2025-11-17,2025,11,47,0,Mon,0,321,World Fisheries Day,2025-11-21,-4,0,0
+DS1qVQYjqcs,Gobabeb Research & Training Centre,gobabeb,2025-12-29,2025,12,1,0,Mon,0,363,World Soil Day,2025-12-05,24,0,0
+DScbrOljail,Gobabeb Research & Training Centre,gobabeb,2025-12-19,2025,12,51,4,Fri,0,353,World Soil Day,2025-12-05,14,0,0
+DRCbRmxja_O,Namibia Nature Foundation,namibia_nature_foundation,2025-11-14,2025,11,46,4,Fri,0,318,World Fisheries Day,2025-11-21,-7,0,0
+DT2pb6hiLJo,NACSO,nacso_namibia1,2026-01-23,2026,1,4,4,Fri,0,23,World Wetlands Day,2026-02-02,-10,0,0
+DSIF5R8D3c2,Gobabeb Research & Training Centre,gobabeb,2025-12-11,2025,12,50,3,Thu,0,345,World Soil Day,2025-12-05,6,0,0
+DUDbb2FjD8p,Elephant Human Relations Aid,ehranamibia,2026-01-27,2026,1,5,1,Tue,0,27,World Wetlands Day,2026-02-02,-6,0,0
+DReHoxSjt92,Ongava Game Reserve,ongavagamereserve,2025-11-25,2025,11,48,1,Tue,0,329,World Fisheries Day,2025-11-21,4,0,0
+DT2HsqsjWhH,NACSO,nacso_namibia1,2026-01-23,2026,1,4,4,Fri,0,23,World Wetlands Day,2026-02-02,-10,0,0
+DRl0mmRiO6j,Ongava Game Reserve,ongavagamereserve,2025-11-28,2025,11,48,4,Fri,0,332,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-6,0,0
+DUaqWnPCDxU,NACSO,nacso_namibia1,2026-02-06,2026,2,6,4,Fri,0,37,World Wetlands Day,2026-02-02,4,0,0
+DS62I6pDk7E,Gobabeb Research & Training Centre,gobabeb,2025-12-31,2025,12,1,2,Wed,0,365,World Soil Day,2025-12-05,26,0,0
+DRWQ-B9jmwx,Ongava Game Reserve,ongavagamereserve,2025-11-22,2025,11,47,5,Sat,1,326,World Fisheries Day,2025-11-21,1,1,1
+DRTyj6qimZ8,Namibia Nature Foundation,namibia_nature_foundation,2025-11-21,2025,11,47,4,Fri,0,325,World Fisheries Day,2025-11-21,0,1,1
+DSZ25aFj-dD,Gobabeb Research & Training Centre,gobabeb,2025-12-18,2025,12,51,3,Thu,0,352,World Soil Day,2025-12-05,13,0,0
+DXPmUSmAsWS,Giraffe Conservation Foundation,giraffe_conservation,2026-04-17,2026,4,16,4,Fri,0,107,Earth Day,2026-04-22,-5,0,0
+DXwKK3PCoiw,Namibia Youth Chamber of Environment,namyouthchamber,2026-04-30,2026,4,18,3,Thu,0,120,World Penguin Day,2026-04-25,5,0,0
+DXbynlCjsnU,Gobabeb Research & Training Centre,gobabeb,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DXg39MKjeJB,Gobabeb Research & Training Centre,gobabeb,2026-04-24,2026,4,17,4,Fri,0,114,World Penguin Day,2026-04-25,-1,1,1
+DXUv-0KjLn4,Giraffe Conservation Foundation,giraffe_conservation,2026-04-19,2026,4,16,6,Sun,1,109,Earth Day,2026-04-22,-3,0,1
+DXbSywhDQWF,Gobabeb Research & Training Centre,gobabeb,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DWEnQrpO-q8,AfriCat Foundation,africat_foundation,2026-03-19,2026,3,12,3,Thu,0,78,World Rewilding Day,2026-03-20,-1,1,1
+DV84SaljvmX,AfriCat Foundation,africat_foundation,2026-03-16,2026,3,12,0,Mon,0,75,World Rewilding Day,2026-03-20,-4,0,0
+DVbcgVLDPGM,AfriCat Foundation,africat_foundation,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DWb7j2uDMKS,AfriCat Foundation,africat_foundation,2026-03-28,2026,3,13,5,Sat,1,87,Earth Hour,2026-03-28,0,1,1
+DVRGvV1DNZT,AfriCat Foundation,africat_foundation,2026-02-27,2026,2,9,4,Fri,0,58,World Wildlife Day,2026-03-03,-4,0,0
+DQn6pZKjmE6,Ongava Game Reserve,ongavagamereserve,2025-11-04,2025,11,45,1,Tue,0,308,World Fisheries Day,2025-11-21,-17,0,0
+DWMgGWFjOeC,AfriCat Foundation,africat_foundation,2026-03-22,2026,3,12,6,Sun,1,81,World Water Day,2026-03-22,0,1,1
+DXofbb7Dbv5,Gobabeb Research & Training Centre,gobabeb,2026-04-27,2026,4,18,0,Mon,0,117,World Penguin Day,2026-04-25,2,0,1
+DVq2xA8DRA_,AfriCat Foundation,africat_foundation,2026-03-09,2026,3,11,0,Mon,0,68,World Wildlife Day,2026-03-03,6,0,0
+DVykjIEDLEb,AfriCat Foundation,africat_foundation,2026-03-12,2026,3,11,3,Thu,0,71,World Rewilding Day,2026-03-20,-8,0,0
+DXKc58qjZ0A,Giraffe Conservation Foundation,giraffe_conservation,2026-04-15,2026,4,16,2,Wed,0,105,Earth Day,2026-04-22,-7,0,0
+DXoAP_2lqoE,N/a'an ku se Foundation,naankuse_foundation,2026-04-27,2026,4,18,0,Mon,0,117,World Penguin Day,2026-04-25,2,0,1
+DXhA84pFEFq,N/a'an ku se Foundation,naankuse_foundation,2026-04-24,2026,4,17,4,Fri,0,114,World Penguin Day,2026-04-25,-1,1,1
+DW6x4dRjNxf,AfriCat Foundation,africat_foundation,2026-04-09,2026,4,15,3,Thu,0,99,Earth Hour,2026-03-28,12,0,0
+DXt_IDBD93L,N/a'an ku se Foundation,naankuse_foundation,2026-04-29,2026,4,18,2,Wed,0,119,World Penguin Day,2026-04-25,4,0,0
+DXi6TshgSo5,N/a'an ku se Foundation,naankuse_foundation,2026-04-25,2026,4,17,5,Sat,1,115,World Penguin Day,2026-04-25,0,1,1
+DV3Sws3jIWU,WWF Namibia,wwfnamibia,2026-03-14,2026,3,11,5,Sat,1,73,World Rewilding Day,2026-03-20,-6,0,0
+DWtzXr8ODrc,AfriCat Foundation,africat_foundation,2026-04-04,2026,4,14,5,Sat,1,94,Earth Hour,2026-03-28,7,0,0
+DXwqAO0Fugv,N/a'an ku se Foundation,naankuse_foundation,2026-04-30,2026,4,18,3,Thu,0,120,World Penguin Day,2026-04-25,5,0,0
+DWUGbt-DAvh,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-25,2026,3,13,2,Wed,0,84,World Meteorological Day,2026-03-23,2,0,1
+DXwKk3HCCrp,Ongava Game Reserve,ongavagamereserve,2026-04-30,2026,4,18,3,Thu,0,120,World Penguin Day,2026-04-25,5,0,0
+DVLyohjjzzO,NACSO,nacso_namibia1,2026-02-25,2026,2,9,2,Wed,0,56,World Pangolin Day,2026-02-21,4,0,0
+DXexE6XjJDv,AfriCat Foundation,africat_foundation,2026-04-23,2026,4,17,3,Thu,0,113,Earth Day,2026-04-22,1,1,1
+DXUcLv_jGa4,AfriCat Foundation,africat_foundation,2026-04-19,2026,4,16,6,Sun,1,109,Earth Day,2026-04-22,-3,0,1
+DXY1VUcAHbh,Save the Rhino Trust Namibia,savetherhinonamibia,2026-04-21,2026,4,17,1,Tue,0,111,Earth Day,2026-04-22,-1,1,1
+DXbSvspFoHk,Save the Rhino Trust Namibia,savetherhinonamibia,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DWyGEHKDo5E,Save the Rhino Trust Namibia,savetherhinonamibia,2026-04-06,2026,4,15,0,Mon,0,96,Earth Hour,2026-03-28,9,0,0
+DXqvhiqlt1o,Save the Rhino Trust Namibia,savetherhinonamibia,2026-04-28,2026,4,18,1,Tue,0,118,World Penguin Day,2026-04-25,3,0,1
+DXJRMa_AkWD,Save the Rhino Trust Namibia,savetherhinonamibia,2026-04-15,2026,4,16,2,Wed,0,105,Earth Day,2026-04-22,-7,0,0
+DXWX-PXFqnF,Save the Rhino Trust Namibia,savetherhinonamibia,2026-04-20,2026,4,17,0,Mon,0,110,Earth Day,2026-04-22,-2,0,1
+DVnoukUjl9S,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-08,2026,3,10,6,Sun,1,67,World Wildlife Day,2026-03-03,5,0,0
+DXgcXcbFpJy,Save the Rhino Trust Namibia,savetherhinonamibia,2026-04-24,2026,4,17,4,Fri,0,114,World Penguin Day,2026-04-25,-1,1,1
+DVvCknRjvf6,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-11,2026,3,11,2,Wed,0,70,World Wildlife Day,2026-03-03,8,0,0
+DXpCdUhjNBm,AfriCat Foundation,africat_foundation,2026-04-27,2026,4,18,0,Mon,0,117,World Penguin Day,2026-04-25,2,0,1
+DVQP4NojqaK,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-27,2026,2,9,4,Fri,0,58,World Wildlife Day,2026-03-03,-4,0,0
+DVc6DMtjoUk,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-04,2026,3,10,2,Wed,0,63,World Wildlife Day,2026-03-03,1,1,1
+DVF8tnJDu1d,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-23,2026,2,9,0,Mon,0,54,World Pangolin Day,2026-02-21,2,0,1
+DVXwcGxjjIi,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-02,2026,3,10,0,Mon,0,61,World Wildlife Day,2026-03-03,-1,1,1
+DVJKgdwDE6k,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-24,2026,2,9,1,Tue,0,55,World Pangolin Day,2026-02-21,3,0,1
+DWf9kn4Dsd8,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-30,2026,3,14,0,Mon,0,89,Earth Hour,2026-03-28,2,0,1
+DVl6803ArIo,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-07,2026,3,10,5,Sat,1,66,World Wildlife Day,2026-03-03,4,0,0
+DUz7FfoDqtk,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-16,2026,2,8,0,Mon,0,47,World Pangolin Day,2026-02-21,-5,0,0
+DVa3m5fDjN9,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DWGNnrpDtYm,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-20,2026,3,12,4,Fri,0,79,World Rewilding Day,2026-03-20,0,1,1
+DViKhngjjX9,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-06,2026,3,10,4,Fri,0,65,World Wildlife Day,2026-03-03,3,0,1
+DU5EsvWjsxF,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-18,2026,2,8,2,Wed,0,49,World Pangolin Day,2026-02-21,-3,0,1
+DU-OQhPjn88,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DVLGQ7hDvlC,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-25,2026,2,9,2,Wed,0,56,World Pangolin Day,2026-02-21,4,0,0
+DWN8CmPDmjg,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-23,2026,3,13,0,Mon,0,82,World Meteorological Day,2026-03-23,0,1,1
+DWYPQRHjtlS,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-27,2026,3,13,4,Fri,0,86,Earth Hour,2026-03-28,-1,1,1
+DWTFsBgjvPD,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-25,2026,3,13,2,Wed,0,84,World Meteorological Day,2026-03-23,2,0,1
+DWBEEBWjifc,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-18,2026,3,12,2,Wed,0,77,World Rewilding Day,2026-03-20,-2,0,1
+DV76dOJjpxd,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-16,2026,3,12,0,Mon,0,75,World Rewilding Day,2026-03-20,-4,0,0
+DXuDcJQiA2H,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-29,2026,4,18,2,Wed,0,119,World Penguin Day,2026-04-25,4,0,0
+DXCuXRniIRH,Giraffe Conservation Foundation,giraffe_conservation,2026-04-12,2026,4,15,6,Sun,1,102,Earth Day,2026-04-22,-10,0,0
+DXYu82YCEDr,Youth4CAN,youth4can_namibia,2026-04-21,2026,4,17,1,Tue,0,111,Earth Day,2026-04-22,-1,1,1
+DRhNyZnjIg1,NACSO,nacso_namibia1,2025-11-26,2025,11,48,2,Wed,0,330,World Fisheries Day,2025-11-21,5,0,0
+DQ4p6A_j2N8,Save the Rhino Trust Namibia,savetherhinonamibia,2025-11-10,2025,11,46,0,Mon,0,314,World Fisheries Day,2025-11-21,-11,0,0
+DXb98OkiLtY,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DWerOqzAbIP,Giraffe Conservation Foundation,giraffe_conservation,2026-03-29,2026,3,13,6,Sun,1,88,Earth Hour,2026-03-28,1,1,1
+DU7v1hOilMn,Namibia Youth Chamber of Environment,namyouthchamber,2026-02-19,2026,2,8,3,Thu,0,50,World Pangolin Day,2026-02-21,-2,0,1
+DRSKePSDN6A,AfriCat Foundation,africat_foundation,2025-11-20,2025,11,47,3,Thu,0,324,World Fisheries Day,2025-11-21,-1,1,1
+DWzDJHOkk7W,Cheetah Conservation Fund,ccfcheetah,2026-04-06,2026,4,15,0,Mon,0,96,Earth Hour,2026-03-28,9,0,0
+DV8ic1cCqAP,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-16,2026,3,12,0,Mon,0,75,World Rewilding Day,2026-03-20,-4,0,0
+DQ3dSnjDP3l,WWF Namibia,wwfnamibia,2025-11-10,2025,11,46,0,Mon,0,314,World Fisheries Day,2025-11-21,-11,0,0
+DUyh38sDYy-,Giraffe Conservation Foundation,giraffe_conservation,2026-02-15,2026,2,7,6,Sun,1,46,World Pangolin Day,2026-02-21,-6,0,0
+DTw3Yjzim57,Namibia Youth Chamber of Environment,namyouthchamber,2026-01-21,2026,1,4,2,Wed,0,21,World Wetlands Day,2026-02-02,-12,0,0
+DUP8i2Qigcf,Namibia Youth Chamber of Environment,namyouthchamber,2026-02-02,2026,2,6,0,Mon,0,33,World Wetlands Day,2026-02-02,0,1,1
+DUOX2sXjWu-,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-01,2026,2,5,6,Sun,1,32,World Wetlands Day,2026-02-02,-1,1,1
+DWn68aHCAaP,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DUm1Xg9Dmf3,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-11,2026,2,7,2,Wed,0,42,World Wetlands Day,2026-02-02,9,0,0
+DUH7zAPjiP7,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-30,2026,1,5,4,Fri,0,30,World Wetlands Day,2026-02-02,-3,0,1
+DW3KFFOCN4A,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DUPqMmljuGv,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-02,2026,2,6,0,Mon,0,33,World Wetlands Day,2026-02-02,0,1,1
+DW3WDZWiA6v,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DW3Jis6CDlb,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DW3WLwbiIzy,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DW4f5mjjpGm,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DW3JUnYiHWQ,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DWoNu2YiMLw,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DWhVFUtDubq,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-30,2026,3,14,0,Mon,0,89,Earth Hour,2026-03-28,2,0,1
+DUYx4VLDCYU,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-05,2026,2,6,3,Thu,0,36,World Wetlands Day,2026-02-02,3,0,1
+DUdtwy-jdBl,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-07,2026,2,6,5,Sat,1,38,World Wetlands Day,2026-02-02,5,0,0
+DUr-88XjjJb,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-13,2026,2,7,4,Fri,0,44,World Pangolin Day,2026-02-21,-8,0,0
+DWI6-PhCgDu,Namibia Youth Chamber of Environment,namyouthchamber,2026-03-21,2026,3,12,5,Sat,1,80,Namibia Independence Day,2026-03-21,0,1,1
+DWlUKAsCBNC,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-04-01,2026,4,14,2,Wed,0,91,Earth Hour,2026-03-28,4,0,0
+DWhU7LCjva2,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-30,2026,3,14,0,Mon,0,89,Earth Hour,2026-03-28,2,0,1
+DUZ9b7jDh1Z,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-06,2026,2,6,4,Fri,0,37,World Wetlands Day,2026-02-02,4,0,0
+DXvye8QFSV3,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-30,2026,4,18,3,Thu,0,120,World Penguin Day,2026-04-25,5,0,0
+DUvvTWQjyn4,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-14,2026,2,7,5,Sat,1,45,World Pangolin Day,2026-02-21,-7,0,0
+DUuxi5_DvLg,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-14,2026,2,7,5,Sat,1,45,World Pangolin Day,2026-02-21,-7,0,0
+DXwUHbmk-oD,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-30,2026,4,18,3,Thu,0,120,World Penguin Day,2026-04-25,5,0,0
+DXWCXRoCX7X,N/a'an ku se Foundation,naankuse_foundation,2026-04-20,2026,4,17,0,Mon,0,110,Earth Day,2026-04-22,-2,0,1
+DRQ69T9ir4N,Namibia Youth Chamber of Environment,namyouthchamber,2025-11-20,2025,11,47,3,Thu,0,324,World Fisheries Day,2025-11-21,-1,1,1
+DXtvQ9SgL98,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-29,2026,4,18,2,Wed,0,119,World Penguin Day,2026-04-25,4,0,0
+DSsoe4NDfql,Giraffe Conservation Foundation,giraffe_conservation,2025-12-25,2025,12,52,3,Thu,0,359,World Soil Day,2025-12-05,20,0,0
+DUYeCeoDJs6,AfriCat Foundation,africat_foundation,2026-02-05,2026,2,6,3,Thu,0,36,World Wetlands Day,2026-02-02,3,0,1
+DVcrAuRjsnE,Cheetah Conservation Fund,ccfcheetah,2026-03-04,2026,3,10,2,Wed,0,63,World Wildlife Day,2026-03-03,1,1,1
+DVBpQ6sjE5H,AfriCat Foundation,africat_foundation,2026-02-21,2026,2,8,5,Sat,1,52,World Pangolin Day,2026-02-21,0,1,1
+DW8Lka0Dbrn,N/a'an ku se Foundation,naankuse_foundation,2026-04-10,2026,4,15,4,Fri,0,100,Earth Day,2026-04-22,-12,0,0
+DV_qawHEpSw,Cheetah Conservation Fund,ccfcheetah,2026-03-17,2026,3,12,1,Tue,0,76,World Rewilding Day,2026-03-20,-3,0,1
+DU3rabWkYrT,N/a'an ku se Foundation,naankuse_foundation,2026-02-17,2026,2,8,1,Tue,0,48,World Pangolin Day,2026-02-21,-4,0,0
+DQxCVcNj9Cw,Giraffe Conservation Foundation,giraffe_conservation,2025-11-07,2025,11,45,4,Fri,0,311,World Fisheries Day,2025-11-21,-14,0,0
+DVU4KuJDJ9A,Cheetah Conservation Fund,ccfcheetah,2026-03-01,2026,3,9,6,Sun,1,60,World Wildlife Day,2026-03-03,-2,0,1
+DQvrtOYjDeU,Giraffe Conservation Foundation,giraffe_conservation,2025-11-07,2025,11,45,4,Fri,0,311,World Fisheries Day,2025-11-21,-14,0,0
+DRP79xHj7NN,Giraffe Conservation Foundation,giraffe_conservation,2025-11-19,2025,11,47,2,Wed,0,323,World Fisheries Day,2025-11-21,-2,0,1
+DVMmZpTjq1t,Ongava Game Reserve,ongavagamereserve,2026-02-25,2026,2,9,2,Wed,0,56,World Pangolin Day,2026-02-21,4,0,0
+DWTTNs3iO3h,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-25,2026,3,13,2,Wed,0,84,World Meteorological Day,2026-03-23,2,0,1
+DXOrcNijX05,Environmental Investment Fund,eif_namibia,2026-04-17,2026,4,16,4,Fri,0,107,Earth Day,2026-04-22,-5,0,0
+DVfdclaCI5r,Environmental Investment Fund,eif_namibia,2026-03-05,2026,3,10,3,Thu,0,64,World Wildlife Day,2026-03-03,2,0,1
+DWIac_JiEFz,Environmental Investment Fund,eif_namibia,2026-03-21,2026,3,12,5,Sat,1,80,Namibia Independence Day,2026-03-21,0,1,1
+DUaaK2PjUEr,Environmental Investment Fund,eif_namibia,2026-02-06,2026,2,6,4,Fri,0,37,World Wetlands Day,2026-02-02,4,0,0
+DXM5JzSjdGk,Environmental Investment Fund,eif_namibia,2026-04-16,2026,4,16,3,Thu,0,106,Earth Day,2026-04-22,-6,0,0
+DWdxehuCDJo,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-29,2026,3,13,6,Sun,1,88,Earth Hour,2026-03-28,1,1,1
+DUgMnW8jL3b,N/a'an ku se Foundation,naankuse_foundation,2026-02-08,2026,2,6,6,Sun,1,39,World Wetlands Day,2026-02-02,6,0,0
+DXd19oFjkuQ,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-23,2026,4,17,3,Thu,0,113,Earth Day,2026-04-22,1,1,1
+DUbWtOygfZh,N/a'an ku se Foundation,naankuse_foundation,2026-02-06,2026,2,6,4,Fri,0,37,World Wetlands Day,2026-02-02,4,0,0
+DWdkN4BiJyf,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-29,2026,3,13,6,Sun,1,88,Earth Hour,2026-03-28,1,1,1
+DXoC0N4mgkj,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-27,2026,4,18,0,Mon,0,117,World Penguin Day,2026-04-25,2,0,1
+DXmA4Gtj_Zh,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-26,2026,4,17,6,Sun,1,116,World Penguin Day,2026-04-25,1,1,1
+DWef2hPCOlX,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-29,2026,3,13,6,Sun,1,88,Earth Hour,2026-03-28,1,1,1
+DXeSg6pAHo-,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-23,2026,4,17,3,Thu,0,113,Earth Day,2026-04-22,1,1,1
+DUYx5HdiD09,N/a'an ku se Foundation,naankuse_foundation,2026-02-05,2026,2,6,3,Thu,0,36,World Wetlands Day,2026-02-02,3,0,1
+DXZJA_liqWn,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-21,2026,4,17,1,Tue,0,111,Earth Day,2026-04-22,-1,1,1
+DXbt7IqCLKa,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-22,2026,4,17,2,Wed,0,112,Earth Day,2026-04-22,0,1,1
+DUggUj0iE_S,N/a'an ku se Foundation,naankuse_foundation,2026-02-08,2026,2,6,6,Sun,1,39,World Wetlands Day,2026-02-02,6,0,0
+DXg3UF6CdnC,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-24,2026,4,17,4,Fri,0,114,World Penguin Day,2026-04-25,-1,1,1
+DXolt9eDCcN,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-27,2026,4,18,0,Mon,0,117,World Penguin Day,2026-04-25,2,0,1
+DTfYVUaDupz,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-14,2026,1,3,2,Wed,0,14,World Wetlands Day,2026-02-02,-19,0,0
+DXjcLK4D8YD,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-25,2026,4,17,5,Sat,1,115,World Penguin Day,2026-04-25,0,1,1
+DWd8TPlCGNF,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-29,2026,3,13,6,Sun,1,88,Earth Hour,2026-03-28,1,1,1
+DTSgWRoloBs,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-09,2026,1,2,4,Fri,0,9,World Wetlands Day,2026-02-02,-24,0,0
+DS9WiNDCKWA,Environmental Investment Fund,eif_namibia,2026-01-01,2026,1,1,3,Thu,0,1,World Soil Day,2025-12-05,27,0,0
+DWTPuYYiBmk,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-25,2026,3,13,2,Wed,0,84,World Meteorological Day,2026-03-23,2,0,1
+DXtW3C-FV7E,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-29,2026,4,18,2,Wed,0,119,World Penguin Day,2026-04-25,4,0,0
+DTaOutKjo18,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-12,2026,1,3,0,Mon,0,12,World Wetlands Day,2026-02-02,-21,0,0
+DXrKi2OD1Hm,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-28,2026,4,18,1,Tue,0,118,World Penguin Day,2026-04-25,3,0,1
+DWPV37mjdwz,Environmental Investment Fund,eif_namibia,2026-03-23,2026,3,13,0,Mon,0,82,World Meteorological Day,2026-03-23,0,1,1
+DUANbOODsT-,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-27,2026,1,5,1,Tue,0,27,World Wetlands Day,2026-02-02,-6,0,0
+DTkh7UFjvTh,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-16,2026,1,3,4,Fri,0,16,World Wetlands Day,2026-02-02,-17,0,0
+DTitPQkAEdG,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-15,2026,1,3,3,Thu,0,15,World Wetlands Day,2026-02-02,-18,0,0
+DTsQUhIDj4F,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-19,2026,1,4,0,Mon,0,19,World Wetlands Day,2026-02-02,-14,0,0
+DUCyOBzjtGW,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-28,2026,1,5,2,Wed,0,28,World Wetlands Day,2026-02-02,-5,0,0
+DT_B707iWMb,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-26,2026,1,5,0,Mon,0,26,World Wetlands Day,2026-02-02,-7,0,0
+DQtsfnrES6W,Environmental Investment Fund,eif_namibia,2025-11-06,2025,11,45,3,Thu,0,310,World Fisheries Day,2025-11-21,-15,0,0
+DTn2xOlD7JJ,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-17,2026,1,3,5,Sat,1,17,World Wetlands Day,2026-02-02,-16,0,0
+DWdtfb8Cewk,Gobabeb Research & Training Centre,gobabeb,2026-03-29,2026,3,13,6,Sun,1,88,Earth Hour,2026-03-28,1,1,1
+DUqUliEDNSs,Elephant Human Relations Aid,ehranamibia,2026-02-12,2026,2,7,3,Thu,0,43,World Pangolin Day,2026-02-21,-9,0,0
+DSXuQFEiGjJ,Environmental Investment Fund,eif_namibia,2025-12-17,2025,12,51,2,Wed,0,351,World Soil Day,2025-12-05,12,0,0
+DQlvwlSjZA2,Environmental Investment Fund,eif_namibia,2025-11-03,2025,11,45,0,Mon,0,307,World Fisheries Day,2025-11-21,-18,0,0
+DSqL_CYjCQI,WWF Namibia,wwfnamibia,2025-12-24,2025,12,52,2,Wed,0,358,World Soil Day,2025-12-05,19,0,0
+DRy5ghiDT_W,Environmental Investment Fund,eif_namibia,2025-12-03,2025,12,49,2,Wed,0,337,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-1,1,1
+DWVnGAginZE,Gobabeb Research & Training Centre,gobabeb,2026-03-26,2026,3,13,3,Thu,0,85,Earth Hour,2026-03-28,-2,0,1
+DU-3de8iG-a,Namibia Nature Foundation,namibia_nature_foundation,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DS7VL1aDlsL,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-31,2025,12,1,2,Wed,0,365,World Soil Day,2025-12-05,26,0,0
+DSrc9q6DsW-,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-25,2025,12,52,3,Thu,0,359,World Soil Day,2025-12-05,20,0,0
+DSW2mrgjs6h,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-17,2025,12,51,2,Wed,0,351,World Soil Day,2025-12-05,12,0,0
+DSjukI4jv4D,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-22,2025,12,52,0,Mon,0,356,World Soil Day,2025-12-05,17,0,0
+DVax_qWDIWT,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DVYKqgYiKyD,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-02,2026,3,10,0,Mon,0,61,World Wildlife Day,2026-03-03,-1,1,1
+DTNWuvpjhud,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-07,2026,1,2,2,Wed,0,7,World Wetlands Day,2026-02-02,-26,0,0
+DScBd6SjrLJ,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-19,2025,12,51,4,Fri,0,353,World Soil Day,2025-12-05,14,0,0
+DS2LnHADquv,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-29,2025,12,1,0,Mon,0,363,World Soil Day,2025-12-05,24,0,0
+DS9QwOEjtZU,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-01,2026,1,1,3,Thu,0,1,World Soil Day,2025-12-05,27,0,0
+DXGonOCjTav,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-14,2026,4,16,1,Tue,0,104,Earth Day,2026-04-22,-8,0,0
+DSRtCS7jnGX,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-15,2025,12,51,0,Mon,0,349,World Soil Day,2025-12-05,10,0,0
+DTINIX7jsOm,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-05,2026,1,2,0,Mon,0,5,World Wetlands Day,2026-02-02,-28,0,0
+DVlqdpuofJi,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-07,2026,3,10,5,Sat,1,66,World Wildlife Day,2026-03-03,4,0,0
+DVqA9lQCMB3,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-09,2026,3,11,0,Mon,0,68,World Wildlife Day,2026-03-03,6,0,0
+DVgNyhriNtn,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-05,2026,3,10,3,Thu,0,64,World Wildlife Day,2026-03-03,2,0,1
+DVyJyHCoyal,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-12,2026,3,11,3,Thu,0,71,World Rewilding Day,2026-03-20,-8,0,0
+DSo4NOsDnRq,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-24,2025,12,52,2,Wed,0,358,World Soil Day,2025-12-05,19,0,0
+DW_Y85EldJH,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-11,2026,4,15,5,Sat,1,101,Earth Day,2026-04-22,-11,0,0
+DWCAWs1iCox,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-18,2026,3,12,2,Wed,0,77,World Rewilding Day,2026-03-20,-2,0,1
+DXHHXHCCcgT,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-14,2026,4,16,1,Tue,0,104,Earth Day,2026-04-22,-8,0,0
+DXJsM3zibUp,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-15,2026,4,16,2,Wed,0,105,Earth Day,2026-04-22,-7,0,0
+DWEYm7riHPW,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-19,2026,3,12,3,Thu,0,78,World Rewilding Day,2026-03-20,-1,1,1
+DXB9wXvkQo4,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-12,2026,4,15,6,Sun,1,102,Earth Day,2026-04-22,-10,0,0
+DWD4O7tiJcr,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-19,2026,3,12,3,Thu,0,78,World Rewilding Day,2026-03-20,-1,1,1
+DXMRBetlLiz,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-16,2026,4,16,3,Thu,0,106,Earth Day,2026-04-22,-6,0,0
+DXEhT7-jsJy,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-13,2026,4,16,0,Mon,0,103,Earth Day,2026-04-22,-9,0,0
+DVgLWW3CIDY,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-05,2026,3,10,3,Thu,0,64,World Wildlife Day,2026-03-03,2,0,1
+DWBjc-BiA6-,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-18,2026,3,12,2,Wed,0,77,World Rewilding Day,2026-03-20,-2,0,1
+DSKFeTFjnt2,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-12,2025,12,50,4,Fri,0,346,World Soil Day,2025-12-05,7,0,0
+DXRbK38DM3W,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-18,2026,4,16,5,Sat,1,108,Earth Day,2026-04-22,-4,0,0
+DXO1x-NCC5k,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-17,2026,4,16,4,Fri,0,107,Earth Day,2026-04-22,-5,0,0
+DXQrA_0jvq3,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-18,2026,4,16,5,Sat,1,108,Earth Day,2026-04-22,-4,0,0
+DTkNTvlF3zS,Gobabeb Research & Training Centre,gobabeb,2026-01-16,2026,1,3,4,Fri,0,16,World Wetlands Day,2026-02-02,-17,0,0
+DXT_TNoj4Df,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-19,2026,4,16,6,Sun,1,109,Earth Day,2026-04-22,-3,0,1
+DW85lspilIK,Gobabeb Research & Training Centre,gobabeb,2026-04-10,2026,4,15,4,Fri,0,100,Earth Day,2026-04-22,-12,0,0
+DXWkHQnAsRS,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-20,2026,4,17,0,Mon,0,110,Earth Day,2026-04-22,-2,0,1
+DTK_tKrDXs3,Elephant Human Relations Aid,ehranamibia,2026-01-06,2026,1,2,1,Tue,0,6,World Wetlands Day,2026-02-02,-27,0,0
+DURDVRDCI32,Namibia Nature Foundation,namibia_nature_foundation,2026-02-02,2026,2,6,0,Mon,0,33,World Wetlands Day,2026-02-02,0,1,1
+DRgx6pxiByy,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-26,2025,11,48,2,Wed,0,330,World Fisheries Day,2025-11-21,5,0,0
+DTe830ojmon,Save the Rhino Trust Namibia,savetherhinonamibia,2026-01-14,2026,1,3,2,Wed,0,14,World Wetlands Day,2026-02-02,-19,0,0
+DQ9DYVGjs2Z,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-12,2025,11,46,2,Wed,0,316,World Fisheries Day,2025-11-21,-9,0,0
+DSKaIfiFhcS,Gobabeb Research & Training Centre,gobabeb,2025-12-12,2025,12,50,4,Fri,0,346,World Soil Day,2025-12-05,7,0,0
+DTH5ocQDAMc,Elephant Human Relations Aid,ehranamibia,2026-01-05,2026,1,2,0,Mon,0,5,World Wetlands Day,2026-02-02,-28,0,0
+DTigcpbjOyn,WWF Namibia,wwfnamibia,2026-01-15,2026,1,3,3,Thu,0,15,World Wetlands Day,2026-02-02,-18,0,0
+DTSgXWbDah5,Gobabeb Research & Training Centre,gobabeb,2026-01-09,2026,1,2,4,Fri,0,9,World Wetlands Day,2026-02-02,-24,0,0
+DQiqMb_DhnI,Ongava Game Reserve,ongavagamereserve,2025-11-02,2025,11,44,6,Sun,1,306,World Fisheries Day,2025-11-21,-19,0,0
+DRCM9WrjtFb,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-14,2025,11,46,4,Fri,0,318,World Fisheries Day,2025-11-21,-7,0,0
+DU-u3Jljsfe,Ongava Game Reserve,ongavagamereserve,2026-02-20,2026,2,8,4,Fri,0,51,World Pangolin Day,2026-02-21,-1,1,1
+DRT5_MkDmVi,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-21,2025,11,47,4,Fri,0,325,World Fisheries Day,2025-11-21,0,1,1
+DROwWkzAbdm,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-19,2025,11,47,2,Wed,0,323,World Fisheries Day,2025-11-21,-2,0,1
+DRJmW5KESJY,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-17,2025,11,47,0,Mon,0,321,World Fisheries Day,2025-11-21,-4,0,0
+DRboXapDRPH,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-24,2025,11,48,0,Mon,0,328,World Fisheries Day,2025-11-21,3,0,1
+DWlpEQZkSwj,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-01,2026,4,14,2,Wed,0,91,Earth Hour,2026-03-28,4,0,0
+DQt0XptgQN5,Gobabeb Research & Training Centre,gobabeb,2025-11-06,2025,11,45,3,Thu,0,310,World Fisheries Day,2025-11-21,-15,0,0
+DQ3lMB-CH-Q,Gobabeb Research & Training Centre,gobabeb,2025-11-10,2025,11,46,0,Mon,0,314,World Fisheries Day,2025-11-21,-11,0,0
+DQtEQWBjmNA,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-06,2025,11,45,3,Thu,0,310,World Fisheries Day,2025-11-21,-15,0,0
+DWRCqLyAs94,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-24,2026,3,13,1,Tue,0,83,World Meteorological Day,2026-03-23,1,1,1
+DWk1d0DDHm-,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-01,2026,4,14,2,Wed,0,91,Earth Hour,2026-03-28,4,0,0
+DQ4Hgt0jmeW,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-10,2025,11,46,0,Mon,0,314,World Fisheries Day,2025-11-21,-11,0,0
+DQ6lpEcAAZE,Gobabeb Research & Training Centre,gobabeb,2025-11-11,2025,11,46,1,Tue,0,315,World Fisheries Day,2025-11-21,-10,0,0
+DRj2I1ODuFl,Gobabeb Research & Training Centre,gobabeb,2025-11-27,2025,11,48,3,Thu,0,331,World Fisheries Day,2025-11-21,6,0,0
+DWTncqqigcL,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-25,2026,3,13,2,Wed,0,84,World Meteorological Day,2026-03-23,2,0,1
+DQomPRvDhb2,Gobabeb Research & Training Centre,gobabeb,2025-11-04,2025,11,45,1,Tue,0,308,World Fisheries Day,2025-11-21,-17,0,0
+DQrRbjNDa8w,Gobabeb Research & Training Centre,gobabeb,2025-11-05,2025,11,45,2,Wed,0,309,World Fisheries Day,2025-11-21,-16,0,0
+DQyN1z-jWP2,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-08,2025,11,45,5,Sat,1,312,World Fisheries Day,2025-11-21,-13,0,0
+DRMLifyj68e,Gobabeb Research & Training Centre,gobabeb,2025-11-18,2025,11,47,1,Tue,0,322,World Fisheries Day,2025-11-21,-3,0,1
+DWlb2t7FEje,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-01,2026,4,14,2,Wed,0,91,Earth Hour,2026-03-28,4,0,0
+DRmG7PPDcg3,Gobabeb Research & Training Centre,gobabeb,2025-11-28,2025,11,48,4,Fri,0,332,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-6,0,0
+DSZYkGrjC9V,Elephant Human Relations Aid,ehranamibia,2025-12-18,2025,12,51,3,Thu,0,352,World Soil Day,2025-12-05,13,0,0
+DWiVP96AE8O,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-31,2026,3,14,1,Tue,0,90,Earth Hour,2026-03-28,3,0,1
+DSUkrmxDAR0,Elephant Human Relations Aid,ehranamibia,2025-12-16,2025,12,51,1,Tue,0,350,World Soil Day,2025-12-05,11,0,0
+DWd6n6mD1JJ,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-29,2026,3,13,6,Sun,1,88,Earth Hour,2026-03-28,1,1,1
+DWYxBt2jWH0,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-27,2026,3,13,4,Fri,0,86,Earth Hour,2026-03-28,-1,1,1
+DQ_hYO8jUi7,Gobabeb Research & Training Centre,gobabeb,2025-11-13,2025,11,46,3,Thu,0,317,World Fisheries Day,2025-11-21,-8,0,0
+DWWMPeZggaK,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-26,2026,3,13,3,Thu,0,85,Earth Hour,2026-03-28,-2,0,1
+DWbV1NRgceI,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-28,2026,3,13,5,Sat,1,87,Earth Hour,2026-03-28,0,1,1
+DWjEN2Vk60m,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-31,2026,3,14,1,Tue,0,90,Earth Hour,2026-03-28,3,0,1
+DSsJpdCDG-G,Elephant Human Relations Aid,ehranamibia,2025-12-25,2025,12,52,3,Thu,0,359,World Soil Day,2025-12-05,20,0,0
+DScZSW5jCsp,Elephant Human Relations Aid,ehranamibia,2025-12-19,2025,12,51,4,Fri,0,353,World Soil Day,2025-12-05,14,0,0
+DWgLGvxDPxZ,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-30,2026,3,14,0,Mon,0,89,Earth Hour,2026-03-28,2,0,1
+DSPnMuDDPRG,Elephant Human Relations Aid,ehranamibia,2025-12-14,2025,12,50,6,Sun,1,348,World Soil Day,2025-12-05,9,0,0
+DSkb8crjN7Y,Elephant Human Relations Aid,ehranamibia,2025-12-22,2025,12,52,0,Mon,0,356,World Soil Day,2025-12-05,17,0,0
+DSnAE6BjL8j,Elephant Human Relations Aid,ehranamibia,2025-12-23,2025,12,52,1,Tue,0,357,World Soil Day,2025-12-05,18,0,0
+DSpk1urDKtR,Elephant Human Relations Aid,ehranamibia,2025-12-24,2025,12,52,2,Wed,0,358,World Soil Day,2025-12-05,19,0,0
+DQoIZkHDhRS,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-04,2025,11,45,1,Tue,0,308,World Fisheries Day,2025-11-21,-17,0,0
+DS4mHSFjKnm,Elephant Human Relations Aid,ehranamibia,2025-12-30,2025,12,1,1,Tue,0,364,World Soil Day,2025-12-05,25,0,0
+DS7R0D8DCQb,Elephant Human Relations Aid,ehranamibia,2025-12-31,2025,12,1,2,Wed,0,365,World Soil Day,2025-12-05,26,0,0
+DVMf89JiGPo,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-02-25,2026,2,9,2,Wed,0,56,World Pangolin Day,2026-02-21,4,0,0
+DVX_zeIiLj_,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-02,2026,3,10,0,Mon,0,61,World Wildlife Day,2026-03-03,-1,1,1
+DVYAZe_iKyK,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-02,2026,3,10,0,Mon,0,61,World Wildlife Day,2026-03-03,-1,1,1
+DUHugIJCJJQ,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-01-30,2026,1,5,4,Fri,0,30,World Wetlands Day,2026-02-02,-3,0,1
+DVO6X1fiLN9,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-02-26,2026,2,9,3,Thu,0,57,World Pangolin Day,2026-02-21,5,0,0
+DVMfs3aCDL-,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-02-25,2026,2,9,2,Wed,0,56,World Pangolin Day,2026-02-21,4,0,0
+DVRF9_RCMyN,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-02-27,2026,2,9,4,Fri,0,58,World Wildlife Day,2026-03-03,-4,0,0
+DVO6lljjpkF,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-02-26,2026,2,9,3,Thu,0,57,World Pangolin Day,2026-02-21,5,0,0
+DWtXeL1ipwh,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-04,2026,4,14,5,Sat,1,94,Earth Hour,2026-03-28,7,0,0
+DUYGVM-iN_6,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-02-05,2026,2,6,3,Thu,0,36,World Wetlands Day,2026-02-02,3,0,1
+DW3qjZfjcDh,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-08,2026,4,15,2,Wed,0,98,Earth Hour,2026-03-28,11,0,0
+DWoNzCxChJd,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-02,2026,4,14,3,Thu,0,92,Earth Hour,2026-03-28,5,0,0
+DW8ZEQcGmuw,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-10,2026,4,15,4,Fri,0,100,Earth Day,2026-04-22,-12,0,0
+DW1FxNZDbnS,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-07,2026,4,15,1,Tue,0,97,Earth Hour,2026-03-28,10,0,0
+DW6Pc5tFHYE,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-09,2026,4,15,3,Thu,0,99,Earth Hour,2026-03-28,12,0,0
+DWqyl7vlIzO,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-03,2026,4,14,4,Fri,0,93,Earth Hour,2026-03-28,6,0,0
+DRCT53DAXcY,Gobabeb Research & Training Centre,gobabeb,2025-11-14,2025,11,46,4,Fri,0,318,World Fisheries Day,2025-11-21,-7,0,0
+DS1zuecDLC0,Elephant Human Relations Aid,ehranamibia,2025-12-29,2025,12,1,0,Mon,0,363,World Soil Day,2025-12-05,24,0,0
+DRl7hUtgW--,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-11-28,2025,11,48,4,Fri,0,332,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-6,0,0
+DR9lkQmjMsq,Elephant Human Relations Aid,ehranamibia,2025-12-07,2025,12,49,6,Sun,1,341,World Soil Day,2025-12-05,2,0,1
+DRmBxuCjPTR,Elephant Human Relations Aid,ehranamibia,2025-11-28,2025,11,48,4,Fri,0,332,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-6,0,0
+DRtp4TYlAGG,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-01,2025,12,49,0,Mon,0,335,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-3,0,1
+DSErGl1jPiD,Elephant Human Relations Aid,ehranamibia,2025-12-10,2025,12,50,2,Wed,0,344,World Soil Day,2025-12-05,5,0,0
+DV8HsvgjHW4,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-16,2026,3,12,0,Mon,0,75,World Rewilding Day,2026-03-20,-4,0,0
+DSKdhqgDD_b,Elephant Human Relations Aid,ehranamibia,2025-12-12,2025,12,50,4,Fri,0,346,World Soil Day,2025-12-05,7,0,0
+DVsocbBDE-3,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-10,2026,3,11,1,Tue,0,69,World Wildlife Day,2026-03-03,7,0,0
+DSE1KUcjrcu,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-10,2025,12,50,2,Wed,0,344,World Soil Day,2025-12-05,5,0,0
+DV3SrNtD80c,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-14,2026,3,11,5,Sat,1,73,World Rewilding Day,2026-03-20,-6,0,0
+DR4b_cPjF6A,Elephant Human Relations Aid,ehranamibia,2025-12-05,2025,12,49,4,Fri,0,339,World Soil Day,2025-12-05,0,1,1
+DV53hf2Eop2,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-15,2026,3,11,6,Sun,1,74,World Rewilding Day,2026-03-20,-5,0,0
+DRR08Jyiog6,Namibia Nature Foundation,namibia_nature_foundation,2025-11-20,2025,11,47,3,Thu,0,324,World Fisheries Day,2025-11-21,-1,1,1
+DSAKbvCjEN5,Elephant Human Relations Aid,ehranamibia,2025-12-08,2025,12,50,0,Mon,0,342,World Soil Day,2025-12-05,3,0,1
+DR39HtJgmv4,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-05,2025,12,49,4,Fri,0,339,World Soil Day,2025-12-05,0,1,1
+DWEKr45jLWk,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-19,2026,3,12,3,Thu,0,78,World Rewilding Day,2026-03-20,-1,1,1
+DRzSbhZDEfq,Elephant Human Relations Aid,ehranamibia,2025-12-03,2025,12,49,2,Wed,0,337,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-1,1,1
+DWL5GC_FZ3M,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-22,2026,3,12,6,Sun,1,81,World Water Day,2026-03-22,0,1,1
+DW80StjCdhc,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-10,2026,4,15,4,Fri,0,100,Earth Day,2026-04-22,-12,0,0
+DV_BFLlAtic,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-17,2026,3,12,1,Tue,0,76,World Rewilding Day,2026-03-20,-3,0,1
+DSE4c6ujAu3,Elephant Human Relations Aid,ehranamibia,2025-12-10,2025,12,50,2,Wed,0,344,World Soil Day,2025-12-05,5,0,0
+DWGc_DrGmla,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-20,2026,3,12,4,Fri,0,79,World Rewilding Day,2026-03-20,0,1,1
+DR1YTLCDIz2,Harnas Wildlife Foundation,harnaswildlifefoundation,2025-12-04,2025,12,49,3,Thu,0,338,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,0,1,1
+DWGve9tjlkE,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-20,2026,3,12,4,Fri,0,79,World Rewilding Day,2026-03-20,0,1,1
+DSkSa6hET9N,Gobabeb Research & Training Centre,gobabeb,2025-12-22,2025,12,52,0,Mon,0,356,World Soil Day,2025-12-05,17,0,0
+DRhQzupjAyP,Elephant Human Relations Aid,ehranamibia,2025-11-26,2025,11,48,2,Wed,0,330,World Fisheries Day,2025-11-21,5,0,0
+DWOcsnUDIpz,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-23,2026,3,13,0,Mon,0,82,World Meteorological Day,2026-03-23,0,1,1
+DV8cRb7k5JC,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-16,2026,3,12,0,Mon,0,75,World Rewilding Day,2026-03-20,-4,0,0
+DSdJz7fCF4Q,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-12-19,2025,12,51,4,Fri,0,353,World Soil Day,2025-12-05,14,0,0
+DSnBI6rCHzY,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-12-23,2025,12,52,1,Tue,0,357,World Soil Day,2025-12-05,18,0,0
+DWJUQOwkd-V,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-21,2026,3,12,5,Sat,1,80,Namibia Independence Day,2026-03-21,0,1,1
+DSn2EjJiBve,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-12-23,2025,12,52,1,Tue,0,357,World Soil Day,2025-12-05,18,0,0
+DSS-iu4jtyt,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-12-15,2025,12,51,0,Mon,0,349,World Soil Day,2025-12-05,10,0,0
+DTQjJL5iIl2,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-01-08,2026,1,2,3,Thu,0,8,World Wetlands Day,2026-02-02,-25,0,0
+DTzjeUjCAPj,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-01-22,2026,1,4,3,Thu,0,22,World Wetlands Day,2026-02-02,-11,0,0
+DTrvR10CNL6,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-01-19,2026,1,4,0,Mon,0,19,World Wetlands Day,2026-02-02,-14,0,0
+DWjhZ4BOz6Q,AfriCat Foundation,africat_foundation,2026-03-31,2026,3,14,1,Tue,0,90,Earth Hour,2026-03-28,3,0,1
+DVqBtGKjNAj,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-09,2026,3,11,0,Mon,0,68,World Wildlife Day,2026-03-03,6,0,0
+DW9k7GUDah6,Giraffe Conservation Foundation,giraffe_conservation,2026-04-10,2026,4,15,4,Fri,0,100,Earth Day,2026-04-22,-12,0,0
+DT5hZMKCC1d,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-01-24,2026,1,4,5,Sat,1,24,World Wetlands Day,2026-02-02,-9,0,0
+DT_tR4nCL1l,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-01-27,2026,1,5,1,Tue,0,27,World Wetlands Day,2026-02-02,-6,0,0
+DT5U_tKCLTG,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-01-24,2026,1,4,5,Sat,1,24,World Wetlands Day,2026-02-02,-9,0,0
+DXE-OgWjDbf,AfriCat Foundation,africat_foundation,2026-04-13,2026,4,16,0,Mon,0,103,Earth Day,2026-04-22,-9,0,0
+DVisU9BDETE,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-06,2026,3,10,4,Fri,0,65,World Wildlife Day,2026-03-03,3,0,1
+DRmJOstCBKD,Gobabeb Research & Training Centre,gobabeb,2025-11-28,2025,11,48,4,Fri,0,332,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-6,0,0
+DV0MHPLDsfO,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-03-13,2026,3,11,4,Fri,0,72,World Rewilding Day,2026-03-20,-7,0,0
+DVlRHoTjUBR,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-07,2026,3,10,5,Sat,1,66,World Wildlife Day,2026-03-03,4,0,0
+DUqU3urCOlq,Namibia Nature Foundation,namibia_nature_foundation,2026-02-12,2026,2,7,3,Thu,0,43,World Pangolin Day,2026-02-21,-9,0,0
+DUUz0iRDln7,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-04,2026,2,6,2,Wed,0,35,World Wetlands Day,2026-02-02,2,0,1
+DVn1_0tkheU,Ocean Conservation Namibia,oceanconservationnamibia,2026-03-08,2026,3,10,6,Sun,1,67,World Wildlife Day,2026-03-03,5,0,0
+DWboxZriOr5,Environmental Investment Fund,eif_namibia,2026-03-28,2026,3,13,5,Sat,1,87,Earth Hour,2026-03-28,0,1,1
+DQt-tMODDgV,Elephant Human Relations Aid,ehranamibia,2025-11-06,2025,11,45,3,Thu,0,310,World Fisheries Day,2025-11-21,-15,0,0
+DQ9Ck7CiNTM,Elephant Human Relations Aid,ehranamibia,2025-11-12,2025,11,46,2,Wed,0,316,World Fisheries Day,2025-11-21,-9,0,0
+DSB_StyiP9N,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-12-09,2025,12,50,1,Tue,0,343,World Soil Day,2025-12-05,4,0,0
+DQ_nfCKDKZ8,Elephant Human Relations Aid,ehranamibia,2025-11-13,2025,11,46,3,Thu,0,317,World Fisheries Day,2025-11-21,-8,0,0
+DRHaAmiDJXM,Elephant Human Relations Aid,ehranamibia,2025-11-16,2025,11,46,6,Sun,1,320,World Fisheries Day,2025-11-21,-5,0,0
+DQrZ7TJDHjS,Elephant Human Relations Aid,ehranamibia,2025-11-05,2025,11,45,2,Wed,0,309,World Fisheries Day,2025-11-21,-16,0,0
+DSqGNSaDeGo,Environmental Investment Fund,eif_namibia,2025-12-24,2025,12,52,2,Wed,0,358,World Soil Day,2025-12-05,19,0,0
+DQoxtvHiEiB,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-11-04,2025,11,45,1,Tue,0,308,World Fisheries Day,2025-11-21,-17,0,0
+DSHY-RICNI1,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-12-11,2025,12,50,3,Thu,0,345,World Soil Day,2025-12-05,6,0,0
+DRzUzfEiDhG,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-12-03,2025,12,49,2,Wed,0,337,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-1,1,1
+DRZYCRciGff,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-11-23,2025,11,47,6,Sun,1,327,World Fisheries Day,2025-11-21,2,0,1
+DRzjbHoCBJj,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-12-03,2025,12,49,2,Wed,0,337,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-1,1,1
+DUneNtoiFmf,Environmental Investment Fund,eif_namibia,2026-02-11,2026,2,7,2,Wed,0,42,World Wetlands Day,2026-02-02,9,0,0
+DWjEaq3iB7e,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-31,2026,3,14,1,Tue,0,90,Earth Hour,2026-03-28,3,0,1
+DT16QUUjpHs,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-23,2026,1,4,4,Fri,0,23,World Wetlands Day,2026-02-02,-10,0,0
+DTw-cDsjg1M,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-01-21,2026,1,4,2,Wed,0,21,World Wetlands Day,2026-02-02,-12,0,0
+DRCDcjeiPo8,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-11-14,2025,11,46,4,Fri,0,318,World Fisheries Day,2025-11-21,-7,0,0
+DVbS9aUDhBA,Gobabeb Research & Training Centre,gobabeb,2026-03-03,2026,3,10,1,Tue,0,62,World Wildlife Day,2026-03-03,0,1,1
+DRM2T3YjOAm,Elephant Human Relations Aid,ehranamibia,2025-11-18,2025,11,47,1,Tue,0,322,World Fisheries Day,2025-11-21,-3,0,1
+DVJYXnKjRBg,AfriCat Foundation,africat_foundation,2026-02-24,2026,2,9,1,Tue,0,55,World Pangolin Day,2026-02-21,3,0,1
+DRpNNWuiEbq,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-11-29,2025,11,48,5,Sat,1,333,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-5,0,0
+DQ_CaSgikVa,Namibia Nature Foundation,namibia_nature_foundation,2025-11-13,2025,11,46,3,Thu,0,317,World Fisheries Day,2025-11-21,-8,0,0
+DWY0epAiNPH,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-27,2026,3,13,4,Fri,0,86,Earth Hour,2026-03-28,-1,1,1
+DQg1hw9iKpD,Gobabeb Research & Training Centre,gobabeb,2025-11-01,2025,11,44,5,Sat,1,305,World Fisheries Day,2025-11-21,-20,0,0
+DXEHsmhjlft,Save the Rhino Trust Namibia,savetherhinonamibia,2026-04-13,2026,4,16,0,Mon,0,103,Earth Day,2026-04-22,-9,0,0
+DS7ycYNDEFD,AfriCat Foundation,africat_foundation,2025-12-31,2025,12,1,2,Wed,0,365,World Soil Day,2025-12-05,26,0,0
+DVqBEnpiMbf,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-03-09,2026,3,11,0,Mon,0,68,World Wildlife Day,2026-03-03,6,0,0
+DQ1RoI8DCa2,Elephant Human Relations Aid,ehranamibia,2025-11-09,2025,11,45,6,Sun,1,313,World Fisheries Day,2025-11-21,-12,0,0
+DT5BcGpDCOg,Elephant Human Relations Aid,ehranamibia,2026-01-24,2026,1,4,5,Sat,1,24,World Wetlands Day,2026-02-02,-9,0,0
+DUI6f7uiG8n,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-01-30,2026,1,5,4,Fri,0,30,World Wetlands Day,2026-02-02,-3,0,1
+DQwlJwfDWbc,Gobabeb Research & Training Centre,gobabeb,2025-11-07,2025,11,45,4,Fri,0,311,World Fisheries Day,2025-11-21,-14,0,0
+DRe4M-aDIWa,Elephant Human Relations Aid,ehranamibia,2025-11-25,2025,11,48,1,Tue,0,329,World Fisheries Day,2025-11-21,4,0,0
+DWyg-oLjGQN,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-06,2026,4,15,0,Mon,0,96,Earth Hour,2026-03-28,9,0,0
+DWv8LJvlSEd,Ocean Conservation Namibia,oceanconservationnamibia,2026-04-05,2026,4,14,6,Sun,1,95,Earth Hour,2026-03-28,8,0,0
+DQoS5CdDHLo,Elephant Human Relations Aid,ehranamibia,2025-11-04,2025,11,45,1,Tue,0,308,World Fisheries Day,2025-11-21,-17,0,0
+DXuVGWBCGa5,Namibia Nature Foundation,namibia_nature_foundation,2026-04-29,2026,4,18,2,Wed,0,119,World Penguin Day,2026-04-25,4,0,0
+DUhrzlZjphA,Harnas Wildlife Foundation,harnaswildlifefoundation,2026-02-09,2026,2,7,0,Mon,0,40,World Wetlands Day,2026-02-02,7,0,0
+DQ6Ud-djNHm,Elephant Human Relations Aid,ehranamibia,2025-11-11,2025,11,46,1,Tue,0,315,World Fisheries Day,2025-11-21,-10,0,0
+DSZ41IKiPsl,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2025-12-18,2025,12,51,3,Thu,0,352,World Soil Day,2025-12-05,13,0,0
+DRwohMGDDYj,Elephant Human Relations Aid,ehranamibia,2025-12-02,2025,12,49,1,Tue,0,336,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-2,0,1
+DUDieQziKe2,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,2026-01-28,2026,1,5,2,Wed,0,28,World Wetlands Day,2026-02-02,-5,0,0
+DRRgrmyjLcD,Elephant Human Relations Aid,ehranamibia,2025-11-20,2025,11,47,3,Thu,0,324,World Fisheries Day,2025-11-21,-1,1,1
+DS9vxx7jGRU,Elephant Human Relations Aid,ehranamibia,2026-01-01,2026,1,1,3,Thu,0,1,World Soil Day,2025-12-05,27,0,0
+DRpNB6jiCEl,Tosco Trust,tosconamibia,2025-11-29,2025,11,48,5,Sat,1,333,Wildlife Conservation Day / Int'l Cheetah Day,2025-12-04,-5,0,0

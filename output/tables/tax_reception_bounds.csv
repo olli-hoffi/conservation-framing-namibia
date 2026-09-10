@@ -1,0 +1,12 @@
+quantity,value,note
+cliff_delta_concentration,0.5211047420531527,"coded posts (n = 38) vs remaining comment-bearing posts (n = 404), on n_comments_scraped"
+cliff_delta_ci_low,0.403536059095435,"coded posts (n = 38) vs remaining comment-bearing posts (n = 404), on n_comments_scraped"
+cliff_delta_ci_high,0.6217449264488257,"coded posts (n = 38) vs remaining comment-bearing posts (n = 404), on n_comments_scraped"
+support_share,89.49044585987261,281 of 314 comments
+ci_naive_low,85.60804421093084,"Wilson, comments treated as independent"
+ci_naive_high,92.41827775479668,"Wilson, comments treated as independent"
+ci_cluster_low,84.95289942441366,"cluster bootstrap over 38 posts, 10,000 draws, seed 2026"
+ci_cluster_high,93.35551076830147,"cluster bootstrap over 38 posts, 10,000 draws, seed 2026"
+neg_affect_support_share,76.19047619047619,16 of 21 negative-affect comments coded support
+neg_affect_ci_low,54.90882631704924,16 of 21 negative-affect comments coded support
+neg_affect_ci_high,89.37198697736352,16 of 21 negative-affect comments coded support

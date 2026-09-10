@@ -1,0 +1,462 @@
+[
+  {
+    "text": "Namibia's",
+    "start": 0.08,
+    "end": 0.62
+  },
+  {
+    "text": "water",
+    "start": 0.62,
+    "end": 0.97
+  },
+  {
+    "text": "supply",
+    "start": 1,
+    "end": 1.39
+  },
+  {
+    "text": "is",
+    "start": 1.4,
+    "end": 1.54
+  },
+  {
+    "text": "under",
+    "start": 1.54,
+    "end": 1.89
+  },
+  {
+    "text": "serious",
+    "start": 1.89,
+    "end": 2.38
+  },
+  {
+    "text": "pressure.",
+    "start": 2.38,
+    "end": 3.12
+  },
+  {
+    "text": "The",
+    "start": 3.2,
+    "end": 3.36
+  },
+  {
+    "text": "numbers",
+    "start": 3.36,
+    "end": 3.9
+  },
+  {
+    "text": "are",
+    "start": 3.95,
+    "end": 4.17
+  },
+  {
+    "text": "stark.",
+    "start": 4.17,
+    "end": 4.84
+  },
+  {
+    "text": "In",
+    "start": 4.92,
+    "end": 4.99
+  },
+  {
+    "text": "2024,",
+    "start": 4.99,
+    "end": 6.04
+  },
+  {
+    "text": "Namibia",
+    "start": 6.04,
+    "end": 6.56
+  },
+  {
+    "text": "experienced",
+    "start": 6.56,
+    "end": 7.38
+  },
+  {
+    "text": "its",
+    "start": 7.38,
+    "end": 7.48
+  },
+  {
+    "text": "worst",
+    "start": 7.6,
+    "end": 7.88
+  },
+  {
+    "text": "drought",
+    "start": 7.99,
+    "end": 8.32
+  },
+  {
+    "text": "in",
+    "start": 8.32,
+    "end": 8.49
+  },
+  {
+    "text": "100",
+    "start": 8.49,
+    "end": 9.11
+  },
+  {
+    "text": "years.",
+    "start": 9.58,
+    "end": 9.96
+  },
+  {
+    "text": "Dam",
+    "start": 10.04,
+    "end": 10.23
+  },
+  {
+    "text": "levels",
+    "start": 10.23,
+    "end": 10.74
+  },
+  {
+    "text": "dropped",
+    "start": 10.79,
+    "end": 11.38
+  },
+  {
+    "text": "70%",
+    "start": 11.4,
+    "end": 12.03
+  },
+  {
+    "text": "in",
+    "start": 12.03,
+    "end": 12.07
+  },
+  {
+    "text": "a",
+    "start": 12.21,
+    "end": 12.3
+  },
+  {
+    "text": "single",
+    "start": 12.3,
+    "end": 12.59
+  },
+  {
+    "text": "year.",
+    "start": 13.11,
+    "end": 13.52
+  },
+  {
+    "text": "And",
+    "start": 13.6,
+    "end": 13.73
+  },
+  {
+    "text": "of",
+    "start": 13.73,
+    "end": 13.85
+  },
+  {
+    "text": "all",
+    "start": 13.87,
+    "end": 14.07
+  },
+  {
+    "text": "the",
+    "start": 14.07,
+    "end": 14.29
+  },
+  {
+    "text": "rain",
+    "start": 14.29,
+    "end": 14.57
+  },
+  {
+    "text": "that",
+    "start": 14.57,
+    "end": 14.85
+  },
+  {
+    "text": "falls",
+    "start": 14.85,
+    "end": 15.2
+  },
+  {
+    "text": "here,",
+    "start": 15.2,
+    "end": 15.63
+  },
+  {
+    "text": "only",
+    "start": 15.63,
+    "end": 16.13
+  },
+  {
+    "text": "2%",
+    "start": 16.13,
+    "end": 16.64
+  },
+  {
+    "text": "ever",
+    "start": 16.72,
+    "end": 16.99
+  },
+  {
+    "text": "reaches",
+    "start": 16.99,
+    "end": 17.6
+  },
+  {
+    "text": "a",
+    "start": 17.64,
+    "end": 17.69
+  },
+  {
+    "text": "river.",
+    "start": 17.75,
+    "end": 18.43
+  },
+  {
+    "text": "Namibia's",
+    "start": 18.52,
+    "end": 19.02
+  },
+  {
+    "text": "rivers",
+    "start": 19.02,
+    "end": 19.41
+  },
+  {
+    "text": "and",
+    "start": 19.44,
+    "end": 19.63
+  },
+  {
+    "text": "dams",
+    "start": 19.63,
+    "end": 19.89
+  },
+  {
+    "text": "are",
+    "start": 19.91,
+    "end": 20.1
+  },
+  {
+    "text": "a",
+    "start": 20.1,
+    "end": 20.16
+  },
+  {
+    "text": "shared",
+    "start": 20.16,
+    "end": 20.55
+  },
+  {
+    "text": "resource",
+    "start": 20.59,
+    "end": 21.6
+  },
+  {
+    "text": "used",
+    "start": 21.68,
+    "end": 21.93
+  },
+  {
+    "text": "by",
+    "start": 21.94,
+    "end": 22.11
+  },
+  {
+    "text": "communities,",
+    "start": 22.11,
+    "end": 23.2
+  },
+  {
+    "text": "farms,",
+    "start": 23.2,
+    "end": 23.71
+  },
+  {
+    "text": "and",
+    "start": 23.85,
+    "end": 24.03
+  },
+  {
+    "text": "wildlife",
+    "start": 24.03,
+    "end": 24.23
+  },
+  {
+    "text": "across",
+    "start": 24.75,
+    "end": 25.2
+  },
+  {
+    "text": "the",
+    "start": 25.21,
+    "end": 25.46
+  },
+  {
+    "text": "country.",
+    "start": 25.46,
+    "end": 26.36
+  },
+  {
+    "text": "When",
+    "start": 26.44,
+    "end": 26.66
+  },
+  {
+    "text": "water",
+    "start": 26.66,
+    "end": 27.03
+  },
+  {
+    "text": "levels",
+    "start": 27.03,
+    "end": 27.41
+  },
+  {
+    "text": "fall,",
+    "start": 27.47,
+    "end": 27.91
+  },
+  {
+    "text": "every",
+    "start": 27.91,
+    "end": 28.28
+  },
+  {
+    "text": "sector",
+    "start": 28.28,
+    "end": 28.76
+  },
+  {
+    "text": "is",
+    "start": 28.76,
+    "end": 28.92
+  },
+  {
+    "text": "affected.",
+    "start": 28.93,
+    "end": 29.88
+  },
+  {
+    "text": "Understanding",
+    "start": 29.96,
+    "end": 30.79
+  },
+  {
+    "text": "the",
+    "start": 30.79,
+    "end": 30.99
+  },
+  {
+    "text": "system",
+    "start": 31,
+    "end": 31.42
+  },
+  {
+    "text": "is",
+    "start": 31.42,
+    "end": 31.56
+  },
+  {
+    "text": "the",
+    "start": 31.56,
+    "end": 31.77
+  },
+  {
+    "text": "first",
+    "start": 31.77,
+    "end": 31.99
+  },
+  {
+    "text": "step.",
+    "start": 32.13,
+    "end": 32.52
+  },
+  {
+    "text": "Tap",
+    "start": 32.72,
+    "end": 32.85
+  },
+  {
+    "text": "to",
+    "start": 32.85,
+    "end": 32.97
+  },
+  {
+    "text": "learn",
+    "start": 32.99,
+    "end": 33.34
+  },
+  {
+    "text": "more",
+    "start": 33.34,
+    "end": 33.61
+  },
+  {
+    "text": "about",
+    "start": 33.64,
+    "end": 33.97
+  },
+  {
+    "text": "what",
+    "start": 33.97,
+    "end": 34.25
+  },
+  {
+    "text": "is",
+    "start": 34.25,
+    "end": 34.38
+  },
+  {
+    "text": "being",
+    "start": 34.39,
+    "end": 34.74
+  },
+  {
+    "text": "done",
+    "start": 34.74,
+    "end": 35.08
+  },
+  {
+    "text": "and",
+    "start": 35.16,
+    "end": 35.4
+  },
+  {
+    "text": "how",
+    "start": 35.4,
+    "end": 35.71
+  },
+  {
+    "text": "you",
+    "start": 35.71,
+    "end": 36.04
+  },
+  {
+    "text": "can",
+    "start": 36.04,
+    "end": 36.36
+  },
+  {
+    "text": "be",
+    "start": 36.36,
+    "end": 36.57
+  },
+  {
+    "text": "part",
+    "start": 36.57,
+    "end": 36.99
+  },
+  {
+    "text": "of",
+    "start": 36.99,
+    "end": 37.19
+  },
+  {
+    "text": "it.",
+    "start": 37.23,
+    "end": 37.69
+  }
+]

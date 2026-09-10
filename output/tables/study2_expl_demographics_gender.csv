@@ -1,0 +1,9 @@
+condition,gender,impressions,link_clicks,imp_share,ctr
+Neutral,female,49050,242,0.458,0.0049
+Neutral,male,58057,200,0.542,0.0034
+Empathy,female,51177,247,0.469,0.0048
+Empathy,male,57843,222,0.531,0.0038
+Social Norm,female,48659,224,0.453,0.0046
+Social Norm,male,58731,231,0.547,0.0039
+Narrative,female,48682,264,0.463,0.0054
+Narrative,male,56350,244,0.537,0.0043

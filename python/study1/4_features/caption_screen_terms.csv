@@ -1,0 +1,22 @@
+screen,rule_id,regex,description
+behavior_request,BR01,"\bgive your time\.\s+take action\.",Explicit request to give time and act
+behavior_request,BR02,"\bdo better\b",Explicit request to improve personal conduct
+behavior_request,BR03,"\bdo you (?:reduce|reuse|recycle|repeat)\b",Direct question about personal consumption conduct
+behavior_request,BR04,"\bleave only footprints\b",Explicit low-impact conduct request
+behavior_request,BR05,"\b(?:call on|calls on|calling on) (?:all )?(?:residents|travellers|communities|stakeholders)\b",Explicit public call addressed to a named group
+behavior_request,BR06,"\b(?:keep|maintain) .{0,45}\b(?:clean|healthy surroundings)\b",Request to keep shared surroundings clean
+behavior_request,BR07,"\blet.?s .{0,60}\b(?:protect|conserve|keep) (?:our|the) (?:coastlines?|environment|wildlife|nature)\b",Collective request for protective conduct
+behavior_request,BR08,"\b(?:upload|submit|record|report|share) (?:your |a )?.{0,25}\b(?:photos?|sightings?|observations?)\b",Request to contribute a biodiversity observation
+behavior_request,BR09,"\bjoin (?:a|the|your) conservancy\b",Request to join a conservancy
+behavior_request,BR10,"\b(?:save|conserve|reduce) (?:your |our |the )?water\b",Request to reduce personal water use
+behavior_request,BR11,"\b(?:avoid|reduce) (?:your )?(?:plastic|waste)\b",Request to reduce waste or plastic use
+behavior_request,BR12,"\b(?:do not|don.t) (?:feed|litter)\b",Explicit prohibition of harmful conduct
+behavior_request,BR13,"\bdispose of (?:your )?waste\b",Request for responsible waste disposal
+behavior_request,BR14,"\bplant (?:a|one|more) tree\b",Request to plant a tree
+citizen_science,CS01,"\bcitizen science\b",Citizen science named directly
+citizen_science,CS02,"\bcitizen scientists?\b",Citizen scientist named directly
+citizen_science,CS03,"\bgiraffespotter\b",GiraffeSpotter platform or project
+citizen_science,CS04,"\binaturalist\b",iNaturalist platform
+citizen_science,CS05,"\b(?:species|biodiversity|bird|wildlife) atlas\b",Biodiversity atlas project
+citizen_science,CS06,"\batlasing\b",Atlasing activity or project
+citizen_science,CS07,"\bnaras\b",NaRaS project

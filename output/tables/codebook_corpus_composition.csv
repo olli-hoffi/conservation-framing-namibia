@@ -1,0 +1,35 @@
+characteristic,category,n,pct
+Post format,Carousel,398,43.4
+Post format,Image,301,32.8
+Post format,Video,218,23.8
+Actor type,1,600,65.4
+Actor type,4,82,8.9
+Actor type,2,79,8.6
+Actor type,5,77,8.4
+Actor type,3,65,7.1
+Actor type,6,14,1.5
+Primary topic,Wildlife,317,34.6
+Primary topic,Community,160,17.4
+Primary topic,Research,130,14.2
+Primary topic,Ecotourism,91,9.9
+Primary topic,Policy,67,7.3
+Primary topic,Education,62,6.8
+Primary topic,HWC,36,3.9
+Primary topic,Climate,28,3.1
+Primary topic,Anti-poaching,13,1.4
+Primary topic,Fundraising,11,1.2
+Primary topic,unassigned,2,0.2
+Emotional valence,Hope,678,73.9
+Emotional valence,Neutral,155,16.9
+Emotional valence,Mixed,66,7.2
+Emotional valence,Distress,18,2
+Primary call to action,None,669,73
+Primary call to action,Learn,141,15.4
+Primary call to action,Event,42,4.6
+Primary call to action,Volunteer,32,3.5
+Primary call to action,Donate,26,2.8
+Primary call to action,Share,7,0.8
+Story structure,None,382,41.7
+Story structure,Problem-Solution,275,30
+Story structure,Solution,230,25.1
+Story structure,Problem,30,3.3

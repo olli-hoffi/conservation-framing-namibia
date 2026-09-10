@@ -1,0 +1,5 @@
+condition,cells,n_sessions,median_weighted_s,q1_weighted_s,q3_weighted_s,mean_weighted_s,median_cell_s
+Neutral,5,8,52.8,31.3,69.1,56.7,36.6
+Empathy,9,15,33.7,17,66.4,47.5,22.4
+Social Norm,7,15,15.4,14.5,334.9,136,109.6
+Narrative,6,16,22.2,20.2,79.4,49,22.2

@@ -1,0 +1,72 @@
+idx,round,condition,ad_name,comment_text,stance,language,local_authority
+1,round2,Empathy,WC_empathy_3,Stop lying it was raining almost everyday,disputing,english,0
+2,round2,Empathy,WC_empathy_3,You think we don't know what you're doing,disputing,english,0
+3,round2,Empathy,WC_empathy_3,What does that actually mean,questioning,english,0
+4,round2,Empathy,WC_empathy_3,.,noncodeable,na,0
+5,round2,Empathy,WC_empathy_1,Walk hours to find it?,questioning,english,0
+6,round2,Empathy,WC_empathy_1,"Namibia's worst drought occurred in 2018/9. This year, we have had one of the best rainfalls we've experienced in decades and the dams overflowed with so much water, that they had to open the dam to release some of it due to capacity problems.",disputing,english,1
+7,round2,Empathy,WC_empathy_1,@C0722 please make accurate statements 🙏,disputing,english,0
+8,round2,Empathy,WC_empathy_1,"""Was""",disputing,english,0
+9,round2,Neutral,WC_neutral_3,Ngiini…,questioning,oshiwambo_local,0
+10,round2,Neutral,WC_neutral_2,Etolls,noncodeable,english,0
+11,round2,Neutral,WC_neutral_1,The worst drought we faced was back in 2018/9,disputing,english,1
+12,round2,Neutral,WC_neutral_1,@C0722 Namibia has had one of the largest rainfall it has seen this year compared to the past decade actually. Lets be more factual🙏,disputing,english,1
+13,round2,Narrative,WC_narrative_1,𝚆𝚑𝚢 𝚞 𝚕𝚢𝚒𝚗𝚐,disputing,english,0
+14,round2,Narrative,WC_narrative_1,That is not true,disputing,english,0
+15,round2,Social Norm,WC_socialnorm_1,Making us look arahm eche 😢 😭,disputing,mixed,1
+16,round2,Social Norm,WC_socialnorm_3,Lies,disputing,english,0
+17,round2,Narrative,WC_narrative_2,lol Namibia’s dams are overflowing with water🤣 dam lever risen to 100+,disputing,english,0
+18,round2,Narrative,WC_narrative_2,"Last year and this year we had  good rain, but we don't need it in a concrete jungle do we?",disputing,english,0
+19,round2,Narrative,WC_narrative_2,NA,noncodeable,na,0
+20,round2,Narrative,WC_narrative_3,Who is telling you these lies.🤔,disputing,english,0
+21,round2,Narrative,WC_narrative_3,"Me watching this in 2026, drinking water in Namibia",disputing,english,0
+22,round2,Narrative,WC_narrative_3,But we got oil,other,english,0
+23,round2,Narrative,WC_narrative_3,I live in namibia,other,english,1
+24,round1,Neutral,WC_neutral_1,"I ain't update to date about what's really happening. There should be different types of water fetching techniques introduced. We hardly have reservoirs, wells within them farmers, communal settlement areas, and out of reach areas that struggle with water. The majority of water pumps out of the dams to serve its purpose on farmland, communal spaces, urban and rural areas. That itself is an issue as the nation still depends on the sole purpose of Dams and not resulting in possible solutions of fetching water differently or looking for options that work best for the area affected.",qualifying,english,1
+25,round1,Neutral,WC_neutral_1,This is a lie 🤥,disputing,english,0
+26,round1,Neutral,WC_neutral_1,I come from Namibia 🇳🇦,other,english,1
+27,round1,Neutral,WC_neutral_1,Oh shi,other,english,0
+28,round1,Neutral,WC_neutral_2,Stooooop lying,disputing,english,0
+29,round1,Empathy,WC_empathy_1,Whaaaaaaat???? Who told you this nonsense?😳😳😳😳 Heeeeeyyy muuhn. Stop lying,disputing,english,0
+30,round1,Empathy,WC_empathy_1,Why would you lie like this?,disputing,english,0
+31,round1,Neutral,WC_neutral_3,One day the rain is too much the other day we are in a drought my people please choose,disputing,english,0
+32,round1,Neutral,WC_neutral_3,Were good,disputing,english,0
+33,round1,Neutral,WC_neutral_3,Big lie,disputing,english,0
+34,round1,Neutral,WC_neutral_3,No wonder why we aren't having water at most times in walvis johhh I swear,supporting,english,1
+35,round1,Neutral,WC_neutral_3,This is the first I’m hearing about this and I live there,disputing,english,1
+36,round1,Empathy,WC_empathy_2,Where did you get all this data?,questioning,english,0
+37,round1,Empathy,WC_empathy_2,NA,noncodeable,na,0
+38,round1,Empathy,WC_empathy_2,Stop lying,disputing,english,0
+39,round1,Empathy,WC_empathy_2,NA,noncodeable,na,0
+40,round1,Empathy,WC_empathy_2,Its the fault of all this Ai engines causing this ...research on this and u will learn more @M0031,other,english,0
+41,round1,Empathy,WC_empathy_3,U mean the rural areas right?,qualifying,english,0
+42,round1,Empathy,WC_empathy_3,Must i stop my 40min showers? Or we chill,disputing,english,0
+43,round1,Empathy,WC_empathy_3,Daim comments get cancelled?,other,english,0
+44,round1,Empathy,WC_empathy_3,"As a Namibian am shocked to hear this…. Water may be far to get , but running short???",qualifying,english,1
+45,round1,Social Norm,WC_socialnorm_1,Namibia is experiencing Economic Water Shortage 💧 Namibia was i alot of underground water but due to lack of funds and infrastructure and Human capacity we can't reach it.,qualifying,english,1
+46,round1,Social Norm,WC_socialnorm_1,"Daim I live in Namibia and I swear I saw worst droughts then 24 I mean haven’t we always been saving water but I guess support never hurts though this dross make it sound dramatic, maybe it’s other sides of the country",qualifying,english,1
+47,round1,Social Norm,WC_socialnorm_3,But then experienced its most rainy year in decades during 24-25 season and 25-26 season too what are you selling?,disputing,english,0
+48,round1,Social Norm,WC_socialnorm_3,We received the best rain season in 2025,disputing,english,0
+49,round1,Social Norm,WC_socialnorm_3,Your lying..im namibian and we have water all year round.,disputing,english,1
+50,round1,Social Norm,WC_socialnorm_3,This is a bunch of bs,disputing,english,0
+51,round1,Social Norm,WC_socialnorm_3,Fokof stop talking crap,disputing,afrikaans,0
+52,round1,Social Norm,WC_socialnorm_3,.,noncodeable,na,0
+53,round1,Social Norm,WC_socialnorm_3,I’m not sure these information is accurate,questioning,english,0
+54,round1,Social Norm,WC_socialnorm_3,We’re not only running out of water. Our tap water smells horrible and makes us ill. It also smells like bleach!!!,supporting,english,1
+55,round1,Social Norm,WC_socialnorm_3,Northern east of namibia 🇳🇦will never run out of water 💧 that's it,qualifying,english,1
+56,round1,Social Norm,WC_socialnorm_3,When will you delete this video?,other,english,0
+57,round1,Narrative,WC_narrative_1,We have water this is cap,disputing,english,1
+58,round1,Narrative,WC_narrative_1,Huh?,questioning,english,0
+59,round1,Narrative,WC_narrative_1,"Don't lie,",disputing,english,0
+60,round1,Narrative,WC_narrative_1,Wagugwa,noncodeable,oshiwambo_local,0
+61,round1,Social Norm,WC_socialnorm_2,Get something else to talk about cause I'm Namibia but I ain't see it that way,disputing,english,1
+62,round1,Narrative,WC_narrative_3,Nalie,disputing,oshiwambo_local,0
+63,round1,Narrative,WC_narrative_3,NA,noncodeable,na,0
+64,round1,Narrative,WC_narrative_3,Lies,disputing,english,0
+65,round1,Narrative,WC_narrative_3,Ek dink nie ons bly in die selfde Namibia nie,disputing,afrikaans,1
+66,round1,Narrative,WC_narrative_3,Is this data correct ?,questioning,english,0
+67,round1,Narrative,WC_narrative_2,Useless information,other,english,0
+68,round1,Narrative,WC_narrative_2,Fucking lies,disputing,english,0
+69,round1,Narrative,WC_narrative_2,NA,noncodeable,na,0
+70,round1,Narrative,WC_narrative_2,Hmmmm julle,other,afrikaans,0
+71,round1,Narrative,WC_narrative_2,Katima doesn't,qualifying,english,1

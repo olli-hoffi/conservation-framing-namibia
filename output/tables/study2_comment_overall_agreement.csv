@@ -1,0 +1,2 @@
+comparison,scheme,n,n_agree,pct_agreement,kappa,ci_low,ci_high,band
+Author (condition visible) vs. second coder (blind),Five-way,71,47,66.2,0.515,0.375,0.654,moderate

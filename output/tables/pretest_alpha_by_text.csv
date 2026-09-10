@@ -1,0 +1,13 @@
+scale,condition,n_obs,raw_alpha,std_alpha
+EMP,Neutral,24,0.874,0.878
+EMP,Empathy,24,0.884,0.894
+EMP,Social Norm,24,0.865,0.862
+EMP,Narrative,24,0.907,0.91
+NORM,Neutral,24,0.869,0.874
+NORM,Empathy,24,0.863,0.864
+NORM,Social Norm,24,0.743,0.753
+NORM,Narrative,24,0.897,0.903
+NAR,Neutral,24,0.747,0.763
+NAR,Empathy,24,0.769,0.769
+NAR,Social Norm,24,0.776,0.786
+NAR,Narrative,24,0.818,0.838

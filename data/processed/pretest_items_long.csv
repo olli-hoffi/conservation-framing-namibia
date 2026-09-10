@@ -1,0 +1,1057 @@
+id,condition,scale,item_num,item_id,score
+11,Empathy,EMP,1,EMP_1,5
+11,Empathy,EMP,2,EMP_2,5
+11,Empathy,EMP,3,EMP_3,5
+11,Empathy,NORM,4,NORM_4,1
+11,Empathy,NORM,5,NORM_5,1
+11,Empathy,NORM,6,NORM_6,1
+11,Empathy,NAR,7,NAR_7,1
+11,Empathy,NAR,8,NAR_8,1
+11,Empathy,NAR,9,NAR_9,1
+11,Empathy,CTRL1,10,CTRL1_10,1
+11,Empathy,CTRL2,11,CTRL2_11,1
+11,Narrative,EMP,1,EMP_1,1
+11,Narrative,EMP,2,EMP_2,1
+11,Narrative,EMP,3,EMP_3,1
+11,Narrative,NORM,4,NORM_4,1
+11,Narrative,NORM,5,NORM_5,1
+11,Narrative,NORM,6,NORM_6,1
+11,Narrative,NAR,7,NAR_7,5
+11,Narrative,NAR,8,NAR_8,5
+11,Narrative,NAR,9,NAR_9,5
+11,Narrative,CTRL1,10,CTRL1_10,5
+11,Narrative,CTRL2,11,CTRL2_11,5
+11,Neutral,EMP,1,EMP_1,3
+11,Neutral,EMP,2,EMP_2,3
+11,Neutral,EMP,3,EMP_3,3
+11,Neutral,NORM,4,NORM_4,3
+11,Neutral,NORM,5,NORM_5,3
+11,Neutral,NORM,6,NORM_6,3
+11,Neutral,NAR,7,NAR_7,3
+11,Neutral,NAR,8,NAR_8,3
+11,Neutral,NAR,9,NAR_9,3
+11,Neutral,CTRL1,10,CTRL1_10,5
+11,Neutral,CTRL2,11,CTRL2_11,5
+11,Social Norm,EMP,1,EMP_1,1
+11,Social Norm,EMP,2,EMP_2,1
+11,Social Norm,EMP,3,EMP_3,1
+11,Social Norm,NORM,4,NORM_4,5
+11,Social Norm,NORM,5,NORM_5,5
+11,Social Norm,NORM,6,NORM_6,5
+11,Social Norm,NAR,7,NAR_7,1
+11,Social Norm,NAR,8,NAR_8,1
+11,Social Norm,NAR,9,NAR_9,1
+11,Social Norm,CTRL1,10,CTRL1_10,5
+11,Social Norm,CTRL2,11,CTRL2_11,5
+13,Empathy,EMP,1,EMP_1,5
+13,Empathy,EMP,2,EMP_2,5
+13,Empathy,EMP,3,EMP_3,5
+13,Empathy,NORM,4,NORM_4,1
+13,Empathy,NORM,5,NORM_5,1
+13,Empathy,NORM,6,NORM_6,1
+13,Empathy,NAR,7,NAR_7,2
+13,Empathy,NAR,8,NAR_8,1
+13,Empathy,NAR,9,NAR_9,1
+13,Empathy,CTRL1,10,CTRL1_10,4
+13,Empathy,CTRL2,11,CTRL2_11,5
+13,Narrative,EMP,1,EMP_1,1
+13,Narrative,EMP,2,EMP_2,1
+13,Narrative,EMP,3,EMP_3,1
+13,Narrative,NORM,4,NORM_4,1
+13,Narrative,NORM,5,NORM_5,1
+13,Narrative,NORM,6,NORM_6,1
+13,Narrative,NAR,7,NAR_7,5
+13,Narrative,NAR,8,NAR_8,5
+13,Narrative,NAR,9,NAR_9,5
+13,Narrative,CTRL1,10,CTRL1_10,5
+13,Narrative,CTRL2,11,CTRL2_11,5
+13,Neutral,EMP,1,EMP_1,1
+13,Neutral,EMP,2,EMP_2,1
+13,Neutral,EMP,3,EMP_3,1
+13,Neutral,NORM,4,NORM_4,1
+13,Neutral,NORM,5,NORM_5,1
+13,Neutral,NORM,6,NORM_6,1
+13,Neutral,NAR,7,NAR_7,1
+13,Neutral,NAR,8,NAR_8,1
+13,Neutral,NAR,9,NAR_9,1
+13,Neutral,CTRL1,10,CTRL1_10,3
+13,Neutral,CTRL2,11,CTRL2_11,5
+13,Social Norm,EMP,1,EMP_1,1
+13,Social Norm,EMP,2,EMP_2,1
+13,Social Norm,EMP,3,EMP_3,1
+13,Social Norm,NORM,4,NORM_4,5
+13,Social Norm,NORM,5,NORM_5,5
+13,Social Norm,NORM,6,NORM_6,5
+13,Social Norm,NAR,7,NAR_7,1
+13,Social Norm,NAR,8,NAR_8,1
+13,Social Norm,NAR,9,NAR_9,1
+13,Social Norm,CTRL1,10,CTRL1_10,5
+13,Social Norm,CTRL2,11,CTRL2_11,5
+15,Empathy,EMP,1,EMP_1,4
+15,Empathy,EMP,2,EMP_2,3
+15,Empathy,EMP,3,EMP_3,4
+15,Empathy,NORM,4,NORM_4,2
+15,Empathy,NORM,5,NORM_5,2
+15,Empathy,NORM,6,NORM_6,2
+15,Empathy,NAR,7,NAR_7,2
+15,Empathy,NAR,8,NAR_8,2
+15,Empathy,NAR,9,NAR_9,2
+15,Empathy,CTRL1,10,CTRL1_10,3
+15,Empathy,CTRL2,11,CTRL2_11,4
+15,Narrative,EMP,1,EMP_1,4
+15,Narrative,EMP,2,EMP_2,4
+15,Narrative,EMP,3,EMP_3,4
+15,Narrative,NORM,4,NORM_4,4
+15,Narrative,NORM,5,NORM_5,3
+15,Narrative,NORM,6,NORM_6,4
+15,Narrative,NAR,7,NAR_7,5
+15,Narrative,NAR,8,NAR_8,5
+15,Narrative,NAR,9,NAR_9,4
+15,Narrative,CTRL1,10,CTRL1_10,4
+15,Narrative,CTRL2,11,CTRL2_11,4
+15,Neutral,EMP,1,EMP_1,2
+15,Neutral,EMP,2,EMP_2,1
+15,Neutral,EMP,3,EMP_3,2
+15,Neutral,NORM,4,NORM_4,1
+15,Neutral,NORM,5,NORM_5,2
+15,Neutral,NORM,6,NORM_6,1
+15,Neutral,NAR,7,NAR_7,2
+15,Neutral,NAR,8,NAR_8,1
+15,Neutral,NAR,9,NAR_9,2
+15,Neutral,CTRL1,10,CTRL1_10,2
+15,Neutral,CTRL2,11,CTRL2_11,4
+15,Social Norm,EMP,1,EMP_1,3
+15,Social Norm,EMP,2,EMP_2,3
+15,Social Norm,EMP,3,EMP_3,3
+15,Social Norm,NORM,4,NORM_4,5
+15,Social Norm,NORM,5,NORM_5,5
+15,Social Norm,NORM,6,NORM_6,5
+15,Social Norm,NAR,7,NAR_7,2
+15,Social Norm,NAR,8,NAR_8,2
+15,Social Norm,NAR,9,NAR_9,3
+15,Social Norm,CTRL1,10,CTRL1_10,4
+15,Social Norm,CTRL2,11,CTRL2_11,4
+17,Empathy,EMP,1,EMP_1,4
+17,Empathy,EMP,2,EMP_2,4
+17,Empathy,EMP,3,EMP_3,3
+17,Empathy,NORM,4,NORM_4,2
+17,Empathy,NORM,5,NORM_5,3
+17,Empathy,NORM,6,NORM_6,2
+17,Empathy,NAR,7,NAR_7,4
+17,Empathy,NAR,8,NAR_8,2
+17,Empathy,NAR,9,NAR_9,2
+17,Empathy,CTRL1,10,CTRL1_10,4
+17,Empathy,CTRL2,11,CTRL2_11,5
+17,Narrative,EMP,1,EMP_1,4
+17,Narrative,EMP,2,EMP_2,4
+17,Narrative,EMP,3,EMP_3,2
+17,Narrative,NORM,4,NORM_4,4
+17,Narrative,NORM,5,NORM_5,4
+17,Narrative,NORM,6,NORM_6,4
+17,Narrative,NAR,7,NAR_7,4
+17,Narrative,NAR,8,NAR_8,4
+17,Narrative,NAR,9,NAR_9,3
+17,Narrative,CTRL1,10,CTRL1_10,3
+17,Narrative,CTRL2,11,CTRL2_11,5
+17,Neutral,EMP,1,EMP_1,2
+17,Neutral,EMP,2,EMP_2,3
+17,Neutral,EMP,3,EMP_3,2
+17,Neutral,NORM,4,NORM_4,4
+17,Neutral,NORM,5,NORM_5,4
+17,Neutral,NORM,6,NORM_6,4
+17,Neutral,NAR,7,NAR_7,2
+17,Neutral,NAR,8,NAR_8,2
+17,Neutral,NAR,9,NAR_9,2
+17,Neutral,CTRL1,10,CTRL1_10,3
+17,Neutral,CTRL2,11,CTRL2_11,5
+17,Social Norm,EMP,1,EMP_1,3
+17,Social Norm,EMP,2,EMP_2,4
+17,Social Norm,EMP,3,EMP_3,2
+17,Social Norm,NORM,4,NORM_4,4
+17,Social Norm,NORM,5,NORM_5,4
+17,Social Norm,NORM,6,NORM_6,5
+17,Social Norm,NAR,7,NAR_7,4
+17,Social Norm,NAR,8,NAR_8,2
+17,Social Norm,NAR,9,NAR_9,4
+17,Social Norm,CTRL1,10,CTRL1_10,3
+17,Social Norm,CTRL2,11,CTRL2_11,5
+18,Empathy,EMP,1,EMP_1,2
+18,Empathy,EMP,2,EMP_2,2
+18,Empathy,EMP,3,EMP_3,2
+18,Empathy,NORM,4,NORM_4,2
+18,Empathy,NORM,5,NORM_5,1
+18,Empathy,NORM,6,NORM_6,2
+18,Empathy,NAR,7,NAR_7,5
+18,Empathy,NAR,8,NAR_8,4
+18,Empathy,NAR,9,NAR_9,4
+18,Empathy,CTRL1,10,CTRL1_10,3
+18,Empathy,CTRL2,11,CTRL2_11,5
+18,Narrative,EMP,1,EMP_1,2
+18,Narrative,EMP,2,EMP_2,4
+18,Narrative,EMP,3,EMP_3,2
+18,Narrative,NORM,4,NORM_4,2
+18,Narrative,NORM,5,NORM_5,2
+18,Narrative,NORM,6,NORM_6,2
+18,Narrative,NAR,7,NAR_7,5
+18,Narrative,NAR,8,NAR_8,5
+18,Narrative,NAR,9,NAR_9,5
+18,Narrative,CTRL1,10,CTRL1_10,3
+18,Narrative,CTRL2,11,CTRL2_11,5
+18,Neutral,EMP,1,EMP_1,1
+18,Neutral,EMP,2,EMP_2,1
+18,Neutral,EMP,3,EMP_3,1
+18,Neutral,NORM,4,NORM_4,4
+18,Neutral,NORM,5,NORM_5,4
+18,Neutral,NORM,6,NORM_6,2
+18,Neutral,NAR,7,NAR_7,1
+18,Neutral,NAR,8,NAR_8,1
+18,Neutral,NAR,9,NAR_9,3
+18,Neutral,CTRL1,10,CTRL1_10,2
+18,Neutral,CTRL2,11,CTRL2_11,5
+18,Social Norm,EMP,1,EMP_1,1
+18,Social Norm,EMP,2,EMP_2,4
+18,Social Norm,EMP,3,EMP_3,1
+18,Social Norm,NORM,4,NORM_4,5
+18,Social Norm,NORM,5,NORM_5,5
+18,Social Norm,NORM,6,NORM_6,5
+18,Social Norm,NAR,7,NAR_7,2
+18,Social Norm,NAR,8,NAR_8,1
+18,Social Norm,NAR,9,NAR_9,4
+18,Social Norm,CTRL1,10,CTRL1_10,4
+18,Social Norm,CTRL2,11,CTRL2_11,5
+19,Empathy,EMP,1,EMP_1,4
+19,Empathy,EMP,2,EMP_2,5
+19,Empathy,EMP,3,EMP_3,5
+19,Empathy,NORM,4,NORM_4,2
+19,Empathy,NORM,5,NORM_5,2
+19,Empathy,NORM,6,NORM_6,2
+19,Empathy,NAR,7,NAR_7,5
+19,Empathy,NAR,8,NAR_8,5
+19,Empathy,NAR,9,NAR_9,3
+19,Empathy,CTRL1,10,CTRL1_10,3
+19,Empathy,CTRL2,11,CTRL2_11,5
+19,Narrative,EMP,1,EMP_1,5
+19,Narrative,EMP,2,EMP_2,4
+19,Narrative,EMP,3,EMP_3,2
+19,Narrative,NORM,4,NORM_4,4
+19,Narrative,NORM,5,NORM_5,2
+19,Narrative,NORM,6,NORM_6,2
+19,Narrative,NAR,7,NAR_7,4
+19,Narrative,NAR,8,NAR_8,4
+19,Narrative,NAR,9,NAR_9,4
+19,Narrative,CTRL1,10,CTRL1_10,4
+19,Narrative,CTRL2,11,CTRL2_11,5
+19,Neutral,EMP,1,EMP_1,5
+19,Neutral,EMP,2,EMP_2,2
+19,Neutral,EMP,3,EMP_3,2
+19,Neutral,NORM,4,NORM_4,1
+19,Neutral,NORM,5,NORM_5,2
+19,Neutral,NORM,6,NORM_6,2
+19,Neutral,NAR,7,NAR_7,2
+19,Neutral,NAR,8,NAR_8,2
+19,Neutral,NAR,9,NAR_9,2
+19,Neutral,CTRL1,10,CTRL1_10,2
+19,Neutral,CTRL2,11,CTRL2_11,5
+19,Social Norm,EMP,1,EMP_1,2
+19,Social Norm,EMP,2,EMP_2,3
+19,Social Norm,EMP,3,EMP_3,2
+19,Social Norm,NORM,4,NORM_4,4
+19,Social Norm,NORM,5,NORM_5,4
+19,Social Norm,NORM,6,NORM_6,4
+19,Social Norm,NAR,7,NAR_7,3
+19,Social Norm,NAR,8,NAR_8,1
+19,Social Norm,NAR,9,NAR_9,5
+19,Social Norm,CTRL1,10,CTRL1_10,5
+19,Social Norm,CTRL2,11,CTRL2_11,5
+21,Empathy,EMP,1,EMP_1,4
+21,Empathy,EMP,2,EMP_2,5
+21,Empathy,EMP,3,EMP_3,4
+21,Empathy,NORM,4,NORM_4,1
+21,Empathy,NORM,5,NORM_5,1
+21,Empathy,NORM,6,NORM_6,1
+21,Empathy,NAR,7,NAR_7,3
+21,Empathy,NAR,8,NAR_8,2
+21,Empathy,NAR,9,NAR_9,3
+21,Empathy,CTRL1,10,CTRL1_10,3
+21,Empathy,CTRL2,11,CTRL2_11,3
+21,Narrative,EMP,1,EMP_1,3
+21,Narrative,EMP,2,EMP_2,3
+21,Narrative,EMP,3,EMP_3,3
+21,Narrative,NORM,4,NORM_4,4
+21,Narrative,NORM,5,NORM_5,3
+21,Narrative,NORM,6,NORM_6,3
+21,Narrative,NAR,7,NAR_7,5
+21,Narrative,NAR,8,NAR_8,5
+21,Narrative,NAR,9,NAR_9,4
+21,Narrative,CTRL1,10,CTRL1_10,3
+21,Narrative,CTRL2,11,CTRL2_11,4
+21,Neutral,EMP,1,EMP_1,4
+21,Neutral,EMP,2,EMP_2,3
+21,Neutral,EMP,3,EMP_3,3
+21,Neutral,NORM,4,NORM_4,2
+21,Neutral,NORM,5,NORM_5,2
+21,Neutral,NORM,6,NORM_6,1
+21,Neutral,NAR,7,NAR_7,4
+21,Neutral,NAR,8,NAR_8,1
+21,Neutral,NAR,9,NAR_9,3
+21,Neutral,CTRL1,10,CTRL1_10,3
+21,Neutral,CTRL2,11,CTRL2_11,4
+21,Social Norm,EMP,1,EMP_1,4
+21,Social Norm,EMP,2,EMP_2,4
+21,Social Norm,EMP,3,EMP_3,4
+21,Social Norm,NORM,4,NORM_4,5
+21,Social Norm,NORM,5,NORM_5,5
+21,Social Norm,NORM,6,NORM_6,5
+21,Social Norm,NAR,7,NAR_7,5
+21,Social Norm,NAR,8,NAR_8,1
+21,Social Norm,NAR,9,NAR_9,4
+21,Social Norm,CTRL1,10,CTRL1_10,5
+21,Social Norm,CTRL2,11,CTRL2_11,5
+22,Empathy,EMP,1,EMP_1,5
+22,Empathy,EMP,2,EMP_2,5
+22,Empathy,EMP,3,EMP_3,5
+22,Empathy,NORM,4,NORM_4,3
+22,Empathy,NORM,5,NORM_5,3
+22,Empathy,NORM,6,NORM_6,3
+22,Empathy,NAR,7,NAR_7,5
+22,Empathy,NAR,8,NAR_8,5
+22,Empathy,NAR,9,NAR_9,4
+22,Empathy,CTRL1,10,CTRL1_10,5
+22,Empathy,CTRL2,11,CTRL2_11,5
+22,Narrative,EMP,1,EMP_1,5
+22,Narrative,EMP,2,EMP_2,5
+22,Narrative,EMP,3,EMP_3,5
+22,Narrative,NORM,4,NORM_4,4
+22,Narrative,NORM,5,NORM_5,4
+22,Narrative,NORM,6,NORM_6,3
+22,Narrative,NAR,7,NAR_7,5
+22,Narrative,NAR,8,NAR_8,5
+22,Narrative,NAR,9,NAR_9,5
+22,Narrative,CTRL1,10,CTRL1_10,5
+22,Narrative,CTRL2,11,CTRL2_11,5
+22,Neutral,EMP,1,EMP_1,5
+22,Neutral,EMP,2,EMP_2,5
+22,Neutral,EMP,3,EMP_3,5
+22,Neutral,NORM,4,NORM_4,4
+22,Neutral,NORM,5,NORM_5,3
+22,Neutral,NORM,6,NORM_6,3
+22,Neutral,NAR,7,NAR_7,5
+22,Neutral,NAR,8,NAR_8,3
+22,Neutral,NAR,9,NAR_9,5
+22,Neutral,CTRL1,10,CTRL1_10,5
+22,Neutral,CTRL2,11,CTRL2_11,5
+22,Social Norm,EMP,1,EMP_1,5
+22,Social Norm,EMP,2,EMP_2,5
+22,Social Norm,EMP,3,EMP_3,5
+22,Social Norm,NORM,4,NORM_4,5
+22,Social Norm,NORM,5,NORM_5,5
+22,Social Norm,NORM,6,NORM_6,4
+22,Social Norm,NAR,7,NAR_7,5
+22,Social Norm,NAR,8,NAR_8,3
+22,Social Norm,NAR,9,NAR_9,5
+22,Social Norm,CTRL1,10,CTRL1_10,5
+22,Social Norm,CTRL2,11,CTRL2_11,5
+23,Empathy,EMP,1,EMP_1,4
+23,Empathy,EMP,2,EMP_2,4
+23,Empathy,EMP,3,EMP_3,4
+23,Empathy,NORM,4,NORM_4,4
+23,Empathy,NORM,5,NORM_5,3
+23,Empathy,NORM,6,NORM_6,4
+23,Empathy,NAR,7,NAR_7,4
+23,Empathy,NAR,8,NAR_8,2
+23,Empathy,NAR,9,NAR_9,2
+23,Empathy,CTRL1,10,CTRL1_10,4
+23,Empathy,CTRL2,11,CTRL2_11,4
+23,Narrative,EMP,1,EMP_1,3
+23,Narrative,EMP,2,EMP_2,4
+23,Narrative,EMP,3,EMP_3,3
+23,Narrative,NORM,4,NORM_4,4
+23,Narrative,NORM,5,NORM_5,4
+23,Narrative,NORM,6,NORM_6,4
+23,Narrative,NAR,7,NAR_7,5
+23,Narrative,NAR,8,NAR_8,4
+23,Narrative,NAR,9,NAR_9,4
+23,Narrative,CTRL1,10,CTRL1_10,4
+23,Narrative,CTRL2,11,CTRL2_11,4
+23,Neutral,EMP,1,EMP_1,2
+23,Neutral,EMP,2,EMP_2,4
+23,Neutral,EMP,3,EMP_3,2
+23,Neutral,NORM,4,NORM_4,2
+23,Neutral,NORM,5,NORM_5,2
+23,Neutral,NORM,6,NORM_6,3
+23,Neutral,NAR,7,NAR_7,1
+23,Neutral,NAR,8,NAR_8,2
+23,Neutral,NAR,9,NAR_9,3
+23,Neutral,CTRL1,10,CTRL1_10,4
+23,Neutral,CTRL2,11,CTRL2_11,4
+23,Social Norm,EMP,1,EMP_1,3
+23,Social Norm,EMP,2,EMP_2,4
+23,Social Norm,EMP,3,EMP_3,3
+23,Social Norm,NORM,4,NORM_4,5
+23,Social Norm,NORM,5,NORM_5,4
+23,Social Norm,NORM,6,NORM_6,4
+23,Social Norm,NAR,7,NAR_7,3
+23,Social Norm,NAR,8,NAR_8,2
+23,Social Norm,NAR,9,NAR_9,2
+23,Social Norm,CTRL1,10,CTRL1_10,4
+23,Social Norm,CTRL2,11,CTRL2_11,4
+24,Empathy,EMP,1,EMP_1,5
+24,Empathy,EMP,2,EMP_2,5
+24,Empathy,EMP,3,EMP_3,5
+24,Empathy,NORM,4,NORM_4,1
+24,Empathy,NORM,5,NORM_5,1
+24,Empathy,NORM,6,NORM_6,2
+24,Empathy,NAR,7,NAR_7,4
+24,Empathy,NAR,8,NAR_8,2
+24,Empathy,NAR,9,NAR_9,3
+24,Empathy,CTRL1,10,CTRL1_10,4
+24,Empathy,CTRL2,11,CTRL2_11,5
+24,Narrative,EMP,1,EMP_1,4
+24,Narrative,EMP,2,EMP_2,4
+24,Narrative,EMP,3,EMP_3,4
+24,Narrative,NORM,4,NORM_4,2
+24,Narrative,NORM,5,NORM_5,2
+24,Narrative,NORM,6,NORM_6,3
+24,Narrative,NAR,7,NAR_7,4
+24,Narrative,NAR,8,NAR_8,5
+24,Narrative,NAR,9,NAR_9,5
+24,Narrative,CTRL1,10,CTRL1_10,5
+24,Narrative,CTRL2,11,CTRL2_11,5
+24,Neutral,EMP,1,EMP_1,3
+24,Neutral,EMP,2,EMP_2,4
+24,Neutral,EMP,3,EMP_3,3
+24,Neutral,NORM,4,NORM_4,2
+24,Neutral,NORM,5,NORM_5,2
+24,Neutral,NORM,6,NORM_6,3
+24,Neutral,NAR,7,NAR_7,2
+24,Neutral,NAR,8,NAR_8,2
+24,Neutral,NAR,9,NAR_9,2
+24,Neutral,CTRL1,10,CTRL1_10,4
+24,Neutral,CTRL2,11,CTRL2_11,5
+24,Social Norm,EMP,1,EMP_1,4
+24,Social Norm,EMP,2,EMP_2,3
+24,Social Norm,EMP,3,EMP_3,4
+24,Social Norm,NORM,4,NORM_4,5
+24,Social Norm,NORM,5,NORM_5,4
+24,Social Norm,NORM,6,NORM_6,3
+24,Social Norm,NAR,7,NAR_7,2
+24,Social Norm,NAR,8,NAR_8,2
+24,Social Norm,NAR,9,NAR_9,4
+24,Social Norm,CTRL1,10,CTRL1_10,5
+24,Social Norm,CTRL2,11,CTRL2_11,5
+25,Empathy,EMP,1,EMP_1,4
+25,Empathy,EMP,2,EMP_2,5
+25,Empathy,EMP,3,EMP_3,4
+25,Empathy,NORM,4,NORM_4,4
+25,Empathy,NORM,5,NORM_5,3
+25,Empathy,NORM,6,NORM_6,3
+25,Empathy,NAR,7,NAR_7,4
+25,Empathy,NAR,8,NAR_8,2
+25,Empathy,NAR,9,NAR_9,2
+25,Empathy,CTRL1,10,CTRL1_10,4
+25,Empathy,CTRL2,11,CTRL2_11,5
+25,Narrative,EMP,1,EMP_1,3
+25,Narrative,EMP,2,EMP_2,4
+25,Narrative,EMP,3,EMP_3,3
+25,Narrative,NORM,4,NORM_4,4
+25,Narrative,NORM,5,NORM_5,3
+25,Narrative,NORM,6,NORM_6,3
+25,Narrative,NAR,7,NAR_7,5
+25,Narrative,NAR,8,NAR_8,5
+25,Narrative,NAR,9,NAR_9,4
+25,Narrative,CTRL1,10,CTRL1_10,4
+25,Narrative,CTRL2,11,CTRL2_11,5
+25,Neutral,EMP,1,EMP_1,3
+25,Neutral,EMP,2,EMP_2,3
+25,Neutral,EMP,3,EMP_3,2
+25,Neutral,NORM,4,NORM_4,2
+25,Neutral,NORM,5,NORM_5,2
+25,Neutral,NORM,6,NORM_6,2
+25,Neutral,NAR,7,NAR_7,1
+25,Neutral,NAR,8,NAR_8,1
+25,Neutral,NAR,9,NAR_9,1
+25,Neutral,CTRL1,10,CTRL1_10,4
+25,Neutral,CTRL2,11,CTRL2_11,5
+25,Social Norm,EMP,1,EMP_1,3
+25,Social Norm,EMP,2,EMP_2,4
+25,Social Norm,EMP,3,EMP_3,3
+25,Social Norm,NORM,4,NORM_4,5
+25,Social Norm,NORM,5,NORM_5,5
+25,Social Norm,NORM,6,NORM_6,5
+25,Social Norm,NAR,7,NAR_7,2
+25,Social Norm,NAR,8,NAR_8,1
+25,Social Norm,NAR,9,NAR_9,2
+25,Social Norm,CTRL1,10,CTRL1_10,4
+25,Social Norm,CTRL2,11,CTRL2_11,5
+34,Empathy,EMP,1,EMP_1,4
+34,Empathy,EMP,2,EMP_2,4
+34,Empathy,EMP,3,EMP_3,3
+34,Empathy,NORM,4,NORM_4,1
+34,Empathy,NORM,5,NORM_5,1
+34,Empathy,NORM,6,NORM_6,2
+34,Empathy,NAR,7,NAR_7,4
+34,Empathy,NAR,8,NAR_8,4
+34,Empathy,NAR,9,NAR_9,3
+34,Empathy,CTRL1,10,CTRL1_10,4
+34,Empathy,CTRL2,11,CTRL2_11,4
+34,Narrative,EMP,1,EMP_1,2
+34,Narrative,EMP,2,EMP_2,3
+34,Narrative,EMP,3,EMP_3,1
+34,Narrative,NORM,4,NORM_4,3
+34,Narrative,NORM,5,NORM_5,4
+34,Narrative,NORM,6,NORM_6,3
+34,Narrative,NAR,7,NAR_7,5
+34,Narrative,NAR,8,NAR_8,5
+34,Narrative,NAR,9,NAR_9,5
+34,Narrative,CTRL1,10,CTRL1_10,4
+34,Narrative,CTRL2,11,CTRL2_11,5
+34,Neutral,EMP,1,EMP_1,2
+34,Neutral,EMP,2,EMP_2,2
+34,Neutral,EMP,3,EMP_3,1
+34,Neutral,NORM,4,NORM_4,3
+34,Neutral,NORM,5,NORM_5,4
+34,Neutral,NORM,6,NORM_6,2
+34,Neutral,NAR,7,NAR_7,1
+34,Neutral,NAR,8,NAR_8,1
+34,Neutral,NAR,9,NAR_9,5
+34,Neutral,CTRL1,10,CTRL1_10,3
+34,Neutral,CTRL2,11,CTRL2_11,5
+34,Social Norm,EMP,1,EMP_1,3
+34,Social Norm,EMP,2,EMP_2,3
+34,Social Norm,EMP,3,EMP_3,3
+34,Social Norm,NORM,4,NORM_4,5
+34,Social Norm,NORM,5,NORM_5,5
+34,Social Norm,NORM,6,NORM_6,5
+34,Social Norm,NAR,7,NAR_7,3
+34,Social Norm,NAR,8,NAR_8,2
+34,Social Norm,NAR,9,NAR_9,4
+34,Social Norm,CTRL1,10,CTRL1_10,4
+34,Social Norm,CTRL2,11,CTRL2_11,5
+37,Empathy,EMP,1,EMP_1,3
+37,Empathy,EMP,2,EMP_2,4
+37,Empathy,EMP,3,EMP_3,2
+37,Empathy,NORM,4,NORM_4,2
+37,Empathy,NORM,5,NORM_5,2
+37,Empathy,NORM,6,NORM_6,2
+37,Empathy,NAR,7,NAR_7,4
+37,Empathy,NAR,8,NAR_8,2
+37,Empathy,NAR,9,NAR_9,2
+37,Empathy,CTRL1,10,CTRL1_10,2
+37,Empathy,CTRL2,11,CTRL2_11,4
+37,Narrative,EMP,1,EMP_1,4
+37,Narrative,EMP,2,EMP_2,4
+37,Narrative,EMP,3,EMP_3,3
+37,Narrative,NORM,4,NORM_4,2
+37,Narrative,NORM,5,NORM_5,2
+37,Narrative,NORM,6,NORM_6,2
+37,Narrative,NAR,7,NAR_7,4
+37,Narrative,NAR,8,NAR_8,4
+37,Narrative,NAR,9,NAR_9,4
+37,Narrative,CTRL1,10,CTRL1_10,2
+37,Narrative,CTRL2,11,CTRL2_11,4
+37,Neutral,EMP,1,EMP_1,2
+37,Neutral,EMP,2,EMP_2,4
+37,Neutral,EMP,3,EMP_3,2
+37,Neutral,NORM,4,NORM_4,2
+37,Neutral,NORM,5,NORM_5,2
+37,Neutral,NORM,6,NORM_6,2
+37,Neutral,NAR,7,NAR_7,2
+37,Neutral,NAR,8,NAR_8,2
+37,Neutral,NAR,9,NAR_9,2
+37,Neutral,CTRL1,10,CTRL1_10,2
+37,Neutral,CTRL2,11,CTRL2_11,4
+37,Social Norm,EMP,1,EMP_1,2
+37,Social Norm,EMP,2,EMP_2,2
+37,Social Norm,EMP,3,EMP_3,2
+37,Social Norm,NORM,4,NORM_4,4
+37,Social Norm,NORM,5,NORM_5,4
+37,Social Norm,NORM,6,NORM_6,4
+37,Social Norm,NAR,7,NAR_7,2
+37,Social Norm,NAR,8,NAR_8,2
+37,Social Norm,NAR,9,NAR_9,2
+37,Social Norm,CTRL1,10,CTRL1_10,4
+37,Social Norm,CTRL2,11,CTRL2_11,4
+40,Empathy,EMP,1,EMP_1,3
+40,Empathy,EMP,2,EMP_2,3
+40,Empathy,EMP,3,EMP_3,3
+40,Empathy,NORM,4,NORM_4,2
+40,Empathy,NORM,5,NORM_5,2
+40,Empathy,NORM,6,NORM_6,4
+40,Empathy,NAR,7,NAR_7,4
+40,Empathy,NAR,8,NAR_8,2
+40,Empathy,NAR,9,NAR_9,2
+40,Empathy,CTRL1,10,CTRL1_10,2
+40,Empathy,CTRL2,11,CTRL2_11,4
+40,Narrative,EMP,1,EMP_1,4
+40,Narrative,EMP,2,EMP_2,4
+40,Narrative,EMP,3,EMP_3,4
+40,Narrative,NORM,4,NORM_4,4
+40,Narrative,NORM,5,NORM_5,4
+40,Narrative,NORM,6,NORM_6,4
+40,Narrative,NAR,7,NAR_7,4
+40,Narrative,NAR,8,NAR_8,4
+40,Narrative,NAR,9,NAR_9,4
+40,Narrative,CTRL1,10,CTRL1_10,4
+40,Narrative,CTRL2,11,CTRL2_11,4
+40,Neutral,EMP,1,EMP_1,4
+40,Neutral,EMP,2,EMP_2,4
+40,Neutral,EMP,3,EMP_3,4
+40,Neutral,NORM,4,NORM_4,4
+40,Neutral,NORM,5,NORM_5,4
+40,Neutral,NORM,6,NORM_6,4
+40,Neutral,NAR,7,NAR_7,4
+40,Neutral,NAR,8,NAR_8,2
+40,Neutral,NAR,9,NAR_9,4
+40,Neutral,CTRL1,10,CTRL1_10,4
+40,Neutral,CTRL2,11,CTRL2_11,4
+40,Social Norm,EMP,1,EMP_1,4
+40,Social Norm,EMP,2,EMP_2,4
+40,Social Norm,EMP,3,EMP_3,4
+40,Social Norm,NORM,4,NORM_4,4
+40,Social Norm,NORM,5,NORM_5,4
+40,Social Norm,NORM,6,NORM_6,4
+40,Social Norm,NAR,7,NAR_7,4
+40,Social Norm,NAR,8,NAR_8,2
+40,Social Norm,NAR,9,NAR_9,4
+40,Social Norm,CTRL1,10,CTRL1_10,4
+40,Social Norm,CTRL2,11,CTRL2_11,4
+43,Empathy,EMP,1,EMP_1,4
+43,Empathy,EMP,2,EMP_2,4
+43,Empathy,EMP,3,EMP_3,5
+43,Empathy,NORM,4,NORM_4,1
+43,Empathy,NORM,5,NORM_5,3
+43,Empathy,NORM,6,NORM_6,2
+43,Empathy,NAR,7,NAR_7,4
+43,Empathy,NAR,8,NAR_8,2
+43,Empathy,NAR,9,NAR_9,3
+43,Empathy,CTRL1,10,CTRL1_10,4
+43,Empathy,CTRL2,11,CTRL2_11,4
+43,Narrative,EMP,1,EMP_1,4
+43,Narrative,EMP,2,EMP_2,5
+43,Narrative,EMP,3,EMP_3,4
+43,Narrative,NORM,4,NORM_4,2
+43,Narrative,NORM,5,NORM_5,2
+43,Narrative,NORM,6,NORM_6,3
+43,Narrative,NAR,7,NAR_7,4
+43,Narrative,NAR,8,NAR_8,5
+43,Narrative,NAR,9,NAR_9,4
+43,Narrative,CTRL1,10,CTRL1_10,2
+43,Narrative,CTRL2,11,CTRL2_11,5
+43,Neutral,EMP,1,EMP_1,2
+43,Neutral,EMP,2,EMP_2,3
+43,Neutral,EMP,3,EMP_3,4
+43,Neutral,NORM,4,NORM_4,2
+43,Neutral,NORM,5,NORM_5,3
+43,Neutral,NORM,6,NORM_6,4
+43,Neutral,NAR,7,NAR_7,2
+43,Neutral,NAR,8,NAR_8,2
+43,Neutral,NAR,9,NAR_9,5
+43,Neutral,CTRL1,10,CTRL1_10,4
+43,Neutral,CTRL2,11,CTRL2_11,4
+43,Social Norm,EMP,1,EMP_1,4
+43,Social Norm,EMP,2,EMP_2,5
+43,Social Norm,EMP,3,EMP_3,4
+43,Social Norm,NORM,4,NORM_4,4
+43,Social Norm,NORM,5,NORM_5,5
+43,Social Norm,NORM,6,NORM_6,5
+43,Social Norm,NAR,7,NAR_7,4
+43,Social Norm,NAR,8,NAR_8,2
+43,Social Norm,NAR,9,NAR_9,4
+43,Social Norm,CTRL1,10,CTRL1_10,5
+43,Social Norm,CTRL2,11,CTRL2_11,4
+45,Empathy,EMP,1,EMP_1,4
+45,Empathy,EMP,2,EMP_2,4
+45,Empathy,EMP,3,EMP_3,3
+45,Empathy,NORM,4,NORM_4,2
+45,Empathy,NORM,5,NORM_5,2
+45,Empathy,NORM,6,NORM_6,2
+45,Empathy,NAR,7,NAR_7,2
+45,Empathy,NAR,8,NAR_8,2
+45,Empathy,NAR,9,NAR_9,2
+45,Empathy,CTRL1,10,CTRL1_10,3
+45,Empathy,CTRL2,11,CTRL2_11,4
+45,Narrative,EMP,1,EMP_1,3
+45,Narrative,EMP,2,EMP_2,4
+45,Narrative,EMP,3,EMP_3,3
+45,Narrative,NORM,4,NORM_4,2
+45,Narrative,NORM,5,NORM_5,2
+45,Narrative,NORM,6,NORM_6,2
+45,Narrative,NAR,7,NAR_7,4
+45,Narrative,NAR,8,NAR_8,4
+45,Narrative,NAR,9,NAR_9,3
+45,Narrative,CTRL1,10,CTRL1_10,2
+45,Narrative,CTRL2,11,CTRL2_11,4
+45,Neutral,EMP,1,EMP_1,4
+45,Neutral,EMP,2,EMP_2,3
+45,Neutral,EMP,3,EMP_3,3
+45,Neutral,NORM,4,NORM_4,2
+45,Neutral,NORM,5,NORM_5,3
+45,Neutral,NORM,6,NORM_6,2
+45,Neutral,NAR,7,NAR_7,2
+45,Neutral,NAR,8,NAR_8,2
+45,Neutral,NAR,9,NAR_9,4
+45,Neutral,CTRL1,10,CTRL1_10,3
+45,Neutral,CTRL2,11,CTRL2_11,4
+45,Social Norm,EMP,1,EMP_1,4
+45,Social Norm,EMP,2,EMP_2,3
+45,Social Norm,EMP,3,EMP_3,2
+45,Social Norm,NORM,4,NORM_4,4
+45,Social Norm,NORM,5,NORM_5,3
+45,Social Norm,NORM,6,NORM_6,3
+45,Social Norm,NAR,7,NAR_7,3
+45,Social Norm,NAR,8,NAR_8,2
+45,Social Norm,NAR,9,NAR_9,4
+45,Social Norm,CTRL1,10,CTRL1_10,3
+45,Social Norm,CTRL2,11,CTRL2_11,4
+46,Empathy,EMP,1,EMP_1,4
+46,Empathy,EMP,2,EMP_2,4
+46,Empathy,EMP,3,EMP_3,3
+46,Empathy,NORM,4,NORM_4,1
+46,Empathy,NORM,5,NORM_5,3
+46,Empathy,NORM,6,NORM_6,4
+46,Empathy,NAR,7,NAR_7,3
+46,Empathy,NAR,8,NAR_8,2
+46,Empathy,NAR,9,NAR_9,3
+46,Empathy,CTRL1,10,CTRL1_10,3
+46,Empathy,CTRL2,11,CTRL2_11,4
+46,Narrative,EMP,1,EMP_1,4
+46,Narrative,EMP,2,EMP_2,5
+46,Narrative,EMP,3,EMP_3,4
+46,Narrative,NORM,4,NORM_4,5
+46,Narrative,NORM,5,NORM_5,3
+46,Narrative,NORM,6,NORM_6,4
+46,Narrative,NAR,7,NAR_7,5
+46,Narrative,NAR,8,NAR_8,5
+46,Narrative,NAR,9,NAR_9,5
+46,Narrative,CTRL1,10,CTRL1_10,3
+46,Narrative,CTRL2,11,CTRL2_11,4
+46,Neutral,EMP,1,EMP_1,3
+46,Neutral,EMP,2,EMP_2,3
+46,Neutral,EMP,3,EMP_3,3
+46,Neutral,NORM,4,NORM_4,2
+46,Neutral,NORM,5,NORM_5,2
+46,Neutral,NORM,6,NORM_6,4
+46,Neutral,NAR,7,NAR_7,2
+46,Neutral,NAR,8,NAR_8,2
+46,Neutral,NAR,9,NAR_9,2
+46,Neutral,CTRL1,10,CTRL1_10,3
+46,Neutral,CTRL2,11,CTRL2_11,4
+46,Social Norm,EMP,1,EMP_1,4
+46,Social Norm,EMP,2,EMP_2,4
+46,Social Norm,EMP,3,EMP_3,4
+46,Social Norm,NORM,4,NORM_4,5
+46,Social Norm,NORM,5,NORM_5,5
+46,Social Norm,NORM,6,NORM_6,4
+46,Social Norm,NAR,7,NAR_7,4
+46,Social Norm,NAR,8,NAR_8,2
+46,Social Norm,NAR,9,NAR_9,3
+46,Social Norm,CTRL1,10,CTRL1_10,3
+46,Social Norm,CTRL2,11,CTRL2_11,4
+48,Empathy,EMP,1,EMP_1,4
+48,Empathy,EMP,2,EMP_2,3
+48,Empathy,EMP,3,EMP_3,4
+48,Empathy,NORM,4,NORM_4,1
+48,Empathy,NORM,5,NORM_5,1
+48,Empathy,NORM,6,NORM_6,1
+48,Empathy,NAR,7,NAR_7,5
+48,Empathy,NAR,8,NAR_8,5
+48,Empathy,NAR,9,NAR_9,1
+48,Empathy,CTRL1,10,CTRL1_10,1
+48,Empathy,CTRL2,11,CTRL2_11,5
+48,Narrative,EMP,1,EMP_1,5
+48,Narrative,EMP,2,EMP_2,5
+48,Narrative,EMP,3,EMP_3,4
+48,Narrative,NORM,4,NORM_4,1
+48,Narrative,NORM,5,NORM_5,1
+48,Narrative,NORM,6,NORM_6,1
+48,Narrative,NAR,7,NAR_7,5
+48,Narrative,NAR,8,NAR_8,5
+48,Narrative,NAR,9,NAR_9,5
+48,Narrative,CTRL1,10,CTRL1_10,4
+48,Narrative,CTRL2,11,CTRL2_11,5
+48,Neutral,EMP,1,EMP_1,1
+48,Neutral,EMP,2,EMP_2,1
+48,Neutral,EMP,3,EMP_3,1
+48,Neutral,NORM,4,NORM_4,1
+48,Neutral,NORM,5,NORM_5,1
+48,Neutral,NORM,6,NORM_6,1
+48,Neutral,NAR,7,NAR_7,1
+48,Neutral,NAR,8,NAR_8,1
+48,Neutral,NAR,9,NAR_9,1
+48,Neutral,CTRL1,10,CTRL1_10,4
+48,Neutral,CTRL2,11,CTRL2_11,4
+48,Social Norm,EMP,1,EMP_1,1
+48,Social Norm,EMP,2,EMP_2,5
+48,Social Norm,EMP,3,EMP_3,1
+48,Social Norm,NORM,4,NORM_4,5
+48,Social Norm,NORM,5,NORM_5,5
+48,Social Norm,NORM,6,NORM_6,5
+48,Social Norm,NAR,7,NAR_7,1
+48,Social Norm,NAR,8,NAR_8,1
+48,Social Norm,NAR,9,NAR_9,1
+48,Social Norm,CTRL1,10,CTRL1_10,3
+48,Social Norm,CTRL2,11,CTRL2_11,4
+50,Empathy,EMP,1,EMP_1,3
+50,Empathy,EMP,2,EMP_2,3
+50,Empathy,EMP,3,EMP_3,3
+50,Empathy,NORM,4,NORM_4,4
+50,Empathy,NORM,5,NORM_5,4
+50,Empathy,NORM,6,NORM_6,4
+50,Empathy,NAR,7,NAR_7,5
+50,Empathy,NAR,8,NAR_8,4
+50,Empathy,NAR,9,NAR_9,4
+50,Empathy,CTRL1,10,CTRL1_10,4
+50,Empathy,CTRL2,11,CTRL2_11,5
+50,Narrative,EMP,1,EMP_1,4
+50,Narrative,EMP,2,EMP_2,3
+50,Narrative,EMP,3,EMP_3,3
+50,Narrative,NORM,4,NORM_4,4
+50,Narrative,NORM,5,NORM_5,4
+50,Narrative,NORM,6,NORM_6,4
+50,Narrative,NAR,7,NAR_7,4
+50,Narrative,NAR,8,NAR_8,4
+50,Narrative,NAR,9,NAR_9,5
+50,Narrative,CTRL1,10,CTRL1_10,4
+50,Narrative,CTRL2,11,CTRL2_11,5
+50,Neutral,EMP,1,EMP_1,2
+50,Neutral,EMP,2,EMP_2,2
+50,Neutral,EMP,3,EMP_3,2
+50,Neutral,NORM,4,NORM_4,3
+50,Neutral,NORM,5,NORM_5,3
+50,Neutral,NORM,6,NORM_6,3
+50,Neutral,NAR,7,NAR_7,3
+50,Neutral,NAR,8,NAR_8,3
+50,Neutral,NAR,9,NAR_9,3
+50,Neutral,CTRL1,10,CTRL1_10,3
+50,Neutral,CTRL2,11,CTRL2_11,4
+50,Social Norm,EMP,1,EMP_1,3
+50,Social Norm,EMP,2,EMP_2,3
+50,Social Norm,EMP,3,EMP_3,3
+50,Social Norm,NORM,4,NORM_4,3
+50,Social Norm,NORM,5,NORM_5,4
+50,Social Norm,NORM,6,NORM_6,4
+50,Social Norm,NAR,7,NAR_7,3
+50,Social Norm,NAR,8,NAR_8,3
+50,Social Norm,NAR,9,NAR_9,3
+50,Social Norm,CTRL1,10,CTRL1_10,4
+50,Social Norm,CTRL2,11,CTRL2_11,5
+51,Empathy,EMP,1,EMP_1,4
+51,Empathy,EMP,2,EMP_2,5
+51,Empathy,EMP,3,EMP_3,5
+51,Empathy,NORM,4,NORM_4,3
+51,Empathy,NORM,5,NORM_5,3
+51,Empathy,NORM,6,NORM_6,3
+51,Empathy,NAR,7,NAR_7,4
+51,Empathy,NAR,8,NAR_8,3
+51,Empathy,NAR,9,NAR_9,4
+51,Empathy,CTRL1,10,CTRL1_10,5
+51,Empathy,CTRL2,11,CTRL2_11,4
+51,Narrative,EMP,1,EMP_1,4
+51,Narrative,EMP,2,EMP_2,4
+51,Narrative,EMP,3,EMP_3,5
+51,Narrative,NORM,4,NORM_4,4
+51,Narrative,NORM,5,NORM_5,3
+51,Narrative,NORM,6,NORM_6,3
+51,Narrative,NAR,7,NAR_7,5
+51,Narrative,NAR,8,NAR_8,5
+51,Narrative,NAR,9,NAR_9,5
+51,Narrative,CTRL1,10,CTRL1_10,4
+51,Narrative,CTRL2,11,CTRL2_11,5
+51,Neutral,EMP,1,EMP_1,3
+51,Neutral,EMP,2,EMP_2,4
+51,Neutral,EMP,3,EMP_3,3
+51,Neutral,NORM,4,NORM_4,3
+51,Neutral,NORM,5,NORM_5,2
+51,Neutral,NORM,6,NORM_6,2
+51,Neutral,NAR,7,NAR_7,3
+51,Neutral,NAR,8,NAR_8,4
+51,Neutral,NAR,9,NAR_9,3
+51,Neutral,CTRL1,10,CTRL1_10,4
+51,Neutral,CTRL2,11,CTRL2_11,4
+51,Social Norm,EMP,1,EMP_1,4
+51,Social Norm,EMP,2,EMP_2,4
+51,Social Norm,EMP,3,EMP_3,4
+51,Social Norm,NORM,4,NORM_4,4
+51,Social Norm,NORM,5,NORM_5,4
+51,Social Norm,NORM,6,NORM_6,4
+51,Social Norm,NAR,7,NAR_7,4
+51,Social Norm,NAR,8,NAR_8,3
+51,Social Norm,NAR,9,NAR_9,3
+51,Social Norm,CTRL1,10,CTRL1_10,4
+51,Social Norm,CTRL2,11,CTRL2_11,4
+53,Empathy,EMP,1,EMP_1,4
+53,Empathy,EMP,2,EMP_2,5
+53,Empathy,EMP,3,EMP_3,4
+53,Empathy,NORM,4,NORM_4,3
+53,Empathy,NORM,5,NORM_5,4
+53,Empathy,NORM,6,NORM_6,2
+53,Empathy,NAR,7,NAR_7,5
+53,Empathy,NAR,8,NAR_8,2
+53,Empathy,NAR,9,NAR_9,1
+53,Empathy,CTRL1,10,CTRL1_10,4
+53,Empathy,CTRL2,11,CTRL2_11,4
+53,Narrative,EMP,1,EMP_1,3
+53,Narrative,EMP,2,EMP_2,4
+53,Narrative,EMP,3,EMP_3,3
+53,Narrative,NORM,4,NORM_4,3
+53,Narrative,NORM,5,NORM_5,2
+53,Narrative,NORM,6,NORM_6,2
+53,Narrative,NAR,7,NAR_7,5
+53,Narrative,NAR,8,NAR_8,5
+53,Narrative,NAR,9,NAR_9,5
+53,Narrative,CTRL1,10,CTRL1_10,4
+53,Narrative,CTRL2,11,CTRL2_11,4
+53,Neutral,EMP,1,EMP_1,3
+53,Neutral,EMP,2,EMP_2,3
+53,Neutral,EMP,3,EMP_3,2
+53,Neutral,NORM,4,NORM_4,4
+53,Neutral,NORM,5,NORM_5,4
+53,Neutral,NORM,6,NORM_6,4
+53,Neutral,NAR,7,NAR_7,4
+53,Neutral,NAR,8,NAR_8,2
+53,Neutral,NAR,9,NAR_9,3
+53,Neutral,CTRL1,10,CTRL1_10,3
+53,Neutral,CTRL2,11,CTRL2_11,4
+53,Social Norm,EMP,1,EMP_1,2
+53,Social Norm,EMP,2,EMP_2,2
+53,Social Norm,EMP,3,EMP_3,2
+53,Social Norm,NORM,4,NORM_4,4
+53,Social Norm,NORM,5,NORM_5,4
+53,Social Norm,NORM,6,NORM_6,4
+53,Social Norm,NAR,7,NAR_7,3
+53,Social Norm,NAR,8,NAR_8,2
+53,Social Norm,NAR,9,NAR_9,4
+53,Social Norm,CTRL1,10,CTRL1_10,3
+53,Social Norm,CTRL2,11,CTRL2_11,4
+55,Empathy,EMP,1,EMP_1,4
+55,Empathy,EMP,2,EMP_2,5
+55,Empathy,EMP,3,EMP_3,4
+55,Empathy,NORM,4,NORM_4,2
+55,Empathy,NORM,5,NORM_5,2
+55,Empathy,NORM,6,NORM_6,3
+55,Empathy,NAR,7,NAR_7,4
+55,Empathy,NAR,8,NAR_8,2
+55,Empathy,NAR,9,NAR_9,2
+55,Empathy,CTRL1,10,CTRL1_10,3
+55,Empathy,CTRL2,11,CTRL2_11,4
+55,Narrative,EMP,1,EMP_1,4
+55,Narrative,EMP,2,EMP_2,4
+55,Narrative,EMP,3,EMP_3,4
+55,Narrative,NORM,4,NORM_4,3
+55,Narrative,NORM,5,NORM_5,3
+55,Narrative,NORM,6,NORM_6,4
+55,Narrative,NAR,7,NAR_7,5
+55,Narrative,NAR,8,NAR_8,5
+55,Narrative,NAR,9,NAR_9,5
+55,Narrative,CTRL1,10,CTRL1_10,4
+55,Narrative,CTRL2,11,CTRL2_11,5
+55,Neutral,EMP,1,EMP_1,4
+55,Neutral,EMP,2,EMP_2,3
+55,Neutral,EMP,3,EMP_3,3
+55,Neutral,NORM,4,NORM_4,3
+55,Neutral,NORM,5,NORM_5,3
+55,Neutral,NORM,6,NORM_6,4
+55,Neutral,NAR,7,NAR_7,1
+55,Neutral,NAR,8,NAR_8,1
+55,Neutral,NAR,9,NAR_9,2
+55,Neutral,CTRL1,10,CTRL1_10,2
+55,Neutral,CTRL2,11,CTRL2_11,4
+55,Social Norm,EMP,1,EMP_1,4
+55,Social Norm,EMP,2,EMP_2,4
+55,Social Norm,EMP,3,EMP_3,2
+55,Social Norm,NORM,4,NORM_4,5
+55,Social Norm,NORM,5,NORM_5,5
+55,Social Norm,NORM,6,NORM_6,4
+55,Social Norm,NAR,7,NAR_7,3
+55,Social Norm,NAR,8,NAR_8,2
+55,Social Norm,NAR,9,NAR_9,2
+55,Social Norm,CTRL1,10,CTRL1_10,4
+55,Social Norm,CTRL2,11,CTRL2_11,4
+56,Empathy,EMP,1,EMP_1,5
+56,Empathy,EMP,2,EMP_2,5
+56,Empathy,EMP,3,EMP_3,5
+56,Empathy,NORM,4,NORM_4,2
+56,Empathy,NORM,5,NORM_5,2
+56,Empathy,NORM,6,NORM_6,2
+56,Empathy,NAR,7,NAR_7,5
+56,Empathy,NAR,8,NAR_8,3
+56,Empathy,NAR,9,NAR_9,5
+56,Empathy,CTRL1,10,CTRL1_10,3
+56,Empathy,CTRL2,11,CTRL2_11,5
+56,Narrative,EMP,1,EMP_1,5
+56,Narrative,EMP,2,EMP_2,5
+56,Narrative,EMP,3,EMP_3,5
+56,Narrative,NORM,4,NORM_4,5
+56,Narrative,NORM,5,NORM_5,2
+56,Narrative,NORM,6,NORM_6,2
+56,Narrative,NAR,7,NAR_7,5
+56,Narrative,NAR,8,NAR_8,5
+56,Narrative,NAR,9,NAR_9,5
+56,Narrative,CTRL1,10,CTRL1_10,4
+56,Narrative,CTRL2,11,CTRL2_11,5
+56,Neutral,EMP,1,EMP_1,5
+56,Neutral,EMP,2,EMP_2,5
+56,Neutral,EMP,3,EMP_3,4
+56,Neutral,NORM,4,NORM_4,3
+56,Neutral,NORM,5,NORM_5,3
+56,Neutral,NORM,6,NORM_6,4
+56,Neutral,NAR,7,NAR_7,5
+56,Neutral,NAR,8,NAR_8,3
+56,Neutral,NAR,9,NAR_9,5
+56,Neutral,CTRL1,10,CTRL1_10,4
+56,Neutral,CTRL2,11,CTRL2_11,5
+56,Social Norm,EMP,1,EMP_1,5
+56,Social Norm,EMP,2,EMP_2,5
+56,Social Norm,EMP,3,EMP_3,5
+56,Social Norm,NORM,4,NORM_4,5
+56,Social Norm,NORM,5,NORM_5,5
+56,Social Norm,NORM,6,NORM_6,3
+56,Social Norm,NAR,7,NAR_7,5
+56,Social Norm,NAR,8,NAR_8,3
+56,Social Norm,NAR,9,NAR_9,5
+56,Social Norm,CTRL1,10,CTRL1_10,5
+56,Social Norm,CTRL2,11,CTRL2_11,5
+57,Empathy,EMP,1,EMP_1,4
+57,Empathy,EMP,2,EMP_2,5
+57,Empathy,EMP,3,EMP_3,4
+57,Empathy,NORM,4,NORM_4,4
+57,Empathy,NORM,5,NORM_5,3
+57,Empathy,NORM,6,NORM_6,4
+57,Empathy,NAR,7,NAR_7,5
+57,Empathy,NAR,8,NAR_8,2
+57,Empathy,NAR,9,NAR_9,4
+57,Empathy,CTRL1,10,CTRL1_10,3
+57,Empathy,CTRL2,11,CTRL2_11,5
+57,Narrative,EMP,1,EMP_1,4
+57,Narrative,EMP,2,EMP_2,5
+57,Narrative,EMP,3,EMP_3,5
+57,Narrative,NORM,4,NORM_4,4
+57,Narrative,NORM,5,NORM_5,4
+57,Narrative,NORM,6,NORM_6,4
+57,Narrative,NAR,7,NAR_7,5
+57,Narrative,NAR,8,NAR_8,5
+57,Narrative,NAR,9,NAR_9,5
+57,Narrative,CTRL1,10,CTRL1_10,5
+57,Narrative,CTRL2,11,CTRL2_11,5
+57,Neutral,EMP,1,EMP_1,3
+57,Neutral,EMP,2,EMP_2,3
+57,Neutral,EMP,3,EMP_3,3
+57,Neutral,NORM,4,NORM_4,4
+57,Neutral,NORM,5,NORM_5,4
+57,Neutral,NORM,6,NORM_6,4
+57,Neutral,NAR,7,NAR_7,3
+57,Neutral,NAR,8,NAR_8,2
+57,Neutral,NAR,9,NAR_9,3
+57,Neutral,CTRL1,10,CTRL1_10,3
+57,Neutral,CTRL2,11,CTRL2_11,3
+57,Social Norm,EMP,1,EMP_1,4
+57,Social Norm,EMP,2,EMP_2,4
+57,Social Norm,EMP,3,EMP_3,4
+57,Social Norm,NORM,4,NORM_4,4
+57,Social Norm,NORM,5,NORM_5,4
+57,Social Norm,NORM,6,NORM_6,4
+57,Social Norm,NAR,7,NAR_7,4
+57,Social Norm,NAR,8,NAR_8,3
+57,Social Norm,NAR,9,NAR_9,3
+57,Social Norm,CTRL1,10,CTRL1_10,3
+57,Social Norm,CTRL2,11,CTRL2_11,2

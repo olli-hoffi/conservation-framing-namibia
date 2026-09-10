@@ -1,0 +1,5 @@
+condition,dwell_s,dwell_median_s,engagement_rate,engage_time_s,n_sessions
+Neutral,45.4,36.6,0.7,22.8,10
+Empathy,41.9,22.4,0.647,19.9,17
+Social Norm,120,14.5,0.471,41.9,17
+Narrative,43.5,20.2,0.556,16.4,18

@@ -1,0 +1,9 @@
+round,condition,unweighted_ctr
+1,Neutral,0.0051
+1,Empathy,0.0053
+1,Social Norm,0.0053
+1,Narrative,0.0059
+2,Neutral,0.0033
+2,Empathy,0.0035
+2,Social Norm,0.0033
+2,Narrative,0.0037

@@ -1,0 +1,2 @@
+test,chi_square,df,p,min_expected_count,cramers_v,v_ci_low,v_ci_high
+Session capture x condition (2 x 4),2.02,3,0.567,14.7,0.033,0,0.066

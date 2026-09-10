@@ -1,0 +1,318 @@
+place,place_type,source,n_posts,n_orgs
+Namibia,country,gazetteer,320,19
+Africa,LOC,spacy,50,14
+Windhoek,town,gazetteer,49,9
+Gobabeb,place,gazetteer,37,1
+Namib,feature,gazetteer,32,7
+Okonjima,place,gazetteer,27,1
+Etosha,park,gazetteer,23,8
+Kunene,region,gazetteer,22,7
+Omaheke,region,gazetteer,17,4
+Namib Desert,feature,gazetteer,14,5
+Zambezi,region,gazetteer,13,7
+Kavango,region,gazetteer,12,7
+Somaliland,GPE,spacy,12,1
+Harnas,GPE,spacy,12,1
+Etosha National Park,FAC,spacy,11,5
+Swakopmund,town,gazetteer,10,5
+South Africa,country,gazetteer,9,7
+Angolan,GPE,spacy,8,1
+Kenya,GPE,spacy,8,2
+Earth,LOC,spacy,8,6
+Skeleton Coast,park,gazetteer,8,5
+Erongo,region,gazetteer,7,3
+Epukiro,GPE,spacy,7,2
+Botswana,country,gazetteer,6,5
+the Omaheke Region,GPE,spacy,6,3
+Walvis Bay,town,gazetteer,6,6
+Bwabwata,park,gazetteer,6,3
+Harnas Guest Farm,FAC,spacy,5,1
+Germany,GPE,spacy,5,4
+pangolin,GPE,spacy,5,1
+Brazil,GPE,spacy,5,3
+the Namib Sand Sea,FAC,spacy,5,2
+Waterberg,park,gazetteer,4,1
+Sossusvlei,place,gazetteer,4,3
+Omaheke Region,GPE,spacy,4,2
+Zimbabwe,GPE,spacy,4,3
+WWF Namibia,FAC,spacy,4,2
+Zambia,GPE,spacy,4,3
+Kwando,feature,gazetteer,3,3
+Uganda,GPE,spacy,3,1
+Kunene Region,GPE,spacy,3,3
+n’t,GPE,spacy,3,2
+Mozambique,GPE,spacy,3,2
+Khomas,region,gazetteer,3,2
+the United States,GPE,spacy,3,3
+WWF Namibia,GPE,spacy,3,1
+San,LOC,spacy,3,1
+Hardap,region,gazetteer,3,1
+Zambezi Region,GPE,spacy,3,2
+the Namib Desert,GPE,spacy,3,1
+the Namib Desert,FAC,spacy,3,1
+Bwabwata National Park,FAC,spacy,3,2
+Kalahari,feature,gazetteer,3,2
+Strong,GPE,spacy,3,2
+Oshikoto,region,gazetteer,3,2
+Sesriem,place,gazetteer,2,1
+Fonteine,GPE,spacy,2,1
+Harnas Wildlife Sanctuary,FAC,spacy,2,1
+Khorixas,GPE,spacy,2,1
+Kruger National Park,FAC,spacy,2,1
+Wildlife Sanctuary,GPE,spacy,2,2
+Marungu,GPE,spacy,2,1
+Kavango East,LOC,spacy,2,2
+Kavango East Region,LOC,spacy,2,1
+Nairobi National Park,FAC,spacy,2,1
+Ohangwena,region,gazetteer,2,1
+the Kuiseb River,LOC,spacy,2,1
+Angola,country,gazetteer,2,2
+Omusati,region,gazetteer,2,2
+Asia,LOC,spacy,2,2
+Ondangwa,GPE,spacy,2,2
+ReGen Namibia,FAC,spacy,2,1
+Effective Area,LOC,spacy,2,2
+the Namib Desert,LOC,spacy,2,2
+California,GPE,spacy,2,2
+the Model Farm,FAC,spacy,2,1
+@universitycollegedublin,GPE,spacy,2,1
+Centre,GPE,spacy,2,1
+San,GPE,spacy,2,1
+Nara,GPE,spacy,2,2
+Christin,GPE,spacy,2,1
+Namib Mills,GPE,spacy,2,1
+Namib-Naukluft,park,gazetteer,2,2
+San community,GPE,spacy,2,1
+San communities,GPE,spacy,2,1
+valley,LOC,spacy,2,2
+Pangolin,GPE,spacy,2,1
+the Skeleton Coast,LOC,spacy,2,2
+NamibRand,park,gazetteer,2,2
+Damaraland,region,gazetteer,2,1
+Protecting Namibia’s,FAC,spacy,1,1
+Sydney,GPE,spacy,1,1
+Ramen,GPE,spacy,1,1
+Protecting,GPE,spacy,1,1
+Swakop River,LOC,spacy,1,1
+TOAD HARE,GPE,spacy,1,1
+Palmwag,place,gazetteer,1,1
+Rehoboth,GPE,spacy,1,1
+Taiwin,GPE,spacy,1,1
+Tetraena,GPE,spacy,1,1
+Supporting,GPE,spacy,1,1
+People and Wildlife,GPE,spacy,1,1
+San family,GPE,spacy,1,1
+Southern Kunene Region,LOC,spacy,1,1
+Samburu,GPE,spacy,1,1
+Tresia,GPE,spacy,1,1
+San culture,GPE,spacy,1,1
+Sandgrouse,GPE,spacy,1,1
+Santa,GPE,spacy,1,1
+Seattle,GPE,spacy,1,1
+San children,GPE,spacy,1,1
+San artisans,GPE,spacy,1,1
+Simonia,GPE,spacy,1,1
+Rossini Street,FAC,spacy,1,1
+Samantha Matjila,GPE,spacy,1,1
+Safaris,GPE,spacy,1,1
+Sabi Game Park,FAC,spacy,1,1
+Southern Africa,GPE,spacy,1,1
+Russia,GPE,spacy,1,1
+Rossini Street,GPE,spacy,1,1
+Southern Africa,LOC,spacy,1,1
+Toronto,GPE,spacy,1,1
+@cheyennemountainzoo,GPE,spacy,1,1
+Trinidad,GPE,spacy,1,1
+the Okongwe Garden Project,FAC,spacy,1,1
+the Kabbe Sub-Khuta,FAC,spacy,1,1
+the Kavango East Region,LOC,spacy,1,1
+the Kavango West,LOC,spacy,1,1
+the Khomas Region,GPE,spacy,1,1
+the Khomas Region,LOC,spacy,1,1
+the Kunene Region,LOC,spacy,1,1
+the Kunene River Mouth,LOC,spacy,1,1
+the Kwando River,LOC,spacy,1,1
+the Living Earth Expo,FAC,spacy,1,1
+the London Marathon,FAC,spacy,1,1
+the Namib Desert’s,LOC,spacy,1,1
+the Namib-Naukluft National Park,FAC,spacy,1,1
+the Namib-Naukluft Park,FAC,spacy,1,1
+the Oshikoto Region,LOC,spacy,1,1
+UNDP Namibia,FAC,spacy,1,1
+the Oshivelo Road Traffic Checkpoint,FAC,spacy,1,1
+the Republic of Namibia,GPE,spacy,1,1
+the Serengeti Park,FAC,spacy,1,1
+the Skeleton Coast Park,LOC,spacy,1,1
+the Tropic of Capricorn,FAC,spacy,1,1
+the United Kingdom,GPE,spacy,1,1
+the United States of America,GPE,spacy,1,1
+the Walvis Bay Municipality,LOC,spacy,1,1
+the Waterberg Plateau,LOC,spacy,1,1
+the White Sand Dunes,FAC,spacy,1,1
+the Zambezi Region,LOC,spacy,1,1
+woodland,GPE,spacy,1,1
+• Strong,GPE,spacy,1,1
+the International Centre (Hall 5,FAC,spacy,1,1
+the Horn of Africa,LOC,spacy,1,1
+the Hardap Resort,LOC,spacy,1,1
+the Hardap Region,LOC,spacy,1,1
+USA,GPE,spacy,1,1
+Ugab Camp,FAC,spacy,1,1
+Ugab River,LOC,spacy,1,1
+United States,GPE,spacy,1,1
+Vancouver,GPE,spacy,1,1
+Vianda,GPE,spacy,1,1
+WWF Namibia,LOC,spacy,1,1
+WWF Namibia's,FAC,spacy,1,1
+WWF Namibia’s,FAC,spacy,1,1
+Wales,GPE,spacy,1,1
+Walvis Bay  Entanglements,FAC,spacy,1,1
+Walvis Bay Landfill,LOC,spacy,1,1
+Warmbad,GPE,spacy,1,1
+Otjozondjupa,region,gazetteer,1,1
+Welwitschia,GPE,spacy,1,1
+Youtube,GPE,spacy,1,1
+Zacheo,GPE,spacy,1,1
+a Human-Wildlife Conflict Workshop,FAC,spacy,1,1
+cmscop15,GPE,spacy,1,1
+earth,LOC,spacy,1,1
+kayak,GPE,spacy,1,1
+mopane woodland,GPE,spacy,1,1
+the African Wild Dogs United Conference 2026,FAC,spacy,1,1
+the Bwabwata National Park,FAC,spacy,1,1
+the CCI Hub,FAC,spacy,1,1
+the Dancing Goat Creamery,FAC,spacy,1,1
+the Global South,LOC,spacy,1,1
+Washington,GPE,spacy,1,1
+Namibia 📩 Interested,GPE,spacy,1,1
+Oshikoto 🌳,FAC,spacy,1,1
+Colorado,GPE,spacy,1,1
+Contact,GPE,spacy,1,1
+D.C.,GPE,spacy,1,1
+Damara,GPE,spacy,1,1
+Data Platform,FAC,spacy,1,1
+De Riet,GPE,spacy,1,1
+Dorob,park,gazetteer,1,1
+EIF Namibia,FAC,spacy,1,1
+Eagles,GPE,spacy,1,1
+East Africa,GPE,spacy,1,1
+East Building,GPE,spacy,1,1
+Eastern Communal Conservancies,FAC,spacy,1,1
+Ecowings Namibia,GPE,spacy,1,1
+Education Centre,FAC,spacy,1,1
+Environmental Stewardship,LOC,spacy,1,1
+Etosha Heights,FAC,spacy,1,1
+Etosha National Park  Today,FAC,spacy,1,1
+"Etosha National Park, Hardap National Park",FAC,spacy,1,1
+Fish River Canyon,LOC,spacy,1,1
+Florida,GPE,spacy,1,1
+France,GPE,spacy,1,1
+GIZ Namibia,GPE,spacy,1,1
+Gariep Centre of Endemism,FAC,spacy,1,1
+Gobabis,GPE,spacy,1,1
+Hardap Game Park,FAC,spacy,1,1
+Harnas Guest Farm’s,FAC,spacy,1,1
+Hodenhagen,GPE,spacy,1,1
+Horizon,FAC,spacy,1,1
+Hotel Rwanda,FAC,spacy,1,1
+Huntley,GPE,spacy,1,1
+Conservation Namibia,LOC,spacy,1,1
+Clarifying,GPE,spacy,1,1
+Impala,GPE,spacy,1,1
+Chetto,GPE,spacy,1,1
+@kaza.tfca,GPE,spacy,1,1
+@living.earth.africa,GPE,spacy,1,1
+@pro.namib,GPE,spacy,1,1
+@thewcs,GPE,spacy,1,1
+@undpnamibia,GPE,spacy,1,1
+@wildlife_vets_namibia,GPE,spacy,1,1
+@windhoek_animal_hospital,FAC,spacy,1,1
+@zooberlin,GPE,spacy,1,1
+AWCT,GPE,spacy,1,1
+Acnephalomyia,GPE,spacy,1,1
+Adenia,GPE,spacy,1,1
+Agriculture,GPE,spacy,1,1
+Aidan,GPE,spacy,1,1
+Along Namibia’s,FAC,spacy,1,1
+Anigab,GPE,spacy,1,1
+Asilidae,GPE,spacy,1,1
+Atlantic,LOC,spacy,1,1
+Atlantic Ocean,LOC,spacy,1,1
+B.J.,GPE,spacy,1,1
+B.Sc.,GPE,spacy,1,1
+Belgium,GPE,spacy,1,1
+Belém,GPE,spacy,1,1
+Bio,GPE,spacy,1,1
+Bolivia,GPE,spacy,1,1
+Building,GPE,spacy,1,1
+Bulbul,GPE,spacy,1,1
+Canada,GPE,spacy,1,1
+Canyon Nature Park,FAC,spacy,1,1
+Cape Cross,park,gazetteer,1,1
+IWT,GPE,spacy,1,1
+Independence Beach,FAC,spacy,1,1
+Oshana Region,GPE,spacy,1,1
+Mawenzi,GPE,spacy,1,1
+Meru,GPE,spacy,1,1
+Mesembryanthemum spp.,GPE,spacy,1,1
+Messum,FAC,spacy,1,1
+Michigan,GPE,spacy,1,1
+Mopane,LOC,spacy,1,1
+Ms Ndinelago Ithindi,FAC,spacy,1,1
+Mwaala High School,FAC,spacy,1,1
+Nairobi,GPE,spacy,1,1
+Naivasha,GPE,spacy,1,1
+Nama,GPE,spacy,1,1
+Namiabi,GPE,spacy,1,1
+@euinnam,GPE,spacy,1,1
+Namutoni,GPE,spacy,1,1
+Namutoni Resort,FAC,spacy,1,1
+Ngoma,GPE,spacy,1,1
+Nick,GPE,spacy,1,1
+Nkasa Rupara,park,gazetteer,1,1
+North,LOC,spacy,1,1
+Northwest Namibia,GPE,spacy,1,1
+Okongue,GPE,spacy,1,1
+Okongwe,GPE,spacy,1,1
+Omaoipanga,GPE,spacy,1,1
+Ombika Sports Field,FAC,spacy,1,1
+Ondjamba Hills,GPE,spacy,1,1
+Ongava,GPE,spacy,1,1
+Ongava Lodge,FAC,spacy,1,1
+Opuwo,town,gazetteer,1,1
+Orphan,GPE,spacy,1,1
+Oshana,region,gazetteer,1,1
+Maxi Louis,GPE,spacy,1,1
+Mashare,GPE,spacy,1,1
+Isiolo County Governments,GPE,spacy,1,1
+Mangarangandja,GPE,spacy,1,1
+Jena,GPE,spacy,1,1
+Jordan,GPE,spacy,1,1
+Kabbe,GPE,spacy,1,1
+Kalkfeld,GPE,spacy,1,1
+Kavango East Regional,LOC,spacy,1,1
+Kavango Region,GPE,spacy,1,1
+Kavango West,GPE,spacy,1,1
+Kedong,GPE,spacy,1,1
+Kelce,GPE,spacy,1,1
+Khoekhoegowab,LOC,spacy,1,1
+Khomasdal,GPE,spacy,1,1
+Koushik Chatterjee - Thank,FAC,spacy,1,1
+Kunene River,feature,gazetteer,1,1
+Kunming,GPE,spacy,1,1
+Lake Naivasha,GPE,spacy,1,1
+Lake Nakuru National Park,FAC,spacy,1,1
+Langstrand,GPE,spacy,1,1
+Lapidaria,GPE,spacy,1,1
+Lappet,GPE,spacy,1,1
+Lesedi,GPE,spacy,1,1
+LinkedIn,GPE,spacy,1,1
+Lithops,GPE,spacy,1,1
+Lovebird,GPE,spacy,1,1
+Lozi,GPE,spacy,1,1
+Luangwa Valley,LOC,spacy,1,1
+Luderitz,town,gazetteer,1,1
+Mahango National Park,FAC,spacy,1,1
+Malaki,GPE,spacy,1,1
+Malawi,GPE,spacy,1,1
+𝐵𝑖𝑜𝑑𝑖𝑣𝑒𝑟𝑠𝑖𝑡𝑦,GPE,spacy,1,1

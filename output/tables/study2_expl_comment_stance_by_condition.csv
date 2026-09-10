@@ -1,0 +1,23 @@
+condition,stance,n,pct
+Neutral,disputing,8,57.1
+Neutral,other,2,14.3
+Neutral,qualifying,1,7.1
+Neutral,questioning,1,7.1
+Neutral,supporting,1,7.1
+Neutral,noncodeable,1,7.1
+Empathy,disputing,9,47.4
+Empathy,other,2,10.5
+Empathy,qualifying,2,10.5
+Empathy,questioning,3,15.8
+Empathy,noncodeable,3,15.8
+Social Norm,disputing,8,53.3
+Social Norm,other,1,6.7
+Social Norm,qualifying,3,20
+Social Norm,questioning,1,6.7
+Social Norm,supporting,1,6.7
+Social Norm,noncodeable,1,6.7
+Narrative,disputing,12,52.2
+Narrative,other,4,17.4
+Narrative,qualifying,1,4.3
+Narrative,questioning,2,8.7
+Narrative,noncodeable,4,17.4

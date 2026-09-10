@@ -1,0 +1,7 @@
+criterion,scale,observed_winner,expected_winner,winner_mean,pass
+C1,EMP,Empathy,Empathy,4.06,TRUE
+C2,NORM,Social Norm,Social Norm,4.44,TRUE
+C3,NAR,Narrative,Narrative,4.62,TRUE
+C4,EMP/NORM/NAR,NA,Neutral lowest,NA,FALSE
+C5,CTRL1,NA,SD < 1.0,NA,TRUE
+C5,CTRL2,NA,SD < 1.0,NA,TRUE

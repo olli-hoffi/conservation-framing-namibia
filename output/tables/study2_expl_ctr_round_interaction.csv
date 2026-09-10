@@ -1,0 +1,2 @@
+test,df,deviance,p,p_exact,N,cohen_w,w_ci_low,w_ci_high,status
+LRT condition x round (Binomial GLM),3,0.28,0.9634,0.963,430840,8e-4,0,0.0038,EXPLORATORY

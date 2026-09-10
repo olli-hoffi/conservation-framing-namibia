@@ -1,0 +1,13 @@
+outcome,term,spec,OR,CI_lower,CI_upper,p_two_tailed,dispersion
+link_ctr,conditionEmpathy,binomial,1.056,0.927,1.202,0.4132,2.09
+link_ctr,conditionSocial Norm,binomial,1.031,0.905,1.175,0.6475,2.09
+link_ctr,conditionNarrative,binomial,1.169,1.029,1.328,0.0164,2.09
+link_ctr,conditionEmpathy,quasibinomial,1.056,0.863,1.292,0.5789,2.09
+link_ctr,conditionSocial Norm,quasibinomial,1.031,0.841,1.263,0.7557,2.09
+link_ctr,conditionNarrative,quasibinomial,1.169,0.959,1.425,0.1155,2.09
+clicks_per_3s_view,conditionEmpathy,binomial,1.059,0.929,1.208,0.3874,2.09
+clicks_per_3s_view,conditionSocial Norm,binomial,1.027,0.901,1.172,0.6869,2.09
+clicks_per_3s_view,conditionNarrative,binomial,1.198,1.053,1.362,0.006,2.09
+clicks_per_3s_view,conditionEmpathy,quasibinomial,1.059,0.864,1.299,0.5579,2.09
+clicks_per_3s_view,conditionSocial Norm,quasibinomial,1.027,0.837,1.262,0.7838,2.09
+clicks_per_3s_view,conditionNarrative,quasibinomial,1.198,0.98,1.463,0.0746,2.09

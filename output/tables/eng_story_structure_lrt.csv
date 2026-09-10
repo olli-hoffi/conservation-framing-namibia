@@ -1,0 +1,2 @@
+test,chi2,df,N,p,p_exact,cohen_w,w_lo,w_hi,mcfadden_base,mcfadden_full,mcfadden_gain
+LRT: story structure added to the negative-binomial comment model,2.44,3,881,0.485,0.485,0.053,0.025,0.142,0.1865,0.1871,6e-4

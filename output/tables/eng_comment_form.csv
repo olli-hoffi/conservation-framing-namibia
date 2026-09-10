@@ -1,0 +1,9 @@
+quantity,k,n,pct,ci_low,ci_high,note
+emoji only,894,2172,41.2,39.1,43.2,"counted among comments carrying text, expressed over the full corpus"
+contains a question mark,99,2172,4.6,3.8,5.5,
+two words or fewer,1217,2172,56,53.9,58.1,
+fifteen words or more,203,2172,9.3,8.2,10.6,
+"repeat commenters, share of commenters",304,1213,25.1,22.7,27.6,
+"repeat commenters, share of comments",1231,2140,57.5,55.4,59.6,
+emoji only among repeat commenters,624,1231,50.7,47.9,53.5,
+emoji only among one-off commenters,270,909,29.7,26.8,32.8,

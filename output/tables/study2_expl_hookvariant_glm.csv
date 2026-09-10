@@ -1,0 +1,29 @@
+outcome,term,spec,OR,CI_lower,CI_upper,p_two_tailed,dispersion
+hook_rate,variant2,binomial,0.58,0.569,0.59,0,8.19
+hook_rate,variant3,binomial,0.596,0.585,0.608,0,8.19
+hook_rate,conditionEmpathy,binomial,0.99,0.969,1.011,0.3496,8.19
+hook_rate,conditionSocial Norm,binomial,1.004,0.982,1.026,0.7303,8.19
+hook_rate,conditionNarrative,binomial,0.976,0.955,0.997,0.0278,8.19
+hook_rate,round2,binomial,0.882,0.868,0.895,0,8.19
+hook_rate,variant2,quasibinomial,0.58,0.547,0.614,0,8.19
+hook_rate,variant3,quasibinomial,0.596,0.563,0.631,0,8.19
+hook_rate,conditionEmpathy,quasibinomial,0.99,0.926,1.058,0.7478,8.19
+hook_rate,conditionSocial Norm,quasibinomial,1.004,0.939,1.073,0.9055,8.19
+hook_rate,conditionNarrative,quasibinomial,0.976,0.912,1.044,0.4525,8.19
+hook_rate,round2,quasibinomial,0.882,0.841,0.924,0,8.19
+hook_rate,variant3_vs_variant2,binomial,1.029,1.009,1.049,0.0046,8.19
+hook_rate,variant3_vs_variant2,quasibinomial,1.029,0.968,1.093,0.3356,8.19
+link_ctr,variant2,binomial,0.716,0.64,0.801,0,2.09
+link_ctr,variant3,binomial,0.873,0.784,0.972,0.0131,2.09
+link_ctr,conditionEmpathy,binomial,1.056,0.927,1.202,0.4132,2.09
+link_ctr,conditionSocial Norm,binomial,1.031,0.905,1.175,0.6475,2.09
+link_ctr,conditionNarrative,binomial,1.169,1.029,1.328,0.0164,2.09
+link_ctr,round2,binomial,0.642,0.585,0.704,0,2.09
+link_ctr,variant2,quasibinomial,0.716,0.601,0.853,9e-4,2.09
+link_ctr,variant3,quasibinomial,0.873,0.739,1.032,0.1044,2.09
+link_ctr,conditionEmpathy,quasibinomial,1.056,0.863,1.292,0.5789,2.09
+link_ctr,conditionSocial Norm,quasibinomial,1.031,0.841,1.263,0.7557,2.09
+link_ctr,conditionNarrative,quasibinomial,1.169,0.959,1.425,0.1155,2.09
+link_ctr,round2,quasibinomial,0.642,0.556,0.742,0,2.09
+link_ctr,variant3_vs_variant2,binomial,1.219,1.087,1.367,7e-4,2.09
+link_ctr,variant3_vs_variant2,quasibinomial,1.219,1.02,1.457,0.0318,2.09

@@ -1,0 +1,9 @@
+variable,level,n,percent
+Age group,18–24,6,25
+Age group,25–29,15,62.5
+Age group,36 or older,3,12.5
+Gender,Man,12,50
+Gender,Woman,12,50
+English proficiency,Advanced,11,45.8
+English proficiency,Fluent / Native,9,37.5
+English proficiency,Intermediate,4,16.7

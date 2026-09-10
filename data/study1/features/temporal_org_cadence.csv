@@ -1,0 +1,20 @@
+Actor_Name,Handle,n_posts,span_days,active_days,posts_per_week,median_gap_days,pct_weekend,top_dow,on_event_rate
+Ocean Conservation Namibia,oceanconservationnamibia,64,55,52,8.15,1.0,0.266,Mon,0.266
+N/a'an ku se Foundation,naankuse_foundation,79,84,61,6.58,1.0,0.228,Fri,0.228
+Cheetah Conservation Fund,ccfcheetah,53,80,45,4.64,1.0,0.132,Mon,0.226
+Harnas Wildlife Foundation,harnaswildlifefoundation,74,146,73,3.55,2.0,0.108,Mon,0.162
+Giraffe Conservation Foundation,giraffe_conservation,83,178,82,3.26,2.0,0.313,Wed,0.169
+Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,82,176,47,3.26,1.0,0.134,Wed,0.22
+Elephant Human Relations Aid,ehranamibia,79,176,78,3.14,2.0,0.139,Wed,0.152
+Gobabeb Research & Training Centre,gobabeb,79,177,73,3.12,1.0,0.101,Fri,0.139
+Ongava Game Reserve,ongavagamereserve,77,179,74,3.01,2.0,0.234,Mon,0.182
+Namibia Nature Foundation,namibia_nature_foundation,53,168,35,2.21,1.0,0.038,Mon,0.434
+Namibia Youth Chamber of Environment,namyouthchamber,46,171,43,1.88,2.0,0.065,Thu,0.261
+Save the Rhino Trust Namibia,savetherhinonamibia,40,176,38,1.59,4.0,0.025,Mon,0.175
+AfriCat Foundation,africat_foundation,37,172,37,1.51,4.0,0.216,Thu,0.216
+WWF Namibia,wwfnamibia,29,169,27,1.2,4.0,0.172,Mon,0.172
+NACSO,nacso_namibia1,16,100,13,1.12,2.0,0.188,Wed,0.062
+Environmental Investment Fund,eif_namibia,14,165,14,0.59,8.0,0.143,Wed,0.286
+Tosco Trust,tosconamibia,7,117,7,0.42,13.0,0.143,Fri,0.143
+Youth4CAN,youth4can_namibia,3,152,3,0.14,76.0,0.0,Tue,1.0
+Desert Lion Conservation Trust,desertlionconservation,2,155,2,0.09,155.0,0.0,Wed,0.5

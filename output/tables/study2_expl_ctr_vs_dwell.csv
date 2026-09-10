@@ -1,0 +1,12 @@
+condition,variant,ctr,dwell_s,sessions
+Neutral,2,0.0032,56.0827,5
+Neutral,3,0.0044,34.6528,5
+Empathy,1,0.0051,33.3541,5
+Empathy,2,0.0035,64.3811,8
+Empathy,3,0.0044,7.5802,4
+Social Norm,1,0.0046,278.5992,4
+Social Norm,2,0.0036,207.1071,4
+Social Norm,3,0.0046,10.751,9
+Narrative,1,0.0058,23.6082,6
+Narrative,2,0.0044,19.0078,7
+Narrative,3,0.0044,101.7238,5

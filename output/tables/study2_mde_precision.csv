@@ -1,0 +1,3 @@
+round,neutral_imp,neutral_ctr_pct,comparison_imp,dispersion_phi,mde_or_binomial,mde_or_quasi,prereg_or_low,prereg_or_mid,prereg_or_high,resolves_midpoint
+1,54531,0.499,52738,6.58,1.28,1.78,1.39,2.01,2.92,TRUE
+2,53203,0.327,54964,1.85,1.35,1.47,1.39,2.01,2.92,TRUE

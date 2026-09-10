@@ -1,0 +1,5 @@
+specification,n,rho,ci_low,ci_high,p,p_type,note
+REGISTERED: % female (empathy ad) x empathy-minus-neutral CTR contrast (pp),6,0.086,-1,1,0.9194,exact permutation,"percentile bootstrap, 5000/5000 valid resamples"
+Sensitivity: % female (pair-pooled) x empathy-minus-neutral CTR contrast (pp),6,0.086,-1,1,0.9194,exact permutation,"percentile bootstrap, 5000/5000 valid resamples"
+Sensitivity: % female (empathy ad) x log(empathy CTR / neutral CTR),6,-0.086,-1,1,0.9194,exact permutation,"percentile bootstrap, 4998/5000 valid resamples"
+AS PREVIOUSLY REPORTED: % female (empathy ad) x TOTAL CTR of that ad (no contrast),6,-0.143,-1,0.8,0.8028,exact permutation,"percentile bootstrap, 5000/5000 valid resamples"

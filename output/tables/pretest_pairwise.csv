@@ -1,0 +1,19 @@
+scale,group1,group2,p_adj,n,r_rb,ci_lo,ci_hi
+EMP,Neutral,Empathy,5e-4,24,-0.942,-0.976,-0.861
+EMP,Neutral,Social Norm,0.055,24,-0.595,-0.815,-0.225
+EMP,Neutral,Narrative,0.007,24,-0.8,-0.915,-0.566
+EMP,Empathy,Social Norm,0.007,24,0.837,0.637,0.931
+EMP,Empathy,Narrative,0.164,24,0.351,-0.091,0.677
+EMP,Social Norm,Narrative,0.055,24,-0.676,-0.856,-0.35
+NORM,Neutral,Empathy,0.083,24,0.524,0.124,0.777
+NORM,Neutral,Social Norm,3e-4,24,-1,-1,-1
+NORM,Neutral,Narrative,0.325,24,-0.287,-0.637,0.161
+NORM,Empathy,Social Norm,1e-4,24,-0.99,-0.996,-0.975
+NORM,Empathy,Narrative,0.003,24,-0.908,-0.962,-0.786
+NORM,Social Norm,Narrative,3e-4,24,0.976,0.942,0.99
+NAR,Neutral,Empathy,0.03,24,-0.645,-0.841,-0.3
+NAR,Neutral,Social Norm,0.03,24,-0.75,-0.892,-0.474
+NAR,Neutral,Narrative,1e-4,24,-1,-1,-1
+NAR,Empathy,Social Norm,0.313,24,0.249,-0.2,0.612
+NAR,Empathy,Narrative,1e-4,24,-0.989,-0.996,-0.973
+NAR,Social Norm,Narrative,1e-4,24,-1,-1,-1

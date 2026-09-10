@@ -1,0 +1,13 @@
+screen,Post_ID,Actor_Name,Handle,matched_rules,matched_phrases
+behavior_request,DWbAAoijFTa,WWF Namibia,wwfnamibia,BR01,Give your time.  Take action.
+behavior_request,DWV5l8TCp7a,Namibia Youth Chamber of Environment,namyouthchamber,BR02,Do better
+behavior_request,DWBU3t0ilGW,Namibia Youth Chamber of Environment,namyouthchamber,BR02|BR03,Do better|Do you reduce
+citizen_science,DSQTzsPDRJ6,Giraffe Conservation Foundation,giraffe_conservation,CS03,GiraffeSpotter
+citizen_science,DSYCJfoj4ik,Giraffe Conservation Foundation,giraffe_conservation,CS03,GiraffeSpotter
+behavior_request,DQ2L-kBgaVr,Giraffe Conservation Foundation,giraffe_conservation,BR08,Upload your giraffe photos
+citizen_science,DQ2L-kBgaVr,Giraffe Conservation Foundation,giraffe_conservation,CS02|CS03,citizen scientists|GiraffeSpotter
+behavior_request,DV8V_PjFMlT,Ongava Game Reserve,ongavagamereserve,BR04,leave only footprints
+behavior_request,DR_9tu4DEa9,WWF Namibia,wwfnamibia,BR07,Let’s continue working hand in hand to protect our coastlines
+behavior_request,DWboxZriOr5,Environmental Investment Fund,eif_namibia,BR05,calling on all stakeholders
+behavior_request,DSHY-RICNI1,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,BR06,maintain clean and healthy surroundings
+behavior_request,DSZ41IKiPsl,Ministry of Environment Forestry & Tourism,ministry_of_environment_nam,BR05,call on all residents

@@ -1,0 +1,2 @@
+tau,tau_ci_low,tau_ci_high,p,neutral_below_r1,neutral_below_r2,criterion_met
+0.667,-1,1,0.3333,3,3,TRUE

@@ -1,0 +1,72 @@
+round,condition,ad_name,comment_text,timestamp,timestamp_precision,ig_relative_marker,is_reply,non_textual,source,media_id
+round2,empathy,WC_empathy_3,Stop lying it was raining almost everyday,2026-07-05T07:35:00+0000,api_exact,,False,False,graph_api,18318122473263179
+round2,empathy,WC_empathy_3,You think we don't know what you're doing,2026-07-05T02:45:20+0000,api_exact,,False,False,graph_api,18318122473263179
+round2,empathy,WC_empathy_3,What does that actually mean,2026-07-05T02:44:21+0000,api_exact,,False,False,graph_api,18318122473263179
+round2,empathy,WC_empathy_3,.,2026-07-03T07:22:08+0000,api_exact,,False,False,graph_api,18318122473263179
+round2,empathy,WC_empathy_1,Walk hours to find it?,2026-07-05T20:01:18+0000,api_exact,,False,False,graph_api,18539359177073761
+round2,empathy,WC_empathy_1,"Namibia's worst drought occurred in 2018/9. This year, we have had one of the best rainfalls we've experienced in decades and the dams overflowed with so much water, that they had to open the dam to release some of it due to capacity problems.",2026-07-04T06:10:45+0000,api_exact,,False,False,graph_api,18539359177073761
+round2,empathy,WC_empathy_1,@C0722 please make accurate statements 🙏,2026-07-04T06:11:03+0000,api_exact,,True,False,graph_api,18539359177073761
+round2,empathy,WC_empathy_1,"""Was""",2026-07-02T22:19:14+0000,api_exact,,False,False,graph_api,18539359177073761
+round2,neutral,WC_neutral_3,Ngiini…,2026-07-03,approx_from_relative,6d,,False,business_suite,18033179213810429
+round2,neutral,WC_neutral_2,Etolls,2026-07-04,approx_from_relative,5d,,False,business_suite,18124943956727104
+round2,neutral,WC_neutral_1,The worst drought we faced was back in 2018/9,2026-07-04,approx_from_relative,5d,,False,business_suite,17996142284992535
+round2,neutral,WC_neutral_1,@C0722 Namibia has had one of the largest rainfall it has seen this year compared to the past decade actually. Lets be more factual🙏,2026-07-04,approx_from_relative,5d,,False,business_suite,17996142284992535
+round2,narrative,WC_narrative_1,𝚆𝚑𝚢 𝚞 𝚕𝚢𝚒𝚗𝚐,2026-07-03T16:20:57+0000,api_exact,,False,False,graph_api,18156511501467951
+round2,narrative,WC_narrative_1,That is not true,2026-07-02T20:32:22+0000,api_exact,,False,False,graph_api,18156511501467951
+round2,social_norm,WC_socialnorm_1,Making us look arahm eche 😢 😭,2026-07-03T19:03:45+0000,api_exact,,False,False,graph_api,17885483415597337
+round2,social_norm,WC_socialnorm_3,Lies,2026-07-05T18:31:40+0000,api_exact,,False,False,graph_api,18108473242947075
+round2,narrative,WC_narrative_2,lol Namibia’s dams are overflowing with water🤣 dam lever risen to 100+,2026-07-04T16:56:32+0000,api_exact,,False,False,graph_api,18007123853748833
+round2,narrative,WC_narrative_2,"Last year and this year we had  good rain, but we don't need it in a concrete jungle do we?",2026-07-03T11:49:11+0000,api_exact,,False,False,graph_api,18007123853748833
+round2,narrative,WC_narrative_2,,2026-07-02T03:23:22+0000,api_exact,,False,True,graph_api,18007123853748833
+round2,narrative,WC_narrative_3,Who is telling you these lies.🤔,2026-07-04T23:04:37+0000,api_exact,,False,False,graph_api,18596221729002119
+round2,narrative,WC_narrative_3,"Me watching this in 2026, drinking water in Namibia",2026-07-04T20:25:50+0000,api_exact,,False,False,graph_api,18596221729002119
+round2,narrative,WC_narrative_3,But we got oil,2026-07-04T15:28:42+0000,api_exact,,False,False,graph_api,18596221729002119
+round2,narrative,WC_narrative_3,I live in namibia,2026-07-02T14:40:53+0000,api_exact,,False,False,graph_api,18596221729002119
+round1,neutral,WC_neutral_1,"I ain't update to date about what's really happening. There should be different types of water fetching techniques introduced. We hardly have reservoirs, wells within them farmers, communal settlement areas, and out of reach areas that struggle with water. The majority of water pumps out of the dams to serve its purpose on farmland, communal spaces, urban and rural areas. That itself is an issue as the nation still depends on the sole purpose of Dams and not resulting in possible solutions of fetching water differently or looking for options that work best for the area affected.",2026-06-25,approx_from_relative,2w,,False,business_suite,18167455981433925
+round1,neutral,WC_neutral_1,This is a lie 🤥,2026-06-25,approx_from_relative,2w,,False,business_suite,18167455981433925
+round1,neutral,WC_neutral_1,I come from Namibia 🇳🇦,2026-06-25,approx_from_relative,2w,,False,business_suite,18167455981433925
+round1,neutral,WC_neutral_1,Oh shi,2026-06-25,approx_from_relative,2w,,False,business_suite,18167455981433925
+round1,neutral,WC_neutral_2,Stooooop lying,2026-06-25,approx_from_relative,2w,,False,business_suite,18120934552737340
+round1,empathy,WC_empathy_1,Whaaaaaaat???? Who told you this nonsense?😳😳😳😳 Heeeeeyyy muuhn. Stop lying,2026-06-25,approx_from_relative,2w,,False,business_suite,18114100955510236
+round1,empathy,WC_empathy_1,Why would you lie like this?,2026-06-25,approx_from_relative,2w,,False,business_suite,18114100955510236
+round1,neutral,WC_neutral_3,One day the rain is too much the other day we are in a drought my people please choose,2026-06-25,approx_from_relative,2w,,False,business_suite,18112302610814854
+round1,neutral,WC_neutral_3,Were good,2026-06-25,approx_from_relative,2w,,False,business_suite,18112302610814854
+round1,neutral,WC_neutral_3,Big lie,2026-06-25,approx_from_relative,2w,,False,business_suite,18112302610814854
+round1,neutral,WC_neutral_3,No wonder why we aren't having water at most times in walvis johhh I swear,2026-06-25,approx_from_relative,2w,,False,business_suite,18112302610814854
+round1,neutral,WC_neutral_3,This is the first I’m hearing about this and I live there,2026-06-25,approx_from_relative,2w,,False,business_suite,18112302610814854
+round1,empathy,WC_empathy_2,Where did you get all this data?,2026-06-25,approx_from_relative,2w,,False,business_suite,18426696475131588
+round1,empathy,WC_empathy_2,,2026-06-25,approx_from_relative,2w,,True,business_suite,18426696475131588
+round1,empathy,WC_empathy_2,Stop lying,2026-06-25,approx_from_relative,2w,,False,business_suite,18426696475131588
+round1,empathy,WC_empathy_2,,2026-06-25,approx_from_relative,2w,,True,business_suite,18426696475131588
+round1,empathy,WC_empathy_2,Its the fault of all this Ai engines causing this ...research on this and u will learn more @M0031,2026-06-25,approx_from_relative,2w,,False,business_suite,18426696475131588
+round1,empathy,WC_empathy_3,U mean the rural areas right?,2026-06-25,approx_from_relative,2w,,False,business_suite,18160775212458362
+round1,empathy,WC_empathy_3,Must i stop my 40min showers? Or we chill,2026-06-25,approx_from_relative,2w,,False,business_suite,18160775212458362
+round1,empathy,WC_empathy_3,Daim comments get cancelled?,2026-06-25,approx_from_relative,2w,,False,business_suite,18160775212458362
+round1,empathy,WC_empathy_3,"As a Namibian am shocked to hear this…. Water may be far to get , but running short???",2026-06-25,approx_from_relative,2w,,False,business_suite,18160775212458362
+round1,social_norm,WC_socialnorm_1,Namibia is experiencing Economic Water Shortage 💧 Namibia was i alot of underground water but due to lack of funds and infrastructure and Human capacity we can't reach it.,2026-06-25,approx_from_relative,2w,,False,business_suite,18096095204590257
+round1,social_norm,WC_socialnorm_1,"Daim I live in Namibia and I swear I saw worst droughts then 24 I mean haven’t we always been saving water but I guess support never hurts though this dross make it sound dramatic, maybe it’s other sides of the country",2026-06-25,approx_from_relative,2w,,False,business_suite,18096095204590257
+round1,social_norm,WC_socialnorm_3,But then experienced its most rainy year in decades during 24-25 season and 25-26 season too what are you selling?,2026-06-25,approx_from_relative,2w,,False,business_suite,18088459838132327
+round1,social_norm,WC_socialnorm_3,We received the best rain season in 2025,2026-06-25,approx_from_relative,2w,,False,business_suite,18088459838132327
+round1,social_norm,WC_socialnorm_3,Your lying..im namibian and we have water all year round.,2026-06-25,approx_from_relative,2w,,False,business_suite,18088459838132327
+round1,social_norm,WC_socialnorm_3,This is a bunch of bs,2026-06-25,approx_from_relative,2w,,False,business_suite,18088459838132327
+round1,social_norm,WC_socialnorm_3,Fokof stop talking crap,2026-06-25,approx_from_relative,2w,,False,business_suite,18088459838132327
+round1,social_norm,WC_socialnorm_3,.,2026-06-25,approx_from_relative,2w,,False,business_suite,18088459838132327
+round1,social_norm,WC_socialnorm_3,I’m not sure these information is accurate,2026-06-25,approx_from_relative,2w,,False,business_suite,18088459838132327
+round1,social_norm,WC_socialnorm_3,We’re not only running out of water. Our tap water smells horrible and makes us ill. It also smells like bleach!!!,2026-06-25,approx_from_relative,2w,,False,business_suite,18088459838132327
+round1,social_norm,WC_socialnorm_3,Northern east of namibia 🇳🇦will never run out of water 💧 that's it,2026-06-25,approx_from_relative,2w,,False,business_suite,18088459838132327
+round1,social_norm,WC_socialnorm_3,When will you delete this video?,2026-06-25,approx_from_relative,2w,,False,business_suite,18088459838132327
+round1,narrative,WC_narrative_1,We have water this is cap,2026-06-25,approx_from_relative,2w,,False,business_suite,17905984188263302
+round1,narrative,WC_narrative_1,Huh?,2026-06-25,approx_from_relative,2w,,False,business_suite,17905984188263302
+round1,narrative,WC_narrative_1,"Don't lie,",2026-06-25,approx_from_relative,2w,,False,business_suite,17905984188263302
+round1,narrative,WC_narrative_1,Wagugwa,2026-06-25,approx_from_relative,2w,,False,business_suite,17905984188263302
+round1,social_norm,WC_socialnorm_2,Get something else to talk about cause I'm Namibia but I ain't see it that way,2026-06-25,approx_from_relative,2w,,False,business_suite,17903066697445166
+round1,narrative,WC_narrative_3,Nalie,2026-06-25,approx_from_relative,2w,,False,business_suite,18102249701025716
+round1,narrative,WC_narrative_3,,2026-06-25,approx_from_relative,2w,,True,business_suite,18102249701025716
+round1,narrative,WC_narrative_3,Lies,2026-06-25,approx_from_relative,2w,,False,business_suite,18102249701025716
+round1,narrative,WC_narrative_3,Ek dink nie ons bly in die selfde Namibia nie,2026-06-25,approx_from_relative,2w,,False,business_suite,18102249701025716
+round1,narrative,WC_narrative_3,Is this data correct ?,2026-06-25,approx_from_relative,2w,,False,business_suite,18102249701025716
+round1,narrative,WC_narrative_2,Useless information,2026-06-25,approx_from_relative,2w,,False,business_suite,18428311753126641
+round1,narrative,WC_narrative_2,Fucking lies,2026-06-25,approx_from_relative,2w,,False,business_suite,18428311753126641
+round1,narrative,WC_narrative_2,,2026-06-25,approx_from_relative,2w,,True,business_suite,18428311753126641
+round1,narrative,WC_narrative_2,Hmmmm julle,2026-06-25,approx_from_relative,2w,,False,business_suite,18428311753126641
+round1,narrative,WC_narrative_2,Katima doesn't,2026-06-25,approx_from_relative,2w,,False,business_suite,18428311753126641

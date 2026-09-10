@@ -1,0 +1,2 @@
+comparison,n_cells_narrative,n_cells_neutral,n_sessions_narrative,n_sessions_neutral,W,p_one,rbi,rbi_ci_low,rbi_ci_high,significant
+Narrative vs. Neutral,6,5,16,8,13,0.6688,-0.133,-0.8,0.6,FALSE

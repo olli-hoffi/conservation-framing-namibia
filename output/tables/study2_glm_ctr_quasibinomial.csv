@@ -1,0 +1,7 @@
+round,condition,OR,ci_lower,ci_upper,t,p_one,dispersion,significant
+1,Empathy,1.052,0.633,1.749,0.23,0.4117,6.58,FALSE
+1,Social Norm,1.053,0.634,1.748,0.23,0.4107,6.58,FALSE
+1,Narrative,1.19,0.729,1.942,0.82,0.2182,6.58,FALSE
+2,Empathy,1.057,0.763,1.465,0.39,0.3518,1.85,FALSE
+2,Social Norm,1.013,0.727,1.412,0.09,0.4653,1.85,FALSE
+2,Narrative,1.128,0.812,1.568,0.84,0.2116,1.85,FALSE

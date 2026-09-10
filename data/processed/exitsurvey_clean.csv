@@ -1,0 +1,14 @@
+case,ref,condition,variant,started,round,gender,age_group,emp_state,ident_state,env_concern,bio_water,collectivism
+19,social_norm_2,Social Norm,2,2026-06-18T11:12:21Z,1,2,2,5,4,5,5,5
+20,empathy_3,Empathy,3,2026-06-18T14:27:51Z,1,1,1,4,3,5,5,5
+24,narrative_2,Narrative,2,2026-06-18T23:28:15Z,1,2,1,5,3,5,4,4
+28,narrative_2,Narrative,2,2026-06-19T11:10:15Z,1,2,3,5,5,5,5,5
+29,narrative_1,Narrative,1,2026-06-19T15:30:00Z,1,2,2,5,4,5,5,5
+30,social_norm_3,Social Norm,3,2026-06-20T09:14:47Z,1,2,1,5,4,4,5,5
+33,narrative_1,Narrative,1,2026-06-20T21:52:07Z,1,2,2,5,5,5,5,5
+37,social_norm_1,Social Norm,1,2026-06-22T01:40:48Z,1,2,1,5,5,4,5,5
+41,social_norm_1,Social Norm,1,2026-06-22T15:30:44Z,1,1,1,4,4,5,5,5
+70,empathy_2,Empathy,2,2026-07-02T23:10:56Z,2,2,1,5,3,4,1,1
+77,narrative_2,Narrative,2,2026-07-04T21:35:30Z,2,2,1,5,5,5,5,5
+80,narrative_2,Narrative,2,2026-07-05T03:18:13Z,2,2,2,5,3,2,5,5
+82,neutral_2,Neutral,2,2026-07-06T09:29:43Z,2,1,1,4,3,5,4,4

@@ -1,0 +1,62 @@
+﻿Actor_ID;Actor_Name;Primary_Identification_String;Number_of_Times_Identified;Additional_Identification_Sources;Operates_primarily_in_Namibia (1/0);Conservation_Mandate (1/0);Has_Public_Instagram (1/0);Active_in_Sampling_Period (1/0);Included_in_Final_Sampling_Frame (1/0);Reason_for_Exclusion;Instagram_Handle;Actor_Type (1–6);Notes;;;;
+ID;Actor_Name;Primary_String;N;;Namibia;Mandate;IG;Active;Incl;Reason;;;;;;;Type (1–6):
+A0001;AfriCat Foundation;conservation foundation;3;;1;1;1;1;1;;https://www.instagram.com/africat_foundation/ ;1;;;;;1 = NGO / Foundation / Trust
+A0002;African Conservation Services CC;NCE Full;1;;1;1;0;;0;No IG;;6;;;;;2 = Research Institute / Academic
+A0003;Ameib Scientific Station;NCE Full;1;;1;1;0;;0;No IG;;2;;;;;3 = Umbrella / Network / Association
+A0004;Anchor Environmental Consultants;NCE Full;1;;1;1;0;;0;No IG;;6;;;;;4 = Government Body
+A0005;Beekeeping Association of Namibia;CIVIC;1;;1;1;0;;0;No IG;;3;;;;;5 = Conservancy / Protected Area
+A0006;Biodiversity Credit Alliance;research institute;1;;0;1;0;;0;"No Namibia; No IG";;6;;;;;6 = Consultancy / Private / Other
+A0007;Botanical Society of Namibia;NCE Full;1;;1;1;0;;0;No IG;;1;;;;;
+A0008;Brown Hyena Research Project;NCE Full;1;;1;1;0;;0;No IG;;2;;;;;
+A0009;Bwabwata Living Museum;NCE Full;1;;1;0;1;0;0;Inactive;https://www.instagram.com/bwabwataliving/ ;5;;;;;
+A0010;Canyon Nature Trust;NCE Full;1;;1;1;0;;0;No IG;;1;;;;;
+A0011;Cheetah Conservation Fund;conservation NGO;5;;1;1;1;1;1;;https://www.instagram.com/ccfcheetah/ ;1;;;;;
+A0012;Conservation Namibia;conservation NGO;4;;1;1;0;;0;No IG;;3;;;;;
+A0013;Conservation Frontlines;conservation NGO;1;;0;1;1;;0;No Namibia;https://www.instagram.com/conservationfrontlines/;1;;;;;
+A0014;Conservation Travel Africa;conservation authority;1;;0;1;1;;0;No Namibia;https://www.instagram.com/conservationtravelafrica/ ;6;;;;;
+A0015;Desert Lion Conservation Trust;NCE Full;1;;1;1;1;;1;;https://www.instagram.com/desertlionconservation/ ;1;;;;;
+A0016;Desert Research Foundation of Namibia;CIVIC;2;;1;1;1;;1;;https://www.instagram.com/desertlionconservation/ ;2;;;;;
+A0017;Development Workshop Namibia;NCE Full;1;;1;0;1;;0;No Mandate;https://www.instagram.com/developmentworkshopnamibia/ ;6;;;;;
+A0018;ELN - Earthlife Namibia;environmental NGO;2;;1;1;0;;0;No IG;;1;;;;;
+A0019;EduVentures Trust;CIVIC;2;;1;1;1;;1;;https://www.instagram.com/eduventuresnamibia/ ;1;;;;;
+A0020;Elephant Human Relations Aid;NCE Full;1;;1;1;1;1;1;;http://instagram.com/ehranamibia/ ;1;;;;;
+A0021;Environmental Investment Fund;environmental NGO;2;;1;1;1;1;1;;https://www.instagram.com/eif_namibia/ ;6;;;;;
+A0022;Giraffe Conservation Foundation;conservation NGO;4;;1;1;1;1;1;;https://www.instagram.com/giraffe_conservation/ ;1;;;;;
+A0023;Gobabeb Research & Training Centre;CIVIC;2;;1;1;1;1;1;;https://www.instagram.com/gobabeb/ ;2;;;;;
+A0024;Grow Namibia Foundation;conservation foundation;1;;1;1;1;0;0;Inactive;https://www.instagram.com/grownamibiafoundation/ ;1;;;;;
+A0025;Harnas Wildlife Foundation;wildlife foundation;1;;1;1;0;1;1;;https://www.instagram.com/harnaswildlifefoundation/ ;1;;;;;
+A0026;International Fund for Animal Welfare;wildlife org;1;;0;1;1;1;0;No Namibia;https://www.instagram.com/ifawglobal/ ;1;;;;;
+A0027;International Rhino Foundation;wildlife org;1;;0;1;1;0;0;No Namibia;https://www.instagram.com/rhinosirf/ ;1;;;;;
+A0028;IRDNC;conservation NGO;3;;1;1;1;1;1;;https://www.instagram.com/irdnc.namibia/ ;1;;;;;
+A0029;JF Wildlife Foundation;wildlife foundation;1;;1;1;0;0;0;No IG;;1;;;;;
+A0030;Kavango Regional Conservancy Association;Snowball;1;;1;1;0;0;0;No IG;;5;;;;;
+A0031;Lithops Research & Conservation Foundation;conservation foundation;1;;1;1;0;0;0;No IG;;2;;;;;
+A0032;Ministry of Agriculture Fisheries Water and Land Reform;ministry;1;;1;1;0;0;0;No IG;;4;;;;;
+A0033;Ministry of Environment, Forestry & Tourism;ministry;4;;1;1;1;1;1;;https://www.instagram.com/ministry_of_environment_nam/ ;4;;;;;
+A0034;Ministry of Fisheries & Marine Resources;ministry;1;;1;1;0;0;0;No IG;;4;;;;;
+A0035;NACSO;environmental NGO;3;;1;1;1;1;1;;https://www.instagram.com/p/DUxWaDAiHXN/ ;3;;;;;
+A0036;Namibia Bird Club;NCE;1;;1;1;0;0;0;No IG;;1;;;;;
+A0037;Namibia Nature Foundation;conservation NGO;4;;1;1;1;1;1;;https://www.instagram.com/namibia_nature_foundation/ ;1;;;;;
+A0038;Namibian Chamber of Environment;conservation NGO;3;;1;1;0;0;0;No IG;;3;;;;;
+A0039;Namibia Scientific Society;NCE;1;;1;1;0;0;;No IG;;2;;;;;
+A0040;Namibia Youth Chamber of Environment;youth conservation;1;;1;1;1;1;1;;https://www.instagram.com/namyouthchamber/ ;3;;;;;
+A0041;Namibian Environment & Wildlife Society;CIVIC;2;;1;1;0;0;0;No IG;;1;;;;;
+A0042;N/a’an ku sê Foundation;conservation NGO;3;;1;1;1;1;1;;https://www.instagram.com/naankuse_foundation/ ;1;;;;;
+A0043;Nature Needs More;conservation NGO;1;;0;1;0;0;0;"No Namibia; No IG";;1;;;;;
+A0044;Ocean Conservation Namibia;NCE;2;;1;1;1;1;1;;https://www.instagram.com/oceanconservationnamibia/ ;1;;;;;
+A0045;Ongava Game Reserve;NCE;1;;1;1;1;1;1;;https://www.instagram.com/ongavagamereserve/ ;5;;;;;
+A0046;Otjozondjupa Regional Conservancy Association;Snowball;1;;1;1;0;0;0;No IG;;5;;;;;
+A0047;Peace Parks Foundation;conservancy;1;;0;1;1;1;1;;https://www.instagram.com/peaceparks/ ;1;;;;;
+A0048;Save the Rhino Trust Namibia;CIVIC;2;;1;1;1;1;1;;https://www.instagram.com/savetherhinonamibia/ ;1;;;;;
+A0049;Sea Search Research & Conservation;marine conservation;1;;1;1;0;0;0;No IG;;2;;;;;
+A0050;TH!NK Namibia;environmental NGO;1;;1;1;1;1;1;;https://www.instagram.com/thinknamibia/ ;1;;;;;
+A0051;The Nature Conservancy;;1;;0;1;1;1;0;No Namibia;https://www.instagram.com/nature_africa/ ;1;;;;;
+A0052;Tosco Trust;;1;;1;1;1;1;1;;https://www.instagram.com/tosconamibia/ ;1;;;;;
+A0053;WWF Namibia;;5;;1;1;1;1;1;;https://www.instagram.com/wwfnamibia/ ;1;;;;;
+A0054;Youth4CAN;;1;;1;1;1;1;1;;https://www.instagram.com/youth4can_namibia/ ;3;;;;;
+A0055;Oxpeckers Environmental Journalism;;1;;0;1;0;0;0;No Namibia;https://www.instagram.com/oxpeckers/ ;6;;;;;
+A0056;International Volunteer HQ;;1;;0;1;1;1;0;No Namibia;https://www.instagram.com/ivhq/ ;6;;;;;
+A0057;GIZ Namibia;;2;;1;1;0;0;0;No IG;;6;;;;;
+A0058;Environmental Information Service;;1;;1;1;0;0;;No IG;;6;;;;;
+A0059;B2Gold Rhino Gold Bar Fund;;1;;1;1;0;0;;No IG;;6;;;;;
+A0060;Resilient Waters;;1;;0;1;0;0;;;;6;;;;;

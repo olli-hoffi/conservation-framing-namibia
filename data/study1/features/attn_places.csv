@@ -1,0 +1,42 @@
+place,place_type,source,n_posts,n_orgs
+Namibia,country,gazetteer,320,19
+Windhoek,town,gazetteer,49,9
+Gobabeb,place,gazetteer,37,1
+Namib,feature,gazetteer,32,7
+Okonjima,place,gazetteer,27,1
+Etosha,park,gazetteer,23,8
+Kunene,region,gazetteer,22,7
+Omaheke,region,gazetteer,17,4
+Namib Desert,feature,gazetteer,14,5
+Zambezi,region,gazetteer,13,7
+Kavango,region,gazetteer,12,7
+Swakopmund,town,gazetteer,10,5
+South Africa,country,gazetteer,9,7
+Skeleton Coast,park,gazetteer,8,5
+Erongo,region,gazetteer,7,3
+Bwabwata,park,gazetteer,6,3
+Walvis Bay,town,gazetteer,6,6
+Botswana,country,gazetteer,6,5
+Waterberg,park,gazetteer,4,1
+Sossusvlei,place,gazetteer,4,3
+Khomas,region,gazetteer,3,2
+Kwando,feature,gazetteer,3,3
+Oshikoto,region,gazetteer,3,2
+Hardap,region,gazetteer,3,1
+Kalahari,feature,gazetteer,3,2
+Sesriem,place,gazetteer,2,1
+Omusati,region,gazetteer,2,2
+Angola,country,gazetteer,2,2
+Ohangwena,region,gazetteer,2,1
+Damaraland,region,gazetteer,2,1
+NamibRand,park,gazetteer,2,2
+Namib-Naukluft,park,gazetteer,2,2
+Palmwag,place,gazetteer,1,1
+Otjozondjupa,region,gazetteer,1,1
+Dorob,park,gazetteer,1,1
+Cape Cross,park,gazetteer,1,1
+Oshana,region,gazetteer,1,1
+Nkasa Rupara,park,gazetteer,1,1
+Opuwo,town,gazetteer,1,1
+Kunene River,feature,gazetteer,1,1
+Luderitz,town,gazetteer,1,1

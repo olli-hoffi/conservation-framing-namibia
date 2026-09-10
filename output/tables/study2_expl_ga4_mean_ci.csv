@@ -1,0 +1,5 @@
+condition,n_cells,n_sessions,dwell_mean_s,ci_lo,ci_hi
+Neutral,7,10,45.4,12,73.5
+Empathy,11,17,41.9,14.1,72.8
+Social Norm,9,17,120,20.9,240.9
+Narrative,8,18,43.5,13.7,84.4

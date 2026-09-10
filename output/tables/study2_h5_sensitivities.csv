@@ -1,0 +1,3 @@
+sensitivity,n_narrative,n_neutral,statistic,df,p_one,d,d_ci_low,d_ci_high
+>= 5 s Mann-Whitney (cells),6,5,13,NA,0.6688,NA,NA,NA
+"Welch t on log s (>= 3 s, cells)",6,5,-0.5,8.8,0.6849,-0.3,-1.5,0.89

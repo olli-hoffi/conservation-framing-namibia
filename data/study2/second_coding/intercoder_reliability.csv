@@ -1,0 +1,7 @@
+category,n_coder1,n_coder2,pct_agreement,kappa_one_vs_rest
+disputing,40,32,83.1,0.666
+noncodeable,7,11,94.4,0.747
+other,10,9,87.3,0.453
+qualifying,6,4,85.9,-0.073
+questioning,4,14,85.9,0.391
+supporting,4,1,95.8,0.386

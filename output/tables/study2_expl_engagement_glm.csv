@@ -1,0 +1,19 @@
+outcome,round,condition,OR,ci_lower,ci_upper,p_two,dispersion
+Reactions,1,Empathy,1.047,0.876,1.251,0.5706,1.79
+Reactions,1,Social Norm,1.024,0.856,1.225,0.768,1.79
+Reactions,1,Narrative,1.056,0.885,1.26,0.4949,1.79
+Reactions,2,Empathy,1.011,0.877,1.166,0.8599,1.05
+Reactions,2,Social Norm,0.852,0.733,0.99,0.0396,1.05
+Reactions,2,Narrative,0.957,0.825,1.11,0.5168,1.05
+Shares,1,Empathy,0.76,0.415,1.392,0.3265,1.48
+Shares,1,Social Norm,0.612,0.321,1.166,0.1172,1.48
+Shares,1,Narrative,0.596,0.313,1.136,0.1014,1.48
+Shares,2,Empathy,1.453,0.907,2.328,0.105,0.71
+Shares,2,Social Norm,0.855,0.5,1.462,0.5204,0.71
+Shares,2,Narrative,0.88,0.512,1.514,0.6029,0.71
+Any interaction,1,Empathy,1.022,0.866,1.206,0.7696,1.69
+Any interaction,1,Social Norm,1.004,0.851,1.185,0.9564,1.69
+Any interaction,1,Narrative,1.023,0.868,1.205,0.7571,1.69
+Any interaction,2,Empathy,1.033,0.902,1.182,0.5947,1.02
+Any interaction,2,Social Norm,0.849,0.736,0.98,0.0301,1.02
+Any interaction,2,Narrative,0.964,0.837,1.11,0.5651,1.02

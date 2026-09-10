@@ -1,0 +1,9 @@
+round,condition,n_ads,impressions,reach,link_clicks,ctr_mean,frequency
+1,Neutral,3,54531,48651,272,0.005,1.12
+1,Empathy,3,52034,47371,273,0.0052,1.1
+1,Social Norm,3,52388,46981,275,0.0052,1.12
+1,Narrative,3,53793,48616,319,0.0059,1.11
+2,Neutral,3,53203,50601,174,0.0033,1.05
+2,Empathy,3,57557,53451,199,0.0035,1.08
+2,Social Norm,3,55540,50221,184,0.0033,1.11
+2,Narrative,3,51794,49453,191,0.0037,1.05

@@ -1,0 +1,10 @@
+stratum,levels,min_cell,max_cell,coverage
+Functional genre,13,6,24,13 of 13 present
+Post format,3,47,54,3 of 3 present
+Organization,19,1,17,19 of 19 present
+Visual genre (zero-shot),8,3,49,8 of 8 present
+Frame-space tercile,3,40,62,all terciles populated on all three dimensions
+New content types (keyword),4,4,12,"commemoration 12, live/broadcast 7, recruitment 4, pure information 9"
+Comment-bearing posts (>= 3 scraped comments),NA,NA,NA,38
+High-discussion posts (>= 20 total comments),NA,NA,NA,12
+Codebook blind-spot posts,NA,NA,NA,33

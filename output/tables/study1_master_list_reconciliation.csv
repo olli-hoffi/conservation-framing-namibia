@@ -1,0 +1,6 @@
+"item","n","note"
+"Rows flagged Included_in_Final_Sampling_Frame = 1",24,"raw column, known to be unreliable"
+"minus duplicate URL",1,"Desert Research Foundation carries Desert Lion Conservation Trust's link"
+"Distinct Instagram accounts among them",23,"23 accounts behind 24 rows"
+"minus accounts that published nothing in the window",4,"EduVentures, IRDNC, Peace Parks, TH!NK Namibia. A fifth handle also fails to match, NACSO, whose cell holds a post URL instead of a profile URL; that account IS in the corpus as nacso_namibia1, so it is a broken link and not a missing organization."
+"Organizations in the collected corpus",19,"24 - 1 duplicate - 4 silent = 19, the number reported throughout Chapter 3"

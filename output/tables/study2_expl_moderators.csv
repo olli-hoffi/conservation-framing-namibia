@@ -1,0 +1,4 @@
+hypothesis,moderator,subset,n,rho,ci_low,ci_high,p,note,status
+H2a,female,Empathy,2,NA,NA,NA,NA,not estimable (n < 3 or zero variance),EXPLORATORY (prereg N>=20 gate not met)
+H6.1,env_concern,pooled motivational,12,0.254,-0.465,0.748,0.4258,,EXPLORATORY (prereg N>=20 gate not met)
+H6.2,bio_water,pooled motivational,12,0.387,-0.179,0.777,0.2139,,EXPLORATORY (prereg N>=20 gate not met)

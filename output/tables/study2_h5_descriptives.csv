@@ -1,0 +1,3 @@
+condition,cells,n_sessions,median_weighted_s,q1_weighted_s,q3_weighted_s,median_cell_s
+Neutral,5,8,52.8,31.3,69.1,36.6
+Narrative,6,16,22.2,20.2,79.4,22.2

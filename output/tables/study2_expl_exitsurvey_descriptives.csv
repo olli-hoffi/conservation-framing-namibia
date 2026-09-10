@@ -1,0 +1,5 @@
+condition,n,n_female,age_median,emp_state_m,ident_m,env_conc_m,bio_water_m,collect_m
+Neutral,1,1,1,4,3,5,4,4
+Empathy,2,1,1,4.5,3,4.5,3,3
+Social Norm,4,1,1,4.75,4.25,4.5,5,5
+Narrative,6,0,2,5,4.17,4.5,4.83,4.83

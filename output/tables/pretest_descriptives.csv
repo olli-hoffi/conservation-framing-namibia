@@ -1,0 +1,21 @@
+condition,scale,n,mean,sd,md,ci_lo,ci_hi
+Neutral,EMP,24,2.78,1.03,3,2.38,3.19
+Neutral,NORM,24,2.67,0.93,2.83,2.31,3.03
+Neutral,NAR,24,2.39,0.93,2.17,2.01,2.76
+Neutral,CTRL1,24,3.29,0.91,3,2.96,3.67
+Neutral,CTRL2,24,4.38,0.58,4,4.12,4.58
+Empathy,EMP,24,4.06,0.78,4.33,3.75,4.36
+Empathy,NORM,24,2.25,0.91,2,1.9,2.61
+Empathy,NAR,24,3.04,0.96,2.67,2.67,3.42
+Empathy,CTRL1,24,3.29,1.04,3,2.88,3.71
+Empathy,CTRL2,24,4.29,0.91,4,3.92,4.62
+Social Norm,EMP,24,3.15,1.08,3.17,2.74,3.57
+Social Norm,NORM,24,4.44,0.51,4.5,4.25,4.64
+Social Norm,NAR,24,2.72,0.91,3,2.36,3.07
+Social Norm,CTRL1,24,4.08,0.78,4,3.79,4.38
+Social Norm,CTRL2,24,4.42,0.72,4.5,4.12,4.67
+Narrative,EMP,24,3.56,1.07,3.67,3.12,3.94
+Narrative,NORM,24,2.9,1.01,3.33,2.5,3.29
+Narrative,NAR,24,4.62,0.46,4.83,4.43,4.81
+Narrative,CTRL1,24,3.79,0.93,4,3.42,4.17
+Narrative,CTRL2,24,4.67,0.48,5,4.46,4.83

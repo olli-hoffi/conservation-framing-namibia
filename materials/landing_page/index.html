@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html class="dark" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, viewport-fit=cover" name="viewport"/>
+<title>Namibia Water Crisis</title>
+<!-- Tailwind, self-hosted (no third-party request on load) -->
+<script src="vendor/tailwind.js"></script>
+<!-- Fonts, self-hosted locally (no Google Fonts request; GDPR-friendly) -->
+<link rel="stylesheet" href="fonts/fonts.css"/>
+
+<!-- Google Analytics 4 is injected by main.js ONLY after the user grants analytics
+     consent. Set the real Measurement ID in main.js (GA4_ID). Nothing loads before consent. -->
+
+<script id="tailwind-config">
+    tailwind.config = {
+        darkMode: "class",
+        theme: {
+            extend: {
+                "colors": {
+                    "error": "#ffb4ab",
+                    "surface-variant": "#353534",
+                    "on-surface-variant": "#d6c3af",
+                    "on-surface": "#e5e2e1",
+                    "surface-dim": "#131313",
+                    "surface-container-lowest": "#0e0e0e",
+                    "surface-container-highest": "#353534",
+                    "tertiary-fixed": "#e8e2d9",
+                    "on-tertiary": "#33302a",
+                    "surface-container-high": "#2a2a2a",
+                    "on-error": "#690005",
+                    "primary-fixed": "#ffddb5",
+                    "surface": "#131313",
+                    "primary": "#ffca85",
+                    "surface-bright": "#393939",
+                    "surface-container": "#201f1f",
+                    "on-primary": "#452b00",
+                    "secondary": "#ffb597",
+                    "on-secondary": "#581d00",
+                    "outline": "#9e8e7c",
+                    "on-secondary-fixed": "#360f00",
+                    "on-primary-fixed-variant": "#633f00",
+                    "inverse-on-surface": "#313030",
+                    "on-secondary-fixed-variant": "#77320e",
+                    "on-primary-fixed": "#2a1800",
+                    "outline-variant": "#514535",
+                    "inverse-primary": "#835400",
+                    "on-tertiary-container": "#4b4842",
+                    "secondary-container": "#7a3410",
+                    "secondary-fixed": "#ffdbcd",
+                    "on-tertiary-fixed-variant": "#494640",
+                    "on-background": "#e5e2e1",
+                    "on-primary-container": "#664000",
+                    "background": "#131313",
+                    "error-container": "#93000a",
+                    "secondary-fixed-dim": "#ffb597",
+                    "tertiary-fixed-dim": "#cbc6bd",
+                    "tertiary": "#d8d2ca",
+                    "on-tertiary-fixed": "#1d1b16",
+                    "tertiary-container": "#bcb7af",
+                    "primary-container": "#f2a93b",
+                    "inverse-surface": "#e5e2e1",
+                    "on-secondary-container": "#ffa178",
+                    "surface-tint": "#ffb956",
+                    "surface-container-low": "#1c1b1b",
+                    "on-error-container": "#ffdad6",
+                    "primary-fixed-dim": "#ffb956"
+                },
+                "borderRadius": {
+                    "DEFAULT": "0.125rem",
+                    "lg": "0.25rem",
+                    "xl": "0.5rem",
+                    "full": "9999px",
+                    "card": "24px"
+                },
+                "fontFamily": {
+                    "body-md": ["Karla"],
+                    "label-caps": ["Karla"],
+                    "display-lg-mobile": ["EB Garamond"],
+                    "headline-sm": ["EB Garamond"],
+                    "headline-md": ["EB Garamond"],
+                    "body-lg": ["Karla"],
+                    "display-lg": ["EB Garamond"]
+                },
+                "fontSize": {
+                    "body-md": ["16px", {"lineHeight": "1.6", "fontWeight": "400"}],
+                    "label-caps": ["12px", {"lineHeight": "1", "letterSpacing": "0.1em", "fontWeight": "700"}],
+                    "display-lg-mobile": ["40px", {"lineHeight": "1.2", "fontWeight": "500"}],
+                    "headline-sm": ["24px", {"lineHeight": "1.4", "fontWeight": "500"}],
+                    "headline-md": ["32px", {"lineHeight": "1.3", "fontWeight": "400"}],
+                    "body-lg": ["18px", {"lineHeight": "1.6", "fontWeight": "400"}],
+                    "display-lg": ["64px", {"lineHeight": "1.1", "letterSpacing": "-0.02em", "fontWeight": "500"}]
+                }
+            }
+        }
+    }
+</script>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body class="bg-background text-on-background font-body-md selection:bg-primary/30">
+
+<!-- ── Scroll Progress Bar (top of viewport) ──────────────── -->
+<div id="scroll-progress-bar" aria-hidden="true"></div>
+
+<!-- ── Cookie Consent (GDPR / TDDDG) ──────────────────────── -->
+<div id="cookie-banner" role="dialog" aria-modal="false" aria-labelledby="cookie-title" aria-describedby="cookie-desc">
+    <div class="cookie-inner">
+        <div>
+            <p id="cookie-title" class="text-primary text-[15px] font-bold mb-1.5">Your privacy</p>
+            <p id="cookie-desc" class="text-on-surface/80 text-[13px] leading-relaxed">
+                We store one strictly necessary item to remember this choice. With your consent we also use Google Analytics to measure anonymous usage for this academic research project. Nothing analytics-related loads until you choose.
+                <a href="privacy.html" class="text-primary underline hover:no-underline">Privacy Policy</a>
+            </p>
+        </div>
+
+        <!-- Customize panel (hidden until "Customize") -->
+        <div id="cookie-options" hidden>
+            <label class="cookie-row">
+                <span class="cookie-row-text">
+                    <span class="cookie-row-title">Strictly necessary</span>
+                    <span class="cookie-row-sub">Always active. Stores only your consent choice.</span>
+                </span>
+                <input type="checkbox" checked disabled aria-label="Strictly necessary (always active)">
+            </label>
+            <label class="cookie-row">
+                <span class="cookie-row-text">
+                    <span class="cookie-row-title">Analytics (Google Analytics 4)</span>
+                    <span class="cookie-row-sub">Anonymous usage statistics for the research project.</span>
+                </span>
+                <input type="checkbox" id="consent-analytics" aria-label="Analytics (Google Analytics 4)">
+            </label>
+        </div>
+
+        <div class="cookie-actions">
+            <button id="cookie-reject" class="glass-button px-4 py-2 font-label-caps text-[10px] tracking-widest text-primary">Reject all</button>
+            <button id="cookie-customize" class="glass-button px-4 py-2 font-label-caps text-[10px] tracking-widest text-primary">Customize</button>
+            <button id="cookie-save" class="glass-button px-4 py-2 font-label-caps text-[10px] tracking-widest text-primary" hidden>Save choices</button>
+            <button id="cookie-accept" class="gold-pill px-5 py-2 font-label-caps text-[10px] tracking-widest">Accept all</button>
+        </div>
+    </div>
+</div>
+
+<!-- ── Loading Screen ─────────────────────────────────────── -->
+<div id="scrolly-loader" role="status" aria-label="Loading experience">
+    <div class="loader-inner">
+        <span id="scrolly-loader-text">Loading</span>
+        <div id="scrolly-loader-bar-track">
+            <div id="scrolly-loader-bar"></div>
+        </div>
+    </div>
+</div>
+
+<!-- ── Minimal Nav ─────────────────────────────────────────── -->
+<nav class="fixed top-4 left-1/2 -translate-x-1/2 z-50 glass-card !rounded-full py-2 px-4 md:px-6 w-auto max-w-[92vw]">
+    <div class="flex items-center gap-4 md:gap-8">
+        <span class="font-headline-sm text-sm md:text-base text-primary font-bold tracking-tight whitespace-nowrap">Namibia Water Crisis</span>
+        <button id="nav-survey-btn" class="gold-pill px-4 md:px-5 py-2.5 font-label-caps text-[11px] md:text-[12px] tracking-widest whitespace-nowrap">
+            Take Survey
+        </button>
+    </div>
+</nav>
+
+<!-- ── Scrollytelling ──────────────────────────────────────── -->
+<section class="scrolly-container" id="scrolly-section">
+    <div class="sticky-element">
+
+        <video id="scrolly-video"
+               class="absolute inset-0 w-full h-full object-cover"
+               src="video/waterfall-fading-final.mp4"
+               muted playsinline preload="auto"
+               aria-hidden="true"></video>
+
+        <!-- Gradient overlay: darker at edges, lighter center for card legibility -->
+        <div id="scrolly-overlay" aria-hidden="true"></div>
+
+        <div class="absolute inset-0 z-10 w-full h-full pointer-events-none">
+            <div class="relative w-full h-full mx-auto px-4 md:px-16">
+
+                <!-- Card 0: Title — centered, fades on first scroll -->
+                <div id="scrolly-card-0"
+                     class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[min(500px,90vw)] text-center"
+                     style="opacity:1; pointer-events:auto;">
+                    <div class="glass-card p-8 md:p-14">
+                        <span class="font-label-caps text-[11px] md:text-[13px] text-primary/80 mb-4 block tracking-[0.3em] uppercase">A National Emergency</span>
+                        <h1 class="font-display-lg text-[42px] md:text-[68px] mb-5 leading-[1.08] text-primary">Namibia Declared a Water Emergency</h1>
+                        <p class="text-on-surface/80 text-[15px] md:text-[18px] leading-relaxed max-w-[420px] mx-auto">
+                            In May 2024, Von Bach Dam, the capital's primary reservoir, fell to just 11% capacity. The government declared a national state of emergency.
+                        </p>
+                        <div class="mt-7 flex justify-center">
+                            <span class="scroll-hint font-label-caps text-[11px] md:text-[12px] text-primary/60 tracking-widest flex items-center gap-1.5">
+                                <svg class="hf-bounce" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+                                SCROLL TO EXPLORE
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 1: Geography — mobile: vertically centered; desktop: upper-left -->
+                <div id="scrolly-card-1"
+                     class="absolute top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2 md:top-[10%] md:translate-y-0 md:left-0 md:translate-x-0 w-[min(400px,90vw)]"
+                     style="opacity:0; pointer-events:none;">
+                    <div class="glass-card p-6 md:p-9">
+                        <span class="font-label-caps text-[10px] md:text-[11px] text-primary/80 mb-2.5 block tracking-widest uppercase">The Geography</span>
+                        <h2 class="font-headline-md text-[22px] md:text-[28px] mb-4 text-primary leading-snug">Why is Namibia<br>so dry?</h2>
+                        <div class="space-y-3.5 text-on-surface/85">
+                            <p class="text-[14px] md:text-[16px] leading-relaxed">
+                                The cold <strong class="text-primary font-semibold">Benguela Current</strong> chills the coastal air, suppressing rainfall. Namibia receives only about <strong class="text-primary font-semibold">285 mm of rain a year</strong>, the driest country south of the Sahara.
+                            </p>
+                            <p class="text-[14px] md:text-[16px] leading-relaxed">
+                                Of all the rain that falls, only about <strong class="text-primary font-semibold">2% becomes river runoff.</strong> Roughly 83% evaporates straight back into the air.
+                            </p>
+                        </div>
+                        <div class="mt-4 pt-4 border-t border-primary/10">
+                            <span class="font-label-caps text-[10px] text-primary/60 tracking-widest">SOURCE: </span>
+                            <a href="https://atlasofnamibia.online/chapter-3/why-is-namibia-so-dry" target="_blank" rel="noopener" class="font-label-caps text-[10px] text-primary/55 hover:text-primary tracking-widest underline decoration-primary/20 underline-offset-2">Atlas of Namibia</a>
+                            <span class="font-label-caps text-[10px] text-primary/60 tracking-widest"> · </span>
+                            <a href="https://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Namibia" target="_blank" rel="noopener" class="font-label-caps text-[10px] text-primary/55 hover:text-primary tracking-widest underline decoration-primary/20 underline-offset-2">British Geological Survey</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 2: The Crisis — mobile: vertically centered; desktop: right side -->
+                <div id="scrolly-card-2"
+                     class="absolute top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2 md:top-[28%] md:translate-y-0 md:left-auto md:right-0 md:translate-x-0 w-[min(420px,90vw)]"
+                     style="opacity:0; pointer-events:none;">
+                    <div class="glass-card p-6 md:p-9">
+                        <span class="font-label-caps text-[10px] md:text-[11px] text-primary/80 mb-2.5 block tracking-widest uppercase">The Crisis · 2024</span>
+                        <h2 class="font-headline-md text-[22px] md:text-[28px] mb-4 text-primary leading-snug">A drought that reached<br><em>every</em> region</h2>
+                        <div class="space-y-3.5 text-on-surface/85">
+                            <p class="text-[14px] md:text-[16px] leading-relaxed">
+                                Namibia's worst drought in a century struck all <strong class="text-primary font-semibold">14 regions at once</strong>, an unprecedented nationwide crisis. Around <strong class="text-primary font-semibold">1.2 million people</strong> (40% of those assessed) faced acute food insecurity.
+                            </p>
+                            <p class="text-[14px] md:text-[16px] leading-relaxed">
+                                To relieve pressure on dwindling pasture and water, the government authorised culling <strong class="text-primary font-semibold">723 wild animals</strong>, including 83 elephants. Water rationing was introduced in Windhoek.
+                            </p>
+                        </div>
+                        <div class="mt-4 pt-4 border-t border-primary/10">
+                            <span class="font-label-caps text-[10px] text-primary/60 tracking-widest">SOURCE: </span>
+                            <a href="https://reliefweb.int/report/namibia/namibia-acute-food-insecurity-analysis-april-september-2024-published-8-july-2024" target="_blank" rel="noopener" class="font-label-caps text-[10px] text-primary/55 hover:text-primary tracking-widest underline decoration-primary/20 underline-offset-2">IPC (2024)</a>
+                            <span class="font-label-caps text-[10px] text-primary/60 tracking-widest"> · </span>
+                            <a href="https://www.meft.gov.na/files/files/Culling%20of%20Wild-animals%20as%20a%20Result%20of%20Drought.pdf" target="_blank" rel="noopener" class="font-label-caps text-[10px] text-primary/55 hover:text-primary tracking-widest underline decoration-primary/20 underline-offset-2">Namibia MEFT</a>
+                            <span class="font-label-caps text-[10px] text-primary/60 tracking-widest"> · </span>
+                            <a href="https://reliefweb.int/disaster/dr-2024-000094-nam" target="_blank" rel="noopener" class="font-label-caps text-[10px] text-primary/55 hover:text-primary tracking-widest underline decoration-primary/20 underline-offset-2">UN OCHA</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 3: Your Role, centered -->
+                <div id="scrolly-card-3"
+                     class="absolute top-[48%] -translate-y-1/2 left-1/2 -translate-x-1/2 w-[min(480px,92vw)]"
+                     style="opacity:0; pointer-events:none;">
+                    <div class="glass-card p-6 md:p-9">
+                        <span class="font-label-caps text-[10px] md:text-[11px] text-primary/80 mb-2.5 block tracking-widest uppercase text-center">Your Role</span>
+                        <h2 class="font-headline-md text-[22px] md:text-[28px] mb-1.5 text-primary text-center leading-snug">What can you do?</h2>
+                        <p class="text-[13px] md:text-[14px] text-on-surface/60 mb-5 text-center leading-relaxed">Small actions create measurable impact:</p>
+
+                        <ul class="mb-5 divide-y divide-primary/8">
+                            <li class="flex items-center justify-between gap-3 py-3">
+                                <span class="text-[14px] md:text-[15px] text-on-surface/85 leading-snug">Turn off the tap while brushing teeth</span>
+                                <a href="https://energysavingtrust.org.uk/advice/saving-water-at-home/"
+                                   target="_blank" rel="noopener"
+                                   class="stat-chip shrink-0">saves ~12 L</a>
+                            </li>
+                            <li class="flex items-center justify-between gap-3 py-3">
+                                <span class="text-[14px] md:text-[15px] text-on-surface/85 leading-snug">Fix a dripping tap at home</span>
+                                <a href="https://waterwise.org.uk/how-to-save-water/"
+                                   target="_blank" rel="noopener"
+                                   class="stat-chip shrink-0">20 L/day</a>
+                            </li>
+                            <li class="flex items-center justify-between gap-3 py-3">
+                                <span class="text-[14px] md:text-[15px] text-on-surface/85 leading-snug">Take a 2-minute shorter shower</span>
+                                <a href="https://energysavingtrust.org.uk/advice/saving-water-at-home/"
+                                   target="_blank" rel="noopener"
+                                   class="stat-chip shrink-0">saves 18 L</a>
+                            </li>
+                            <li class="flex items-center justify-between gap-3 py-3">
+                                <span class="text-[14px] md:text-[15px] text-on-surface/85 leading-snug">Run appliances only when full</span>
+                                <a href="https://energysavingtrust.org.uk/advice/saving-water-at-home/"
+                                   target="_blank" rel="noopener"
+                                   class="stat-chip shrink-0">~12 L/wash</a>
+                            </li>
+                            <li class="flex items-center justify-between gap-3 py-3">
+                                <span class="text-[14px] md:text-[15px] text-on-surface/85 leading-snug">Fix a leaking toilet</span>
+                                <a href="https://waterwise.org.uk/how-to-save-water/"
+                                   target="_blank" rel="noopener"
+                                   class="stat-chip shrink-0">200 L/day</a>
+                            </li>
+                        </ul>
+
+                        <a href="https://www.namwater.com.na/contact/"
+                           target="_blank" rel="noopener"
+                           class="namwater-btn">
+                            <span>Report a public leak</span>
+                            <span class="namwater-badge">NamWater ↗</span>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Card 4: Final CTA, survey-dominant -->
+                <div id="scrolly-card-4"
+                     class="absolute bottom-5 md:bottom-8 left-1/2 -translate-x-1/2 w-[min(560px,94vw)]"
+                     style="opacity:0; pointer-events:none;">
+                    <div class="glass-card card-survey p-6 md:p-9">
+                        <span class="font-label-caps text-[10px] md:text-[11px] text-primary mb-3 block tracking-widest uppercase">Contribute</span>
+                        <h3 class="font-headline-md text-primary text-[22px] md:text-[28px] mb-2 leading-snug">Take the 90-second survey</h3>
+                        <p class="text-on-surface/85 text-[14px] md:text-[16px] mb-6 leading-relaxed max-w-[460px]">
+                            Your perspective shapes conservation research at Goethe University Frankfurt. Anonymous, no sign-up, about 90 seconds.
+                        </p>
+                        <button id="survey-cta-btn"
+                                class="gold-pill w-full md:w-auto px-8 py-3.5 flex items-center justify-center gap-2 font-label-caps text-[12px] md:text-[13px] tracking-widest">
+                            START THE SURVEY
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                        </button>
+                        <div class="mt-6 pt-5 border-t border-primary/10">
+                            <span class="font-label-caps text-[9px] md:text-[10px] text-primary/60 mb-2.5 block tracking-widest uppercase">Go deeper</span>
+                            <div class="flex flex-wrap gap-x-5 gap-y-2.5">
+                                <a href="https://nacso.org.na" target="_blank" rel="noopener"
+                                   class="flex items-center gap-1.5 font-label-caps text-[10px] tracking-widest text-on-surface-variant hover:text-primary transition-colors">
+                                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
+                                    NACSO conservancies
+                                </a>
+                                <a href="https://www.namwater.com.na" target="_blank" rel="noopener"
+                                   class="flex items-center gap-1.5 font-label-caps text-[10px] tracking-widest text-on-surface-variant hover:text-primary transition-colors">
+                                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
+                                    NamWater dam status
+                                </a>
+                                <a href="https://reliefweb.int/disaster/dr-2024-000094-nam" target="_blank" rel="noopener"
+                                   class="flex items-center gap-1.5 font-label-caps text-[10px] tracking-widest text-on-surface-variant hover:text-primary transition-colors">
+                                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
+                                    UN OCHA 2024 drought
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ── Share Toast ─────────────────────────────────────────── -->
+<div id="share-toast" role="status" aria-live="polite"></div>
+
+<!-- ── Footer ─────────────────────────────────────────────── -->
+<footer class="bg-surface-container-lowest border-t border-outline-variant/10 w-full py-12 md:py-16">
+    <div class="flex flex-col items-center mx-auto px-6 text-center">
+        <span class="font-headline-sm text-xl md:text-2xl text-primary font-bold mb-3">Namibia Water Crisis Initiative</span>
+        <p class="text-on-surface-variant max-w-sm mb-8 leading-relaxed text-sm">
+            An academic research project on conservation communication.<br>Goethe University Frankfurt, 2026.
+        </p>
+        <div class="flex flex-wrap justify-center gap-x-8 gap-y-3 mb-8">
+            <a class="font-label-caps text-xs text-on-surface-variant hover:text-primary transition-colors tracking-widest" href="privacy.html">PRIVACY POLICY</a>
+            <button id="cookie-reopen" type="button" class="font-label-caps text-xs text-on-surface-variant hover:text-primary transition-colors tracking-widest bg-transparent border-0 p-0 cursor-pointer">COOKIE SETTINGS</button>
+            <a class="font-label-caps text-xs text-on-surface-variant hover:text-primary transition-colors tracking-widest" href="mailto:s6168767@stud.uni-frankfurt.de">CONTACT</a>
+        </div>
+        <div class="glass-card !rounded-full px-6 py-3 inline-block">
+            <p class="font-label-caps text-[9px] text-on-surface-variant/60 tracking-widest">
+                © 2026 UNIVERSITY RESEARCH INITIATIVE • GOETHE UNIVERSITY FRANKFURT
+            </p>
+        </div>
+    </div>
+</footer>
+
+<script src="main.js"></script>
+
+</body>
+</html>

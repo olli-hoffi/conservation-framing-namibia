@@ -1,0 +1,383 @@
+/* ─────────────────────────────────────────────────────────
+   Namibia Water Crisis — Landing Page Styles
+   ───────────────────────────────────────────────────────── */
+
+/* ── Inline icons (SVG) ───────────────────────────────── */
+svg { vertical-align: middle; }
+.hf-bounce { animation: bounce-arrow 1.8s ease-in-out infinite; }
+
+/* ── Scroll Progress Bar ──────────────────────────────── */
+#scroll-progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 2px;
+    width: 0%;
+    background: linear-gradient(90deg, #ffb956, #ffca85, #ffb597);
+    z-index: 9000;
+    transition: width 0.1s linear;
+    pointer-events: none;
+}
+
+/* ── Cookie Consent ───────────────────────────────────── */
+#cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 8000;
+    background: rgba(14, 14, 14, 0.97);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-top: 1px solid rgba(255, 202, 133, 0.18);
+    transform: translateY(110%);
+    transition: transform 0.4s ease;
+}
+
+#cookie-banner.visible {
+    transform: translateY(0);
+}
+
+.cookie-inner {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 18px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+#cookie-options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    border-top: 1px solid rgba(255, 202, 133, 0.12);
+    border-bottom: 1px solid rgba(255, 202, 133, 0.12);
+    padding: 12px 0;
+}
+
+.cookie-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 16px;
+    cursor: pointer;
+}
+
+.cookie-row-text { display: flex; flex-direction: column; gap: 2px; }
+
+.cookie-row-title {
+    font-family: 'Karla', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: #e5e2e1;
+}
+
+.cookie-row-sub {
+    font-family: 'Karla', sans-serif;
+    font-size: 12px;
+    color: rgba(229, 226, 225, 0.65);
+}
+
+.cookie-row input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: #ffca85;
+    margin-top: 2px;
+    flex-shrink: 0;
+}
+
+.cookie-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: flex-end;
+}
+
+@media (max-width: 600px) {
+    .cookie-actions { justify-content: stretch; }
+    .cookie-actions > button { flex: 1 1 auto; }
+}
+
+/* ── Scrollytelling container ─────────────────────────── */
+.scrolly-container {
+    height: 360vh;
+    position: relative;
+}
+
+@media (min-width: 768px) {
+    .scrolly-container {
+        height: 430vh;
+    }
+}
+
+.sticky-element {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+/* ── Glass components ─────────────────────────────────── */
+.glass-card {
+    background: rgba(14, 14, 14, 0.82);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 202, 133, 0.12);
+    border-radius: 20px;
+    box-shadow:
+        0 4px 32px rgba(0, 0, 0, 0.45),
+        inset 0 1px 0 rgba(255, 202, 133, 0.07);
+}
+
+/* Survey card gets subtle gold border accent */
+.card-survey {
+    border-color: rgba(255, 202, 133, 0.28);
+    box-shadow:
+        0 4px 32px rgba(0, 0, 0, 0.45),
+        inset 0 1px 0 rgba(255, 202, 133, 0.12),
+        0 0 0 1px rgba(255, 202, 133, 0.06);
+}
+
+.glass-button {
+    background: rgba(255, 202, 133, 0.08);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 202, 133, 0.25);
+    border-radius: 9999px;
+    transition: all 0.25s ease;
+    cursor: pointer;
+}
+
+.glass-button:hover {
+    background: rgba(255, 202, 133, 0.16);
+    border-color: rgba(255, 202, 133, 0.5);
+    transform: translateY(-1px);
+}
+
+.glass-button:active {
+    transform: translateY(0);
+}
+
+/* ── Gold pill button ─────────────────────────────────── */
+.gold-pill {
+    background-color: #ffca85;
+    color: #452b00;
+    border-radius: 9999px;
+    transition: all 0.25s ease;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.gold-pill:hover {
+    filter: brightness(1.08);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(255, 202, 133, 0.35);
+}
+
+.gold-pill:active {
+    transform: translateY(0);
+    filter: brightness(0.96);
+}
+
+/* ── Stat chip (source link on Card 3) ───────────────── */
+.stat-chip {
+    font-family: 'Karla', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #ffca85;
+    background: rgba(255, 202, 133, 0.1);
+    border: 1px solid rgba(255, 202, 133, 0.2);
+    padding: 4px 10px;
+    border-radius: 9999px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+}
+
+.stat-chip:hover {
+    background: rgba(255, 202, 133, 0.2);
+    border-color: rgba(255, 202, 133, 0.45);
+}
+
+/* ── Scrolly video ────────────────────────────────────── */
+#scrolly-video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* ── Overlay — gradient darkens edges, preserves center ─ */
+#scrolly-overlay {
+    position: absolute;
+    inset: 0;
+    background:
+        radial-gradient(ellipse at center, rgba(0,0,0,0.28) 0%, rgba(0,0,0,0.52) 100%);
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* ── Loading screen ───────────────────────────────────── */
+#scrolly-loader {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    background: #0e0e0e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.7s ease;
+}
+
+.loader-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+#scrolly-loader-text {
+    font-family: 'Karla', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.35em;
+    color: rgba(255, 202, 133, 0.6);
+    text-transform: uppercase;
+}
+
+#scrolly-loader-bar-track {
+    width: 160px;
+    height: 1px;
+    background: rgba(255, 202, 133, 0.12);
+    border-radius: 9999px;
+    overflow: hidden;
+}
+
+#scrolly-loader-bar {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, #ffb956, #ffca85);
+    border-radius: 9999px;
+    transition: width 0.2s ease;
+}
+
+/* ── Share toast ──────────────────────────────────────── */
+#share-toast {
+    position: fixed;
+    bottom: 60px;
+    left: 50%;
+    transform: translateX(-50%) translateY(12px);
+    background: rgba(19, 19, 19, 0.95);
+    border: 1px solid rgba(255, 202, 133, 0.25);
+    color: #ffca85;
+    font-family: 'Karla', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border-radius: 9999px;
+    z-index: 7000;
+    opacity: 0;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    pointer-events: none;
+    white-space: nowrap;
+    backdrop-filter: blur(12px);
+}
+
+#share-toast.visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+/* ── NamWater report button ───────────────────────────── */
+.namwater-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid rgba(255, 202, 133, 0.2);
+    border-radius: 9999px;
+    background: rgba(255, 202, 133, 0.06);
+    text-decoration: none;
+    transition: all 0.25s ease;
+    cursor: pointer;
+}
+
+.namwater-btn:hover {
+    background: rgba(255, 202, 133, 0.13);
+    border-color: rgba(255, 202, 133, 0.4);
+}
+
+.namwater-btn > span:first-child {
+    font-family: 'Karla', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(229, 226, 225, 0.8);
+}
+
+.namwater-badge {
+    font-family: 'Karla', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #ffca85;
+    background: rgba(255, 202, 133, 0.12);
+    border: 1px solid rgba(255, 202, 133, 0.25);
+    padding: 3px 10px;
+    border-radius: 9999px;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+/* ── Scroll hint arrow animation ──────────────────────── */
+@keyframes bounce-arrow {
+    0%, 100% { transform: translateY(0); opacity: 0.5; }
+    50%       { transform: translateY(4px); opacity: 1; }
+}
+
+/* ── Card fade transitions via JS opacity ─────────────── */
+#scrolly-card-0,
+#scrolly-card-1,
+#scrolly-card-2,
+#scrolly-card-3,
+#scrolly-card-4 {
+    transition: opacity 0.3s ease;
+}
+
+/* ── Accessibility ────────────────────────────────────── */
+/* Visible keyboard focus for all interactive elements */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+[tabindex]:focus-visible {
+    outline: 2px solid #ffca85;
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    .hf-bounce { animation: none !important; }
+    #scrolly-card-0,
+    #scrolly-card-1,
+    #scrolly-card-2,
+    #scrolly-card-3,
+    #scrolly-card-4 { transition: none !important; }
+    .glass-button, .gold-pill, .namwater-btn, .stat-chip { transition: none !important; }
+    html { scroll-behavior: auto !important; }
+    *, *::before, *::after {
+        animation-duration: 0.001ms !important;
+        animation-iteration-count: 1 !important;
+    }
+}

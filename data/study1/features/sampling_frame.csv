@@ -1,0 +1,918 @@
+Post_ID,Actor_Name,Post_Format,BERTopic,functional_genre,blindspot,comment_avail,n_comments_scraped,eng_rate,pca1,pca2,pca3,pca1_bin,pca2_bin,pca3_bin,commemoration_day,live_series,hiring,pure_info
+DWbxil5DMTW,WWF Namibia,Video,20,commemoration_awareness,False,False,0,0.002801,-3.7264380952356664,3.9546794124289937,4.026542768704303,lo,hi,hi,False,False,False,False
+DXbu79iDCnX,WWF Namibia,Image,20,commemoration_awareness,False,False,0,0.004357,-1.1554986212622225,1.7232531262958635,0.07183969755302698,lo,hi,mid,True,False,False,False
+DWjdIZtjHgI,WWF Namibia,Carousel,-1,outlier_atypical,False,False,1,0.023965,-0.12299296712236407,-0.2825818732147056,-1.2672521581888723,mid,mid,lo,False,False,False,False
+DWbAAoijFTa,WWF Namibia,Image,20,commemoration_awareness,False,False,0,0.004046,-3.7264380952356664,3.9546794124289937,4.026542768704303,lo,hi,hi,True,False,False,False
+DWW4P-5CLtE,Ministry of Environment Forestry & Tourism,Video,6,policy_governance,False,False,0,0.011523,-1.1193530042879007,-0.30217838708089606,0.4510373310645676,lo,mid,hi,False,False,False,False
+DWUhj7VjtYE,Ministry of Environment Forestry & Tourism,Video,6,policy_governance,True,False,1,0.01602,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,False,False,False
+DRUGF9ajCli,Youth4CAN,Carousel,-1,outlier_atypical,False,False,0,0.009162,-2.7241445601345067,4.338332365467566,0.5611126170850682,lo,hi,hi,False,False,False,False
+DXceVTokb5e,Giraffe Conservation Foundation,Image,20,commemoration_awareness,False,True,3,0.008453,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,True,False,False,False
+DUxWaDAiHXN,NACSO,Image,-1,outlier_atypical,False,False,0,0.030445,-0.9689778285407518,1.3430678901843447,-0.3408525828964261,lo,hi,lo,True,False,False,False
+DXbU3-0DCwx,Youth4CAN,Image,-1,outlier_atypical,False,False,0,0.011126,-3.1418139724277396,1.6291333539343311,4.55604945898059,lo,hi,hi,True,False,False,False
+DXuf7d6EZeD,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,False,2,0.005778,-0.6934707932782062,0.5575365944493067,-1.2386055183950537,lo,hi,lo,False,False,False,False
+DVAe29YCKEl,NACSO,Image,13,research_dispatch,False,False,1,0.098361,-0.12696127047962025,3.112769473099742,0.4735411087401808,mid,hi,hi,True,False,False,False
+DXhn93Tjbxw,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,9,0.016584,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXgfcC4CBh-,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.004216,-0.26062929682930497,-0.7732224623743671,-0.6491469667167866,mid,mid,lo,False,False,False,False
+DUx-o2qCL2l,NACSO,Image,10,coexistence_community_livelihoods,False,False,0,0.035129,-0.5937111045798322,1.1420204304617037,-0.9090984016126795,mid,hi,lo,True,False,False,False
+DXmxhmVDVZm,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,1,0.002482,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DVGf_p2iJ72,NACSO,Carousel,6,policy_governance,False,False,0,0.021077,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DXqj3iSiA-v,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.014053,-0.6981530213536047,-1.2483699148045293,1.7363067082069512,lo,lo,hi,False,False,False,False
+DXivehMRBFx,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,False,1,0.006854,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVvS2FYjO4c,WWF Namibia,Carousel,6,policy_governance,False,False,0,0.005913,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,False
+DXhEfFxiKkR,Ministry of Environment Forestry & Tourism,Carousel,6,policy_governance,False,False,0,0.003092,-0.3114791597267433,-0.06717242957284986,0.13379261658103755,mid,mid,mid,False,False,False,False
+DU2f6MXjhAG,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.003544,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DUh5k2lAUk4,Save the Rhino Trust Namibia,Carousel,5,species_spotlight_facts,False,False,0,0.004672,0.7698734538362058,0.7810696768991756,-1.2357980498500898,hi,hi,lo,False,False,False,False
+DVIyH5WjD2M,WWF Namibia,Video,11,org_update_identity,False,False,0,0.006536,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,True,False,True
+DXtx6MkCJiI,Ministry of Environment Forestry & Tourism,Image,24,policy_governance,True,False,0,0.00534,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,False,False,False
+DVYvpYOjOdh,WWF Namibia,Image,11,org_update_identity,False,False,0,0.003112,-1.8844547150106385,0.8765566936501313,-0.13599456239198435,lo,hi,mid,False,False,False,False
+DV8qrmUDGoW,Save the Rhino Trust Namibia,Carousel,-1,outlier_atypical,False,False,0,0.001531,-0.2525262049838802,-0.7316538393298634,0.3792238469830369,mid,mid,hi,False,False,False,False
+DVa3opXjgA4,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.004914,0.7398655288244003,2.683294020850775,0.4017276246586501,hi,hi,hi,True,False,False,False
+DVF8oQhjpcp,Save the Rhino Trust Namibia,Carousel,5,species_spotlight_facts,False,False,1,0.009505,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DUP4CreEVt1,Save the Rhino Trust Namibia,Video,5,species_spotlight_facts,False,False,0,0.002497,1.0222012037543913,-0.17356891351157305,1.1911379197862408,hi,mid,hi,False,False,False,False
+DWny2u3DoHP,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.004753,0.30092384400442185,0.41235731584583385,-1.968542513328037,mid,mid,lo,False,False,False,False
+DWBK6wwjrgc,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.003625,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DVskknKErzC,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.002256,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DXJwT-bjkEW,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,False,False,0,0.044964,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DWQnsyXjpjb,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,True,False,0,0.004269,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWws0QXjeph,Giraffe Conservation Foundation,Image,23,education_youth,False,False,1,0.001049,-1.0034266798238984,0.3666853156646388,0.48872464567723195,lo,mid,hi,False,False,False,False
+DVX-MaIDs-A,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,True,False,0,0.003222,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DU8LQZCDHZD,WWF Namibia,Carousel,11,org_update_identity,False,False,0,0.012138,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DWgEfuPDuiu,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.003061,-0.12299296712236407,-0.2825818732147056,-1.2672521581888723,mid,mid,lo,False,False,False,False
+DW4bUExGWiB,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,1,0.002375,0.7398655288244003,2.683294020850775,0.4017276246586501,hi,hi,hi,False,False,False,False
+DXMoBOzDnXM,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,False,False,2,0.03777,1.2018933568084165,1.517577489004219,-0.9087175912894303,hi,hi,lo,False,False,False,False
+DXWs260ldFZ,Gobabeb Research & Training Centre,Carousel,27,research_dispatch,False,False,0,0.057554,-0.9308668116835213,-0.5175878307227515,-0.9500074437053421,lo,mid,lo,False,False,False,False
+DWrjZFUDvNu,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,6,0.009929,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWmZr1-Ewni,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,False,True,3,0.00734,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DTfkmjZiIqB,NACSO,Image,22,org_update_identity,False,False,0,0.037471,-1.8265668202988072,-0.8042470217239694,-1.1681843365502786,lo,lo,lo,False,False,True,False
+DTxc-x1iMoN,NACSO,Carousel,6,policy_governance,False,False,0,-0.002342,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,True
+DW4hFLgDm7x,Ministry of Environment Forestry & Tourism,Carousel,30,policy_governance,False,False,0,0.016301,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DRe7J7VjG1W,NACSO,Carousel,22,org_update_identity,False,False,0,0.030445,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,True
+DRb4AbSDIld,NACSO,Carousel,22,org_update_identity,False,False,0,0.044496,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DXHaZrliNMl,Ministry of Environment Forestry & Tourism,Image,6,policy_governance,False,False,0,0.006183,-0.7037736608552029,2.118004652989501,-1.617081285219964,lo,hi,lo,False,False,False,False
+DXCNPQDCMkN,Ministry of Environment Forestry & Tourism,Image,29,policy_governance,False,False,0,0.00534,-1.8925578068560636,0.8349880706056275,-1.164365376091808,lo,hi,lo,False,False,False,False
+DXMfT__iL4g,Ministry of Environment Forestry & Tourism,Carousel,24,policy_governance,True,False,0,0.031478,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXHih5GiFjt,Ministry of Environment Forestry & Tourism,Image,29,policy_governance,True,False,0,0.009837,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXCM5WvCK1G,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.009556,-0.598627708503894,1.1029263952622284,1.7273563775437817,mid,hi,hi,False,False,False,False
+DSJ-pEaCZpG,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,True,3,0.006042,-0.5937111045798322,1.1420204304617037,-0.9090984016126795,mid,hi,lo,False,False,False,False
+DXOusaviOJN,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.007589,0.6322371241292649,0.2904290877395143,-0.617692858378004,hi,mid,lo,False,False,False,False
+DSRtCbRj9Wv,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,2,0.003303,0.4174769340216728,0.779524003072882,0.34162687652604884,hi,hi,mid,False,False,False,False
+DSJ-qKtlVzK,Save the Rhino Trust Namibia,Video,5,species_spotlight_facts,False,False,0,0.004108,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,False
+DXcTP6pCFgr,Ministry of Environment Forestry & Tourism,Video,33,coexistence_community_livelihoods,False,False,0,0.005902,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,True,False,False,False
+DSetnWpEdUz,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.000886,-2.0304285124116674,2.111159955500327,-0.884717632065266,lo,hi,lo,False,False,False,False
+DXLzm_7CPil,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,1,0.007589,-1.7340795392634896,2.5218029709153718,-0.927884476352978,lo,hi,lo,False,False,False,False
+DXb9mmtiBmy,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.003373,-0.8900600777280103,0.7313774150466587,-0.8659315573249674,lo,hi,lo,False,False,False,False
+DXPSz7wCFzY,Ministry of Environment Forestry & Tourism,Video,-1,outlier_atypical,False,False,0,0.003654,-1.406501553065051,0.867920437754182,2.044601092027312,lo,hi,hi,False,False,False,False
+DRPdL0MjNdg,Desert Lion Conservation Trust,Carousel,7,education_youth,False,True,5,0.065709,-1.5649798206576253,-0.8188944625555621,1.808120192288482,lo,lo,hi,False,False,False,False
+DXfEn4XjoXB,Desert Lion Conservation Trust,Image,21,wildlife_series_broadcast,False,False,0,0.026771,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,False,False,False
+DWI5Bgrijl6,Namibia Youth Chamber of Environment,Image,20,commemoration_awareness,False,False,0,0.006143,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,True,False,False,False
+DQrx5BLD64o,Save the Rhino Trust Namibia,Image,11,org_update_identity,False,False,0,0.002336,-0.6934707932782062,0.5575365944493067,-1.2386055183950537,lo,hi,lo,False,False,False,False
+DWoX4BUCpCZ,Namibia Youth Chamber of Environment,Carousel,-1,outlier_atypical,False,False,0,0.0086,1.210818042130532,-0.5081207568799943,0.3820313155280009,hi,mid,hi,False,False,False,False
+DWlbimAChbY,Namibia Youth Chamber of Environment,Image,16,education_youth,False,False,0,0.0086,-2.2597214389715576,1.0776041533727725,0.43225125632426914,lo,hi,hi,True,False,False,False
+DWLzna6im7B,Namibia Youth Chamber of Environment,Image,20,commemoration_awareness,False,False,0,0.009214,-1.689243612815716,0.23748568570876022,0.4036046165304505,lo,mid,hi,True,False,False,False
+DRJmoBPDER3,NACSO,Video,6,policy_governance,False,False,0,0.044496,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DWYsdYrCvaE,Namibia Youth Chamber of Environment,Image,11,org_update_identity,False,True,3,0.035627,-4.006440996000189,0.45657212459860047,3.977967896187208,lo,hi,hi,False,False,False,False
+DWOYeqICgEF,Namibia Youth Chamber of Environment,Image,20,commemoration_awareness,False,False,0,0.007985,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,True,False,False,False
+DWV5l8TCp7a,Namibia Youth Chamber of Environment,Image,20,commemoration_awareness,False,False,0,0.013514,-3.014049262191908,3.8715199847792388,4.000471673862822,lo,hi,hi,True,False,False,False
+DQmoSzej7Cs,Save the Rhino Trust Namibia,Carousel,5,species_spotlight_facts,False,False,0,0.004833,1.2595972221597065,0.9015555116604851,0.9025398450965296,hi,hi,hi,False,False,False,False
+DRKRMspjOJr,NACSO,Carousel,6,policy_governance,False,False,0,-0.002342,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DQmVJK-ji6U,Save the Rhino Trust Namibia,Video,5,species_spotlight_facts,False,False,0,0.003625,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DRPZSnICLAt,NACSO,Carousel,6,policy_governance,False,False,0,0.037471,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DXJOpNMFqRt,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.003405,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DXwfTUBjkcO,Cheetah Conservation Fund,Carousel,28,org_update_identity,False,True,10,0.016666,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DQ8u1Tdjfxy,Save the Rhino Trust Namibia,Video,-99,outlier_atypical,True,False,0,0.002014,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DW1KVyzCmTL,Namibia Youth Chamber of Environment,Carousel,16,education_youth,False,False,0,0.018428,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DQvufAaFCLQ,Save the Rhino Trust Namibia,Video,-99,outlier_atypical,True,False,0,0.003303,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DROvNLoDNmc,Namibia Nature Foundation,Carousel,6,policy_governance,False,False,0,0.014723,-1.4099224168350777,2.6322583239635144,-1.9586819482745168,lo,hi,lo,False,False,False,False
+DQoIHPqDDxC,WWF Namibia,Video,9,coexistence_community_livelihoods,False,False,0,0.00996,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,False,False,False
+DW9k8REk6pa,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,False,False,0,0.001551,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,True,False,False
+DW-3Ni3gdfG,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,2,0.00563,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DRC9C5yCNUK,Save the Rhino Trust Namibia,Image,-1,outlier_atypical,False,False,2,0.002819,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DRNXF-BgS9b,Save the Rhino Trust Namibia,Video,5,species_spotlight_facts,False,False,2,0.004753,2.4766207655466883,2.075662414822509,-0.09680351848622652,hi,hi,mid,False,False,False,False
+DXxKLyiGcYl,Cheetah Conservation Fund,Carousel,15,monitoring_conservation_tech,False,True,4,0.004749,1.5837543445881184,1.012010864708628,-0.12825762682500913,hi,hi,mid,False,False,False,False
+DXGjtBPFtcW,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.004382,0.16128461082313314,3.4818438654702835,-0.5979965492473548,mid,hi,lo,False,False,False,False
+DXEY-ltlqzA,N/a'an ku se Foundation,Image,22,org_update_identity,False,False,0,0.006,0.392770422855686,1.3310309639094526,0.9743533291780603,hi,hi,hi,False,False,True,False
+DWn1ukqCqP6,Namibia Youth Chamber of Environment,Carousel,-1,outlier_atypical,False,False,1,0.038698,-5.022545638525756,0.7799745167879465,5.36369739720494,lo,hi,hi,False,False,False,False
+DXO2wrHFpDS,N/a'an ku se Foundation,Carousel,7,education_youth,False,False,0,0.002562,-1.134271873454833,1.5296160191314414,2.558081346063675,lo,hi,hi,False,False,False,False
+DXbYa58lhWu,N/a'an ku se Foundation,Carousel,-1,outlier_atypical,False,False,1,0.008529,2.4766207655466883,2.075662414822509,-0.09680351848622652,hi,hi,mid,False,False,False,False
+DXWIgNFloaI,N/a'an ku se Foundation,Carousel,7,education_youth,False,True,3,0.016585,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DXMHXGjlv3g,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,1,0.00209,0.8275773191874953,0.1650476995554419,0.5754593865358703,hi,mid,hi,False,False,False,False
+DVwU7pzDM_m,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,4,0.004644,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DV6oG8iDJKi,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,1,0.002546,-0.9308668116835213,-0.5175878307227515,-0.9500074437053421,lo,mid,lo,False,False,False,False
+DVomlnGjA8A,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,4,0.011149,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DWHgHlgj4h3,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,3,0.008388,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DWCWeXDDvpY,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,0,0.004858,0.30902693584984675,0.45392593889033767,-0.940171699628213,mid,mid,lo,False,False,False,True
+DWUYKewCPZI,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,False,0,0.004879,0.19939562768036342,1.621188144563188,-1.207151410056271,mid,hi,lo,False,False,False,False
+DV1ejcrjD4w,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,4,0.017248,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWZhpaAj9mI,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,False,2,0.00657,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWMpye-jTwn,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,0,0.002076,-0.46075700294828953,-0.17324548963247133,1.4477086335172396,mid,mid,hi,False,False,False,False
+DR2Pq0aDO16,AfriCat Foundation,Video,13,research_dispatch,False,False,1,0.01047,0.30092384400442185,0.41235731584583385,-1.968542513328037,mid,mid,lo,False,False,False,False
+DSpvIk3DMXZ,AfriCat Foundation,Video,25,research_dispatch,False,False,0,0.002968,0.30902693584984675,0.45392593889033767,-0.940171699628213,mid,mid,lo,False,False,False,False
+DXe7m2rEo4m,Cheetah Conservation Fund,Carousel,28,org_update_identity,False,True,6,0.012924,-0.26062929682930497,-0.7732224623743671,-0.6491469667167866,mid,mid,lo,False,False,False,False
+DXr5rGXmV5m,Cheetah Conservation Fund,Carousel,15,monitoring_conservation_tech,False,True,6,0.016048,-0.8819569858825854,0.7729460380911624,0.1624392563748562,lo,hi,mid,False,False,False,False
+DWqKBa7j5v4,N/a'an ku se Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.001685,-0.2525262049838802,-0.7316538393298634,0.3792238469830369,mid,mid,hi,False,False,False,False
+DW3oE3qFjbF,N/a'an ku se Foundation,Carousel,7,education_youth,True,True,4,0.020833,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWjZfpulh0r,N/a'an ku se Foundation,Carousel,-1,outlier_atypical,False,True,5,0.015877,0.7676736781046339,2.383106358483873,-0.5859030029751764,hi,hi,lo,False,False,False,True
+DSVJ6XUDP5G,AfriCat Foundation,Carousel,25,research_dispatch,False,False,0,0.005829,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DWZose4CUA7,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,False,False,1,0.00273,-0.3114791597267433,-0.06717242957284986,0.13379261658103755,mid,mid,mid,False,True,False,False
+DWs8j4KATCm,N/a'an ku se Foundation,Carousel,7,education_youth,False,False,2,0.009641,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DS2oMpeDIjB,AfriCat Foundation,Video,25,research_dispatch,False,True,13,0.118085,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DVeTWHdlzyU,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,3,0.007104,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DTGPqHUjOPo,AfriCat Foundation,Video,13,research_dispatch,False,True,5,0.032004,0.30092384400442185,0.41235731584583385,-1.968542513328037,mid,mid,lo,False,False,False,False
+DW6aWEHllsp,N/a'an ku se Foundation,Image,22,org_update_identity,False,False,0,0.000775,-2.2597214389715576,1.0776041533727725,0.43225125632426914,lo,hi,hi,False,False,False,False
+DU-bZq3inWr,Namibia Youth Chamber of Environment,Carousel,27,research_dispatch,False,False,2,0.011057,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DUtYO6nDaS4,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,False,False,2,0.007019,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DWn5r-flixF,N/a'an ku se Foundation,Carousel,26,rescue_intervention,False,False,0,0.009944,2.152463643118276,1.9652070617743664,0.9339939534353122,hi,hi,hi,False,False,False,False
+DWa0GEIgUev,N/a'an ku se Foundation,Image,22,org_update_identity,False,False,0,0.00118,-2.1299538252613783,-0.24013635456643073,-0.8757673014020966,lo,mid,lo,False,False,True,False
+DXpWrXrDEJt,Cheetah Conservation Fund,Video,18,rescue_intervention,False,True,15,0.020003,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DW5xIWgllJY,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,2,0.009708,2.585070763718514,2.401260479005053,1.1849950576680353,hi,hi,hi,False,False,False,False
+DU_ZzNqDJmc,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,8,0.007875,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVMRx8yCMbB,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,3,0.007233,0.30902693584984675,0.45392593889033767,-0.940171699628213,mid,mid,lo,False,False,False,False
+DWrjZUMCXX9,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,False,False,0,0.001652,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,True,False,False
+DVRbYULjY8q,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,False,2,0.007639,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVjc9hvjaPy,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,4,0.009116,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXZhne-jWEN,Cheetah Conservation Fund,Carousel,18,rescue_intervention,False,True,15,0.04472,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DVa5zYsCm_O,Namibia Youth Chamber of Environment,Image,-1,outlier_atypical,True,False,0,0.012285,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,True,False,False,False
+DSAiXtljEJ3,AfriCat Foundation,Video,13,research_dispatch,False,False,0,0.004264,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DVWk_9XDbv8,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,False,1,0.003424,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DTQXoYHDNgM,AfriCat Foundation,Video,13,research_dispatch,False,False,0,0.005937,0.07163091744453173,-0.6211984862817205,-0.6515736249385015,mid,mid,lo,False,False,False,False
+DVEjcvgj1xY,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,8,0.011705,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DU6QOvFk9xX,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,True,9,0.007404,-0.6934707932782062,0.5575365944493067,-1.2386055183950537,lo,hi,lo,False,False,False,False
+DXuRr8pGfJ_,Cheetah Conservation Fund,Carousel,-1,outlier_atypical,False,True,6,0.00971,-0.8819569858825854,0.7729460380911624,0.1624392563748562,lo,hi,mid,False,True,False,False
+DViTTw0CueE,Namibia Youth Chamber of Environment,Carousel,-1,outlier_atypical,False,False,0,0.009214,-1.1193530042879007,-0.30217838708089606,0.4510373310645676,lo,mid,hi,False,False,False,False
+DXca0cil6Mk,Cheetah Conservation Fund,Video,15,monitoring_conservation_tech,False,True,9,0.014989,1.4482140605358471,0.5670036682920638,0.09343324083828944,hi,hi,mid,True,False,False,False
+DXVdVqvGBrZ,Cheetah Conservation Fund,Carousel,15,monitoring_conservation_tech,False,True,13,0.015448,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DSFsknpDGEy,AfriCat Foundation,Video,13,research_dispatch,False,True,3,0.006099,-0.9898197664263845,0.14689357903426178,-1.1954386741073415,lo,mid,lo,False,False,False,False
+DVtL7Z1Cgjg,Namibia Youth Chamber of Environment,Image,-1,outlier_atypical,False,False,0,0.022727,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DVtRIKfigl2,Namibia Youth Chamber of Environment,Carousel,16,education_youth,False,False,2,0.050369,-2.2711285766374996,-0.3046407915815484,1.4665195292339293,lo,mid,hi,False,False,False,False
+DWnyV1Wls37,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.002326,1.692204342759944,1.3376089288911726,1.1535409493292526,hi,hi,hi,False,False,False,False
+DWcGfdLjB95,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,1,0.006708,1.121726516604102,2.177727396555184,1.1821875891230713,hi,hi,hi,False,False,False,False
+DVgLvVmipRs,Namibia Youth Chamber of Environment,Image,16,education_youth,False,False,0,0.006757,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DV1elZ8D0VV,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,False,False,0,0.001618,-0.3114791597267433,-0.06717242957284986,0.13379261658103755,mid,mid,mid,False,True,False,False
+DT-JQYiimAB,Namibia Youth Chamber of Environment,Carousel,11,org_update_identity,False,False,0,0.012899,-0.9898197664263845,0.14689357903426178,-1.1954386741073415,lo,mid,lo,False,False,False,False
+DUX_wPFCgIs,Namibia Youth Chamber of Environment,Carousel,-1,outlier_atypical,False,False,0,0.011057,-0.3903969105394846,0.5445180455648361,0.6588715910095791,mid,hi,hi,False,False,False,False
+DT98qQrCBCZ,Namibia Nature Foundation,Image,-1,outlier_atypical,False,False,0,0.009909,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DWMpxKqjnAZ,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,1,0.005528,0.44571633140779393,0.6706143238510328,-0.20500057792855111,hi,hi,mid,False,False,False,False
+DUQylVEiPWw,Namibia Nature Foundation,Carousel,-1,outlier_atypical,False,False,0,0.021801,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DV9M4tnAc73,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.008933,-0.1530008921341695,1.6196424707368946,0.3702735163198675,mid,hi,hi,False,False,False,False
+DV4Db60iEI4,N/a'an ku se Foundation,Carousel,7,education_youth,True,False,0,0.005023,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DUELhjJjd7D,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,True,4,0.004237,-1.1554986212622225,1.7232531262958635,0.07183969755302698,lo,hi,mid,False,False,False,False
+DTugAKuirZm,Namibia Youth Chamber of Environment,Image,-1,outlier_atypical,False,False,0,0.010442,0.19939562768036342,1.621188144563188,-1.207151410056271,mid,hi,lo,True,False,False,False
+DV6hPrUj1sO,N/a'an ku se Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.003438,-1.0312348291041318,0.6668729780315409,1.4763552733110583,lo,hi,hi,False,False,False,False
+DUOesl5jXwq,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,3,0.009309,0.07163091744453173,-0.6211984862817205,-0.6515736249385015,mid,mid,lo,False,False,False,True
+DT8dIW2iCC3,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,9,0.029338,0.30902693584984675,0.45392593889033767,-0.940171699628213,mid,mid,lo,False,False,False,False
+DUbWq9sk2fR,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,4,0.007361,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DUWNHNmDsUE,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,1,0.003424,0.012677962701668538,0.043282923475292834,-0.8970048553405009,mid,mid,lo,False,False,False,False
+DTqbkOCjdCj,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,8,0.01637,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DT3TiZ9DdmI,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,False,1,0.007104,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTyJ9OpgXzm,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,True,True,5,0.006099,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,True,False,False,False
+DWE0qc5Evit,N/a'an ku se Foundation,Video,11,org_update_identity,False,False,1,0.00391,1.0222012037543913,-0.17356891351157305,1.1911379197862408,hi,mid,hi,True,False,False,False
+DU5v6CKCn_O,Namibia Youth Chamber of Environment,Carousel,11,org_update_identity,False,False,1,0.027027,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DWHgK_VkmUt,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,False,False,0,0.001551,2.585070763718514,2.401260479005053,1.1849950576680353,hi,hi,hi,False,True,False,False
+DWI5bFigUef,N/a'an ku se Foundation,Carousel,11,org_update_identity,False,False,1,0.009169,-1.3928946396675375,0.648128701123805,0.36043777224273843,lo,hi,hi,True,False,False,False
+DUoOpqdjEUM,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,1,0.008239,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DWCWecbj-kV,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,2,0.00627,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,False,False,True
+DUggSmvjmH0,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,False,2,0.004494,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DV_xrwzjCSH,N/a'an ku se Foundation,Image,7,education_youth,False,False,2,0.003202,-1.0312348291041318,0.6668729780315409,1.4763552733110583,lo,hi,hi,False,False,False,False
+DV1RBwxDDEe,N/a'an ku se Foundation,Video,7,education_youth,False,False,1,0.004719,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DW4VErZEjmD,Cheetah Conservation Fund,Carousel,15,monitoring_conservation_tech,False,True,3,0.002366,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,True
+DXFDkC8EZUF,Cheetah Conservation Fund,Video,15,monitoring_conservation_tech,False,True,3,0.005791,-3.769044977594873,1.531696549770659,3.689369821497497,lo,hi,hi,False,False,False,False
+DXB-DjOjmZ2,Cheetah Conservation Fund,Video,15,monitoring_conservation_tech,False,True,5,0.003249,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,False
+DXMiL7jjXgk,Cheetah Conservation Fund,Video,15,monitoring_conservation_tech,False,True,14,0.017196,1.5756512527426934,0.9704422416641244,-1.156628440524833,hi,hi,lo,False,False,False,False
+DRFUHr8DPls,AfriCat Foundation,Video,13,research_dispatch,False,False,2,0.018889,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DQuKrLZDCfh,AfriCat Foundation,Carousel,5,species_spotlight_facts,False,False,2,0.00626,2.9092278861469265,2.511715832053196,0.15419758574649686,hi,hi,mid,False,False,False,False
+DRkL8DrjBZz,AfriCat Foundation,Video,13,research_dispatch,False,False,1,0.015111,-1.9355643165431462,1.1880595064209154,-0.5985462155972694,lo,hi,lo,False,False,False,True
+DW69EwJESBc,Cheetah Conservation Fund,Video,18,rescue_intervention,False,True,15,0.01988,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DW2bF8jjNJE,Cheetah Conservation Fund,Video,18,rescue_intervention,False,True,10,0.009428,2.042401086842906,2.941191284302163,0.22601106982802757,hi,hi,mid,False,False,False,False
+DVvyBh7Csmj,Namibia Youth Chamber of Environment,Carousel,16,education_youth,False,False,0,0.026413,-2.0337325582321846,0.7704836335905099,1.1779214545442178,lo,hi,hi,False,False,False,False
+DWBU3t0ilGW,Namibia Youth Chamber of Environment,Image,20,commemoration_awareness,False,False,0,0.016585,-1.4518475944104008,1.3126101108808186,0.11500654184073902,lo,hi,mid,True,False,False,True
+DWD7q9hijMg,Namibia Youth Chamber of Environment,Carousel,27,research_dispatch,True,False,0,0.009214,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVyHG_Jijrz,Namibia Youth Chamber of Environment,Carousel,16,education_youth,False,True,3,0.03317,-2.2711285766374996,-0.3046407915815484,1.4665195292339293,lo,mid,hi,False,False,False,False
+DTibOjAjHCe,AfriCat Foundation,Video,32,research_dispatch,False,False,1,0.009175,1.9168361523386452,-0.9032320281274425,0.13169380807088368,hi,lo,mid,False,False,False,False
+DV0so-eCkJk,Namibia Youth Chamber of Environment,Carousel,16,education_youth,False,True,9,0.031327,-5.486764565661812,3.5534391202851987,9.256422728351817,lo,hi,hi,False,False,False,False
+DRhp-g_DJMg,AfriCat Foundation,Video,13,research_dispatch,False,True,6,0.014248,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DUJVGkOjxSn,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,3,0.010293,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVimfKujWUT,Tosco Trust,Carousel,11,org_update_identity,False,False,0,0.008641,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DQ4iGjBjLUz,Namibia Youth Chamber of Environment,Image,-1,outlier_atypical,False,False,0,0.014128,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,False,False,True
+DRP35sUjLR6,Namibia Youth Chamber of Environment,Image,11,org_update_identity,False,False,0,0.012899,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DQ87jsuDEw5,Namibia Youth Chamber of Environment,Carousel,27,research_dispatch,True,False,0,0.016585,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DWURr-cDbzB,Tosco Trust,Image,7,education_youth,False,False,1,0.021603,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DTamIGPCnjn,Namibia Youth Chamber of Environment,Carousel,22,org_update_identity,False,False,0,0.045455,-2.1299538252613783,-0.24013635456643073,-0.8757673014020966,lo,mid,lo,False,False,True,False
+DVen7U1DDSX,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.003978,2.152463643118276,1.9652070617743664,0.9339939534353122,hi,hi,hi,False,False,False,False
+DVl64BGCPgg,N/a'an ku se Foundation,Carousel,1,ecotourism_aesthetic,False,False,1,0.01281,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWW44aTDSt2,Tosco Trust,Carousel,33,coexistence_community_livelihoods,False,True,3,0.016803,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,True
+DWouAPSEVB9,Cheetah Conservation Fund,Video,15,monitoring_conservation_tech,False,False,2,0.004626,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,True,False,False
+DWl7H61DbCB,Cheetah Conservation Fund,Video,-1,outlier_atypical,False,True,5,0.013171,-0.9790458789239971,1.7620743297097017,2.9598136368877626,lo,hi,hi,False,True,False,False
+DRj_EEGDNma,Namibia Youth Chamber of Environment,Carousel,16,education_youth,False,False,0,0.042383,-0.3903969105394846,0.5445180455648361,0.6588715910095791,mid,hi,hi,False,False,False,False
+DWhFSe_Epwk,Cheetah Conservation Fund,Carousel,18,rescue_intervention,False,True,8,0.022969,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DV1dpcLjf4m,Tosco Trust,Video,11,org_update_identity,False,False,0,0.017283,-1.023096370510985,3.5020561901641565,3.7857052582602697,lo,hi,hi,False,False,False,False
+DWaZbb-D-L5,Cheetah Conservation Fund,Carousel,15,monitoring_conservation_tech,False,True,5,0.008986,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DVqo_9BgVKV,N/a'an ku se Foundation,Image,9,coexistence_community_livelihoods,False,False,0,0.005461,1.121726516604102,2.177727396555184,1.1821875891230713,hi,hi,hi,False,False,False,False
+DWsMJvfjOo5,Cheetah Conservation Fund,Video,18,rescue_intervention,False,True,14,0.009993,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DVtwG76oLp5,N/a'an ku se Foundation,Image,-1,outlier_atypical,False,False,0,0.003034,0.392770422855686,1.3310309639094526,0.9743533291780603,hi,hi,hi,False,False,False,False
+DVqcuKHmK2G,N/a'an ku se Foundation,Image,22,org_update_identity,False,False,1,0.001989,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,True,False
+DRKInR5DE1a,Namibia Youth Chamber of Environment,Carousel,14,policy_governance,False,False,0,0.041155,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DUDf5d4DUm_,Tosco Trust,Carousel,11,org_update_identity,False,True,3,0.030245,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DVjdARTD6tT,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,False,False,0,0.002326,0.9632482490115278,0.49091249624544026,0.9457066893842415,hi,hi,hi,False,True,False,False
+DVyJnZlDMPe,N/a'an ku se Foundation,Video,7,education_youth,True,False,1,0.010686,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVmCpq8jAER,N/a'an ku se Foundation,Video,7,education_youth,True,False,1,0.015271,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DWWv0b4kmFB,Cheetah Conservation Fund,Carousel,31,species_spotlight_facts,False,True,8,0.007945,0.9055443836602383,1.1069344735891742,-0.8655507470017184,hi,hi,lo,False,False,False,False
+DReQDwTDOOM,Namibia Youth Chamber of Environment,Carousel,11,org_update_identity,False,True,3,0.054054,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,False,False,True
+DSvNTG6DxNi,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,False,True,5,0.013631,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DVrBQE7jEWE,N/a'an ku se Foundation,Video,7,education_youth,True,True,3,0.006843,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVwVD1GjiEL,N/a'an ku se Foundation,Carousel,7,education_youth,False,True,4,0.011124,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,False,False,True
+DVy5ucnCAYI,N/a'an ku se Foundation,Video,7,education_youth,True,True,3,0.009978,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DS0W5kkD2zk,Giraffe Conservation Foundation,Carousel,23,education_youth,False,False,0,0.003295,-1.0312348291041318,0.6668729780315409,1.4763552733110583,lo,hi,hi,False,False,False,False
+DVthvBkjAAF,N/a'an ku se Foundation,Video,7,education_youth,True,True,3,0.010989,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DU-ncR0jTOc,Tosco Trust,Carousel,11,org_update_identity,False,True,5,0.036486,-1.8844547150106385,0.8765566936501313,-0.13599456239198435,lo,hi,mid,False,False,False,False
+DS8FQVIjdpH,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,1,0.009972,0.30902693584984675,0.45392593889033767,-0.940171699628213,mid,mid,lo,False,False,False,False
+DTGYcjdjeVp,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,0,0.005221,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DS-qEVPADma,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,True,True,9,0.03732,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTBO21Djf01,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,False,1,0.006869,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTgIY48D2Bx,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,1,0.001284,-0.2525262049838802,-0.7316538393298634,0.3792238469830369,mid,mid,hi,False,False,False,False
+DTYZ__3jMEy,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,4,0.006249,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DTOG1rZj1Wf,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,True,5,0.012561,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DT8Hxp4DMQV,AfriCat Foundation,Carousel,13,research_dispatch,False,False,0,0.005343,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DTTQcXSDwcQ,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,5,0.010528,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTlR_2oEp9y,Giraffe Conservation Foundation,Video,8,weekly_ritual_filler,True,True,5,0.017333,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DU59lkXjDeX,AfriCat Foundation,Video,32,research_dispatch,False,False,0,0.004425,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DUlV2iNCOB0,AfriCat Foundation,Video,13,research_dispatch,False,True,4,0.016623,0.7416340564500846,0.8899793561210247,-0.6891705953954896,hi,hi,lo,False,False,False,False
+DUGbxzVDE1m,AfriCat Foundation,Video,5,species_spotlight_facts,False,False,0,0.010686,1.1495346658843353,1.877539734188283,0.19455696148924487,hi,hi,mid,False,False,False,False
+DSGA6a6gTQ3,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,0,0.00826,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DVJlhV9DD_m,N/a'an ku se Foundation,Video,7,education_youth,False,False,2,0.005056,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DWOuG89jwy0,Cheetah Conservation Fund,Carousel,23,education_youth,False,False,0,0.003037,-1.1390976096479308,0.040820518974640424,0.11847734282886073,lo,mid,mid,False,False,False,False
+DVWk_muDRUJ,N/a'an ku se Foundation,Carousel,26,rescue_intervention,False,False,2,0.008461,0.8275773191874953,0.1650476995554419,0.5754593865358703,hi,mid,hi,False,False,False,False
+DVCCqirFE2-,N/a'an ku se Foundation,Image,-1,outlier_atypical,False,False,0,0.002495,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,True,False,False
+DVBDGWRjKFU,N/a'an ku se Foundation,Video,7,education_youth,False,False,2,0.004854,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVeTYKBDDi-,N/a'an ku se Foundation,Carousel,26,rescue_intervention,False,False,1,0.004281,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DRwcckvjYNV,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,1,0.012176,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DR5IqOsiJb_,Giraffe Conservation Foundation,Video,8,weekly_ritual_filler,False,True,7,0.011085,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,True
+DVZeWt7AodX,N/a'an ku se Foundation,Carousel,5,species_spotlight_facts,False,False,1,0.004214,2.3387500599910838,3.3518342997172086,0.1828442255403155,hi,hi,mid,False,False,False,False
+DV99gHxDCdy,Cheetah Conservation Fund,Video,-1,outlier_atypical,False,True,3,0.009057,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,True,False,False
+DVZJxG8gdBv,N/a'an ku se Foundation,Carousel,26,rescue_intervention,False,False,2,0.003169,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DVHILyij3Ej,N/a'an ku se Foundation,Carousel,23,education_youth,False,False,0,0.004618,0.1800809156163576,-0.2956004220991762,0.6302249512157605,mid,mid,hi,False,False,False,False
+DRz_BrsjG0U,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,False,1,0.00413,-3.0645124443553318,2.443631462928685,-5.600388599249816,lo,hi,lo,False,False,False,False
+DSiVUl0gTF5,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,False,0,0.004494,0.012677962701668538,0.043282923475292834,-0.8970048553405009,mid,mid,lo,False,False,False,False
+DSQTzsPDRJ6,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,3,0.01132,0.012677962701668538,0.043282923475292834,-0.8970048553405009,mid,mid,lo,False,False,False,False
+DSdLvtCiO9N,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,False,0,0.00734,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVT5VGnDVSk,N/a'an ku se Foundation,Carousel,26,rescue_intervention,False,True,5,0.014158,2.1542321707439602,0.17189239704461579,-0.15690426661882792,hi,mid,mid,False,False,False,False
+DSqDr_mAgXH,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,4,0.015514,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DSLMZorAZyc,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,False,1,0.006655,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVv5Vyeje89,Cheetah Conservation Fund,Video,15,monitoring_conservation_tech,False,True,7,0.003319,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,False
+DR-SMDzDZx2,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,False,1,0.001691,-1.0312348291041318,0.6668729780315409,1.4763552733110583,lo,hi,hi,False,False,False,False
+DSYCJfoj4ik,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,1,0.006826,0.9055443836602383,1.1069344735891742,-0.8655507470017184,hi,hi,lo,False,False,False,False
+DVavhOlDFHe,N/a'an ku se Foundation,Video,7,education_youth,False,True,3,0.009641,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRsQo-BARQL,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,11,0.029467,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DXtaDoijIT_,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,3,0.010491,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DVO3p9GDGew,N/a'an ku se Foundation,Video,5,species_spotlight_facts,False,False,1,0.009068,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DWAqKGpkuSD,Cheetah Conservation Fund,Carousel,15,monitoring_conservation_tech,False,True,4,0.005032,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DWFHDlUj2ZX,Cheetah Conservation Fund,Video,31,species_spotlight_facts,False,True,7,0.00881,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DV7XJOljNi_,Cheetah Conservation Fund,Video,18,rescue_intervention,False,True,7,0.015024,1.4482140605358471,0.5670036682920638,0.09343324083828944,hi,hi,mid,False,False,False,False
+DWCI-u-Ee46,Cheetah Conservation Fund,Video,-1,outlier_atypical,False,True,4,0.00369,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,True,False,False
+DXJ6PfWFpCF,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,0,0.007733,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DXUHBZnltwo,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,0,0.004921,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DWHfqggD7KW,Cheetah Conservation Fund,Carousel,15,monitoring_conservation_tech,False,True,15,0.029572,0.6233124388071495,2.316127333623727,-1.9084417651954355,hi,hi,lo,True,False,False,False
+DXMYTYjlr_q,Ongava Game Reserve,Image,2,ecotourism_aesthetic,False,False,0,0.007293,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXQx2jFFrjg,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,1,0.00536,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DXG8IUMDeZj,Ongava Game Reserve,Video,2,ecotourism_aesthetic,False,True,6,0.033743,-1.8336048521132,0.1705066608486142,-0.9189341456898086,lo,mid,lo,False,False,False,False
+DXEcMZZDgY7,Ongava Game Reserve,Carousel,0,coexistence_community_livelihoods,False,False,0,0.005185,0.4174769340216728,0.779524003072882,0.34162687652604884,hi,hi,mid,False,False,False,False
+DXO2QOUln2I,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,1,0.01116,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DW9CcE-D6SX,Ongava Game Reserve,Video,26,rescue_intervention,True,False,2,0.004218,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXWQDv-iRp8,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,False,1,0.008084,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXJnfgRDJCq,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,8,0.012608,0.06152492212475906,2.8973600294578867,-0.927503666029729,mid,hi,lo,False,False,False,False
+DWgtt_SgXiB,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,False,0,0.002548,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWWoOTkjmc6,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.004042,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DW0itq8DiiZ,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,True,False,0,0.005624,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWnsHF-DQxD,Ongava Game Reserve,Video,2,ecotourism_aesthetic,False,False,1,0.008348,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DUtRbGeCDvW,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,False,False,0,0.001753,1.7182439644144933,2.8307359312540203,1.256808541749566,hi,hi,hi,False,True,False,True
+DXWUuVLiluH,Namibia Nature Foundation,Image,5,species_spotlight_facts,False,False,0,0.004247,-2.171646023396762,3.5072830130425663,-5.568934490911032,lo,hi,lo,False,False,False,False
+DXLyjUAjZ73,Namibia Nature Foundation,Image,-1,outlier_atypical,False,False,0,0.005946,-1.8844547150106385,0.8765566936501313,-0.13599456239198435,lo,hi,mid,False,False,False,False
+DWELR2UDkdM,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,0,0.0058,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXPE5MbDHp0,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,1,0.010123,0.16305313844881755,1.6885292007405337,-1.6888947693014948,mid,hi,lo,False,False,False,False
+DWatI5sjiv8,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.003076,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXbe6nYCnwx,Namibia Nature Foundation,Image,20,commemoration_awareness,False,False,1,0.007361,-1.1294589996076734,3.2163801286587113,0.17510728997334027,lo,hi,mid,False,False,False,False
+DWlb0sNDFI2,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,0,0.013436,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DW3daffjCif,Elephant Human Relations Aid,Carousel,1,ecotourism_aesthetic,False,True,6,0.021719,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXoz26sjP1a,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,5,0.013528,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,False
+DWtKKg3jMKm,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,1,0.013252,1.4482140605358471,0.5670036682920638,0.09343324083828944,hi,hi,mid,False,False,False,False
+DXWhPTbE16s,Namibia Nature Foundation,Image,-1,outlier_atypical,False,False,0,0.001982,-0.8134049690246861,3.2852668586623506,-1.884060995648022,lo,hi,lo,False,False,False,False
+DUi-O5xmKYK,N/a'an ku se Foundation,Carousel,0,coexistence_community_livelihoods,False,True,3,0.010113,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DWODCFVDkCp,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,True,False,0,0.005009,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXTqzuxjCXj,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,7,0.009663,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,True
+DXgjOMjoc5M,Elephant Human Relations Aid,Video,0,coexistence_community_livelihoods,False,True,15,0.036904,-0.29032409961726074,0.5779097633041647,-1.2015154367608618,mid,hi,lo,False,False,False,False
+DUqspAglZWX,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,False,False,0,0.007686,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DV_Pa2ujuyN,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,1,0.011775,-1.263127025957358,-0.6696118068153981,-0.9475807854836272,lo,mid,lo,False,False,False,False
+DW3IxVCjip9,Ongava Game Reserve,Image,2,ecotourism_aesthetic,False,False,0,0.00413,0.4174769340216728,0.779524003072882,0.34162687652604884,hi,hi,mid,False,False,False,False
+DU0pr3KjK2K,N/a'an ku se Foundation,Video,7,education_youth,False,False,1,0.004551,-1.5666386414122733,-0.9166324508733482,4.175941591078699,lo,lo,hi,False,False,False,False
+DUv9CdXiIPB,N/a'an ku se Foundation,Carousel,-1,outlier_atypical,False,False,1,0.006304,1.0222012037543913,-0.17356891351157305,1.1911379197862408,hi,mid,hi,False,False,False,False
+DUk1QjjDDWR,N/a'an ku se Foundation,Video,7,education_youth,False,True,10,0.019282,-0.2525262049838802,-0.7316538393298634,0.3792238469830369,mid,mid,hi,False,False,False,False
+DUoHy9SjDWf,N/a'an ku se Foundation,Carousel,26,rescue_intervention,False,False,2,0.010619,3.047098591702531,1.2355439471584972,-0.1254501582800452,hi,hi,mid,False,False,False,False
+DXbqi4PDIfu,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,2,0.011228,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,False
+DWp8LUSDnGz,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.002548,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DWyTxceDHN1,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,4,0.015829,2.1542321707439602,0.17189239704461579,-0.15690426661882792,hi,mid,mid,False,False,False,False
+DU81AbnCf5j,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.006809,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DU_MJCCghr8,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,False,False,0,0.001146,1.8561146699700983,1.5545640463593218,0.9771607977230242,hi,hi,hi,False,True,False,False
+DU0kTVJiYGd,N/a'an ku se Foundation,Carousel,7,education_youth,False,False,0,0.004214,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DU8KNrLDLWc,N/a'an ku se Foundation,Video,7,education_youth,False,False,0,0.002933,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRDKx7WjEV0,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,5,0.021677,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DVZ3LZRElaC,Cheetah Conservation Fund,Carousel,-1,outlier_atypical,False,True,9,0.011458,-0.824069091170754,-0.9078576772829383,-0.869750517783438,lo,lo,lo,False,True,False,False
+DVXZSXLDLb0,Cheetah Conservation Fund,Video,28,org_update_identity,False,True,7,0.002701,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVoFl_YDezG,Cheetah Conservation Fund,Video,28,org_update_identity,False,True,7,0.005332,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DVghGJuDbWD,Cheetah Conservation Fund,Video,15,monitoring_conservation_tech,False,True,3,0.003937,0.4506583175675173,-0.34977275146464826,-0.05783644498023411,hi,mid,mid,True,False,False,False
+DVeHLEsEZn4,Cheetah Conservation Fund,Video,-1,outlier_atypical,False,False,2,0.001077,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,False,False,False
+DVteIrHkpr9,Cheetah Conservation Fund,Carousel,18,rescue_intervention,False,True,9,0.01762,3.047098591702531,1.2355439471584972,-0.1254501582800452,hi,hi,mid,False,False,False,False
+DQ2L-kBgaVr,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,True,8,0.013353,0.30902693584984675,0.45392593889033767,-0.940171699628213,mid,mid,lo,False,False,False,False
+DQ96W0vD9A5,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,True,10,0.011791,0.30902693584984675,0.45392593889033767,-0.940171699628213,mid,mid,lo,False,False,False,False
+DVqtQN1Deaf,Cheetah Conservation Fund,Carousel,28,org_update_identity,False,True,4,0.00459,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVe15yLj6YW,Cheetah Conservation Fund,Carousel,18,rescue_intervention,False,True,15,0.056814,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,True
+DRVFd6ziFlp,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,False,0,0.008046,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRaPEBQjOK7,Giraffe Conservation Foundation,Image,23,education_youth,False,False,1,0.001391,-0.46075700294828953,-0.17324548963247133,1.4477086335172396,mid,mid,hi,False,False,False,False
+DRIGtULDGKm,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,True,13,0.019302,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DXWaGU2DI8-,Elephant Human Relations Aid,Carousel,-1,outlier_atypical,False,True,10,0.037548,2.014592937562672,3.241378946669066,1.213641697461854,hi,hi,hi,False,False,False,False
+DVRbbXIiHaN,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,False,False,0,0.001618,1.6187186515647825,0.4794396211872632,1.2657588724127355,hi,hi,hi,False,True,False,True
+DV8V_PjFMlT,Ongava Game Reserve,Video,0,coexistence_community_livelihoods,False,False,0,0.006503,1.4548083243546293,0.26248450371911425,1.442139024018964,hi,mid,hi,False,False,False,False
+DVgPtlCDbl3,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,True,False,0,0.005975,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVSdPEfDGlm,Cheetah Conservation Fund,Video,28,org_update_identity,False,True,3,0.001836,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DVTW8GMjZim,Ongava Game Reserve,Image,2,ecotourism_aesthetic,False,False,0,0.003163,0.1800809156163576,-0.2956004220991762,0.6302249512157605,mid,mid,hi,False,False,False,False
+DQpT_FHjeeA,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,False,1,0.004173,1.5349751645589438,-0.39766540383185156,-0.6487661563935375,hi,mid,lo,False,False,False,False
+DVmWaukkpqC,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,False,0,0.003954,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVo7FqKjnUw,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.004306,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DQr4xc2jBxf,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,False,0,0.004194,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DVbLx5hjV9r,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,0,0.004745,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DV8bdWGGfP1,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,1,0.009203,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,True
+DVdps8pDG1E,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,2,0.076109,0.30902693584984675,0.45392593889033767,-0.940171699628213,mid,mid,lo,False,False,False,False
+DV3ir46kge2,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,2,0.017026,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DVHpOKMj7dH,Cheetah Conservation Fund,Video,18,rescue_intervention,False,True,7,0.010222,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DWRTGNGlQCt,Ongava Game Reserve,Video,-1,outlier_atypical,False,False,0,0.006503,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DVLlSpkFEpk,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,False,2,0.009227,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWGywKJiuW1,Namibia Nature Foundation,Carousel,27,research_dispatch,False,False,1,0.017554,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DWgSNwADO1W,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,2,0.009203,2.4766207655466883,2.075662414822509,-0.09680351848622652,hi,hi,mid,False,False,False,False
+DUtUiVNjyqn,Cheetah Conservation Fund,Carousel,15,monitoring_conservation_tech,False,True,5,0.002684,0.30092384400442185,0.41235731584583385,-1.968542513328037,mid,mid,lo,False,False,False,True
+DVnOjbSjT6J,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,0,0.005185,-0.3903969105394846,0.5445180455648361,0.6588715910095791,mid,hi,hi,False,False,False,False
+DVyb81qEv7Z,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,3,0.020155,0.30902693584984675,0.45392593889033767,-0.940171699628213,mid,mid,lo,False,False,False,False
+DWQ_vNvDHIN,Elephant Human Relations Aid,Image,16,education_youth,False,True,5,0.015277,-0.2525262049838802,-0.7316538393298634,0.3792238469830369,mid,mid,hi,False,False,False,False
+DVGseIDDyuy,Cheetah Conservation Fund,Carousel,23,education_youth,False,False,1,0.002189,-0.24623118868936095,1.1044720690885217,0.1499314511676433,mid,hi,mid,False,False,False,False
+DWMOLvjI0E1,Elephant Human Relations Aid,Video,0,coexistence_community_livelihoods,False,True,4,0.015093,1.4482140605358471,0.5670036682920638,0.09343324083828944,hi,hi,mid,False,False,False,False
+DViwwfADNh2,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,1,0.016842,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,True
+DVPx65yjFAk,Cheetah Conservation Fund,Video,18,rescue_intervention,False,True,15,0.021363,3.047098591702531,1.2355439471584972,-0.1254501582800452,hi,hi,mid,False,False,False,False
+DWHAQoDDCFJ,Elephant Human Relations Aid,Video,0,coexistence_community_livelihoods,False,True,3,0.012332,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DU--e3nDTLy,Cheetah Conservation Fund,Video,18,rescue_intervention,False,True,11,0.010505,2.9092278861469265,2.511715832053196,0.15419758574649686,hi,hi,mid,False,False,False,False
+DWYj25RjKBe,Elephant Human Relations Aid,Carousel,2,ecotourism_aesthetic,False,True,4,0.026413,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DUwbUUNj_NO,Cheetah Conservation Fund,Video,18,rescue_intervention,False,True,4,0.008139,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DWOp8pRgrY-,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,0,0.007078,-1.097610726550391,0.04244941092176255,-0.9603500766052672,lo,mid,lo,False,False,False,False
+DVKnOCFkeoh,Cheetah Conservation Fund,Carousel,15,monitoring_conservation_tech,False,True,7,0.013365,1.2018933568084165,1.517577489004219,-0.9087175912894303,hi,hi,lo,False,False,False,False
+DWI1jSjCECU,Namibia Nature Foundation,Video,11,org_update_identity,False,False,0,0.019253,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DVRh1txjwyW,Cheetah Conservation Fund,Video,28,org_update_identity,False,True,8,0.002048,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DWlx5zxDR9z,Namibia Nature Foundation,Video,-1,outlier_atypical,False,False,0,0.005379,-1.689243612815716,0.23748568570876022,0.4036046165304505,lo,mid,hi,False,False,False,False
+DWW2_T3iBZt,Ministry of Environment Forestry & Tourism,Video,30,policy_governance,False,False,2,0.008432,-1.4605379038838529,1.571495882710671,-0.8372849175311489,lo,hi,lo,False,False,False,False
+DXJDgC_j8QH,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,0,0.006795,-0.6934707932782062,0.5575365944493067,-1.2386055183950537,lo,hi,lo,False,False,False,False
+DXG_Rg6gKjW,Namibia Nature Foundation,Carousel,14,policy_governance,False,False,0,0.008211,-1.8844547150106385,0.8765566936501313,-0.13599456239198435,lo,hi,mid,False,False,False,False
+DXGuQgdClUM,Namibia Nature Foundation,Image,23,education_youth,False,False,0,0.014156,-1.709575435803773,0.8809389866386527,0.14712398262267937,lo,hi,mid,False,False,False,False
+DRh9fYtF7oD,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,True,5,0.014551,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DWIr7PTE4-T,Namibia Nature Foundation,Image,-1,outlier_atypical,False,False,0,0.006229,-0.9996913858974935,1.8986396207195089,-1.1329112677530255,lo,hi,lo,False,False,False,False
+DQkKY5FCLco,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,2,0.002846,-0.9898197664263845,0.14689357903426178,-1.1954386741073415,lo,mid,lo,False,False,False,False
+DRnHDGCDVEp,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,False,1,0.01209,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXhaLKmlu0M,Ongava Game Reserve,Carousel,1,ecotourism_aesthetic,True,False,0,0.007293,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVDHgPFCJDL,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,False,0,0.008612,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DV3ClNUjpXi,Ongava Game Reserve,Carousel,1,ecotourism_aesthetic,True,False,0,0.004833,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DWOMpv0ipjl,Gobabeb Research & Training Centre,Carousel,20,commemoration_awareness,False,False,0,0.041367,-1.7976936109875419,-0.08811237847378411,-0.8781939596238114,lo,mid,lo,True,False,False,False
+DRjkb12glvq,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,7,0.020286,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DU5pU_UjQsQ,Cheetah Conservation Fund,Video,15,monitoring_conservation_tech,False,True,8,0.021822,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DWYWQYjjZtc,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,False,False,0,0.034173,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DWa67ppjZEz,Gobabeb Research & Training Centre,Image,-1,outlier_atypical,False,False,0,0.060252,-0.9308668116835213,-0.5175878307227515,-0.9500074437053421,lo,mid,lo,False,False,False,False
+DWipTbxDK8S,Gobabeb Research & Training Centre,Image,12,research_dispatch,False,False,0,0.038669,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DWgIriWDQxg,Gobabeb Research & Training Centre,Carousel,19,research_dispatch,False,False,0,0.039568,0.39460672987528633,0.9821171366218168,-0.6675522311338361,hi,hi,lo,False,False,False,False
+DWlOT-GDX6g,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.044065,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DVgC6V2ioa5,Gobabeb Research & Training Centre,Image,-1,outlier_atypical,False,True,3,0.044964,1.6693341386135576,1.5402020624401072,0.14436184166936764,hi,hi,mid,False,False,False,False
+DVTDeXjjmMZ,Gobabeb Research & Training Centre,Image,19,research_dispatch,False,False,1,0.040468,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DU50x96jR1d,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.035971,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DVyESaDDdiT,Gobabeb Research & Training Centre,Carousel,-1,outlier_atypical,False,False,0,0.031475,0.44571633140779393,0.6706143238510328,-0.20500057792855111,hi,hi,mid,False,False,False,False
+DVI864ZjNsa,Gobabeb Research & Training Centre,Image,17,research_dispatch,False,False,0,0.024281,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DVLjRgJDs5J,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,1,0.033273,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DR1lAl1DNyj,WWF Namibia,Carousel,31,species_spotlight_facts,False,False,0,0.010893,0.4646716157857046,2.9177331983127446,-0.8904135843955368,hi,hi,lo,False,False,False,False
+DVtYmYXDoF9,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.035072,-0.6981530213536047,-1.2483699148045293,1.7363067082069512,lo,lo,hi,False,False,False,False
+DRoh4CgjIdg,WWF Namibia,Image,11,org_update_identity,False,False,0,0.004357,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DV1DmH0CkLB,Gobabeb Research & Training Centre,Carousel,19,research_dispatch,False,False,0,0.036871,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DSSZ_zZjCkl,WWF Namibia,Image,23,education_youth,False,False,0,0.002801,-1.8925578068560636,0.8349880706056275,-1.164365376091808,lo,hi,lo,False,False,False,False
+DSVAuMcDEaR,WWF Namibia,Carousel,5,species_spotlight_facts,False,False,0,0.009026,0.30092384400442185,0.41235731584583385,-1.968542513328037,mid,mid,lo,False,False,False,False
+DVOUUsFiHNk,Namibia Nature Foundation,Carousel,27,research_dispatch,False,False,0,0.012174,-0.12299296712236407,-0.2825818732147056,-1.2672521581888723,mid,mid,lo,False,False,False,False
+DVYvl7RiVL5,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.029676,-0.12299296712236407,-0.2825818732147056,-1.2672521581888723,mid,mid,lo,False,False,False,False
+DRZpsCYDKQo,WWF Namibia,Carousel,-1,outlier_atypical,False,False,0,0.013072,-1.6098157471053987,1.4654228226510497,0.47663109940505327,lo,hi,hi,False,False,False,False
+DU0iQhODA9h,Elephant Human Relations Aid,Video,0,coexistence_community_livelihoods,False,False,0,0.015093,2.4766207655466883,2.075662414822509,-0.09680351848622652,hi,hi,mid,False,False,False,False
+DRjpDiHjHFV,WWF Namibia,Carousel,23,education_youth,False,False,0,0.007158,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,False
+DVlOuZXjkcq,Gobabeb Research & Training Centre,Carousel,-1,outlier_atypical,False,False,0,0.054856,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DVOGgyQDCdJ,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,False,False,0,0.035072,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DUi1DKFEswt,Cheetah Conservation Fund,Carousel,18,rescue_intervention,False,True,6,0.016596,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DVTacFEDDjq,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,0,0.006534,-0.7033424127493154,2.3092826361345535,-1.1760781120407375,lo,hi,lo,False,False,False,False
+DRbhlL9jFj-,WWF Namibia,Carousel,0,coexistence_community_livelihoods,False,False,0,0.016807,0.30092384400442185,0.41235731584583385,-1.968542513328037,mid,mid,lo,False,False,False,True
+DUamruyjIvp,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,5,0.022087,2.4766207655466883,2.075662414822509,-0.09680351848622652,hi,hi,mid,False,False,False,False
+DU8Q-V6Eh8X,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,0,0.016013,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DVakVfSCFgS,Namibia Nature Foundation,Image,-1,outlier_atypical,False,False,0,0.011325,-1.7340795392634896,2.5218029709153718,-0.927884476352978,lo,hi,lo,True,False,False,True
+DUq4ZLtj73l,Cheetah Conservation Fund,Video,28,org_update_identity,False,False,2,0.003708,1.3463583261828032,-0.06311356046343028,0.16034044786470233,hi,mid,mid,False,False,False,False
+DVOQ3h4DCqP,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,2,0.011412,0.30784562585218955,1.9467862087457322,0.07464716609799092,mid,hi,mid,False,False,False,False
+DVIvSh2jPbB,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,4,0.019786,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DU-1O9BCJ5U,Namibia Nature Foundation,Video,10,coexistence_community_livelihoods,True,False,0,0.009343,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,False,False,False
+DU_BedZDHK_,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,3,0.0127,0.8696331425345799,1.3655535129115726,-0.9062909330677156,hi,hi,lo,False,False,False,False
+DUlJ-T9DMsS,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,3,0.01086,-0.5850207951063802,0.883134658631851,0.04319305775920833,mid,hi,mid,False,False,False,False
+DVan0V-iFrF,Namibia Nature Foundation,Carousel,14,policy_governance,False,False,0,0.007361,-0.13286458659347317,1.4691641684705414,-1.2047247518345563,mid,hi,lo,False,False,False,False
+DU-z_9ziHyK,Namibia Nature Foundation,Video,10,coexistence_community_livelihoods,True,False,0,0.00906,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DUVa739DPUG,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,0,0.012056,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,True
+DTe7EkljNLD,WWF Namibia,Image,-1,outlier_atypical,False,False,0,0.00498,-1.8057967028329667,-0.12968100151828788,-1.9065647733236353,lo,mid,lo,False,False,False,False
+DWB8QHqjWrn,Namibia Nature Foundation,Video,10,coexistence_community_livelihoods,False,False,0,0.011325,-1.2720517112794731,1.3560864390688154,-2.238329692301059,lo,hi,lo,False,False,False,False
+DVdH45gAVk4,Namibia Nature Foundation,Image,6,policy_governance,False,False,0,0.003114,-0.13286458659347317,1.4691641684705414,-1.2047247518345563,mid,hi,lo,False,False,False,False
+DUQkt2iDA7P,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,6,0.017578,-0.2695539821514203,1.2524757835098466,-1.9398958735342184,mid,hi,lo,False,False,False,False
+DUGHK9qjPW3,Elephant Human Relations Aid,Video,0,coexistence_community_livelihoods,False,True,8,0.040217,0.30902693584984675,0.45392593889033767,-0.940171699628213,mid,mid,lo,False,False,False,False
+DVslJUkiCXw,Namibia Nature Foundation,Carousel,6,policy_governance,False,False,0,0.012741,-0.5850207951063802,0.883134658631851,0.04319305775920833,mid,hi,mid,False,False,False,False
+DUDUlzWDmzd,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.003076,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DWGMzA5iEYq,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,0,0.005663,-0.1530008921341695,1.6196424707368946,0.3702735163198675,mid,hi,hi,False,False,False,False
+DULC8MvjkTx,Ongava Game Reserve,Image,2,ecotourism_aesthetic,False,False,0,0.003691,-0.3903969105394846,0.5445180455648361,0.6588715910095791,mid,hi,hi,False,False,False,False
+DUQMkcKCKzR,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,False,0,0.004921,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVqFzwkiKC1,Namibia Nature Foundation,Carousel,33,coexistence_community_livelihoods,False,False,2,0.039071,-0.6934707932782062,0.5575365944493067,-1.2386055183950537,lo,hi,lo,False,False,False,False
+DQ33W_MDIWT,WWF Namibia,Image,6,policy_governance,False,False,0,0.003112,-0.9898197664263845,0.14689357903426178,-1.1954386741073415,lo,mid,lo,False,False,False,False
+DQwc21VjCay,WWF Namibia,Carousel,14,policy_governance,False,False,0,0.007158,-0.5937111045798322,1.1420204304617037,-0.9090984016126795,mid,hi,lo,False,False,False,False
+DTrtFpEjvQr,Ongava Game Reserve,Image,1,ecotourism_aesthetic,True,False,0,0.004042,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DSrIVS5jgIs,Ongava Game Reserve,Image,1,ecotourism_aesthetic,False,False,1,0.003251,-0.2525262049838802,-0.7316538393298634,0.3792238469830369,mid,mid,hi,False,False,False,False
+DT2qXbkDhAW,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,0,0.004657,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DTHj9wWDrOW,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.003779,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTz6o0ADgsG,Ongava Game Reserve,Image,5,species_spotlight_facts,False,False,0,0.01239,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DROlo6ODMZ2,WWF Namibia,Image,11,org_update_identity,True,False,0,0.010893,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,True,False
+DTMth9CDqsA,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.002548,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DS1iZTWjqdX,Ongava Game Reserve,Image,-1,outlier_atypical,False,False,0,0.00536,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DTCaWV3DqXt,Ongava Game Reserve,Image,-1,outlier_atypical,False,False,0,0.003603,0.04275770813326639,-1.3373331295319055,-0.9415640018649687,mid,lo,lo,False,False,False,False
+DSRfVglE9R7,Namibia Nature Foundation,Image,27,research_dispatch,False,False,0,0.005096,-0.12299296712236407,-0.2825818732147056,-1.2672521581888723,mid,mid,lo,False,False,False,False
+DSUdHpljhNG,Namibia Nature Foundation,Carousel,14,policy_governance,False,False,1,0.011042,-0.9426250846623527,2.285102774274125,-2.4274791350289275,lo,hi,lo,False,False,False,True
+DTu6OvXDGvb,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,1,0.008099,-1.5962088337078852,1.2456310860206725,-1.2075322203795202,lo,hi,lo,False,False,False,False
+DUak3CWihKh,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,0,0.015572,-2.28815635380504,1.6794888312581615,-0.8526001912833258,lo,hi,lo,False,False,False,False
+DTc2Yz7FK4g,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,False,1,0.004657,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DTpriFKDEoy,Elephant Human Relations Aid,Carousel,1,ecotourism_aesthetic,False,False,0,0.010215,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DUAvy1HCrdK,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,False,0,0.006854,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTpkqRcjKoI,Elephant Human Relations Aid,Carousel,-1,outlier_atypical,False,False,0,0.007915,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DUDwkx3CoSw,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,False,False,0,0.034173,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DTdBVo0DE80,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,0,0.011872,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DU-z0VTCIDD,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,0,0.016704,-0.517055995876508,3.6959098740773952,-1.927227839935734,mid,hi,lo,False,False,False,False
+DTQJTa4DCHb,Elephant Human Relations Aid,Video,0,coexistence_community_livelihoods,False,False,1,0.017486,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DT-LDRWDLjo,Elephant Human Relations Aid,Carousel,-1,outlier_atypical,False,False,1,0.008375,-1.4632547320763425,-0.06963483407350234,1.149274814750399,lo,mid,hi,False,False,False,False
+DUYS-aeDTbR,Gobabeb Research & Training Centre,Image,17,research_dispatch,True,False,0,0.043165,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DUIs9smjU9U,Gobabeb Research & Training Centre,Carousel,13,research_dispatch,False,False,1,0.041367,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DUFkxsrAbe6,Gobabeb Research & Training Centre,Image,-1,outlier_atypical,True,False,0,0.040468,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTZwVuyDPzv,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,0,0.009295,-1.0312348291041318,0.6668729780315409,1.4763552733110583,lo,hi,hi,False,False,False,False
+DS8gr-cjs7N,Ongava Game Reserve,Image,1,ecotourism_aesthetic,False,False,1,0.003515,-0.2525262049838802,-0.7316538393298634,0.3792238469830369,mid,mid,hi,False,False,False,False
+DQ_R3ppjGei,WWF Namibia,Video,-1,outlier_atypical,False,False,0,0.00498,-1.9061647202535774,1.0547798072360046,0.5197979436927654,lo,hi,hi,False,False,False,False
+DUlFFvqlza-,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,False,False,1,0.035971,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DUu_PDljEOn,Gobabeb Research & Training Centre,Image,19,research_dispatch,False,False,0,0.024281,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DUsTl7-CLzI,Gobabeb Research & Training Centre,Carousel,5,species_spotlight_facts,False,False,0,0.070144,2.3387500599910838,3.3518342997172086,0.1828442255403155,hi,hi,mid,False,False,False,False
+DUirI8jCpq9,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.039568,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DUm4LN7ij2P,Gobabeb Research & Training Centre,Carousel,-1,outlier_atypical,False,False,0,0.031475,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DUxWVHkkQKe,Gobabeb Research & Training Centre,Carousel,19,research_dispatch,True,False,0,0.026079,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTz7HPojK0l,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,1,0.012056,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DUSPBlNAdD2,Gobabeb Research & Training Centre,Image,17,research_dispatch,False,False,0,0.035072,-0.9308668116835213,-0.5175878307227515,-0.9500074437053421,lo,mid,lo,False,False,False,False
+DUz7IcljPlu,Gobabeb Research & Training Centre,Image,12,research_dispatch,False,False,0,0.033273,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DR_9tu4DEa9,WWF Namibia,Carousel,10,coexistence_community_livelihoods,False,False,1,0.011204,-1.1554986212622225,1.7232531262958635,0.07183969755302698,lo,hi,mid,True,False,False,False
+DTSSRVGDovn,Gobabeb Research & Training Centre,Image,11,org_update_identity,False,False,1,0.028777,-1.2272157848316996,-0.9282308461377964,-0.9068405994176301,lo,lo,lo,False,False,False,False
+DSAAY7CCL0h,Namibia Nature Foundation,Image,5,species_spotlight_facts,False,False,0,0.004247,-2.171646023396762,3.5072830130425663,-5.568934490911032,lo,hi,lo,False,False,False,False
+DRUoRnVip6U,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,0,0.005663,-0.9996913858974935,1.8986396207195089,-1.1329112677530255,lo,hi,lo,False,False,False,False
+DTkwKMyDiTL,Gobabeb Research & Training Centre,Image,19,research_dispatch,False,False,0,0.044964,0.07163091744453173,-0.6211984862817205,-0.6515736249385015,mid,mid,lo,False,False,False,False
+DRwLY29iqCu,Namibia Nature Foundation,Carousel,0,coexistence_community_livelihoods,False,False,0,0.008211,0.30092384400442185,0.41235731584583385,-1.968542513328037,mid,mid,lo,False,False,False,False
+DRysmMAjjkE,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.003779,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTZ8t_rjf0K,Gobabeb Research & Training Centre,Carousel,19,research_dispatch,False,False,0,0.018885,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DRkD-f8ChaE,Namibia Nature Foundation,Image,10,coexistence_community_livelihoods,False,False,0,0.004813,-1.2720517112794731,1.3560864390688154,-2.238329692301059,lo,hi,lo,False,False,False,False
+DTP7j3RDHLk,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,False,False,1,0.052158,-0.12299296712236407,-0.2825818732147056,-1.2672521581888723,mid,mid,lo,False,False,False,False
+DRyly-3Elxh,Namibia Nature Foundation,Image,6,policy_governance,False,False,0,0.002548,-1.647318435240393,1.5571338987914565,-1.6700838735848054,lo,hi,lo,False,False,False,False
+DSRmHo9jktf,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.002812,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DT0Ic-vDqZS,Gobabeb Research & Training Centre,Image,17,research_dispatch,False,False,0,0.033273,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DRoZZFWDisZ,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,0,0.006591,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DUafvG0Dt8S,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.003251,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTczhoqCMi3,Gobabeb Research & Training Centre,Image,-1,outlier_atypical,False,False,0,0.035072,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DTxbld2jk4g,Gobabeb Research & Training Centre,Carousel,19,research_dispatch,False,False,0,0.023381,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DSjumFdDrHH,Ongava Game Reserve,Image,2,ecotourism_aesthetic,False,False,0,0.002197,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DTsjxydDrqm,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.026978,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DSWvw0ojpo2,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,True,False,1,0.005272,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRUeLV4kVdA,Namibia Nature Foundation,Video,6,policy_governance,False,False,0,0.010193,-2.0223254205662426,2.152728578544831,0.14365318163455768,lo,hi,mid,False,False,False,False
+DRti-4hkrSH,Ongava Game Reserve,Video,2,ecotourism_aesthetic,False,False,0,0.008084,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DSANRZ7Csag,Namibia Nature Foundation,Carousel,11,org_update_identity,False,False,0,0.00906,-1.8844547150106385,0.8765566936501313,-0.13599456239198435,lo,hi,mid,False,False,False,False
+DRylxXvCGVv,Namibia Nature Foundation,Carousel,-1,outlier_atypical,False,False,0,0.008777,-1.3838827951805286,4.125385326326362,-1.8554143558542033,lo,hi,lo,False,False,False,False
+DUVWG6IDlEW,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.002812,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DSHS8tCjoMU,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.002109,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DSo4McVCYZ-,Ongava Game Reserve,Video,5,species_spotlight_facts,False,False,0,0.006063,0.689706613631891,1.4412195844501414,0.8551071305624122,hi,hi,hi,False,False,False,False
+DTxnqemDkJW,Gobabeb Research & Training Centre,Carousel,13,research_dispatch,False,False,1,0.035072,-0.12299296712236407,-0.2825818732147056,-1.2672521581888723,mid,mid,lo,False,False,False,False
+DScAMoqDGfB,Ongava Game Reserve,Video,25,research_dispatch,False,False,1,0.006063,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DR32LTpDqq9,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.005888,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DSMjgNigije,Ongava Game Reserve,Video,0,coexistence_community_livelihoods,True,False,2,0.006591,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DUl-h-iDtVF,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,True,False,0,0.003866,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DWn0BodDtvi,Gobabeb Research & Training Centre,Image,12,research_dispatch,False,False,0,0.035072,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DU2k5TgCEm4,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,False,0,0.004306,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DRkDGmqil3i,Namibia Nature Foundation,Carousel,6,policy_governance,False,False,0,0.007361,-2.0418356500776094,0.7289150105460062,0.1495506408443942,lo,hi,mid,False,False,False,False
+DUvBEwdiOJq,Ongava Game Reserve,Video,2,ecotourism_aesthetic,True,True,6,0.016872,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,True
+DU-uqVPiIUw,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,True,False,1,0.009666,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DU0deWyDr98,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,True,False,1,0.010281,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DSCJVfvDiLC,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.003954,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DW3h9rpioLY,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.035072,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DUGAYhbjqCg,Save the Rhino Trust Namibia,Carousel,5,species_spotlight_facts,False,False,2,0.002175,0.11922878747604891,2.2813380521141533,0.8837537703562309,mid,hi,hi,False,False,False,False
+DUF8p2CDAtQ,WWF Namibia,Image,-1,outlier_atypical,False,False,0,0.007158,-2.567477549785678,-0.7152838069965932,1.5096863735216415,lo,mid,hi,False,False,False,False
+DU3V6-wjMVm,WWF Namibia,Image,-1,outlier_atypical,False,False,0,0.006225,-0.9898197664263845,0.14689357903426178,-1.1954386741073415,lo,mid,lo,False,False,False,False
+DW6B_l-iuQh,Namibia Youth Chamber of Environment,Image,1,ecotourism_aesthetic,False,False,1,0.011057,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXLuD9Wijhj,Namibia Youth Chamber of Environment,Image,0,coexistence_community_livelihoods,False,False,0,0.009214,-0.3114791597267433,-0.06717242957284986,0.13379261658103755,mid,mid,mid,False,False,False,False
+DUiOGOniVHI,Ongava Game Reserve,Video,7,education_youth,False,False,1,0.0058,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DSrLZqAACD4,Save the Rhino Trust Namibia,Video,5,species_spotlight_facts,False,True,5,0.007492,-0.8819569858825854,0.7729460380911624,0.1624392563748562,lo,hi,mid,False,False,False,False
+DSmTYczjsqm,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.005317,1.210818042130532,-0.5081207568799943,0.3820313155280009,hi,mid,hi,False,False,False,False
+DTw-cFFjt7_,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.004994,1.5349751645589438,-0.39766540383185156,-0.6487661563935375,hi,mid,lo,False,False,False,False
+DW6RMLZinP8,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.042266,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DXZHhSxCp6z,Namibia Youth Chamber of Environment,Carousel,16,education_youth,False,False,0,0.039926,-2.2711285766374996,-0.3046407915815484,1.4665195292339293,lo,mid,hi,False,False,False,False
+DTSTWrNDnOT,Gobabeb Research & Training Centre,Image,11,org_update_identity,False,False,1,0.009892,-1.2272157848316996,-0.9282308461377964,-0.9068405994176301,lo,lo,lo,False,False,False,False
+DXbqlj7CmfU,Namibia Youth Chamber of Environment,Image,20,commemoration_awareness,False,False,0,0.010442,-1.1554986212622225,1.7232531262958635,0.07183969755302698,lo,hi,mid,True,False,False,False
+DUDNt00DuTz,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,2,0.010391,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DXOW8EeCnoE,Namibia Youth Chamber of Environment,Carousel,7,education_youth,True,False,0,0.007371,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXEgAVWCtkH,Namibia Youth Chamber of Environment,Video,1,ecotourism_aesthetic,False,False,2,0.022727,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DTxCXWpDE4V,WWF Namibia,Video,11,org_update_identity,False,True,4,0.018363,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DS1wKIEjqZf,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.007894,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DXeGKudihBK,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,0,0.026897,-1.7340795392634896,2.5218029709153718,-0.927884476352978,lo,hi,lo,False,False,False,False
+DTHxtDGDjph,Save the Rhino Trust Namibia,Carousel,5,species_spotlight_facts,False,False,0,0.002497,-0.7070777066757199,0.7773283310796837,0.4455578013895199,lo,hi,hi,False,False,False,False
+DW8ck9sijNW,Namibia Youth Chamber of Environment,Video,16,education_youth,False,False,0,0.022113,-4.452067812369914,-0.06014395087606572,5.335050757411122,lo,mid,hi,False,False,False,False
+DXbo4bICltt,Namibia Nature Foundation,Image,-1,outlier_atypical,False,False,0,0.011891,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,True,False,False,False
+DQyN13UDdWR,Ongava Game Reserve,Image,2,ecotourism_aesthetic,False,False,1,0.006766,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DXodK1uCjQS,Namibia Youth Chamber of Environment,Carousel,16,education_youth,False,False,1,0.038084,-1.8844547150106385,0.8765566936501313,-0.13599456239198435,lo,hi,mid,False,False,False,False
+DQ_hY2pDcxc,Namibia Nature Foundation,Carousel,13,research_dispatch,False,False,0,0.008494,-0.6934707932782062,0.5575365944493067,-1.2386055183950537,lo,hi,lo,False,False,False,False
+DQ9QJa0iknB,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,0,0.00906,-1.5962088337078852,1.2456310860206725,-1.2075322203795202,lo,hi,lo,False,False,False,False
+DSCwOfFDlpl,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.031475,0.07163091744453173,-0.6211984862817205,-0.6515736249385015,mid,mid,lo,False,False,False,False
+DRgkG3FDuJS,Ongava Game Reserve,Image,2,ecotourism_aesthetic,False,False,0,0.004569,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DRzYNeKCo0L,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.057554,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DRL9xcejsyu,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.00246,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRKJ-EZigFp,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,0,0.011608,-0.5937111045798322,1.1420204304617037,-0.9090984016126795,mid,hi,lo,False,False,False,False
+DSMVuCOCTl_,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,False,True,4,0.058453,1.2084876206271988,1.2130583244312694,0.4399881918912442,hi,hi,hi,False,False,False,False
+DRKTe9SitKH,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,0,0.013307,0.07163091744453173,-0.6211984862817205,-0.6515736249385015,mid,mid,lo,False,False,False,False
+DSXZ7bpjjzq,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,True,False,1,0.180755,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRKPnfYCp6K,Namibia Nature Foundation,Carousel,10,coexistence_community_livelihoods,False,False,1,0.016138,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DS1qVQYjqcs,Gobabeb Research & Training Centre,Carousel,1,ecotourism_aesthetic,True,False,1,0.035971,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DScbrOljail,Gobabeb Research & Training Centre,Carousel,19,research_dispatch,False,False,0,0.063849,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DRCbRmxja_O,Namibia Nature Foundation,Carousel,-1,outlier_atypical,False,False,0,0.022367,-0.8412131183049198,3.5854545210292526,-0.8964303680141954,lo,hi,lo,False,False,False,False
+DT2pb6hiLJo,NACSO,Carousel,6,policy_governance,False,False,0,0.032787,-3.1134962700115207,2.110593175454251,-1.859614126635923,lo,hi,lo,False,False,False,False
+DSIF5R8D3c2,Gobabeb Research & Training Centre,Video,19,research_dispatch,False,False,0,0.035072,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DUDbb2FjD8p,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,True,4,0.017486,1.121726516604102,2.177727396555184,1.1821875891230713,hi,hi,hi,False,False,False,False
+DReHoxSjt92,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,True,False,0,0.004569,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DT2HsqsjWhH,NACSO,Carousel,6,policy_governance,False,False,0,-0.002342,-0.5676714829252828,2.6351474328245517,-0.8058308091923662,mid,hi,lo,False,False,False,False
+DRl0mmRiO6j,Ongava Game Reserve,Video,1,ecotourism_aesthetic,False,False,0,0.007118,-2.4334654407162937,-0.4871569986243809,4.247755075160229,lo,mid,hi,False,False,False,False
+DUaqWnPCDxU,NACSO,Carousel,6,policy_governance,False,False,0,0.028103,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DS62I6pDk7E,Gobabeb Research & Training Centre,Carousel,16,education_youth,False,False,1,0.03777,-3.3307816720719123,0.6523723945064417,-5.601780901486571,lo,hi,lo,False,False,False,False
+DRWQ-B9jmwx,Ongava Game Reserve,Image,2,ecotourism_aesthetic,True,False,0,0.004657,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRTyj6qimZ8,Namibia Nature Foundation,Carousel,27,research_dispatch,False,False,0,0.010193,0.6320027482806014,2.057241561793875,-0.9561503058235477,hi,hi,lo,False,False,False,False
+DSZ25aFj-dD,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.047662,-0.12299296712236407,-0.2825818732147056,-1.2672521581888723,mid,mid,lo,False,False,False,True
+DXPmUSmAsWS,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,4,0.011449,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXwKK3PCoiw,Namibia Youth Chamber of Environment,Carousel,-1,outlier_atypical,False,False,2,0.030098,-4.214671793964598,1.0149804742959925,5.0464526827214105,lo,hi,hi,False,False,False,False
+DXbynlCjsnU,Gobabeb Research & Training Centre,Image,20,commemoration_awareness,True,False,0,0.011691,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,True,False,False,False
+DXg39MKjeJB,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,False,False,1,0.068345,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DXUv-0KjLn4,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,3,0.005778,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DXbSywhDQWF,Gobabeb Research & Training Centre,Carousel,7,education_youth,True,False,1,0.076439,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DWEnQrpO-q8,AfriCat Foundation,Video,32,research_dispatch,False,False,2,0.007772,1.9168361523386452,-0.9032320281274425,0.13169380807088368,hi,lo,mid,False,False,False,False
+DV84SaljvmX,AfriCat Foundation,Video,13,research_dispatch,False,True,4,0.013169,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DVbcgVLDPGM,AfriCat Foundation,Video,32,research_dispatch,False,False,2,0.006153,2.9092278861469265,2.511715832053196,0.15419758574649686,hi,hi,mid,False,False,False,False
+DWb7j2uDMKS,AfriCat Foundation,Carousel,5,species_spotlight_facts,False,False,2,0.00788,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DVRGvV1DNZT,AfriCat Foundation,Video,32,research_dispatch,False,True,7,0.027147,2.8097025732972156,0.16041952198643872,0.16314791640966628,hi,mid,mid,False,False,False,False
+DQn6pZKjmE6,Ongava Game Reserve,Image,2,ecotourism_aesthetic,False,False,1,0.003515,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,False,False,False
+DWMgGWFjOeC,AfriCat Foundation,Carousel,13,research_dispatch,False,False,1,0.006692,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DXofbb7Dbv5,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.029676,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DVq2xA8DRA_,AfriCat Foundation,Video,25,research_dispatch,False,False,0,0.005775,2.1542321707439602,0.17189239704461579,-0.15690426661882792,hi,mid,mid,False,False,False,False
+DVykjIEDLEb,AfriCat Foundation,Video,25,research_dispatch,False,True,5,0.013276,2.1542321707439602,0.17189239704461579,-0.15690426661882792,hi,mid,mid,False,False,False,False
+DXKc58qjZ0A,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,3,0.003381,0.012677962701668538,0.043282923475292834,-0.8970048553405009,mid,mid,lo,False,False,False,False
+DXoAP_2lqoE,N/a'an ku se Foundation,Image,22,org_update_identity,False,False,0,0.00182,0.15537440445037076,0.25590653873739433,1.2629514038677716,mid,mid,hi,False,False,False,False
+DXhA84pFEFq,N/a'an ku se Foundation,Video,7,education_youth,False,False,2,0.003877,-3.4359631698443462,-0.3835463430654119,3.949321256393389,lo,mid,hi,False,False,False,True
+DW6x4dRjNxf,AfriCat Foundation,Carousel,13,research_dispatch,False,True,15,0.368557,3.047098591702531,1.2355439471584972,-0.1254501582800452,hi,hi,mid,False,False,False,False
+DXt_IDBD93L,N/a'an ku se Foundation,Video,-1,outlier_atypical,False,True,4,0.011091,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DXi6TshgSo5,N/a'an ku se Foundation,Carousel,-1,outlier_atypical,False,False,0,0.007349,-0.6981530213536047,-1.2483699148045293,1.7363067082069512,lo,lo,hi,False,False,False,False
+DV3Sws3jIWU,WWF Namibia,Video,0,coexistence_community_livelihoods,False,False,0,0.012761,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DWtzXr8ODrc,AfriCat Foundation,Video,32,research_dispatch,False,True,4,0.012953,1.9168361523386452,-0.9032320281274425,0.13169380807088368,hi,lo,mid,False,False,False,True
+DXwqAO0Fugv,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,True,4,0.004551,2.585070763718514,2.401260479005053,1.1849950576680353,hi,hi,hi,False,False,False,False
+DWUGbt-DAvh,Ministry of Environment Forestry & Tourism,Carousel,6,policy_governance,False,False,0,0.014334,-1.4605379038838529,1.571495882710671,-0.8372849175311489,lo,hi,lo,False,False,False,False
+DXwKk3HCCrp,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,True,False,0,0.008699,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVLyohjjzzO,NACSO,Carousel,6,policy_governance,False,False,0,0.037471,-1.1554986212622225,1.7232531262958635,0.07183969755302698,lo,hi,mid,False,False,False,False
+DXexE6XjJDv,AfriCat Foundation,Video,32,research_dispatch,False,True,4,0.01333,1.9168361523386452,-0.9032320281274425,0.13169380807088368,hi,lo,mid,False,False,False,False
+DXUcLv_jGa4,AfriCat Foundation,Carousel,-1,outlier_atypical,False,False,2,0.009984,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DXY1VUcAHbh,Save the Rhino Trust Namibia,Video,5,species_spotlight_facts,False,False,2,0.003544,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,False
+DXbSvspFoHk,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.004028,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,True
+DWyGEHKDo5E,Save the Rhino Trust Namibia,Carousel,5,species_spotlight_facts,False,False,0,0.001772,0.4174769340216728,0.779524003072882,0.34162687652604884,hi,hi,mid,False,False,False,False
+DXqvhiqlt1o,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,1,0.002094,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DXJRMa_AkWD,Save the Rhino Trust Namibia,Video,7,education_youth,False,False,0,0.007411,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DXWX-PXFqnF,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.002417,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DVnoukUjl9S,Harnas Wildlife Foundation,Image,7,education_youth,False,False,0,0.001267,-1.01982769143819,2.049117922985862,0.4420870004013982,lo,hi,hi,False,False,False,False
+DXgcXcbFpJy,Save the Rhino Trust Namibia,Carousel,5,species_spotlight_facts,False,False,1,0.002739,-1.025731007552043,0.40551261835666014,-1.2361788601733388,lo,mid,lo,False,False,False,False
+DVvCknRjvf6,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,True,False,1,0.002964,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXpCdUhjNBm,AfriCat Foundation,Video,25,research_dispatch,False,True,8,0.021372,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DVQP4NojqaK,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,True,False,0,0.001312,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVc6DMtjoUk,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,1,0.001448,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVF8tnJDu1d,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,0,0.00258,1.692204342759944,1.3376089288911726,1.1535409493292526,hi,hi,hi,False,False,False,False
+DVXwcGxjjIi,Harnas Wildlife Foundation,Image,9,coexistence_community_livelihoods,False,False,2,0.001448,0.8843304981987868,1.1026029713831265,1.4707856638127828,hi,hi,hi,False,False,False,True
+DVJKgdwDE6k,Harnas Wildlife Foundation,Video,1,ecotourism_aesthetic,True,False,1,0.00663,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWf9kn4Dsd8,Harnas Wildlife Foundation,Image,31,species_spotlight_facts,False,False,2,0.005295,2.3476747453131988,1.3261360538329954,1.4735931323577467,hi,hi,hi,False,False,False,False
+DVl6803ArIo,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,0,0.005272,-0.6981530213536047,-1.2483699148045293,1.7363067082069512,lo,lo,hi,False,False,False,False
+DUz7FfoDqtk,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,1,0.00258,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVa3m5fDjN9,Harnas Wildlife Foundation,Image,31,species_spotlight_facts,False,False,1,0.002851,0.4174769340216728,0.779524003072882,0.34162687652604884,hi,hi,mid,True,False,False,False
+DWGNnrpDtYm,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,False,0,0.002195,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DViKhngjjX9,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,1,0.002037,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DU5EsvWjsxF,Harnas Wildlife Foundation,Carousel,-1,outlier_atypical,False,False,1,0.002127,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DU-OQhPjn88,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,1,0.003779,-0.12476149474804843,1.510732791515045,-0.17635393813473246,mid,hi,mid,False,False,False,False
+DVLGQ7hDvlC,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.002195,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DWN8CmPDmjg,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,False,0,0.002172,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DWYPQRHjtlS,Harnas Wildlife Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.00181,0.06152492212475906,2.8973600294578867,-0.927503666029729,mid,hi,lo,False,False,False,True
+DWTFsBgjvPD,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,True,False,2,0.002874,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWBEEBWjifc,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,0,0.00568,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DV76dOJjpxd,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.002942,-1.025731007552043,0.40551261835666014,-1.2361788601733388,lo,mid,lo,False,False,False,False
+DXuDcJQiA2H,Ministry of Environment Forestry & Tourism,Carousel,6,policy_governance,False,False,0,0.007589,-2.0304285124116674,2.111159955500327,-0.884717632065266,lo,hi,lo,False,False,False,False
+DXCuXRniIRH,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,True,4,0.005371,0.012677962701668538,0.043282923475292834,-0.8970048553405009,mid,mid,lo,False,False,False,False
+DXYu82YCEDr,Youth4CAN,Image,-1,outlier_atypical,False,False,1,0.008508,-4.785149620120441,1.8550989419600048,5.075099322515229,lo,hi,hi,True,True,False,False
+DRhNyZnjIg1,NACSO,Carousel,22,org_update_identity,False,False,0,0.032787,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DQ4p6A_j2N8,Save the Rhino Trust Namibia,Image,11,org_update_identity,False,False,0,0.002981,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DXb98OkiLtY,Ministry of Environment Forestry & Tourism,Carousel,24,policy_governance,True,False,0,0.005902,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,False,False,False
+DWerOqzAbIP,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,True,4,0.010357,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DU7v1hOilMn,Namibia Youth Chamber of Environment,Image,10,coexistence_community_livelihoods,False,False,0,0.012899,-1.3928946396675375,0.648128701123805,0.36043777224273843,lo,hi,hi,False,False,False,False
+DRSKePSDN6A,AfriCat Foundation,Video,13,research_dispatch,False,False,0,0.010956,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DWzDJHOkk7W,Cheetah Conservation Fund,Carousel,15,monitoring_conservation_tech,False,True,9,0.011794,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DV8ic1cCqAP,Namibia Youth Chamber of Environment,Image,16,education_youth,False,False,0,0.017199,-1.32758380225231,0.25622996261649605,1.5195221175987703,lo,mid,hi,False,False,False,False
+DQ3dSnjDP3l,WWF Namibia,Video,9,coexistence_community_livelihoods,False,False,2,0.010271,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DUyh38sDYy-,Giraffe Conservation Foundation,Image,4,monitoring_conservation_tech,False,False,1,0.003895,0.33506655750439596,1.9470529412531865,-0.8369041072078997,mid,hi,lo,False,False,False,False
+DTw3Yjzim57,Namibia Youth Chamber of Environment,Carousel,13,research_dispatch,False,False,0,0.010442,1.4482140605358471,0.5670036682920638,0.09343324083828944,hi,hi,mid,False,False,False,True
+DUP8i2Qigcf,Namibia Youth Chamber of Environment,Carousel,-1,outlier_atypical,True,False,0,0.019042,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,True,False,False,False
+DUOX2sXjWu-,Harnas Wildlife Foundation,Carousel,23,education_youth,False,False,2,0.002353,-0.6981530213536047,-1.2483699148045293,1.7363067082069512,lo,lo,hi,False,False,False,False
+DWn68aHCAaP,Ministry of Environment Forestry & Tourism,Image,24,policy_governance,True,False,0,0.012929,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DUm1Xg9Dmf3,Harnas Wildlife Foundation,Image,31,species_spotlight_facts,False,True,4,0.005431,1.4482140605358471,0.5670036682920638,0.09343324083828944,hi,hi,mid,False,False,False,True
+DUH7zAPjiP7,Harnas Wildlife Foundation,Image,9,coexistence_community_livelihoods,False,False,0,0.001403,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DW3KFFOCN4A,Ministry of Environment Forestry & Tourism,Image,-1,outlier_atypical,False,False,0,0.005059,-1.5684006844276517,0.9454434236537702,-2.195162848013347,lo,hi,lo,False,False,False,False
+DUPqMmljuGv,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.002127,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DW3WDZWiA6v,Ministry of Environment Forestry & Tourism,Image,-1,outlier_atypical,False,False,0,0.012366,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DW3Jis6CDlb,Ministry of Environment Forestry & Tourism,Image,14,policy_governance,False,False,0,0.002811,-1.5684006844276517,0.9454434236537702,-2.195162848013347,lo,hi,lo,False,False,False,False
+DW3WLwbiIzy,Ministry of Environment Forestry & Tourism,Image,24,policy_governance,False,False,0,0.008151,0.1800809156163576,-0.2956004220991762,0.6302249512157605,mid,mid,hi,False,False,False,False
+DW4f5mjjpGm,Ministry of Environment Forestry & Tourism,Video,-1,outlier_atypical,False,False,0,0.006464,0.44571633140779393,0.6706143238510328,-0.20500057792855111,hi,hi,mid,False,False,False,False
+DW3JUnYiHWQ,Ministry of Environment Forestry & Tourism,Image,29,policy_governance,False,False,0,0.005059,-1.8925578068560636,0.8349880706056275,-1.164365376091808,lo,hi,lo,False,False,False,False
+DWoNu2YiMLw,Ministry of Environment Forestry & Tourism,Video,24,policy_governance,True,False,0,0.019393,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWhVFUtDubq,Ministry of Environment Forestry & Tourism,Image,6,policy_governance,False,False,0,0.006745,-0.3724603807303601,1.996076424883181,-0.26623163026993146,mid,hi,lo,False,False,False,False
+DUYx4VLDCYU,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,0,0.003598,1.121726516604102,2.177727396555184,1.1821875891230713,hi,hi,hi,False,False,False,False
+DUdtwy-jdBl,Harnas Wildlife Foundation,Carousel,26,rescue_intervention,False,True,6,0.007241,3.047098591702531,1.2355439471584972,-0.1254501582800452,hi,hi,mid,False,False,False,False
+DUr-88XjjJb,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,False,0,0.001018,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,True
+DWI6-PhCgDu,Namibia Youth Chamber of Environment,Image,33,coexistence_community_livelihoods,False,False,0,0.007371,-2.1388785105834933,1.7855618913177829,-2.1665162082195284,lo,hi,lo,True,False,False,False
+DWlUKAsCBNC,Ministry of Environment Forestry & Tourism,Video,-1,outlier_atypical,False,False,0,0.004216,0.4174769340216728,0.779524003072882,0.34162687652604884,hi,hi,mid,False,False,False,False
+DWhU7LCjva2,Ministry of Environment Forestry & Tourism,Image,-1,outlier_atypical,False,False,0,0.007589,0.012677962701668538,0.043282923475292834,-0.8970048553405009,mid,mid,lo,False,False,False,False
+DUZ9b7jDh1Z,Harnas Wildlife Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.001312,-0.5850207951063802,0.883134658631851,0.04319305775920833,mid,hi,mid,False,False,False,False
+DXvye8QFSV3,Ocean Conservation Namibia,Image,3,rescue_intervention,False,True,15,0.000714,0.28015372653858145,-0.26220870435984767,-1.2301620765546804,mid,mid,lo,False,False,False,False
+DUvvTWQjyn4,Harnas Wildlife Foundation,Carousel,-1,outlier_atypical,False,True,4,0.005476,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DUuxi5_DvLg,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,False,2,0.005069,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXwUHbmk-oD,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.003081,0.20832031300247886,-0.4045101013210253,0.08359749676116039,mid,mid,mid,False,False,False,False
+DXWCXRoCX7X,N/a'an ku se Foundation,Image,9,coexistence_community_livelihoods,False,False,2,0.001921,1.121726516604102,2.177727396555184,1.1821875891230713,hi,hi,hi,False,False,False,False
+DRQ69T9ir4N,Namibia Youth Chamber of Environment,Image,14,policy_governance,False,False,1,0.039926,-2.1388785105834933,1.7855618913177829,-2.1665162082195284,lo,hi,lo,False,False,False,False
+DXtvQ9SgL98,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.013374,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DSsoe4NDfql,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,False,False,2,0.006184,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DUYeCeoDJs6,AfriCat Foundation,Video,25,research_dispatch,False,False,0,0.005883,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DVcrAuRjsnE,Cheetah Conservation Fund,Carousel,23,education_youth,False,True,4,0.005632,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,True,False,False,False
+DVBpQ6sjE5H,AfriCat Foundation,Video,13,research_dispatch,False,False,0,0.008473,1.0640226512528121,2.7937493738989176,-0.6290698472628884,hi,hi,lo,False,False,False,False
+DW8Lka0Dbrn,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.003337,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DV_qawHEpSw,Cheetah Conservation Fund,Image,-1,outlier_atypical,False,False,2,0.009799,0.5813872612318266,0.9964791205410312,0.16524672491982015,hi,hi,mid,False,False,False,False
+DU3rabWkYrT,N/a'an ku se Foundation,Carousel,9,coexistence_community_livelihoods,False,False,1,0.004416,1.2595972221597065,0.9015555116604851,0.9025398450965296,hi,hi,hi,False,False,False,False
+DQxCVcNj9Cw,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,5,0.014188,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVU4KuJDJ9A,Cheetah Conservation Fund,Video,28,org_update_identity,False,False,1,0.002278,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,False,False,False
+DQvrtOYjDeU,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,True,7,0.012754,1.2018933568084165,1.517577489004219,-0.9087175912894303,hi,hi,lo,False,False,False,False
+DRP79xHj7NN,Giraffe Conservation Foundation,Carousel,4,monitoring_conservation_tech,False,False,1,0.008795,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DVMmZpTjq1t,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,0,0.007381,1.9168361523386452,-0.9032320281274425,0.13169380807088368,hi,lo,mid,False,False,False,False
+DWTTNs3iO3h,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.006183,-1.263127025957358,-0.6696118068153981,-0.9475807854836272,lo,mid,lo,False,False,False,False
+DXOrcNijX05,Environmental Investment Fund,Carousel,14,policy_governance,False,False,0,0.015199,-0.5937111045798322,1.1420204304617037,-0.9090984016126795,mid,hi,lo,False,False,False,False
+DVfdclaCI5r,Environmental Investment Fund,Image,14,policy_governance,True,False,0,0.010133,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DWIac_JiEFz,Environmental Investment Fund,Image,20,commemoration_awareness,False,False,0,0.008233,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,True,False,False,False
+DUaaK2PjUEr,Environmental Investment Fund,Image,3,rescue_intervention,True,False,1,0.0095,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DXM5JzSjdGk,Environmental Investment Fund,Carousel,14,policy_governance,False,False,0,0.0038,0.3269634656589713,1.905484318208683,-1.8652749209077237,mid,hi,lo,False,False,False,False
+DWdxehuCDJo,Ministry of Environment Forestry & Tourism,Video,24,policy_governance,False,False,0,0.004216,-1.025731007552043,0.40551261835666014,-1.2361788601733388,lo,mid,lo,False,False,False,False
+DUgMnW8jL3b,N/a'an ku se Foundation,Video,31,species_spotlight_facts,False,False,1,0.011731,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,False,False,False
+DXd19oFjkuQ,Ocean Conservation Namibia,Carousel,10,coexistence_community_livelihoods,False,True,3,0.002181,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DUbWtOygfZh,N/a'an ku se Foundation,Video,21,wildlife_series_broadcast,True,False,1,0.001685,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,True,False,False
+DWdkN4BiJyf,Ministry of Environment Forestry & Tourism,Carousel,29,policy_governance,False,False,0,0.014053,-0.26062929682930497,-0.7732224623743671,-0.6491469667167866,mid,mid,lo,False,False,False,False
+DXoC0N4mgkj,Ocean Conservation Namibia,Image,10,coexistence_community_livelihoods,False,True,15,0.004979,-0.7922499089152036,3.930349051539365,-3.219369048989921,lo,hi,lo,False,False,False,False
+DXmA4Gtj_Zh,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.019118,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DWef2hPCOlX,Ministry of Environment Forestry & Tourism,Carousel,29,policy_governance,False,False,0,0.005059,-1.8925578068560636,0.8349880706056275,-1.164365376091808,lo,hi,lo,False,False,False,False
+DXeSg6pAHo-,Ocean Conservation Namibia,Video,10,coexistence_community_livelihoods,False,False,0,0.002709,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DUYx5HdiD09,N/a'an ku se Foundation,Carousel,26,rescue_intervention,False,True,5,0.013787,2.9092278861469265,2.511715832053196,0.15419758574649686,hi,hi,mid,False,False,False,False
+DXZJA_liqWn,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.029791,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DXbt7IqCLKa,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.019748,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DUggUj0iE_S,N/a'an ku se Foundation,Carousel,26,rescue_intervention,False,False,0,0.00536,2.152463643118276,1.9652070617743664,0.9339939534353122,hi,hi,hi,False,False,False,False
+DXg3UF6CdnC,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.004814,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,False,False,False
+DXolt9eDCcN,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.019596,1.8561146699700983,1.5545640463593218,0.9771607977230242,hi,hi,hi,False,False,False,False
+DTfYVUaDupz,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.000996,0.11922878747604891,2.2813380521141533,0.8837537703562309,mid,hi,hi,False,False,False,False
+DXjcLK4D8YD,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.014672,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DWd8TPlCGNF,Ministry of Environment Forestry & Tourism,Video,-1,outlier_atypical,False,False,0,0.005902,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DTSgWRoloBs,Harnas Wildlife Foundation,Image,9,coexistence_community_livelihoods,True,False,0,0.00086,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DS9WiNDCKWA,Environmental Investment Fund,Image,11,org_update_identity,False,False,0,0.005066,-2.4630356330119056,1.67510653826964,-1.1357187362979895,lo,hi,lo,False,False,False,False
+DWTPuYYiBmk,Ministry of Environment Forestry & Tourism,Carousel,6,policy_governance,True,False,0,0.005059,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXtW3C-FV7E,Ocean Conservation Namibia,Carousel,10,coexistence_community_livelihoods,False,True,5,0.001023,-2.5255523722103543,0.604364406086103,-0.5640021165936141,lo,hi,lo,False,False,False,False
+DTaOutKjo18,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,False,1,0.002195,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXrKi2OD1Hm,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.019452,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DWPV37mjdwz,Environmental Investment Fund,Image,14,policy_governance,False,False,0,0.015199,-2.1299538252613783,-0.24013635456643073,-0.8757673014020966,lo,mid,lo,False,False,False,False
+DUANbOODsT-,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,False,1,0.001516,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTkh7UFjvTh,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.001312,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTitPQkAEdG,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,True,9,0.00749,1.0222012037543913,-0.17356891351157305,1.1911379197862408,hi,mid,hi,False,False,False,False
+DTsQUhIDj4F,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,True,False,0,0.004118,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DUCyOBzjtGW,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,True,False,0,0.002557,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DT_B707iWMb,Harnas Wildlife Foundation,Carousel,22,org_update_identity,False,False,0,0.002806,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DQtsfnrES6W,Environmental Investment Fund,Image,-1,outlier_atypical,False,False,0,0.008866,-1.8844547150106385,0.8765566936501313,-0.13599456239198435,lo,hi,mid,False,False,False,False
+DTn2xOlD7JJ,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,True,5,0.007626,1.0222012037543913,-0.17356891351157305,1.1911379197862408,hi,mid,hi,False,False,False,False
+DWdtfb8Cewk,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.03777,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DUqUliEDNSs,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,2,0.016289,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DSXuQFEiGjJ,Environmental Investment Fund,Image,16,education_youth,True,False,0,0.003167,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DQlvwlSjZA2,Environmental Investment Fund,Image,-1,outlier_atypical,False,False,0,0.062698,-2.567477549785678,-0.7152838069965932,1.5096863735216415,lo,mid,hi,False,False,False,False
+DSqL_CYjCQI,WWF Namibia,Image,11,org_update_identity,False,False,0,-0.000311,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DRy5ghiDT_W,Environmental Investment Fund,Image,11,org_update_identity,False,False,0,0.0114,-1.8844547150106385,0.8765566936501313,-0.13599456239198435,lo,hi,mid,False,False,False,False
+DWVnGAginZE,Gobabeb Research & Training Centre,Carousel,19,research_dispatch,False,False,0,0.044964,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DU-3de8iG-a,Namibia Nature Foundation,Video,10,coexistence_community_livelihoods,False,False,1,0.025764,-0.22471805570364656,-1.031841501696765,-0.6084067806507895,mid,lo,lo,False,False,False,False
+DS7VL1aDlsL,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.003326,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DSrc9q6DsW-,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.00172,-0.2525262049838802,-0.7316538393298634,0.3792238469830369,mid,mid,hi,False,False,False,False
+DSW2mrgjs6h,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,1,0.004231,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DSjukI4jv4D,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,1,0.001923,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVax_qWDIWT,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.01602,-1.1193530042879007,-0.30217838708089606,0.4510373310645676,lo,mid,hi,True,False,False,False
+DVYKqgYiKyD,Ministry of Environment Forestry & Tourism,Image,30,policy_governance,False,False,0,0.004497,-0.796377191857146,1.3011372358226416,0.4350587248692331,lo,hi,hi,False,False,False,False
+DTNWuvpjhud,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,0,0.000679,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DScBd6SjrLJ,Harnas Wildlife Foundation,Carousel,-99,outlier_atypical,True,False,0,0.002557,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DS2LnHADquv,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,False,0,0.00181,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DS9QwOEjtZU,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.001154,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXGonOCjTav,Ocean Conservation Namibia,Carousel,3,rescue_intervention,False,True,8,0.002194,-1.4632547320763425,-0.06963483407350234,1.149274814750399,lo,mid,hi,False,False,False,False
+DSRtCS7jnGX,Harnas Wildlife Foundation,Carousel,23,education_youth,False,False,0,0.002557,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DTINIX7jsOm,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,False,1,0.002308,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DVlqdpuofJi,Ministry of Environment Forestry & Tourism,Video,-1,outlier_atypical,False,False,0,0.012366,0.9055443836602383,1.1069344735891742,-0.8655507470017184,hi,hi,lo,False,False,False,False
+DVqA9lQCMB3,Ministry of Environment Forestry & Tourism,Carousel,30,policy_governance,False,False,0,0.006464,-1.0279307832836149,2.007549299941358,-0.5862838132984254,lo,hi,lo,False,False,False,False
+DVgNyhriNtn,Ministry of Environment Forestry & Tourism,Carousel,30,policy_governance,True,False,0,0.006745,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DVyJyHCoyal,Ministry of Environment Forestry & Tourism,Video,-1,outlier_atypical,False,False,0,0.011523,0.20612053727090696,1.1975265802636725,0.7334925436360737,mid,hi,hi,True,False,False,False
+DSo4NOsDnRq,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,1,0.002376,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DW_Y85EldJH,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.083718,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DWCAWs1iCox,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.010961,-2.0418356500776094,0.7289150105460062,0.1495506408443942,lo,hi,mid,False,False,False,False
+DXHHXHCCcgT,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.003534,-1.017627915706618,0.44708124140116395,-0.20780804647351506,lo,mid,mid,False,False,False,False
+DXJsM3zibUp,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.011645,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DWEYm7riHPW,Ministry of Environment Forestry & Tourism,Carousel,24,policy_governance,False,False,0,0.006745,-0.6867458836876628,0.13387503014979124,0.7020384352972912,lo,mid,hi,False,False,False,False
+DXB9wXvkQo4,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.01353,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DWD4O7tiJcr,Ministry of Environment Forestry & Tourism,Image,33,coexistence_community_livelihoods,False,False,1,0.008151,-2.1299538252613783,-0.24013635456643073,-0.8757673014020966,lo,mid,lo,True,False,False,False
+DXMRBetlLiz,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.016717,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DXEhT7-jsJy,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.004142,0.7258522306062131,-0.584211928926618,1.2343047640739528,hi,mid,hi,False,False,False,False
+DVgLWW3CIDY,Ministry of Environment Forestry & Tourism,Carousel,33,coexistence_community_livelihoods,False,False,0,0.00787,-0.3114791597267433,-0.06717242957284986,0.13379261658103755,mid,mid,mid,False,False,False,False
+DWBjc-BiA6-,Ministry of Environment Forestry & Tourism,Image,6,policy_governance,False,False,0,0.006745,-2.1299538252613783,-0.24013635456643073,-0.8757673014020966,lo,mid,lo,False,False,False,False
+DSKFeTFjnt2,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,True,False,0,0.004209,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXRbK38DM3W,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.003521,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,False,False,False
+DXO1x-NCC5k,Ocean Conservation Namibia,Video,3,rescue_intervention,True,True,15,0.037163,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DXQrA_0jvq3,Ocean Conservation Namibia,Carousel,10,coexistence_community_livelihoods,False,True,4,0.001188,-0.13836840814556212,1.7305245281454222,1.5078093816498408,mid,hi,hi,False,False,False,False
+DTkNTvlF3zS,Gobabeb Research & Training Centre,Image,27,research_dispatch,False,False,0,0.029676,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DXT_TNoj4Df,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.011129,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DW85lspilIK,Gobabeb Research & Training Centre,Image,2,ecotourism_aesthetic,True,False,0,0.032374,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DXWkHQnAsRS,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.019976,1.7204437401460657,1.2286992496693232,0.606913494874653,hi,hi,hi,False,False,False,False
+DTK_tKrDXs3,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,1,0.006902,-0.3114791597267433,-0.06717242957284986,0.13379261658103755,mid,mid,mid,False,False,False,False
+DURDVRDCI32,Namibia Nature Foundation,Carousel,-1,outlier_atypical,False,False,0,0.007644,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,True,False,False,False
+DRgx6pxiByy,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,False,0,0.002195,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DTe830ojmon,Save the Rhino Trust Namibia,Image,5,species_spotlight_facts,False,False,0,0.003061,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,False
+DQ9DYVGjs2Z,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,True,True,3,0.004503,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DSKaIfiFhcS,Gobabeb Research & Training Centre,Image,19,research_dispatch,False,False,0,0.033273,0.012677962701668538,0.043282923475292834,-0.8970048553405009,mid,mid,lo,False,False,False,False
+DTH5ocQDAMc,Elephant Human Relations Aid,Video,0,coexistence_community_livelihoods,True,True,4,0.018314,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DTigcpbjOyn,WWF Namibia,Image,6,policy_governance,False,False,0,0.006225,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DTSgXWbDah5,Gobabeb Research & Training Centre,Carousel,25,research_dispatch,False,False,2,0.039568,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,True
+DQiqMb_DhnI,Ongava Game Reserve,Video,1,ecotourism_aesthetic,True,False,0,0.005185,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRCM9WrjtFb,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.001969,-1.263127025957358,-0.6696118068153981,-0.9475807854836272,lo,mid,lo,False,False,False,False
+DU-u3Jljsfe,Ongava Game Reserve,Carousel,2,ecotourism_aesthetic,False,False,1,0.008084,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRT5_MkDmVi,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.002014,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DROwWkzAbdm,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.001652,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRJmW5KESJY,Harnas Wildlife Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.002625,1.2595972221597065,0.9015555116604851,0.9025398450965296,hi,hi,hi,False,False,False,False
+DRboXapDRPH,Harnas Wildlife Foundation,Image,31,species_spotlight_facts,True,True,5,0.006245,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWlpEQZkSwj,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.013116,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DQt0XptgQN5,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,True,False,0,0.040468,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DQ3lMB-CH-Q,Gobabeb Research & Training Centre,Carousel,19,research_dispatch,False,False,0,0.02518,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DQtEQWBjmNA,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.001991,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DWRCqLyAs94,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.018142,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DWk1d0DDHm-,Ocean Conservation Namibia,Image,3,rescue_intervention,False,True,15,0.002097,-0.33434936387312975,0.13542070397608483,-0.8753864910788475,mid,mid,lo,False,False,False,False
+DQ4Hgt0jmeW,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,True,False,2,0.003236,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DQ6lpEcAAZE,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,True,False,0,0.056655,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DRj2I1ODuFl,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.034173,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,True
+DWTncqqigcL,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.010863,1.4482140605358471,0.5670036682920638,0.09343324083828944,hi,hi,mid,False,False,False,False
+DQomPRvDhb2,Gobabeb Research & Training Centre,Carousel,3,rescue_intervention,True,False,0,0.027878,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,True
+DQrRbjNDa8w,Gobabeb Research & Training Centre,Carousel,19,research_dispatch,False,False,0,0.040468,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DQyN1z-jWP2,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,True,3,0.006019,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRMLifyj68e,Gobabeb Research & Training Centre,Carousel,27,research_dispatch,False,False,1,0.024281,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,True
+DWlb2t7FEje,Ocean Conservation Namibia,Image,3,rescue_intervention,False,True,15,0.003521,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DRmG7PPDcg3,Gobabeb Research & Training Centre,Image,-99,outlier_atypical,False,False,0,0.011691,-1.2272157848316996,-0.9282308461377964,-0.9068405994176301,lo,lo,lo,False,False,False,False
+DSZYkGrjC9V,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,1,0.007178,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DWiVP96AE8O,Ocean Conservation Namibia,Image,3,rescue_intervention,False,True,15,0.001052,1.4971772699255632,0.9118981988021765,-2.229505440137436,hi,hi,lo,False,False,False,False
+DSUkrmxDAR0,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,0,0.009295,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DWd6n6mD1JJ,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.013492,0.20832031300247886,-0.4045101013210253,0.08359749676116039,mid,mid,mid,False,False,False,False
+DWYxBt2jWH0,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.013953,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DQ_hYO8jUi7,Gobabeb Research & Training Centre,Carousel,-1,outlier_atypical,False,False,0,0.06205,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,True
+DWWMPeZggaK,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.015995,-0.265871611019453,1.1345794773077909,5.0911232563022155,mid,hi,hi,False,False,False,False
+DWbV1NRgceI,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.014236,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DWjEN2Vk60m,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.015416,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DSsJpdCDG-G,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,0,0.010123,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DScZSW5jCsp,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,0,0.007915,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DWgLGvxDPxZ,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.153737,1.6187186515647825,0.4794396211872632,1.2657588724127355,hi,hi,hi,False,False,False,False
+DSPnMuDDPRG,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,0,0.007086,1.5756512527426934,0.9704422416641244,-1.156628440524833,hi,hi,lo,False,False,False,False
+DSkb8crjN7Y,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,True,False,1,0.014817,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DSnAE6BjL8j,Elephant Human Relations Aid,Video,7,education_youth,False,True,8,0.027333,-1.386161053497462,0.2301785268902879,4.233466794258963,lo,mid,hi,False,False,False,False
+DSpk1urDKtR,Elephant Human Relations Aid,Video,0,coexistence_community_livelihoods,False,False,0,0.014265,-0.1530008921341695,1.6196424707368946,0.3702735163198675,mid,hi,hi,False,False,False,False
+DQoIZkHDhRS,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,1,0.001697,1.4548083243546293,0.26248450371911425,1.442139024018964,hi,mid,hi,False,False,False,False
+DS4mHSFjKnm,Elephant Human Relations Aid,Carousel,1,ecotourism_aesthetic,False,False,1,0.01721,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DS7R0D8DCQb,Elephant Human Relations Aid,Carousel,1,ecotourism_aesthetic,False,False,0,0.010123,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DVMf89JiGPo,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.006183,-0.22471805570364656,-1.031841501696765,-0.6084067806507895,mid,lo,lo,False,False,False,False
+DVX_zeIiLj_,Ministry of Environment Forestry & Tourism,Carousel,29,policy_governance,False,False,0,0.02136,-2.1299538252613783,-0.24013635456643073,-0.8757673014020966,lo,mid,lo,False,False,False,False
+DVYAZe_iKyK,Ministry of Environment Forestry & Tourism,Image,-1,outlier_atypical,False,False,0,0.007589,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DUHugIJCJJQ,Ministry of Environment Forestry & Tourism,Carousel,24,policy_governance,False,False,0,0.009556,-0.8900600777280103,0.7313774150466587,-0.8659315573249674,lo,hi,lo,False,False,False,False
+DVO6X1fiLN9,Ministry of Environment Forestry & Tourism,Carousel,30,policy_governance,False,False,0,0.014896,-0.796377191857146,1.3011372358226416,0.4350587248692331,lo,hi,hi,False,False,False,False
+DVMfs3aCDL-,Ministry of Environment Forestry & Tourism,Carousel,24,policy_governance,False,False,0,0.007026,-1.1274560961333255,-0.34374701012539977,-0.577333482635256,lo,mid,lo,False,False,False,False
+DVRF9_RCMyN,Ministry of Environment Forestry & Tourism,Carousel,30,policy_governance,False,False,0,0.005621,-0.26062929682930497,-0.7732224623743671,-0.6491469667167866,mid,mid,lo,False,False,False,False
+DVO6lljjpkF,Ministry of Environment Forestry & Tourism,Image,29,policy_governance,False,False,0,0.001405,-2.1299538252613783,-0.24013635456643073,-0.8757673014020966,lo,mid,lo,False,False,False,False
+DWtXeL1ipwh,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.019528,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DUYGVM-iN_6,Ministry of Environment Forestry & Tourism,Image,30,policy_governance,False,False,0,0.002248,-0.796377191857146,1.3011372358226416,0.4350587248692331,lo,hi,hi,False,False,False,False
+DW3qjZfjcDh,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.017597,1.8561146699700983,1.5545640463593218,0.9771607977230242,hi,hi,hi,False,False,False,False
+DWoNzCxChJd,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.015432,-0.6585064863015415,0.02496535092794216,0.1554109808426911,mid,mid,mid,False,False,False,False
+DW8ZEQcGmuw,Ocean Conservation Namibia,Image,10,coexistence_community_livelihoods,False,True,9,0.001889,-1.570169212053336,2.7387580883835208,-1.1042646279592068,lo,hi,lo,False,False,False,False
+DW1FxNZDbnS,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.906209,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DW6Pc5tFHYE,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.01528,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DWqyl7vlIzO,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.016624,1.8561146699700983,1.5545640463593218,0.9771607977230242,hi,hi,hi,False,False,False,False
+DRCT53DAXcY,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,1,0.059353,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DS1zuecDLC0,Elephant Human Relations Aid,Video,-1,outlier_atypical,False,True,4,0.012976,-1.601125437631947,1.2065370508211972,1.4289225587769412,lo,hi,hi,False,False,False,False
+DRl7hUtgW--,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,False,False,0,0.002421,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DR9lkQmjMsq,Elephant Human Relations Aid,Carousel,5,species_spotlight_facts,True,False,0,0.010583,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRmBxuCjPTR,Elephant Human Relations Aid,Video,1,ecotourism_aesthetic,True,True,3,0.047119,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DRtp4TYlAGG,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,False,0,0.001448,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DSErGl1jPiD,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,True,3,0.020983,1.2595972221597065,0.9015555116604851,0.9025398450965296,hi,hi,hi,False,False,False,False
+DV8HsvgjHW4,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.024165,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DSKdhqgDD_b,Elephant Human Relations Aid,Carousel,-1,outlier_atypical,False,False,0,0.004694,-1.601125437631947,1.2065370508211972,1.4289225587769412,lo,hi,hi,False,False,False,False
+DVsocbBDE-3,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.019148,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DSE1KUcjrcu,Harnas Wildlife Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.002172,-0.2525262049838802,-0.7316538393298634,0.3792238469830369,mid,mid,hi,False,False,False,False
+DV3SrNtD80c,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.01249,1.4830477217407498,0.15357482449726484,0.8955115695643644,hi,mid,hi,False,False,False,False
+DR4b_cPjF6A,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,True,3,0.004417,-0.8900600777280103,0.7313774150466587,-0.8659315573249674,lo,hi,lo,False,False,False,False
+DV53hf2Eop2,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.011379,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DRR08Jyiog6,Namibia Nature Foundation,Carousel,33,coexistence_community_livelihoods,False,False,1,0.007928,-0.4471500895507758,-0.3930372262628483,-0.2364546862673337,mid,mid,lo,False,False,False,False
+DSAKbvCjEN5,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,True,5,0.018866,-0.7015738851236311,0.5159679714048029,-2.2669763320948775,lo,hi,lo,False,False,False,False
+DR39HtJgmv4,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,True,False,2,0.004616,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DWEKr45jLWk,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.012351,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DRzSbhZDEfq,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,2,0.01905,-0.3114791597267433,-0.06717242957284986,0.13379261658103755,mid,mid,mid,False,False,False,False
+DWL5GC_FZ3M,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.028401,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DW80StjCdhc,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.005038,-0.5488751781320583,-1.142296854744908,0.422390691270749,mid,lo,hi,False,False,False,False
+DV_BFLlAtic,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.010161,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DSE4c6ujAu3,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,0,0.003681,-0.7590051494939134,1.3285685594088001,1.989835527347422,lo,hi,hi,False,False,False,False
+DWGc_DrGmla,Ocean Conservation Namibia,Carousel,10,coexistence_community_livelihoods,False,True,8,0.001509,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DR1YTLCDIz2,Harnas Wildlife Foundation,Carousel,31,species_spotlight_facts,False,True,4,0.011653,-0.5850207951063802,0.883134658631851,0.04319305775920833,mid,hi,mid,False,False,False,False
+DWGve9tjlkE,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.011582,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DSkSa6hET9N,Gobabeb Research & Training Centre,Carousel,0,coexistence_community_livelihoods,False,False,0,0.057554,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DRhQzupjAyP,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,2,0.013436,1.3174851168715378,-0.7792482037136156,-0.1296499290617648,hi,mid,mid,False,False,False,False
+DWOcsnUDIpz,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.006264,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DV8cRb7k5JC,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.025476,1.5926790299102336,-1.0136873811755853,1.162491279992422,hi,lo,hi,False,False,False,False
+DSdJz7fCF4Q,Ministry of Environment Forestry & Tourism,Image,14,policy_governance,False,False,0,0.009275,-1.1554986212622225,1.7232531262958635,0.07183969755302698,lo,hi,mid,False,False,False,False
+DSnBI6rCHzY,Ministry of Environment Forestry & Tourism,Carousel,29,policy_governance,False,False,0,0.032884,0.30092384400442185,0.41235731584583385,-1.968542513328037,mid,mid,lo,False,False,False,False
+DWJUQOwkd-V,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.012478,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DSn2EjJiBve,Ministry of Environment Forestry & Tourism,Image,29,policy_governance,False,False,0,0.009556,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DSS-iu4jtyt,Ministry of Environment Forestry & Tourism,Carousel,14,policy_governance,False,False,0,0.014334,-1.1554986212622225,1.7232531262958635,0.07183969755302698,lo,hi,mid,False,False,False,False
+DTQjJL5iIl2,Ministry of Environment Forestry & Tourism,Image,-1,outlier_atypical,False,False,0,0.010961,-2.0223254205662426,2.152728578544831,0.14365318163455768,lo,hi,mid,False,False,False,False
+DTzjeUjCAPj,Ministry of Environment Forestry & Tourism,Image,6,policy_governance,False,False,0,0.017144,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DTrvR10CNL6,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.025295,-0.1530008921341695,1.6196424707368946,0.3702735163198675,mid,hi,hi,False,False,False,False
+DWjhZ4BOz6Q,AfriCat Foundation,Video,25,research_dispatch,False,True,3,0.009337,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DVqBtGKjNAj,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.028781,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DW9k7GUDah6,Giraffe Conservation Foundation,Image,8,weekly_ritual_filler,True,True,5,0.009159,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DT5hZMKCC1d,Ministry of Environment Forestry & Tourism,Image,-99,outlier_atypical,False,False,0,0.016863,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DT_tR4nCL1l,Ministry of Environment Forestry & Tourism,Carousel,14,policy_governance,False,False,0,0.006745,-0.7055421884808872,3.9113193177192507,-0.5261830651658241,lo,hi,lo,False,False,False,False
+DT5U_tKCLTG,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.011523,-1.8336048521132,0.1705066608486142,-0.9189341456898086,lo,mid,lo,False,False,False,False
+DXE-OgWjDbf,AfriCat Foundation,Video,13,research_dispatch,False,True,3,0.015219,1.7723711829642588,0.6774590213402066,-0.9373642310832491,hi,hi,lo,False,False,False,False
+DVisU9BDETE,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.010457,1.210818042130532,-0.5081207568799943,0.3820313155280009,hi,mid,hi,False,False,False,False
+DRmJOstCBKD,Gobabeb Research & Training Centre,Image,-99,outlier_atypical,False,False,0,0.038669,-1.2272157848316996,-0.9282308461377964,-0.9068405994176301,lo,lo,lo,False,False,False,False
+DV0MHPLDsfO,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,0,0.00181,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DVlRHoTjUBR,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.011032,2.722941469274119,1.1250885941103543,0.9053473136414936,hi,hi,hi,False,False,False,False
+DUqU3urCOlq,Namibia Nature Foundation,Video,-1,outlier_atypical,False,False,0,0.018969,-0.8313414988338106,1.8337084793440064,-0.9589577743685116,lo,hi,lo,False,False,False,False
+DUUz0iRDln7,Harnas Wildlife Foundation,Carousel,1,ecotourism_aesthetic,False,False,2,0.002715,0.5553476395772773,-0.4966478818218173,0.06197913249950685,hi,mid,mid,False,False,False,False
+DVn1_0tkheU,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.406898,1.7182439644144933,2.8307359312540203,1.256808541749566,hi,hi,hi,False,False,False,False
+DWboxZriOr5,Environmental Investment Fund,Carousel,14,policy_governance,False,False,0,0.010133,-2.6009063385675097,2.951278423164339,-0.8560709922714473,lo,hi,lo,False,False,False,False
+DQt-tMODDgV,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,0,0.008927,0.3669148305616783,-1.2268777764837626,-1.9723614737865074,hi,lo,lo,False,False,False,False
+DQ9Ck7CiNTM,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,0,0.008927,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DSB_StyiP9N,Ministry of Environment Forestry & Tourism,Carousel,14,policy_governance,False,False,1,0.01068,0.5813872612318266,0.9964791205410312,0.16524672491982015,hi,hi,mid,False,False,False,False
+DQ_nfCKDKZ8,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,2,0.01132,1.0120952084346186,3.344989602228035,0.9152078786950136,hi,hi,hi,False,False,False,False
+DRHaAmiDJXM,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,True,False,0,0.009019,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DQrZ7TJDHjS,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,0,0.026505,0.8795047620056891,-0.3861925287736746,-0.9688183394220315,hi,mid,lo,False,False,False,False
+DSqGNSaDeGo,Environmental Investment Fund,Image,14,policy_governance,True,False,1,0.003167,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DQoxtvHiEiB,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.014053,-0.9898197664263845,0.14689357903426178,-1.1954386741073415,lo,mid,lo,False,False,False,False
+DSHY-RICNI1,Ministry of Environment Forestry & Tourism,Carousel,14,policy_governance,False,False,0,0.012929,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DRzUzfEiDhG,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.01068,-1.8057967028329667,-0.12968100151828788,-1.9065647733236353,lo,mid,lo,False,False,False,False
+DRZYCRciGff,Ministry of Environment Forestry & Tourism,Carousel,33,coexistence_community_livelihoods,False,False,0,0.010961,-0.8412131183049198,3.5854545210292526,-0.8964303680141954,lo,hi,lo,True,False,False,False
+DRzjbHoCBJj,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.015458,0.478350216881125,1.8592221616409317,1.246972797672437,hi,hi,hi,False,False,False,False
+DUneNtoiFmf,Environmental Investment Fund,Carousel,6,policy_governance,True,False,1,0.0133,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DWjEaq3iB7e,Ministry of Environment Forestry & Tourism,Carousel,6,policy_governance,True,False,0,0.00787,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DT16QUUjpHs,Harnas Wildlife Foundation,Image,1,ecotourism_aesthetic,True,True,4,0.003055,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DTw-cDsjg1M,Harnas Wildlife Foundation,Image,5,species_spotlight_facts,False,False,2,0.004118,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DRCDcjeiPo8,Ministry of Environment Forestry & Tourism,Carousel,14,policy_governance,False,False,0,0.009556,-0.7055421884808872,3.9113193177192507,-0.5261830651658241,lo,hi,lo,False,False,False,False
+DVbS9aUDhBA,Gobabeb Research & Training Centre,Carousel,17,research_dispatch,False,False,0,0.044964,0.642108743600374,-1.4613169539457325,-0.6802202647323201,hi,lo,lo,False,False,False,False
+DRM2T3YjOAm,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,1,0.016381,0.04275770813326639,-1.3373331295319055,-0.9415640018649687,mid,lo,lo,False,False,False,False
+DVJYXnKjRBg,AfriCat Foundation,Video,32,research_dispatch,False,False,0,0.01074,1.9168361523386452,-0.9032320281274425,0.13169380807088368,hi,lo,mid,True,False,False,False
+DRpNNWuiEbq,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.010399,-0.8412131183049198,3.5854545210292526,-0.8964303680141954,lo,hi,lo,False,False,False,False
+DQ_CaSgikVa,Namibia Nature Foundation,Carousel,14,policy_governance,False,False,0,0.012741,0.19129253583493874,1.5796195215186843,-2.235522223756095,mid,hi,lo,False,False,False,False
+DWY0epAiNPH,Ministry of Environment Forestry & Tourism,Carousel,8,weekly_ritual_filler,False,False,0,0.013772,-1.2550239341119331,-0.6280431837708944,0.0807900282161964,lo,mid,mid,False,False,False,False
+DQg1hw9iKpD,Gobabeb Research & Training Centre,Image,12,research_dispatch,False,False,0,0.024281,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DXEHsmhjlft,Save the Rhino Trust Namibia,Carousel,5,species_spotlight_facts,False,False,0,0.002658,-0.7070777066757199,0.7773283310796837,0.4455578013895199,lo,hi,hi,False,False,False,False
+DS7ycYNDEFD,AfriCat Foundation,Video,13,research_dispatch,False,False,0,0.003832,-0.2695539821514203,1.2524757835098466,-1.9398958735342184,mid,hi,lo,False,False,False,False
+DVqBEnpiMbf,Ministry of Environment Forestry & Tourism,Carousel,30,policy_governance,False,False,0,0.007307,0.3179516211719621,-1.5717723069938754,0.3505772071892183,mid,lo,mid,False,False,False,False
+DQ1RoI8DCa2,Elephant Human Relations Aid,Video,0,coexistence_community_livelihoods,False,False,0,0.013897,1.8300750483155483,0.0614370439964729,0.8738932053027109,hi,mid,hi,False,False,False,False
+DT5BcGpDCOg,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,1,0.007362,-0.12476149474804843,1.510732791515045,-0.17635393813473246,mid,hi,mid,False,False,False,False
+DUI6f7uiG8n,Ministry of Environment Forestry & Tourism,Carousel,24,policy_governance,False,False,0,0.007589,-0.023233278423989936,0.3019019627976912,-0.9377450414064981,mid,mid,lo,False,False,False,False
+DQwlJwfDWbc,Gobabeb Research & Training Centre,Carousel,12,research_dispatch,False,False,0,0.038669,-0.3603889855276791,-1.3577062983867636,-0.9786540834991607,mid,lo,lo,False,False,False,False
+DRe4M-aDIWa,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,0,0.007731,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DWyg-oLjGQN,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.01367,2.3476747453131988,1.3261360538329954,1.4735931323577467,hi,hi,hi,False,False,False,False
+DWv8LJvlSEd,Ocean Conservation Namibia,Video,3,rescue_intervention,False,True,15,0.023248,2.4855454508688033,0.04996416893829583,1.1939453883312048,hi,mid,hi,False,False,False,False
+DQoS5CdDHLo,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,2,0.008743,2.144360551272851,1.9236384387298626,-0.09437686026451166,hi,hi,mid,False,False,False,False
+DXuVGWBCGa5,Namibia Nature Foundation,Carousel,-1,outlier_atypical,False,False,0,0.011891,-2.1218507334159535,-0.19856773152192703,0.1526035122977271,lo,mid,mid,False,False,False,False
+DUhrzlZjphA,Harnas Wildlife Foundation,Carousel,9,coexistence_community_livelihoods,False,False,0,0.00181,-0.015130186578565033,0.343470585842195,0.0906257722933255,mid,mid,mid,False,False,False,False
+DQ6Ud-djNHm,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,2,0.017118,0.07163091744453173,-0.6211984862817205,-0.6515736249385015,mid,mid,lo,False,False,False,False
+DSZ41IKiPsl,Ministry of Environment Forestry & Tourism,Carousel,-1,outlier_atypical,False,False,0,0.007026,-2.859611295931646,3.5252039601800265,3.954729284622773,lo,hi,hi,False,False,False,False
+DRwohMGDDYj,Elephant Human Relations Aid,Carousel,1,ecotourism_aesthetic,False,True,3,0.015553,-0.6845461079560908,-1.4681616514349065,0.0521433884223778,lo,lo,mid,False,False,False,False
+DUDieQziKe2,Ministry of Environment Forestry & Tourism,Image,-99,outlier_atypical,True,False,0,0.008432,-1.5513729072601115,-1.038686199185939,0.1239568725039085,lo,lo,mid,False,False,False,False
+DRRgrmyjLcD,Elephant Human Relations Aid,Carousel,0,coexistence_community_livelihoods,False,False,2,0.013436,-0.3114791597267433,-0.06717242957284986,0.13379261658103755,mid,mid,mid,False,False,False,False
+DS9vxx7jGRU,Elephant Human Relations Aid,Image,0,coexistence_community_livelihoods,False,False,2,0.01316,-1.1193530042879007,-0.30217838708089606,0.4510373310645676,lo,mid,hi,False,False,False,False
+DRpNB6jiCEl,Tosco Trust,Carousel,-1,outlier_atypical,False,False,0,0.018723,-0.7033424127493154,2.3092826361345535,-1.1760781120407375,lo,hi,lo,False,False,False,False

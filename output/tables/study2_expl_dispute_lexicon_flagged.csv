@@ -1,0 +1,25 @@
+corpus,unit,source,stance_code,markers,markers_ext,text,posthoc_verdict,posthoc_target,posthoc_reason
+advertisement,1,WC_empathy_3,disputing,lie,lie,Stop lying it was raining almost everyday,NA,NA,NA
+advertisement,14,WC_narrative_1,disputing,not_true,not_true,That is not true,NA,NA,NA
+advertisement,16,WC_socialnorm_3,disputing,lie,lie,Lies,NA,NA,NA
+advertisement,20,WC_narrative_3,disputing,lie,lie,Who is telling you these lies.🤔,NA,NA,NA
+advertisement,25,WC_neutral_1,disputing,lie,lie,This is a lie 🤥,NA,NA,NA
+advertisement,28,WC_neutral_2,disputing,lie,lie,Stooooop lying,NA,NA,NA
+advertisement,29,WC_empathy_1,disputing,"lie,nonsense","lie,nonsense",Whaaaaaaat???? Who told you this nonsense?😳😳😳😳 Heeeeeyyy muuhn. Stop lying,NA,NA,NA
+advertisement,30,WC_empathy_1,disputing,lie,lie,Why would you lie like this?,NA,NA,NA
+advertisement,33,WC_neutral_3,disputing,lie,lie,Big lie,NA,NA,NA
+advertisement,38,WC_empathy_2,disputing,lie,lie,Stop lying,NA,NA,NA
+advertisement,49,WC_socialnorm_3,disputing,lie,lie,Your lying..im namibian and we have water all year round.,NA,NA,NA
+advertisement,50,WC_socialnorm_3,disputing,bullshit,bullshit,This is a bunch of bs,NA,NA,NA
+advertisement,59,WC_narrative_1,disputing,lie,lie,"Don't lie,",NA,NA,NA
+advertisement,64,WC_narrative_3,disputing,lie,lie,Lies,NA,NA,NA
+advertisement,68,WC_narrative_2,disputing,lie,lie,Fucking lies,NA,NA,NA
+organic,18083851031617744,oceanconservationnamibia,NA,wrong,wrong,What is wrong with him???!!!,false_positive,NA,"'What is wrong with him' - 'wrong' means amiss, not in error about a claim."
+organic,17923119324317254,oceanconservationnamibia,NA,wrong,wrong,"Seals dont eat the same fish, the seals catch what they need. Perhaps we are controlling the wrong group",genuine_dispute,own_sender,Counter-claim against the account's own premise about seals and fish stocks.
+organic,17880396195553474,oceanconservationnamibia,NA,rubbish,rubbish,Well done Promiseland youngsters and OCN! I bet it was satisfying to see all those full bags of rubbish at the end of the day! 🌊🦭✂️🌍💙,false_positive,NA,"'bags of rubbish' - litter sense. The comment is praise, not dispute."
+organic,18126514357589692,oceanconservationnamibia,NA,rubbish,rubbish,Namibia should make the  illegal fishing vessels.. collect the collected rubbish... but they will probably chuck it back into the sea!..China up your game!,false_positive,NA,'collect the collected rubbish' - litter sense.
+organic,18192660391317856,oceanconservationnamibia,NA,bullshit,bullshit,Bs,genuine_dispute,own_sender,"Standalone 'Bs' - bullshit, an explicit rejection of the post's content."
+organic,18079302653403360,oceanconservationnamibia,NA,bullshit,bullshit,Bs,genuine_dispute,own_sender,Standalone 'Bs' - as above.
+organic,18067639367320272,ministry_of_environment_nam,NA,fake,fake,"Oxytane International is selling cheap low cost solvent making claims it cannot support under any circumstances. It is farud, FAKE and 419",genuine_dispute,third_party,"Calls Oxytane International's claims FAKE. Disputes a third party, not the ministry that posted."
+organic,17882602857523896,ehranamibia,NA,lie,lie,Take me back…💗 I was lying awake last night wishing I was in my little mosi tent under the stars ✨,false_positive,NA,"'lying awake' - recline sense. The declared false-positive risk, realised."
+organic,18086290097368296,oceanconservationnamibia,NA,rubbish,rubbish,You need the Indonesian rubbish clearing crew to help with your dock side ! I’ve seen them on Insta - they are cool too,false_positive,NA,'rubbish clearing crew' - litter sense.

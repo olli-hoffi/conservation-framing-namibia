@@ -1,0 +1,16 @@
+condition,age,impressions,link_clicks,imp_share,ctr
+Neutral,18-24,63031,225,0.585,0.0036
+Neutral,25-34,42666,214,0.396,0.005
+Neutral,35-44,2043,7,0.019,0.0034
+Neutral,Unknown,2,0,0,0
+Empathy,18-24,63971,216,0.584,0.0034
+Empathy,25-34,43552,245,0.397,0.0056
+Empathy,35-44,2080,12,0.019,0.0058
+Empathy,Unknown,1,0,0,0
+Social Norm,18-24,61782,210,0.572,0.0034
+Social Norm,25-34,44086,239,0.408,0.0054
+Social Norm,35-44,2076,10,0.019,0.0048
+Social Norm,Unknown,1,0,0,0
+Narrative,18-24,61077,241,0.578,0.0039
+Narrative,25-34,42569,251,0.403,0.0059
+Narrative,35-44,1952,18,0.018,0.0092

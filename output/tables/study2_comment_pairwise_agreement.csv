@@ -1,0 +1,7 @@
+reading_pair,scheme,n,agreement_pct,kappa,ci_low,ci_high
+Author vs. machine pass (blind),Five-way,71,77.5,0.663,0.526,0.8
+Author vs. machine pass,Disputed or not,71,88.7,0.774,0.628,0.921
+"Author vs. machine pass, high-confidence subset",Five-way,47,95.7,NA,NA,NA
+Author vs. second coder (blind),Disputed or not,71,83.1,0.666,0.498,0.834
+Second coder vs. machine pass (both blind),Five-way,71,76.1,0.664,0.53,0.797
+Second coder vs. machine pass,Disputed or not,71,85.9,0.719,0.558,0.879

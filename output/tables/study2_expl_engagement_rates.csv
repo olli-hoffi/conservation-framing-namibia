@@ -1,0 +1,5 @@
+condition,impressions,reaction_rate,share_rate,save_rate,comment_rate,any_rate,link_ctr
+Neutral,107734,0.01055,7.33e-4,1.86e-4,1.21e-4,0.01159,0.00414
+Empathy,109591,0.01082,7.39e-4,1.55e-4,1.37e-4,0.01185,0.00431
+Social Norm,107928,0.0099,5.1e-4,1.85e-4,1.58e-4,0.01076,0.00425
+Narrative,105587,0.01066,5.11e-4,1.7e-4,2.08e-4,0.01155,0.00483

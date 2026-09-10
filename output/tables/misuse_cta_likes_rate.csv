@@ -1,0 +1,9 @@
+grouping,category,n_posts,median_likes_per_1000_followers,mean_likes_per_1000_followers
+Any request versus none,Any request,247,9.43,12.56
+Any request versus none,No request,666,8.41,16.18
+Primary CTA type,Donate,26,9.85,12.2
+Primary CTA type,Event,42,10.06,12.68
+Primary CTA type,Learn,140,9.21,13.04
+Primary CTA type,None,666,8.41,16.18
+Primary CTA type,Share,7,10.44,11.71
+Primary CTA type,Volunteer,32,10.62,10.73

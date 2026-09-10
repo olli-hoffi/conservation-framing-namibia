@@ -1,0 +1,2 @@
+analysis,n_cells_narrative,n_cells_neutral,n_sessions_narrative,n_sessions_neutral,median_narrative,median_neutral,W,p_one_tailed,rbi,rbi_ci_low,rbi_ci_high,status
+H5 Namibia-only sensitivity,5,4,15,7,20.2,69.1,6,0.8571,-0.4,-1,0.5,EXPLORATORY sensitivity

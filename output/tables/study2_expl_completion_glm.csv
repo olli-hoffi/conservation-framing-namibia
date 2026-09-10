@@ -1,0 +1,4 @@
+condition,OR,CI_lower,CI_upper,z,p_two_tailed,status
+Empathy,1.011,0.937,1.091,0.27,0.7841,EXPLORATORY
+Social Norm,0.585,0.536,0.638,-12.07,0,EXPLORATORY
+Narrative,0.869,0.802,0.941,-3.46,5e-4,EXPLORATORY

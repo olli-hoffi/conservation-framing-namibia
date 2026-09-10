@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Recovery / scratch artefacts (kept locally, not part of the clean pipeline)
+data/raw/MetaAds/_recovery_*.json
+_PALETTE_OPTIONS.png
+Rplots.pdf
+
+# BERTopic working directory. The pipeline that fills it needs BERTopic and
+# sentence_transformers, which the reproduction environment deliberately does not
+# carry, so nothing here is reproducible from this package and nothing reads it.
+# It also holds an embeddings cache and a metadata file with an absolute local path.
+python/study1/2_text_model/NLP_Analysis/

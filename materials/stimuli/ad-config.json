@@ -1,0 +1,52 @@
+{
+  "_comment": "Canonical content for all 12 Study 2 ads. Texts verbatim from 06 DOCUMENTS/Scripts/VO_Script_Study2.md (the VO ground truth). *word* marks the accent word for styling; build-timings.mjs strips the asterisks before transcript alignment. ctaUrl is a placeholder until the landing-page short URL is final.",
+
+  "ctaUrl": "short.url/study",
+
+  "hooks": {
+    "1": "Namibia is facing a serious water shortage. Here is what the *data* shows.",
+    "2": "Namibia's water supply is under serious pressure. The numbers are *stark.*",
+    "3": "Namibia is running short on water. Here is what that actually *means.*"
+  },
+
+  "factText": "In 2024, Namibia experienced its worst drought in 100 years. Dam levels dropped 70% in a single year. And of all the rain that falls here, only 2% ever reaches a river.",
+
+  "mechanisms": {
+    "neutral": "Namibia's rivers and dams are a shared resource, used by communities, farms, and wildlife across the country. When water levels fall, every sector is affected. Understanding the *system* is the first step.",
+    "empathy": "Behind every empty dam is a family waiting for water that doesn't come. Children who walk hours to find it. Communities that built their lives around rivers, now watching them disappear. It's hard not to *feel* that.",
+    "norm": "Across Namibia, more and more people are taking action. In Windhoek, residents reduced household water use by 15% last year. In rural areas, communities are building local water-monitoring systems. Conservation groups report record volunteer sign-ups. Most Namibians already see water conservation as a personal responsibility. The question is: what does *your* contribution look like?",
+    "narrative": "Amara is 22. She grew up near the Kunene River. Last year she went back, and found it almost dry. She didn't post about it. She started mapping water sources in her community. That was six months ago. Today, twelve families use her data. One person. One decision. That's how it *starts.*"
+  },
+
+  "ctaText": "Tap to learn more about what is being done, and how you can be part of it.",
+
+  "voFiles": {
+    "neutral_1": "neut1-sa-male.mp3",
+    "neutral_2": "neut2-sa-male.mp3",
+    "neutral_3": "neut3-sa-male.mp3",
+    "empathy_1": "emp1-sa-male.mp3",
+    "empathy_2": "emp2-sa-male.mp3",
+    "empathy_3": "emp3-sa-male.mp3",
+    "norm_1": "norm1-sa-male.mp3",
+    "norm_2": "norm2-sa-male.mp3",
+    "norm_3": "norm3-sa-male.mp3",
+    "narrative_1": "narr1-sa-male.mp3",
+    "narrative_2": "narr2-sa-male.mp3",
+    "narrative_3": "narr3-sa-male.mp3"
+  },
+
+  "matrix": [
+    {"conditionId": "neutral",   "variantId": 1},
+    {"conditionId": "neutral",   "variantId": 2},
+    {"conditionId": "neutral",   "variantId": 3},
+    {"conditionId": "empathy",   "variantId": 1},
+    {"conditionId": "empathy",   "variantId": 2},
+    {"conditionId": "empathy",   "variantId": 3},
+    {"conditionId": "norm",      "variantId": 1},
+    {"conditionId": "norm",      "variantId": 2},
+    {"conditionId": "norm",      "variantId": 3},
+    {"conditionId": "narrative", "variantId": 1},
+    {"conditionId": "narrative", "variantId": 2},
+    {"conditionId": "narrative", "variantId": 3}
+  ]
+}

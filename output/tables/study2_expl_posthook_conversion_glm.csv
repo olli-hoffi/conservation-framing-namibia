@@ -1,0 +1,14 @@
+term,spec,OR,CI_lower,CI_upper,p_two_tailed,dispersion,outcome,F,df1,df2,p,p_exact,eta2_partial,eta2_ci_lower,eta2_ci_upper
+conditionEmpathy,binomial,1.059,0.929,1.208,0.3874,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+conditionSocial Norm,binomial,1.027,0.901,1.172,0.6869,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+conditionNarrative,binomial,1.198,1.053,1.362,0.006,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+variant2,binomial,1.109,0.99,1.242,0.0726,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+variant3,binomial,1.325,1.189,1.477,0,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+round2,binomial,0.708,0.644,0.777,0,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+conditionEmpathy,quasibinomial,1.059,0.864,1.299,0.5579,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+conditionSocial Norm,quasibinomial,1.027,0.837,1.262,0.7838,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+conditionNarrative,quasibinomial,1.198,0.98,1.463,0.0746,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+variant2,quasibinomial,1.109,0.93,1.323,0.2313,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+variant3,quasibinomial,1.325,1.119,1.569,0.0026,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+round2,quasibinomial,0.708,0.612,0.818,1e-4,2.09,clicks_per_3s_view,NA,NA,NA,NA,NA,NA,NA,NA
+OMNIBUS_condition,NA,NA,NA,NA,NA,NA,clicks_per_3s_view,1.42,3,17,0.2713,0.271,0.2,0,1

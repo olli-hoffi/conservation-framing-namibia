@@ -1,0 +1,40 @@
+# Python dependencies of the feature-generation scripts, pinned to the versions that
+# actually produced the shipped feature tables. This file is the counterpart to
+# renv.lock on the R side, and the pins are the point of it.
+#
+# The versions matter more than they look. spaCy 3.8.16 finds slightly different
+# named entities than 3.8.13, which changes rows in entities_*.csv. A range like
+# >= would let a fresh install drift and the feature tables would stop matching.
+#
+#     python3 -m venv .venv && source .venv/bin/activate
+#     pip install -r python/requirements.txt
+#
+# Recorded from the environment the features were generated in, Python 3.14.4.
+
+# --- everything the offline-reproducible scripts need ---
+pandas==3.0.3
+numpy==2.4.6
+emoji==2.15.0
+langdetect==1.0.9
+nltk==3.9.4
+NRCLex==4.1.0
+textstat==0.7.13
+spacy==3.8.13
+# The spaCy model is versioned separately from spaCy itself and is pinned here too,
+# because the entity output depends on it.
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+
+# PCA for the sampling frame in a6.
+scikit-learn==1.9.0
+
+# --- embedding and topic models ---
+# These drive study1_nlp_pipeline.py (the BERTopic clusters behind the sampling
+# strata) and c6_comment_features.py (the comment topic model). They are a large
+# install because sentence-transformers pulls torch. The embedding cache shipped
+# in NLP_Analysis/ means a rerun reloads the saved vectors instead of re-encoding,
+# so the cluster ids come out identical.
+sentence-transformers==5.5.1
+bertopic==0.17.4
+hdbscan==0.8.44
+umap-learn==0.5.12
+pillow==12.3.0

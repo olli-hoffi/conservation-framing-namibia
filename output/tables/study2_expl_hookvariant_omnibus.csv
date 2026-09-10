@@ -1,0 +1,3 @@
+term,F,df1,df2,p,p_exact,eta2_partial,eta2_ci_lower,eta2_ci_upper,outcome
+variant,263.64,2,17,0,1.6e-13,0.969,0.939,1,hook_rate
+variant,8.26,2,17,0.0031,0.00311,0.493,0.162,1,link_ctr

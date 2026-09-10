@@ -1,0 +1,36 @@
+round,condition,variant,utm_content,country,sessions,avg_session_duration_s,avg_engagement_time_s,engagement_rate,first_visits,user_engagement_s
+1,Narrative,1,narrative_1,Namibia,3,24.252844,19,1,NA,57
+1,Narrative,3,narrative_3,Namibia,4,127.1547215,26.5,0.75,NA,106
+1,Empathy,1,empathy_1,Namibia,2,66.391164,58.5,1,NA,117
+1,Neutral,2,neutral_2,Namibia,2,36.630967,32,1,NA,64
+1,Social Norm,1,social_norm_1,Namibia,3,334.9413206666667,92,0.6666666666666666,NA,276
+1,Empathy,2,empathy_2,Cameroon,1,14.187047,9,1,NA,9
+1,Empathy,2,empathy_2,Namibia,1,20.43214,13,1,NA,13
+1,Empathy,2,empathy_2,Namibia,2,33.7480985,31,0.5,NA,62
+1,Narrative,1,narrative_1,South Africa,1,63.50824,29,1,NA,29
+1,Narrative,2,narrative_2,Namibia,2,16.049536,10,0.5,NA,20
+1,Neutral,3,neutral_3,Namibia,1,11.542404,7,1,NA,7
+1,Neutral,3,neutral_3,Namibia,1,146.395233,37,1,NA,37
+1,Social Norm,2,social_norm_2,Namibia,1,144.46937,136,1,NA,136
+1,Social Norm,3,social_norm_3,Namibia,1,15.390181,9,1,NA,9
+1,Social Norm,3,social_norm_3,Namibia,5,14.4664666,11,0.2,NA,55
+1,Empathy,1,empathy_1,Namibia,1,0,0,0,NA,0
+1,Empathy,3,empathy_3,Namibia,1,0,0,0,NA,0
+1,Empathy,3,empathy_3,Namibia,2,3.985127,1,0,NA,2
+1,Narrative,1,narrative_1,Namibia,1,0,0,0,NA,0
+1,Neutral,3,neutral_3,Laos,1,0,0,0,NA,0
+1,Neutral,3,neutral_3,Namibia,1,0,0,0,NA,0
+2,Empathy,1,empathy_1,Namibia,2,16.9940975,12.5,1,NA,25
+2,Empathy,2,empathy_2,Namibia,3,125.23392799999999,21,0.6666666666666666,NA,63
+2,Narrative,2,narrative_2,Namibia,5,20.1910616,16.8,0.4,NA,84
+2,Neutral,2,neutral_2,Namibia,3,69.05058666666666,40,0.6666666666666666,NA,120
+2,Social Norm,2,social_norm_2,Namibia,2,341.9795375,67.5,1,NA,135
+2,Empathy,2,empathy_2,South Africa,1,37.231399,31,1,NA,31
+2,Empathy,3,empathy_3,Namibia,1,22.350615,16,1,NA,16
+2,Neutral,3,neutral_3,Germany,1,15.32648,0,1,NA,0
+2,Social Norm,1,social_norm_1,Namibia,1,109.572825,102,1,NA,102
+2,Narrative,1,narrative_1,Namibia,1,5.382712,0,0,NA,0
+2,Narrative,3,narrative_3,Namibia,1,0,0,0,NA,0
+2,Social Norm,2,social_norm_2,Namibia,1,0,0,0,NA,0
+2,Social Norm,3,social_norm_3,Germany,1,0,0,0,NA,0
+2,Social Norm,3,social_norm_3,Namibia,2,4.518194,0,0,NA,0

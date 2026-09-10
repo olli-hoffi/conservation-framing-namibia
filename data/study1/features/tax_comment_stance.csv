@@ -1,0 +1,12 @@
+stance,affect,n
+criticism,negative,2
+off-topic,negative,1
+off-topic,neutral,13
+off-topic,positive,3
+question,negative,2
+question,neutral,4
+question,positive,2
+spam,neutral,6
+support,negative,16
+support,neutral,10
+support,positive,255

@@ -1,0 +1,4 @@
+scope,n_posts,retrieved,reported,retrieval_pct
+all comment-bearing posts,442,2168,9634,22.5
+coded posts (stance subsample),38,314,4447,7.1
+capped posts (>= 15 retrieved),65,975,8311,11.7

@@ -1,0 +1,726 @@
+{
+ "ad": "norm_1",
+ "conditionId": "norm",
+ "variantId": 1,
+ "durationSec": 52.733,
+ "audioDur": 51.25,
+ "sections": {
+  "a": {
+   "start": 0.09,
+   "end": 5.18
+  },
+  "b": {
+   "start": 5.29,
+   "end": 19.15
+  },
+  "c": {
+   "start": 19.37,
+   "end": 46.96
+  },
+  "d": {
+   "start": 47.05,
+   "end": 52.21
+  }
+ },
+ "flags": [],
+ "words": [
+  {
+   "text": "Namibia",
+   "section": "a",
+   "start": 0.09,
+   "end": 0.58
+  },
+  {
+   "text": "is",
+   "section": "a",
+   "start": 0.58,
+   "end": 0.74
+  },
+  {
+   "text": "facing",
+   "section": "a",
+   "start": 0.74,
+   "end": 1.24
+  },
+  {
+   "text": "a",
+   "section": "a",
+   "start": 1.24,
+   "end": 1.32
+  },
+  {
+   "text": "serious",
+   "section": "a",
+   "start": 1.32,
+   "end": 1.89
+  },
+  {
+   "text": "water",
+   "section": "a",
+   "start": 1.9,
+   "end": 2.33
+  },
+  {
+   "text": "shortage.",
+   "section": "a",
+   "start": 2.33,
+   "end": 3.04
+  },
+  {
+   "text": "Here",
+   "section": "a",
+   "start": 3.13,
+   "end": 3.37
+  },
+  {
+   "text": "is",
+   "section": "a",
+   "start": 3.38,
+   "end": 3.55
+  },
+  {
+   "text": "what",
+   "section": "a",
+   "start": 3.55,
+   "end": 3.84
+  },
+  {
+   "text": "the",
+   "section": "a",
+   "start": 4,
+   "end": 4.14
+  },
+  {
+   "text": "data",
+   "section": "a",
+   "accent": true,
+   "start": 4.14,
+   "end": 4.48
+  },
+  {
+   "text": "shows.",
+   "section": "a",
+   "start": 4.48,
+   "end": 5.18
+  },
+  {
+   "text": "In",
+   "section": "b",
+   "start": 5.29,
+   "end": 5.36
+  },
+  {
+   "text": "2024,",
+   "section": "b",
+   "start": 5.36,
+   "end": 6.49
+  },
+  {
+   "text": "Namibia",
+   "section": "b",
+   "start": 6.49,
+   "end": 7.03
+  },
+  {
+   "text": "experienced",
+   "section": "b",
+   "start": 7.03,
+   "end": 7.86
+  },
+  {
+   "text": "its",
+   "section": "b",
+   "start": 7.95,
+   "end": 8.21
+  },
+  {
+   "text": "worst",
+   "section": "b",
+   "start": 8.39,
+   "end": 8.63
+  },
+  {
+   "text": "drought",
+   "section": "b",
+   "start": 8.63,
+   "end": 9.24
+  },
+  {
+   "text": "in",
+   "section": "b",
+   "start": 9.24,
+   "end": 9.41
+  },
+  {
+   "text": "100",
+   "section": "b",
+   "start": 9.41,
+   "end": 9.9
+  },
+  {
+   "text": "years.",
+   "section": "b",
+   "start": 10.49,
+   "end": 10.87
+  },
+  {
+   "text": "Dam",
+   "section": "b",
+   "start": 10.97,
+   "end": 11.17
+  },
+  {
+   "text": "levels",
+   "section": "b",
+   "start": 11.17,
+   "end": 11.68
+  },
+  {
+   "text": "dropped",
+   "section": "b",
+   "start": 11.84,
+   "end": 12.43
+  },
+  {
+   "text": "70%",
+   "section": "b",
+   "start": 12.43,
+   "end": 13.1
+  },
+  {
+   "text": "in",
+   "section": "b",
+   "start": 13.1,
+   "end": 13.29
+  },
+  {
+   "text": "a",
+   "section": "b",
+   "start": 13.29,
+   "end": 13.38
+  },
+  {
+   "text": "single",
+   "section": "b",
+   "start": 13.38,
+   "end": 13.83
+  },
+  {
+   "text": "year.",
+   "section": "b",
+   "start": 14.07,
+   "end": 14.4
+  },
+  {
+   "text": "And",
+   "section": "b",
+   "start": 14.49,
+   "end": 14.6
+  },
+  {
+   "text": "of",
+   "section": "b",
+   "start": 14.6,
+   "end": 14.72
+  },
+  {
+   "text": "all",
+   "section": "b",
+   "start": 14.73,
+   "end": 14.93
+  },
+  {
+   "text": "the",
+   "section": "b",
+   "start": 14.93,
+   "end": 15.13
+  },
+  {
+   "text": "rain",
+   "section": "b",
+   "start": 15.13,
+   "end": 15.4
+  },
+  {
+   "text": "that",
+   "section": "b",
+   "start": 15.4,
+   "end": 15.67
+  },
+  {
+   "text": "falls",
+   "section": "b",
+   "start": 15.67,
+   "end": 16
+  },
+  {
+   "text": "here,",
+   "section": "b",
+   "start": 16,
+   "end": 16.44
+  },
+  {
+   "text": "only",
+   "section": "b",
+   "start": 16.53,
+   "end": 16.84
+  },
+  {
+   "text": "2%",
+   "section": "b",
+   "start": 16.84,
+   "end": 17.24
+  },
+  {
+   "text": "ever",
+   "section": "b",
+   "start": 17.24,
+   "end": 17.64
+  },
+  {
+   "text": "reaches",
+   "section": "b",
+   "start": 17.64,
+   "end": 18.33
+  },
+  {
+   "text": "a",
+   "section": "b",
+   "start": 18.35,
+   "end": 18.44
+  },
+  {
+   "text": "river.",
+   "section": "b",
+   "start": 18.44,
+   "end": 19.15
+  },
+  {
+   "text": "Across",
+   "section": "c",
+   "start": 19.37,
+   "end": 19.76
+  },
+  {
+   "text": "Namibia,",
+   "section": "c",
+   "start": 19.76,
+   "end": 20.48
+  },
+  {
+   "text": "more",
+   "section": "c",
+   "start": 20.48,
+   "end": 20.8
+  },
+  {
+   "text": "and",
+   "section": "c",
+   "start": 20.8,
+   "end": 21.04
+  },
+  {
+   "text": "more",
+   "section": "c",
+   "start": 21.04,
+   "end": 21.35
+  },
+  {
+   "text": "people",
+   "section": "c",
+   "start": 21.35,
+   "end": 21.83
+  },
+  {
+   "text": "are",
+   "section": "c",
+   "start": 21.83,
+   "end": 22.06
+  },
+  {
+   "text": "taking",
+   "section": "c",
+   "start": 22.47,
+   "end": 22.56
+  },
+  {
+   "text": "action.",
+   "section": "c",
+   "start": 22.56,
+   "end": 23.32
+  },
+  {
+   "text": "In",
+   "section": "c",
+   "start": 23.41,
+   "end": 23.47
+  },
+  {
+   "text": "Windhoek,",
+   "section": "c",
+   "start": 23.47,
+   "end": 24.16
+  },
+  {
+   "text": "residents",
+   "section": "c",
+   "start": 24.28,
+   "end": 24.9
+  },
+  {
+   "text": "reduced",
+   "section": "c",
+   "start": 24.9,
+   "end": 25.39
+  },
+  {
+   "text": "household",
+   "section": "c",
+   "start": 25.41,
+   "end": 26
+  },
+  {
+   "text": "water",
+   "section": "c",
+   "start": 26,
+   "end": 26.51
+  },
+  {
+   "text": "use",
+   "section": "c",
+   "start": 26.51,
+   "end": 27.2
+  },
+  {
+   "text": "by",
+   "section": "c",
+   "start": 27.2,
+   "end": 27.44
+  },
+  {
+   "text": "15%",
+   "section": "c",
+   "start": 27.44,
+   "end": 28.28
+  },
+  {
+   "text": "last",
+   "section": "c",
+   "start": 28.37,
+   "end": 28.7
+  },
+  {
+   "text": "year.",
+   "section": "c",
+   "start": 28.7,
+   "end": 29.44
+  },
+  {
+   "text": "In",
+   "section": "c",
+   "start": 29.53,
+   "end": 29.58
+  },
+  {
+   "text": "rural",
+   "section": "c",
+   "start": 29.58,
+   "end": 29.94
+  },
+  {
+   "text": "areas,",
+   "section": "c",
+   "start": 29.94,
+   "end": 30.44
+  },
+  {
+   "text": "communities",
+   "section": "c",
+   "start": 30.44,
+   "end": 31.23
+  },
+  {
+   "text": "are",
+   "section": "c",
+   "start": 31.23,
+   "end": 31.44
+  },
+  {
+   "text": "building",
+   "section": "c",
+   "start": 31.44,
+   "end": 32
+  },
+  {
+   "text": "local",
+   "section": "c",
+   "start": 32.04,
+   "end": 32.38
+  },
+  {
+   "text": "water-monitoring",
+   "section": "c",
+   "start": 32.72,
+   "end": 33.28
+  },
+  {
+   "text": "systems.",
+   "section": "c",
+   "start": 33.37,
+   "end": 34.32
+  },
+  {
+   "text": "Conservation",
+   "section": "c",
+   "start": 34.41,
+   "end": 35.12
+  },
+  {
+   "text": "groups",
+   "section": "c",
+   "start": 35.28,
+   "end": 35.68
+  },
+  {
+   "text": "report",
+   "section": "c",
+   "start": 35.68,
+   "end": 36.13
+  },
+  {
+   "text": "record",
+   "section": "c",
+   "start": 36.13,
+   "end": 36.58
+  },
+  {
+   "text": "volunteer",
+   "section": "c",
+   "start": 36.58,
+   "end": 37.16
+  },
+  {
+   "text": "sign-ups.",
+   "section": "c",
+   "start": 37.51,
+   "end": 38.12
+  },
+  {
+   "text": "Most",
+   "section": "c",
+   "start": 38.21,
+   "end": 38.39
+  },
+  {
+   "text": "Namibians",
+   "section": "c",
+   "start": 38.39,
+   "end": 38.93
+  },
+  {
+   "text": "already",
+   "section": "c",
+   "start": 39.08,
+   "end": 39.46
+  },
+  {
+   "text": "see",
+   "section": "c",
+   "start": 39.46,
+   "end": 39.66
+  },
+  {
+   "text": "water",
+   "section": "c",
+   "start": 39.66,
+   "end": 39.95
+  },
+  {
+   "text": "conservation",
+   "section": "c",
+   "start": 39.99,
+   "end": 40.78
+  },
+  {
+   "text": "as",
+   "section": "c",
+   "start": 40.93,
+   "end": 41
+  },
+  {
+   "text": "a",
+   "section": "c",
+   "start": 41,
+   "end": 41.08
+  },
+  {
+   "text": "personal",
+   "section": "c",
+   "start": 41.08,
+   "end": 41.64
+  },
+  {
+   "text": "responsibility.",
+   "section": "c",
+   "start": 41.8,
+   "end": 43.2
+  },
+  {
+   "text": "The",
+   "section": "c",
+   "start": 43.29,
+   "end": 43.42
+  },
+  {
+   "text": "question",
+   "section": "c",
+   "start": 43.42,
+   "end": 44
+  },
+  {
+   "text": "is:",
+   "section": "c",
+   "start": 44.16,
+   "end": 44.32
+  },
+  {
+   "text": "what",
+   "section": "c",
+   "start": 44.32,
+   "end": 44.61
+  },
+  {
+   "text": "does",
+   "section": "c",
+   "start": 44.64,
+   "end": 44.92
+  },
+  {
+   "text": "your",
+   "section": "c",
+   "accent": true,
+   "start": 44.92,
+   "end": 45.22
+  },
+  {
+   "text": "contribution",
+   "section": "c",
+   "start": 45.22,
+   "end": 45.88
+  },
+  {
+   "text": "look",
+   "section": "c",
+   "start": 46.39,
+   "end": 46.42
+  },
+  {
+   "text": "like?",
+   "section": "c",
+   "start": 46.42,
+   "end": 46.96
+  },
+  {
+   "text": "Tap",
+   "section": "d",
+   "start": 47.05,
+   "end": 47.18
+  },
+  {
+   "text": "to",
+   "section": "d",
+   "start": 47.18,
+   "end": 47.32
+  },
+  {
+   "text": "learn",
+   "section": "d",
+   "start": 47.33,
+   "end": 47.7
+  },
+  {
+   "text": "more",
+   "section": "d",
+   "start": 47.7,
+   "end": 48
+  },
+  {
+   "text": "about",
+   "section": "d",
+   "start": 48,
+   "end": 48.36
+  },
+  {
+   "text": "what",
+   "section": "d",
+   "start": 48.37,
+   "end": 48.67
+  },
+  {
+   "text": "is",
+   "section": "d",
+   "start": 48.67,
+   "end": 48.78
+  },
+  {
+   "text": "being",
+   "section": "d",
+   "start": 48.84,
+   "end": 49.19
+  },
+  {
+   "text": "done,",
+   "section": "d",
+   "start": 49.19,
+   "end": 49.51
+  },
+  {
+   "text": "and",
+   "section": "d",
+   "start": 49.61,
+   "end": 49.83
+  },
+  {
+   "text": "how",
+   "section": "d",
+   "start": 49.84,
+   "end": 50.16
+  },
+  {
+   "text": "you",
+   "section": "d",
+   "start": 50.16,
+   "end": 50.32
+  },
+  {
+   "text": "can",
+   "section": "d",
+   "start": 50.48,
+   "end": 50.8
+  },
+  {
+   "text": "be",
+   "section": "d",
+   "start": 50.8,
+   "end": 51.01
+  },
+  {
+   "text": "part",
+   "section": "d",
+   "start": 51.01,
+   "end": 51.35
+  },
+  {
+   "text": "of",
+   "section": "d",
+   "start": 51.44,
+   "end": 51.59
+  },
+  {
+   "text": "it.",
+   "section": "d",
+   "start": 51.65,
+   "end": 52.21
+  }
+ ]
+}

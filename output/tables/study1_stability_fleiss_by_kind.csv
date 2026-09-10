@@ -1,0 +1,4 @@
+kind,n_reported,mean_kappa_reported,n_all_defined,mean_kappa_all
+binary,9,0.811,9,0.811
+multiclass,4,0.793,4,0.793
+visual,2,0.698,4,0.76

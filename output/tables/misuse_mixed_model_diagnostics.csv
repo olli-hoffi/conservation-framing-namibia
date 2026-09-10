@@ -1,0 +1,8 @@
+quantity,value
+resid_skewness,0.6786804242774273
+resid_excess_kurtosis,4.245249108924371
+max_abs_std_resid,6.535468060076651
+ranef_shapiro_W,0.9774267881859094
+ranef_shapiro_p,0.9085077270499518
+n_resid,875
+n_ranef,19
